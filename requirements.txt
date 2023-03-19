@@ -1,0 +1,5 @@
+os
+requests
+beautifulsoup4
+fake-useragent
+markdownify

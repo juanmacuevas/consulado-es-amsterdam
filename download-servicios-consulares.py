@@ -1,8 +1,3 @@
-#!pip3 install bs4
-#!pip3 install fake_useragent
-#!pip3 install requests
-#!pip3 install html2text
-
 import os
 import requests
 from bs4 import BeautifulSoup
