@@ -23,7 +23,7 @@
 2.Contrato de alquiler,
 
 3. Una factura u otro documento donde figure el domicilio en el país.
-6. Pago de la **tasa**. Importe: 30 € \* Se exige una COPIA DEL PASAPORTE ANTERIOR y en el caso de menores también de los PASAPORTES DE LOS PADRES y LIBRO DE FAMILIA. La tasa consular puede abonarse en efectivo o con tarjeta de un banco local. \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta nuevo aviso. Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema. Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
+6. Pago de la **tasa**. Importe: 30 € \* Se exige una COPIA DEL PASAPORTE ANTERIOR y en el caso de menores también de los PASAPORTES DE LOS PADRES y LIBRO DE FAMILIA. La tasa consular puede abonarse en efectivo o con tarjeta de un banco local. \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta EL DIA 3 DE ABRIL DE 2023. Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema. Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
 7. Para menores de edad o personas incapacitadas se exigen documentos adicionales. Ver apartado “Pasaportes para menores de edad y personas incapacitadas”.
 8. En su caso, ver apartado “Sustracción o pérdida de pasaporte”.
 
@@ -34,7 +34,7 @@
  Procedimientos para obtener un pasaporte
 ----------------------------------------
 
- \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta nuevo aviso.
+ \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta EL DIA 3 DE ABRIL DE 2023.
 
 Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema.
 
