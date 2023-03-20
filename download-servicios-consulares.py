@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from markdownify import markdownify
+import time
 
 
 def category_url(category_subcategory):
@@ -59,4 +60,8 @@ for cat in categories:
     html_content = content_from_page(response.content)
     content = markdownify(html_content)
     save_url_response_to_file(cat[:2], content)
-    print(cat[:2], 'saved')
+    # Wait for 2 seconds
+    time.sleep(2)
+
+    # print(cat[:2], 'saved')
+    # print(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
