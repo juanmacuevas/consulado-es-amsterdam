@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from markdownify import markdownify
 import time
-import random
-
 
 def category_url(category_subcategory):
     url_base = "https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx"
@@ -106,10 +104,8 @@ pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amster
 # print(now(zero))
 
 pages += fetch_pages_servicios()
-# print(f'fetch services_list {now(zero)}')    
-
 for p in pages:    
-    download_convert_save(p)
-    # print(f'fetch {p[1]} {now(zero)}')    
+    download_convert_save(p,5)
+
 
     
