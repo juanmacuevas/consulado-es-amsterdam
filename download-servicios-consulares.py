@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from markdownify import markdownify
 import time
+import random
 
 
 def category_url(category_subcategory):
@@ -36,20 +37,8 @@ def fix_target_bank(dom):
             img.decompose()
     return dom 
 
-def content_from_page(html_content):
-    soup = BeautifulSoup(html_content, "html.parser")
-    wrapper_divs = soup.find_all("div", class_="single__detail-Wrapper")
-    last_wrapper_div = wrapper_divs[-1]
-    # Remove any <img> tags and the "title" attribute inside <a> tags with target="_blank" and title="Se abre en ventana nueva"
-    for link in last_wrapper_div.find_all("a", target="_blank", title="Se abre en ventana nueva"):
-        link.attrs = {k: v for k, v in link.attrs.items() if k != "title"}
-        for img in link.find_all("img"):
-            img.decompose()
-    last_wrapper_div = fix_links(last_wrapper_div)
-    return str(last_wrapper_div)
 
-
-def content_from_page_with_news(html_content):
+def extract_content(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     parent_div = BeautifulSoup("<div></div>", "html.parser").div
 
@@ -69,18 +58,16 @@ def content_from_page_with_news(html_content):
     if accordeon:
         parent_div.append(accordeon)
 
-
-
     parent_div = fix_target_bank(parent_div)    
     parent_div = fix_links(parent_div)
-    return parent_div
+    return str(parent_div)
 
-def download_pages(page,wait = 0):
+def download_convert_save(page,wait = 0):
     directory,filename,url = page
     response = requests.get(url)
-    div = content_from_page_with_news(response.content)
-    content = markdownify(str(div))
-    save_url_response_to_file((directory,filename), content)
+    content_html = extract_content(response.content)
+    content_md = markdownify(content_html)
+    save_url_response_to_file((directory,filename), content_md)
     time.sleep(0)
 
 def fetch_pages_servicios():
@@ -114,9 +101,15 @@ pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amster
  ('Páginas', 'Noticias', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx')]
 
 
+# zero = round(time.time()*1000)
+# now = lambda x:round(time.time()*1000)-x
+# print(now(zero))
 
 pages += fetch_pages_servicios()
+# print(f'fetch services_list {now(zero)}')    
+
 for p in pages:    
-    download_pages(p)
+    download_convert_save(p)
+    # print(f'fetch {p[1]} {now(zero)}')    
 
     
