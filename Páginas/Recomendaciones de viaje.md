@@ -9,7 +9,7 @@ Asimismo, se recuerda que en estos momentos ninguna región del mundo y ningún 
 Paseo de la Castellana, 259-D Piso 36. 28046  
 Fax: 91 353 75 65  
 Correo electrónico: [mad@minbuza.nl](mailto:mad@minbuza.nl)  
-<https://www.paisesbajosytu.nl/su-pais-y-los-paises-bajos/espana>    Recomendaciones vigentes a 23 de marzo de 2023    
+<https://www.paisesbajosytu.nl/su-pais-y-los-paises-bajos/espana>    Recomendaciones vigentes a 24 de marzo de 2023    
   Última actualización el 18 de enero de 2023     ###  Notas importantes
 
   **NO HAY RESTRICCIONES ESPECÍFICAS RELATIVAS A VIAJES A ESTE PAÍS**. Excepcionalmente, las personas procedentes de China y otros países están sujeto a algunas limitaciones relacionadas con la Covid-19. Se sugiere leer con atención el resto de estas recomendaciones de viaje. Normativa COVID consultar el apartado de Sanidad.    ###  Documentación y visados

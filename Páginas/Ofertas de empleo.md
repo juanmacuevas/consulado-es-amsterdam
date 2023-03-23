@@ -1,7 +1,7 @@
   Ofertas de empleo
 =================
 
-   Hoy    ​  
+   Ayer    ​  
   
 
 
