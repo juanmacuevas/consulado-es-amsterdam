@@ -5,6 +5,7 @@ from fake_useragent import UserAgent
 from markdownify import markdownify
 import time
 
+
 def category_url(category_subcategory):
     url_base = "https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx"
     category_encoded = requests.utils.quote(category_subcategory[0])
@@ -29,14 +30,26 @@ def fix_links(dom):
 
 
 def fix_target_bank(dom):
-    for link in dom.find_all("a", target="_blank", title="Se abre en ventana nueva"):
+    for link in dom.find_all("a", target="_blank"):
         link.attrs = {k: v for k, v in link.attrs.items() if k != "title"}
         for img in link.find_all("img"):
             img.decompose()
     return dom 
 
+def content_from_page(html_content):
+    soup = BeautifulSoup(html_content, "html.parser")
+    wrapper_divs = soup.find_all("div", class_="single__detail-Wrapper")
+    last_wrapper_div = wrapper_divs[-1]
+    # Remove any <img> tags and the "title" attribute inside <a> tags with target="_blank" and title="Se abre en ventana nueva"
+    for link in last_wrapper_div.find_all("a", target="_blank", title="Se abre en ventana nueva"):
+        link.attrs = {k: v for k, v in link.attrs.items() if k != "title"}
+        for img in link.find_all("img"):
+            img.decompose()
+    last_wrapper_div = fix_links(last_wrapper_div)
+    return str(last_wrapper_div)
 
-def extract_content(html_content):
+
+def extract_content_from_html(html_content,url):
     soup = BeautifulSoup(html_content, "html.parser")
     parent_div = BeautifulSoup("<div></div>", "html.parser").div
 
@@ -56,16 +69,22 @@ def extract_content(html_content):
     if accordeon:
         parent_div.append(accordeon)
 
+    # link to original page
+    original_link = soup.new_tag('a', href=url)
+    original_link.string = 'Enlace a la página original'
+    parent_div.append(original_link)
+
     parent_div = fix_target_bank(parent_div)    
     parent_div = fix_links(parent_div)
-    return str(parent_div)
+    return parent_div
 
-def download_convert_save(page,wait = 0):
+def save_markdown_content(page,wait = 0):
     directory,filename,url = page
     response = requests.get(url)
-    content_html = extract_content(response.content)
-    content_md = markdownify(content_html)
-    save_url_response_to_file((directory,filename), content_md)
+    div = extract_content_from_html(response.content,url)
+    content = markdownify(str(div))
+    save_url_response_to_file((directory,filename), content)
+    print(url)
     time.sleep(0)
 
 def fetch_pages_servicios():
@@ -82,30 +101,41 @@ def fetch_pages_servicios():
 
 
 pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx'),
- ('Páginas', 'Consulado', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx'),
- ('Páginas', 'Demarcación', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx'),
- ('Páginas', 'Horario, localización y contacto', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx'),
- ('Páginas', 'Ofertas de empleo', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx'),
- ('Páginas', 'Tasas consulares 2023', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx'),
- ('Páginas', 'Establecerse', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx'),
- ('Páginas', 'Trabajar', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Trabajar.aspx'),
- ('Páginas', 'Educación y sanidad', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx'),
- ('Páginas', 'Enlaces de interés', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx'),
- ('Páginas', 'Seguridad y otros aspectos', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx'),
- ('Páginas', 'Consejode Residentes-Españoles', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx'),
- ('Páginas', 'Documentación y trámites', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx'),
- ('Páginas', 'Conoce Espana', 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx'),
- ('Páginas', 'Recomendaciones de viaje', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx'),
- ('Páginas', 'Noticias', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx')]
+('Páginas', 'Consulado', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx'),
+('Páginas', 'Demarcación', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx'),
+('Páginas', 'Horario, localización y contacto', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx'),
+('Páginas', 'Ofertas de empleo', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx'),
+('Páginas', 'Tasas consulares 2023', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx'),
+('Páginas', 'Establecerse', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx'),
+('Páginas', 'Trabajar', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Trabajar.aspx'),
+('Páginas', 'Educación y sanidad', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx'),
+('Páginas', 'Enlaces de interés', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx'),
+('Páginas', 'Seguridad y otros aspectos', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx'),
+('Páginas', 'Consejode Residentes-Españoles', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx'),
+('Páginas', 'Documentación y trámites', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx'),
+('Páginas', 'Conoce Espana', 'https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx'),
+('Páginas', 'Recomendaciones de viaje', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx'),
+('Páginas', 'Noticias', 'https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx'),
+# paginas web de la embajada
+('Páginas', 'Embajador-a',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajador.aspx"),
+('Páginas', 'Contacto. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx"),
+('Páginas', 'Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx"),
+('Páginas', 'Consulados',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Consulados.aspx"),
+('Páginas', 'Horario, localización y contacto. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx"),
+('Páginas', 'Ofertas de empleo. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx"),
+('Páginas', 'Documentación y trámites. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx"),
+('Páginas', 'Establecerse. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Establecerse.aspx"),
+('Páginas', 'Educación y sanidad. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx"),
+('Páginas', 'Trabajar. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx"),
+('Páginas', 'Enlaces de interés. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx"),
+('Páginas', 'Recomendaciones de viaje. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"),
+('Páginas', 'Noticias. Embajada',"https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx")
+ ]
 
 
-# zero = round(time.time()*1000)
-# now = lambda x:round(time.time()*1000)-x
-# print(now(zero))
 
 pages += fetch_pages_servicios()
 for p in pages:    
-    download_convert_save(p,5)
-
+    save_markdown_content(p,3)
 
     
