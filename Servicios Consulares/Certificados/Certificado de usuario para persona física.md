@@ -27,4 +27,4 @@
 
   Si se dispone de un DNIe, es posible obtener el certificado de usuario sin necesidad de desplazarse a la Oficina Consular para acreditar la identidad. La información sobre cómo obtener el certificado con DNIe se puede consultar en la [página web de la FNMT](https://www.sede.fnmt.gob.es/certificados/persona-fisica/obtener-certificado-con-dnie). 
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20persona%20f%C3%ADsica)

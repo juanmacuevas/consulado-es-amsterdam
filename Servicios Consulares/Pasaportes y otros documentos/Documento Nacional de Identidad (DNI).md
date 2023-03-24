@@ -55,4 +55,4 @@ Puede realizarse en el Consulado PRESENCIALMENTE SIN CITA PREVIA, NO SIENDO TRAM
  * Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana. <https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3442>
 * Real Decreto 1553/2005, de 23 de diciembre, por el que se regula la expedición del documento nacional de identidad y sus certificados de firma electrónica.<https://boe.es/buscar/act.php?id=BOE-A-2005-21163>
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Documento%20Nacional%20de%20Identidad%20%28DNI%29)

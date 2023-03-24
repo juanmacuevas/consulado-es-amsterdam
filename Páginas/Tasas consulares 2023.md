@@ -5,4 +5,4 @@
 [![]()Tasas Consulares 2023.pdf](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/PublishingImages/Paginas/TASAS-CONSULARES-2023/Tasas%20Consulares%202023.pdf)​  
 
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx)

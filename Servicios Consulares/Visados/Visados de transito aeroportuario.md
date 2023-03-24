@@ -105,4 +105,4 @@ Para este fin, se pueden utilizar los siguientes formularios
  * [Reglamento (CE) 810/2009 del Parlamento Europeo y del Consejo](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32009R0810&from=ES), de 13 de julio de 2009, por el que se establece un Código comunitario sobre visados (Código de visados).
 * [Reglamento (UE) 2019/1155 del Parlamento Europeo y del Consejo](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019R1155&from=ES), , de 20 de junio de 2019, por el que se modifica el Reglamento (CE) 810/2009 por el que se establece un Código comunitario sobre visados (Código de visados).
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20de%20transito%20aeroportuario)

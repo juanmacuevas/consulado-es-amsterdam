@@ -48,4 +48,4 @@
 * Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil. <https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069>
 * Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana. <https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442>
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Autorizaci%C3%B3n%20de%20viaje%20para%20menores)

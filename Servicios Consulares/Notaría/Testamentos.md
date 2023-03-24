@@ -32,4 +32,4 @@ Cualquier duda o cuestión puede contactar por correo electrónico con la secci�
 * [Reglamento (UE) 650/2012, del Parlamento Europeo y del Consejo, de 4 de julio de 2012, relativo a la competencia, la ley aplicable, el reconocimiento y la ejecución de las resoluciones, a la aceptación y la ejecución de los documentos públicos en materia de sucesiones mortis causa y a la creación de un certificado sucesorio europeo.](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32012R0650&from=ES)
 * [Arts. 657 y siguientes del Código Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Testamentos)

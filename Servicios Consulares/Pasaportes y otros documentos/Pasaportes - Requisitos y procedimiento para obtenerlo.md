@@ -83,4 +83,4 @@ Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos 
 
   Es posible autorizar a un tercero para la retirada de un pasaporte, firmando una autorización a este fin.\*Se ofrece la posibilidad de enviar el pasaporte al interesado por correo certificado que tendrá un coste adicional de 10 €. \* El Consulado dispone de un fotomatón que funciona con monedas o un billete de 5 € y monedas. \* El Consulado dispone de una fotocopiadora pública que funciona con monedas (0,30 € por copia) 
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Requisitos%20y%20procedimiento%20para%20obtenerlo)

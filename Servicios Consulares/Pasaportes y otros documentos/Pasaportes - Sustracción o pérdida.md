@@ -32,4 +32,4 @@ copias u originales del DNI, Pasaporte, Carné de conducir, abono transporte, ta
 
   Una vez presentada la denuncia ante la policía o la declaración de pérdida o sustracción ante la Oficina Consular, el pasaporte quedará anulado y no será válido para el cruce de fronteras. Si posteriormente se recupera el documento, no se debe utilizar para viajar, ya que constará como anulado en las bases de datos de las autoridades de frontera. 
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Sustracci%C3%B3n%20o%20p%C3%A9rdida)

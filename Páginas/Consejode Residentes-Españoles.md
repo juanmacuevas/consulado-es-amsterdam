@@ -21,4 +21,4 @@ Lo componen los siguientes consejeros:
 * [Página web del CRE de Países Bajos](https://www.crepaisesbajos.org/)
 * [Portal de la Ciudadanía Española en el Exterior](http://www.ciudadaniaexterior.empleo.gob.es/es/index.htm)
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx)

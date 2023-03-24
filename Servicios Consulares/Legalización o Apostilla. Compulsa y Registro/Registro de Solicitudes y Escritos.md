@@ -17,4 +17,4 @@ En el caso de que sea necesario el envío de documentación original la Oficina 
 
 La solicitud, escrito o comunicación deberá ser original y la documentación adjunta podrá ser original o copia (en caso de ser una copia quedará reflejado de este modo en la aplicación informática). Una vez escaneada, se devolverá al interesado junto con un resguardo de la presentación. No se devolverán los originales cuando la normativa exija la custodia de los documentos por parte de la Administración o la presentación obligatoria de objetos o documentos no susceptibles de digitalización.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Legalizaci%C3%B3n%20o%20Apostilla.%20Compulsa%20y%20Registro&scs=Registro%20de%20Solicitudes%20y%20Escritos)

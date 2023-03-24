@@ -63,4 +63,4 @@
 * **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
 * **Validez del visado**: El visado será válido para 90 días. Una vez en España, se deberá solicitar la Tarjeta de Identidad de Extranjero en el plazo de 1 mes desde la fecha de entrada en España, ante la Oficina de Extranjeros o la Comisaría de Policía competente.
 
-    
+    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20para%20recuperar%20la%20residencia%20de%20larga%20duraci%C3%B3n%20o%20de%20larga%20duraci%C3%B3n-UE)

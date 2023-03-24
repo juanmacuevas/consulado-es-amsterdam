@@ -24,4 +24,4 @@ Fuera de nuestro horario de oficina, consulte en nuestro teléfono de emergencia
   
  
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx)

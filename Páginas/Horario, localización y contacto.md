@@ -107,4 +107,4 @@ Dentro del edificio del Consulado General se encuentran las siguientes Oficinas:
 > 
 > 
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx)

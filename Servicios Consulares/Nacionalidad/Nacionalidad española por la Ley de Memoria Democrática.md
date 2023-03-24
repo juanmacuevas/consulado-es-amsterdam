@@ -113,4 +113,4 @@ Se presumirá la condición de exiliado respecto de todos los españoles que sal
 
  * [Instrucción de 25 octubre de 2022 de la Dirección General de Seguridad Jurídica y Fe Pública sobre el derecho de opción a la nacionalidad española establecido en la disposición adicional octava de la Ley 20/2022, de 19 de octubre, de Memoria Democrática](https://www.boe.es/boe/dias/2022/10/26/pdfs/BOE-A-2022-17470.pdf)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20por%20la%20Ley%20de%20Memoria%20Democr%C3%A1tica)

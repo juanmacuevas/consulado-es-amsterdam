@@ -40,4 +40,4 @@
 * [REGLAMENTO (CE) N° 2201/2003 del Consejo de 27 de noviembre de 2003 relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el REGLAMENTO (CE) N° 1347/2000.](https://www.boe.es/buscar/doc.php?id=DOUE-L-2003-82188)
 * [Convenio de Luxemburgo de 20 de mayo de 1980.](http://resumencil.blogspot.com/2014/12/convenio-de-luxemburgo-de-20-de-mayo-de.html)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Sustracci%C3%B3n%20internacional%20de%20menores)

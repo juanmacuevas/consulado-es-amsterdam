@@ -64,4 +64,4 @@ con lo dispuesto en el Reglamento Sanitario Internacional de 2005.
 Si el certificado se hace en idioma distinto del español, deberá aportarse traducción
 * **Validez del visado**: El visado tiene una validez de 1 año.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20para%20emprendedor)

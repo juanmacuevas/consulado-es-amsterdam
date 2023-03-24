@@ -29,4 +29,4 @@ El certificado de baja se enviará también por correo electrónico a la direcci
 
  * [Real Decreto 3425/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-174), de 15 de diciembre, sobre inscripción de los españoles en los Registros de Matrícula de las oficinas consulares en el extranjero.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Inscripci%C3%B3n%20Consular&scs=Baja%20del%20Registro%20de%20Matr%C3%ADcula)

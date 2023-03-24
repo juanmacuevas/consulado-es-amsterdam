@@ -31,4 +31,4 @@ Los Cónsules podrán ejercer funciones notariales siempre que lo permitan las l
  * [Ley del Notariado, de 28 de mayo de 1862.](https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073)
 * [Decreto de 2 de junio de 1944 por el que se aprueba con carácter definitivo el Reglamento de la Organización y régimen del Notariado.](https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Funci%C3%B3n%20notarial%20de%20los%20c%C3%B3nsules)

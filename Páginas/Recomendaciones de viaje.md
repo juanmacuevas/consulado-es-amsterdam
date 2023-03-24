@@ -202,4 +202,4 @@ Correo electrónico: mad@minbuza.nl
 
 https://www.paisesbajosytu.nl/su-pais-y-los-paises-bajos/espana
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx)

@@ -98,3 +98,4 @@ Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solic
 
 
 
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20trabajo%20por%20cuenta%20propia)

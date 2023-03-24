@@ -58,4 +58,4 @@ Fecha límite de presentación de ofertas: **28 de marzo******de 2023**.**
   
 
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx)

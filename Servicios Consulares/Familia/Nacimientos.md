@@ -164,4 +164,4 @@ Todos los certificados deben ser originales. Si desea que se le devuelvan los or
 * [Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento del Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1958-18486)
 * [Ley 20/2011, de 21 de julio, del Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-2011-12628)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Nacimientos)

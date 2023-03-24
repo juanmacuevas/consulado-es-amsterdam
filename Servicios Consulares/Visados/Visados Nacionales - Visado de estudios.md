@@ -78,4 +78,4 @@
 
  Si la estancia por estudios es superior a 180 días, el visado será válido para 90 días de estancia. El estudiante deberá solicitar una Tarjeta de Identidad de Extranjero, en el plazo de 1 mes desde su entrada en España, en la Oficina de Extranjería o Comisaría de Policía de la provincia en la que se tramitó la autorización.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20estudios)

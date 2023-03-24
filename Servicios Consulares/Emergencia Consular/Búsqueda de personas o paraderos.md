@@ -54,4 +54,4 @@
  * [Ley Orgánica 3/2018](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16673), de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales.
 * [Reglamento (UE) 2016/679](https://www.boe.es/doue/2016/119/L00001-00088.pdf) del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos).
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=B%C3%BAsqueda%20de%20personas%20o%20paraderos)

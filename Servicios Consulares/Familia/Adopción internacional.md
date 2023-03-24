@@ -24,4 +24,4 @@ cog.amsterdam.rgc@maec.es
 * [Convenio de La Haya, de 29 de mayo de 1993, relativo a la Protección del Niño y a la Cooperación en materia de Adopción Internacional.](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18485)
 * [En la página web del Ministerio de Sanidad, Consumo y Bienestar Social se puede consultar la información sobre la legislación aplicable en los distintos países de origen.](https://www.mscbs.gob.es/)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Adopci%C3%B3n%20internacional)

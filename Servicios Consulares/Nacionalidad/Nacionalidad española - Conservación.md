@@ -79,4 +79,4 @@ De toda la documentación se ha de remitir original y 1 fotocopia, salvo de los 
 
  * [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Conservaci%C3%B3n)

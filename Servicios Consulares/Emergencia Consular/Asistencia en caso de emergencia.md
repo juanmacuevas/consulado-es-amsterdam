@@ -35,4 +35,4 @@ El correo electrónico de emergencias consulares es: cog.amsterdam.emerg@maec.es
 
   Se recomienda a todos los viajeros que se inscriban en esta aplicación, disponible en página web, y también en aplicación móvil en Google Play y en Apple Store. La información sobre la aplicación de Registro de Viajeros se encuentra [aquí](https://registroviajeros.exteriores.gob.es/). 
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Asistencia%20en%20caso%20de%20emergencia)

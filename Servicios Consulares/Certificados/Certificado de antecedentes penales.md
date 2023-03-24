@@ -61,4 +61,4 @@ En esta Oficina Consular no es posible solicitar el certificado de antecedentes 
 
  El certificado de antecedentes penales no habilita para trabajar con menores o acogerlos en España. Para este fin, es necesario un certificado de delitos de naturaleza sexual que se tramita directamente a través del Ministerio de Justicia en España.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales)

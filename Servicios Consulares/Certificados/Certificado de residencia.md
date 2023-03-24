@@ -49,4 +49,4 @@
 
  Para obtener el certificado se seguirá el procedimiento descrito para obtener un certificado de residencia y se aportará la documentación señalada en los apartados 1 y 2 y, en su caso, la señalada en el apartado 3.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20residencia)

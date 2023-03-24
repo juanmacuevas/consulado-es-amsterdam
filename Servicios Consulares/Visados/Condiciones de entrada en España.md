@@ -69,4 +69,4 @@
 * [Reglamento (UE) 2018/1806 del Parlamento Europeo y del Consejo, de 14 de noviembre de 2018, por el que se establecen la lista de terceros países cuyos nacionales están sometidos a la obligación de visado para cruzar las fronteras exteriores y la lista de terceros países cuyos nacionales están exentos de esa obligación.](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32018R1806&from=EN)
 * [Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-4184)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Condiciones%20de%20entrada%20en%20Espa%C3%B1a)

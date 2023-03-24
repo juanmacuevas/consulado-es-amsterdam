@@ -25,4 +25,4 @@ Como país miembro de la unión Europea no existen restricciones. Los precios de
 
 Legalmente el extranjero que piensa residir más de cuatro meses en los Países Bajos, tiene la obligación de registrarse en el Ayuntamiento (Gemeentelijke Basisadministratie –GBA-) en el plazo de cinco días desde su llegada al país. Para ello quien se va a inscribir debe contar ya con un domicilio aunque sea en alquiler temporal.
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx)

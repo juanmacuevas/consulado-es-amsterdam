@@ -33,4 +33,4 @@
  * [Ley de 8 de junio de 1957 sobre el Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1957-7537)
 * [Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento del Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1958-18486)
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Libro%20de%20Familia)

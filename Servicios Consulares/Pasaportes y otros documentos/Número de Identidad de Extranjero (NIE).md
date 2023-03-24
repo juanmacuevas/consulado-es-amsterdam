@@ -63,4 +63,4 @@ Será necesario la presentación de un justificante del motivo por el cual se so
  * [Ley Orgánica 4/2000](https://www.boe.es/buscar/act.php?id=BOE-A-2000-544) , de 11 de enero, sobre los derechos y libertades de los extranjeros y su integración social.
 * [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por Ley Orgánica 2/2009.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=N%C3%BAmero%20de%20Identidad%20de%20Extranjero%20%28NIE%29)

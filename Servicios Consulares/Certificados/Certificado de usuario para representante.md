@@ -40,4 +40,4 @@
 
   En caso de duda o dificultad para obtener el certificado, se puede consultar el apartado de [Preguntas Frecuentes de la FNMT](https://www.sede.fnmt.gob.es/preguntas-frecuentes). Si no se resuelven las dudas o problemas, se puede contactar con el [servicio de atención a usuarios de la sede electrónica de la FNMT](https://www.sede.fnmt.gob.es/soporte-tecnico/atencion-a-usuarios). 
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20representante)

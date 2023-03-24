@@ -103,4 +103,4 @@ Correo Electrónico: [medoc@caribserve.net](mailto:medoc@caribserve.net)
   
 
 
-   
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx)

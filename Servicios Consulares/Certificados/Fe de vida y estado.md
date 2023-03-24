@@ -62,4 +62,4 @@ cog.amsterdam.rgc@maec.es . No olvide adjuntar en su correo copia de su certific
 
  Cuando necesiten probar la vida a efectos de cobro de una prestación de la Seguridad Social española, el acta de presencia otorgada ante el Cónsul será gratuita.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida%20y%20estado)

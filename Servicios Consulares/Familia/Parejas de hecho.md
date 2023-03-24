@@ -16,4 +16,4 @@ cog.amsterdam.rgc@maec.es
 
  La Oficina Consular puede expedir los documentos necesarios para inscribirse como pareja de hecho en un registro local del país.
 
-  
+  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Parejas%20de%20hecho)

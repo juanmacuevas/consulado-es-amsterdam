@@ -33,3 +33,5 @@
 * ###   [AVISO EMPRESAS DE TRABAJO TEMPORAL](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20220411_NOT01-AVISO-EMPRESAS-DE-TRABAJO-TEMPORAL.aspx "AVISO EMPRESAS DE TRABAJO TEMPORAL")
 
  8 de abril de 2022
+
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
