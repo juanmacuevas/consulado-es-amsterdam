@@ -5,7 +5,7 @@
 
   ​ AVISO IMPORTANTE 
 
- viernes, 17 de marzo de 2023
+ 17 de marzo de 2023
 * INFORMACION SOBRE PASAPORTES ###   [INFORMACION SOBRE PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/INFORMACION-SOBRE-PASAPORTES.aspx "INFORMACION SOBRE PASAPORTES")
 
   ​​Procedimiento de elaboración y tiempos de espera. Ruta solicitud de citas para renovar o solicitar el primer pasaporte 
