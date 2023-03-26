@@ -5,7 +5,45 @@ from fake_useragent import UserAgent
 from markdownify import markdownify
 import time
 import re
+import hashlib
 
+
+def get_file_hash(file_path):
+    with open(file_path, "rb") as file:
+        file_content = file.read()
+        file_hash = hashlib.sha256(file_content).hexdigest()
+    return file_hash
+
+
+def write_file(file_path, content):
+    with open(file_path, "w") as file:
+        file.write(content)
+
+
+def send_telegram_message(bot_token, chat_id, message):
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "MarkdownV2",
+        "disable_web_page_preview": True
+    }
+    response = requests.post(url, data=payload)
+    return response.status_code == 200
+
+
+def check_and_update_file(file_path, new_content, bot_token, chat_id):
+    if not os.path.exists(file_path):
+        write_file(file_path, new_content)
+        return True # notify change
+    else:
+        old_hash = get_file_hash(file_path)
+        new_hash = hashlib.sha256(new_content.encode()).hexdigest()
+        if old_hash != new_hash:
+            write_file(file_path, new_content)
+            return True # notify change
+        else:
+            return False # no changes
 
 def category_url(category_subcategory):
     url_base = "https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx"
@@ -20,8 +58,9 @@ def save_url_response_to_file(path, content):
     file_name = file_name+".md"
     os.makedirs(folder_name, exist_ok=True)
     file_path = os.path.join(folder_name, os.path.basename(file_name))
-    with open(file_path, 'w') as f:
-        f.write(content)
+    
+    return check_and_update_file(file_path, content, bot_token, chat_id)
+    
 
 def fix_links(dom):
     for link in dom.find_all("a", href=True):
@@ -89,7 +128,7 @@ def remove_date_from_recomendaciones(text):
     pattern = re.compile(r"(?i)(Recomendaciones vigentes) a \d{1,2} de [a-zA-Z]+ de \d{4}")
     return pattern.sub(r'\1', text)
 
-def save_markdown_content(page,wait = 0):
+def save_markdown_content(page):
     directory,filename,url = page
     response = requests.get(url)
     div = extract_content_from_html(response.content,url)
@@ -100,10 +139,9 @@ def save_markdown_content(page,wait = 0):
     
     if filename.startswith("Recomendaciones"):
         content = remove_date_from_recomendaciones(content)
-    
-    save_url_response_to_file((directory,filename), content)
     print(url)
-    time.sleep(wait)
+    return save_url_response_to_file((directory,filename), content)
+    
 
 def fetch_pages_servicios():
     url_base = "https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx"
@@ -153,6 +191,14 @@ pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amster
 
 
 # pages += fetch_pages_servicios()
-for p in pages:    
-    save_markdown_content(p,3)
+bot_token ,chat_id = open('bot-token.txt', 'r').read().split(',')
+changes = False
+notified = False
+for page in pages:    
+    changes |= save_markdown_content(page)
+    # time.sleep(3)
+    if changes and not notified:
+        send_telegram_message(bot_token, chat_id, f'[🔄 Cambios web consulado](https://github.com/JuanMaCuevas/consulado-es-amsterdam/commits/develop/)')
+        notified = True
+
 
