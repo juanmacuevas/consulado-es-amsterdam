@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from markdownify import markdownify
 import time
+import re
 
 
 def category_url(category_subcategory):
@@ -78,14 +79,31 @@ def extract_content_from_html(html_content,url):
     parent_div = fix_links(parent_div)
     return parent_div
 
+def substitute_dates(text):
+    days = ["lunes", "martes", "mi[eé]rcoles", "jueves", "viernes", "s[aá]bado", "domingo"]
+    days_pattern = "|".join(days)
+    pattern = re.compile(rf'(?i)({days_pattern}),\s', re.MULTILINE)
+    return pattern.sub('', text)
+
+def remove_date_from_recomendaciones(text):
+    pattern = re.compile(r"(?i)(Recomendaciones vigentes) a \d{1,2} de [a-zA-Z]+ de \d{4}")
+    return pattern.sub(r'\1', text)
+
 def save_markdown_content(page,wait = 0):
     directory,filename,url = page
     response = requests.get(url)
     div = extract_content_from_html(response.content,url)
     content = markdownify(str(div))
+    # exceptions to avoid periodic notifications changes
+    if filename.startswith("Noticias"):
+        content = substitute_dates(content)
+    
+    if filename.startswith("Recomendaciones"):
+        content = remove_date_from_recomendaciones(content)
+    
     save_url_response_to_file((directory,filename), content)
     print(url)
-    time.sleep(0)
+    time.sleep(wait)
 
 def fetch_pages_servicios():
     url_base = "https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx"
@@ -134,8 +152,7 @@ pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amster
 
 
 
-pages += fetch_pages_servicios()
+# pages += fetch_pages_servicios()
 for p in pages:    
     save_markdown_content(p,3)
 
-    
