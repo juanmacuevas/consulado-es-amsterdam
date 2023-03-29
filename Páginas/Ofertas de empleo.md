@@ -1,7 +1,7 @@
   Ofertas de empleo
 =================
 
-   jueves, 23 de marzo de 2023    ​  
+   23 de marzo de 2023    ​  
   
 
 
