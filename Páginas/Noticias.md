@@ -1,16 +1,11 @@
   Noticias del consulado
 =======================
 
- * ELECCIONES AUTONOMICAS MAYO 2023 ###   [ELECCIONES AUTONOMICAS DE 28 DE MAYO DE 2023](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/ELECCIONES-AUTONOM%2CICAS-DE-28-DE-MAYO-DE-2023.aspx "ELECCIONES AUTONOMICAS DE 28 DE MAYO DE 2023")
-
-  ​ 
-
- Hoy
-* NUEVO SISTEMA DE CITAS PARA PASAPORTES ###   [AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/AVISO-SOBRE-LA-IMPLANTACION-DE-UN-NUEVO-SISTEMA-DE-CITAS-PARA-PASAPORTES.aspx "AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES")
+ * NUEVO SISTEMA DE CITAS PARA PASAPORTES ###   [AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/AVISO-SOBRE-LA-IMPLANTACION-DE-UN-NUEVO-SISTEMA-DE-CITAS-PARA-PASAPORTES.aspx "AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES")
 
   ​ AVISO IMPORTANTE 
 
- 3 de abril de 2023
+ Ayer
 * INFORMACION SOBRE PASAPORTES ###   [INFORMACION SOBRE PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/INFORMACION-SOBRE-PASAPORTES.aspx "INFORMACION SOBRE PASAPORTES")
 
   ​​Procedimiento de elaboración y tiempos de espera. Ruta solicitud de citas para renovar o solicitar el primer pasaporte 
