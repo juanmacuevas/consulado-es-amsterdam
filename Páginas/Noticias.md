@@ -5,7 +5,7 @@
 
   ​​ 
 
- Hoy
+ Ayer
 * ELECCIONES AUTONOMICAS MAYO 2023 ###   [ELECCIONES AUTONOMICAS DE 28 DE MAYO DE 2023](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/ELECCIONES-AUTONOM%2CICAS-DE-28-DE-MAYO-DE-2023.aspx "ELECCIONES AUTONOMICAS DE 28 DE MAYO DE 2023")
 
   ​ 
