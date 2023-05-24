@@ -1,7 +1,7 @@
   Horario, localización y contacto
 ================================
 
-   25 de enero de 2023    
+   26 de abril de 2023    
 >   
 > 
 
@@ -78,6 +78,11 @@ Dentro del edificio del Consulado General se encuentran las siguientes Oficinas:
 > * E-mail: [belen.roza@educacion.gob.es](mailto:belen.roza@educacion.gob.es)
 > * [www.mecd.gob.es/paisesbajos/](http://www.mecd.gob.es/paisesbajos/)
 > * tel: 0031 (0)20-4236919
+> 
+>   
+>   
+>   
+>   
 > 
 
 ​CALENDARIO  DE FESTIVOS  EN 2023  
