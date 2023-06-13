@@ -12,7 +12,11 @@
 ​  
 [![]()17052023 Resolución bases convocatorIa plaza conductor fijo E. LA HAYAi.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/17052023%20Resoluci%C3%B3n%20bases%20convocatorIa%20plaza%20conductor%20fijo%20E.%20LA%20HAYAi.pdf)
 
-[![]()05062023 Resolución Provisional de Admitidos-Excluidos.doc Convocatoria de Chofer.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/05062023%20Resoluci%C3%B3n%20Provisional%20de%20Admitidos-Excluidos.doc%20Convocatoria%20de%20Chofer.pdf)
+[![]()05062023 Resolución Provisional de Admitidos-Excluidos.doc Convocatoria de Chofer.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/05062023%20Resoluci%C3%B3n%20Provisional%20de%20Admitidos-Excluidos.doc%20Convocatoria%20de%20Chofer.pdf)  
+
+
+[![]()13062023 Resolución definitiva adminitdos convocatoria chofer E. LA HAYAi.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/13062023%20Resoluci%C3%B3n%20definitiva%20adminitdos%20convocatoria%20chofer%20%20E.%20LA%20HAYAi.pdf)​  
+
 
   
 
