@@ -22,7 +22,11 @@
 
 [![]()16062023 Resolución Presidenta Tribunal proceso selectivo categoría chofer modificación prueba.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/16062023%20Resoluci%C3%B3n%20Presidenta%20Tribunal%20%20proceso%20selectivo%20categor%C3%ADa%20chofer%20modificaci%C3%B3n%20prueba.pdf)
 
-[![]()16062023 Resolución Tribunal Calificador resultado I prueba proceso selectivo categoría chofer.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/16062023%20Resoluci%C3%B3n%20Tribunal%20Calificador%20resultado%20I%20prueba%20proceso%20selectivo%20categor%C3%ADa%20chofer.pdf)​​  
+[![]()16062023 Resolución Tribunal Calificador resultado I prueba proceso selectivo categoría chofer.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/16062023%20Resoluci%C3%B3n%20Tribunal%20Calificador%20resultado%20I%20prueba%20proceso%20selectivo%20categor%C3%ADa%20chofer.pdf)
+
+[![]()21062023 Resolución resultados prueba práctica.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/21062023%20Resoluci%C3%B3n%20resultados%20prueba%20pr%C3%A1ctica.pdf)
+
+[![]()21032023 Resolución prueba de idiomas así como valoración total de la fase de oposición.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/21032023%20Resoluci%C3%B3n%20prueba%20de%20idiomas%20as%C3%AD%20como%20valoraci%C3%B3n%20total%20de%20la%20fase%20de%20oposici%C3%B3n.pdf)​​​  
 
 
 **Convocatoria Secretaria**  
