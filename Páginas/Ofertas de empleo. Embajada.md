@@ -30,7 +30,9 @@
 
 [![]()21062023 Resolución resultados prueba práctica.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/21062023%20Resoluci%C3%B3n%20resultados%20prueba%20pr%C3%A1ctica.pdf)
 
-[![]()21032023 Resolución prueba de idiomas así como valoración total de la fase de oposición.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/21032023%20Resoluci%C3%B3n%20prueba%20de%20idiomas%20as%C3%AD%20como%20valoraci%C3%B3n%20total%20de%20la%20fase%20de%20oposici%C3%B3n.pdf)​​​  
+[![]()21032023 Resolución prueba de idiomas así como valoración total de la fase de oposición.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/21032023%20Resoluci%C3%B3n%20prueba%20de%20idiomas%20as%C3%AD%20como%20valoraci%C3%B3n%20total%20de%20la%20fase%20de%20oposici%C3%B3n.pdf)
+
+​​​[![]()28062023 Resolución entrevista y méritos.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/28062023%20Resoluci%C3%B3n%20entrevista%20y%20m%C3%A9ritos.pdf)​  
 
 
 **Convocatoria Secretaria**  
