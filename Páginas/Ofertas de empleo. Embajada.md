@@ -7,7 +7,11 @@
 
 ​[![]()05062023 Resolución Provisional de Admitidos-Excluidos.doc Convocatoria Cocinero.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/05062023%20Resoluci%C3%B3n%20Provisional%20de%20Admitidos-Excluidos.doc%20Convocatoria%20Cocinero.pdf)
 
-[![]()13062023 Resolución lista definitiva de Admitidos-Excluidos.doc.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/13062023%20Resoluci%C3%B3n%20lista%20definitiva%20de%20Admitidos-Excluidos.doc.pdf)
+[![]()13062023 Resolución lista definitiva de Admitidos-Excluidos.doc.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/13062023%20Resoluci%C3%B3n%20lista%20definitiva%20de%20Admitidos-Excluidos.doc.pdf)  
+
+
+[![]()27062023 Resolución prueba práctica categoría de cocinero.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/27062023%20Resoluci%C3%B3n%20prueba%20pr%C3%A1ctica%20categor%C3%ADa%20de%20cocinero.pdf)​  
+
 
 **​Convocatoria Conductor​​**  
 
