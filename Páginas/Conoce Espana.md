@@ -9,7 +9,7 @@
 
 España cuenta también con una excelente oferta académica, mediante una amplia red de universidades y algunas de las escuelas de negocios más prestigiosas del mundo. Además, nuestro país es el mayor receptor de estudiantes de intercambio dentro del programa Erasmus. Si tenemos también en cuenta que el español es la segunda lengua más hablada del mundo, España es un destino clave en cuanto a oferta educativa.
 
-[En este enlace puede consu​ltar los requisitos y la documentación necesaria​​ para visitar España y toda la información sobre las condiciones de entrada, la estancia, la residencia temporal, las infracciones y otros derechos u obligaciones de aquellos considerados extranjeros.](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/oficinas-para-tramites-de-extranjeria/)
+[En este enlace puede consu​ltar los requisitos y la documentación necesaria​​ para visitar España y toda la información sobre las condiciones de entrada, la estancia, la residencia temporal, las infracciones y otros derechos u obligaciones de aquellos considerados extranjeros.](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/)
 
 Residir en España
 -----------------
