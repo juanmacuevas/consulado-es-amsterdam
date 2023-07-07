@@ -4,14 +4,6 @@
 ==========================
 
 
-* Presidencia Española de la UE
-### 
-[Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya")
-
-
-Ayer
-
-![Acto inaugural de la presidencia española del Consejo de la UE en La Haya]()
 * OPAQ
 ### 
 [España formaliza contribuciones para el Fondo Fiduciario de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230227_Not01.aspx "España formaliza contribuciones para el Fondo Fiduciario de la OPAQ")
