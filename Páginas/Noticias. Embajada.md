@@ -9,7 +9,7 @@
 [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya")
 
 
-Ayer
+6 de julio de 2023
 
 ![Acto inaugural de la presidencia española del Consejo de la UE en La Haya]()
 * OPAQ
