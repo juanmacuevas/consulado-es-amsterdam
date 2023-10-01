@@ -1,7 +1,12 @@
   Noticias del consulado
 =======================
 
- * CIERRE CONSULADO 25 DE JULIO DE 2023 ###   [AVISO CIERRE CONSULADO DIA 25 DE JULIO DE 2023](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/ELECCIONES%20GENERALES%20DE%2023%20DE%20JULIO%20DE%202023.aspx "AVISO CIERRE CONSULADO DIA 25 DE JULIO DE 2023")
+ * DEBATE DEL ESTADO DE LA UNION EN EL PARLAMENTO EUROPEO ###   [Debate-del-Estado-de-la-Unión-en-el-Parlamento-Europeo](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Debate-del-Estado-de-la-Uni%C3%B3n-en-el-Parlamento-Europeo.aspx "Debate-del-Estado-de-la-Unión-en-el-Parlamento-Europeo")
+
+  ​​​Albares apuesta por una UE más unida, más fu​erte, más social, más​ sostenible y más cercana a los ciudadanos ​El ministro detalla ante los ... 
+
+ 13 de septiembre de 2023
+* CIERRE CONSULADO 25 DE JULIO DE 2023 ###   [AVISO CIERRE CONSULADO DIA 25 DE JULIO DE 2023](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/ELECCIONES%20GENERALES%20DE%2023%20DE%20JULIO%20DE%202023.aspx "AVISO CIERRE CONSULADO DIA 25 DE JULIO DE 2023")
 
   ​ 
 

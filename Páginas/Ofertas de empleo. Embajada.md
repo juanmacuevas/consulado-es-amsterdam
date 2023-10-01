@@ -44,13 +44,49 @@
 **Convocat​oria Secretaria​**  
 
 
-​[![]()05062023 Resolución bases convocatoria con la Categoría de Secretaria.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/05062023%20Resoluci%C3%B3n%20%20bases%20convocatoria%20con%20la%20Categor%C3%ADa%20de%20Secretaria.pdf)  
+​[![]()05062023 Resolución bases convocatoria con la Categoría de Secretaria.](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/05062023%20Resoluci%C3%B3n%20%20bases%20convocatoria%20con%20la%20Categor%C3%ADa%20de%20Secretaria.pdf)  
+
+
+​[![]()RESOLUCIÓN MODIFICACIÓN COMPOSICIÓN TRIBUNAL CALIFICADOR CATEGORÍA DE SECRETARIA.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20MODIFICACI%C3%93N%20COMPOSICI%C3%93N%20TRIBUNAL%20CALIFICADOR%20CATEGOR%C3%8DA%20DE%20SECRETARIA.pdf)  
+
+
+[![]()RESOLUCIÓN LISTAS ASPIRANTES ADMITIDOS PLAZA CATEGORÍA SECRETARIA.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20LISTAS%20ASPIRANTES%20ADMITIDOS%20PLAZA%20CATEGOR%C3%8DA%20SECRETARIA.pdf)  
+
+
+[![]()RESOLUCIÓN FEFINITIVA LISTAS ASPIRANTES ADMITIDOS PLAZAS CATEGORÍA AUXILIAR.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20FEFINITIVA%20LISTAS%20ASPIRANTES%20ADMITIDOS%20PLAZAS%20CATEGOR%C3%8DA%20AUXILIAR.pdf)  
+
+
+[![]()PUNTUACIÓN RELACIÓN ASPIRANTES A SECRETARIA 1ª PRUEBA CULTURAL.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/PUNTUACI%C3%93N%20RELACI%C3%93N%20ASPIRANTES%20A%20SECRETARIA%201%C2%AA%20PRUEBA%20CULTURAL.pdf)​  
+
+
+  
 
 
 **Convocatoria Auxiliares**  
 
 
-[![]()05062023 Resolución bases convocatoria 2 Auxiliares E. LA HAYA.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/05062023%20Resoluci%C3%B3n%20bases%20convocatoria%202%20Auxiliares%20E.%20LA%20HAYA.pdf)  
+[![]()05062023 Resolución bases convocatoria 2 Auxiliares E. LA HAYA.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/05062023%20Resoluci%C3%B3n%20bases%20convocatoria%202%20Auxiliares%20E.%20LA%20HAYA.pdf)​  
+
+
+[![]()RESOLUCIÓ​N MODIFICACIÓN COMPOSICIÓN TRIBUNAL CALIFICADOR CATEGORÍA DE AUXILIAR.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20MODIFICACI%C3%93N%20COMPOSICI%C3%93N%20TRIBUNAL%20CALIFICADOR%20CATEGOR%C3%8DA%20DE%20AUXILIAR.pdf)  
+
+
+​[![]()RESOLUCIÓN LISTAS ASPIRANTES ADMITIDOS PLAZAS CATEGORÍA AUXILIAR.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20LISTAS%20ASPIRANTES%20ADMITIDOS%20PLAZAS%20CATEGOR%C3%8DA%20AUXILIAR.pdf)
+
+[![]()RESOLUCIÓN DEFINITIVA LISTAS ASPIRANTES ADMITIDOS PLAZAS CATEGORÍA AUXILIAR.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RESOLUCI%C3%93N%20DEFINITIVA%20LISTAS%20ASPIRANTES%20ADMITIDOS%20PLAZAS%20CATEGOR%C3%8DA%20AUXILIAR.pdf)  
+
+
+[![]()PUNTUACIÓN RELACIÓN ASPIRANTES 1ª PRUEBA CULTURAL.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/PUNTUACI%C3%93N%20RELACI%C3%93N%20ASPIRANTES%201%C2%AA%20PRUEBA%20CULTURAL.pdf)  
+
+
+  
+
+
+  
+  
+
+
+  
   
 
 

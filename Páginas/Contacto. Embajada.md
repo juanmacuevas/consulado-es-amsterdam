@@ -29,9 +29,9 @@ Embajadora: Dña. Consuelo Femenía Guardiola  
 Ministro Consejero: D. Jorge Ávila Liceranzu​  
 
 
-Consejero: D. Luis Tejero González
+Consejero: D. Joaquín Durán Garach
 
-Secretaria Embajada: Dña. Virginia González Martínez
+Secretario de Embajada: D. Juan Almazán Fuentes​
 
   Consejería de Educación. Sede Central
 -------------------------------------
@@ -135,7 +135,8 @@ Fax: 0031 (0) 703 106 124
 
 Correo electrónico: [lahaya@comunicacion.presidencia.gob.es](mailto:lahaya@comunicacion.presidencia.gob.es) 
 
-Secretario-Traductor de Información y Prensa: D. José Bastán
+Consejera​: Dª. Isabel Sánchez Miguel​  
+
 
   Instituto Cervantes
 -------------------
@@ -152,7 +153,7 @@ Correo electrónico: [dirutr@cervantes.es](mailto:dirutr@cervantes.es) 
 
 Web: [Instituto Cervantes Utrecht](https://utrecht.cervantes.es/nl/default.shtm)
 
-Directora: Dña. Pilar Tena
+Directora: D. Alberto Gascón​
 
   Oficina Económica y Comercial
 -----------------------------
