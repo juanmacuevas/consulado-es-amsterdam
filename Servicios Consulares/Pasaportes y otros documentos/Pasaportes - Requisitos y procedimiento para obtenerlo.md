@@ -16,14 +16,8 @@
 
  Si el nacimiento está inscrito en esta Oficina Consular no será necesario presentar este certificado.
 4. **1 fotografía** (32 x 26 mm.) reciente, a color, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
-5. Los documentos que prueban la residencia en la demarcación consular son:
-
-1.Inscripción en el ayuntamiento,
-
-2.Contrato de alquiler,
-
-3. Una factura u otro documento donde figure el domicilio en el país.
-6. Pago de la **tasa**. Importe: 30 € \* Se exige una COPIA DEL PASAPORTE ANTERIOR y en el caso de menores también de los PASAPORTES DE LOS PADRES y LIBRO DE FAMILIA. La tasa consular puede abonarse en efectivo o con tarjeta de un banco local. \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta EL DIA 3 DE ABRIL DE 2023. Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema. Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
+5. En el caso de menores, también será preciso aportar copia del libro de familia y pasaportes de los progenitores
+6. Pago de la **tasa**. 30 euros por pasaporte pudiendo ser abonada tanto por tarjeta bancaria como en efectivo.
 7. Para menores de edad o personas incapacitadas se exigen documentos adicionales. Ver apartado “Pasaportes para menores de edad y personas incapacitadas”.
 8. En su caso, ver apartado “Sustracción o pérdida de pasaporte”.
 
@@ -34,37 +28,31 @@
  Procedimientos para obtener un pasaporte
 ----------------------------------------
 
- \*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta EL DIA 3 DE ABRIL DE 2023.
+ UNICAMENTE SE PODRA EXPEDIR EL PASAPORTE A AQUELLOS CIUDADANOS INSCRITOS COMO RESIDENTES EN EL REGISTRO DE MATRICULA CONSULAR DE ESTE CONSULADO GENERAL. Si no esta inscrito, consulte el siguiente enlace
 
-Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema.
+CITA PREVIA:
+
+[Cita previa](https://www.citaconsular.es/es/hosteds/widgetdefault/28e1e70e15c0c9e53c7ee319e97281d07)
+
+ [Instrucciones](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/PROCEDIMIENTO%20DE%20SOLICITUD%20DE%20CITA.pdf)
+
+EN EL CASO DE QUE NO HUBIERA CITAS DISPONIBLES POR ESTAR COMPLETAS DURANTE UN MES TENDRA USTED QUE ESPERAR AL DIA SIGUIENTE A QUE SE HABILITEN NUEVAS CITAS.
 
 Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
 
-Para la solicitud de un pasaporte deberá concertarse CITA PREVIA (ABAJO) a través del sistema de citas on line del Consulado General de España en Amsterdam. Se concertará UNA CITA POR PERSONA.
+Se concertará UNA CITA POR PERSONA.
 
-Únicamente pueden concertar cita para solicitar un pasaporte los ciudadanos inscritos en el Registro de Matrícula Consular como residentes. \* No se realizarán pasaportes a ciudadanos no inscritos previamente en el Consulado.
-
-\* Recuerde traer una COPIA DE SU PASAPORTE ANTERIOR o en su defecto del DNi o acta de nacimiento o adquisición/recuperación de la nacionalidad española.
+\* Recuerde traer una COPIA DE SU PASAPORTE ANTERIOR o en su defecto del DNI o acta de nacimiento o adquisición/recuperación de la nacionalidad española.
 
 cita pasaportes:
 
-\*Se informa a todos los ciudadanos españoles Residentes en Países Bajos, que debido a la implantación de un nuevo sistema de citas para pasaportes desde Servicios Centrales en Madrid, el sistema se encuentra temporalmente fuera de servicio hasta nuevo aviso.
-
-Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema.
-
-Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
-
-Más adelante se publicarán Instrucciones para realizar cita con el nuevo sistema.
-
-Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos dado que reducirá notablemente los plazos de espera.
-
-\* Para solicitar un pasaporte en esta Oficina Consular es necesaria la PREVIA INSCRIPCION EN EL REGISTRO DE MATRICULA CONSULAR COMO RESIDENTE. No se atenderán citas de pasaporte de personas no inscritas en el Consulado como Residentes.
+ES NECESARIO ESTAR INSCRITO EN EL REGISTRO DE MATRICULA CONSULAR COMO RESIDENTE. No se atenderán citas de pasaporte de personas no inscritas en el Consulado como Residentes.
 
 \* Se exige que los solicitantes traigan una COPIA DE SU PASAPORTE O, DNI anterior o acta de nacimiento o nacionalidad en su caso. En el caso de MENORES se exige COPIA DE LA DOCUMENTACION DE LOS PADRES Y DEL LIBRO DE FAMILIA.
 
 \* Existe la posibilidad de realizar las copias en la fotocopiadora pública del Consulado que funciona con monedas.
 
-\* Se Ruega CANCELAR aquellas citas que no vayan a ser utilizadas para que puedan ser aprovechadas por otras personas.
+\* Se ruega CANCELAR aquellas citas que no vayan a ser utilizadas para que puedan ser aprovechadas por otras personas.
 
   Para tramitar una solicitud de pasaporte, es necesaria la presencia física del solicitante (incluso la del menor de edad o persona incapacitada), aportar los documentos requeridos y abonar la tasa. 
 
@@ -81,6 +69,14 @@ Este nuevo sistema será beneficioso para todos los Residentes en Países Bajos 
 
   El pasaporte se retira personalmente, entregando copia del resguardo de solicitud y el pasaporte a sustituir, para su anulación al recibir la nueva libreta. Se permite conservar el pasaporte anulado. 
 
-  Es posible autorizar a un tercero para la retirada de un pasaporte, firmando una autorización a este fin.\*Se ofrece la posibilidad de enviar el pasaporte al interesado por correo certificado que tendrá un coste adicional de 10 €. \* El Consulado dispone de un fotomatón que funciona con monedas o un billete de 5 € y monedas. \* El Consulado dispone de una fotocopiadora pública que funciona con monedas (0,30 € por copia) 
+  Es posible autorizar a un tercero para la retirada de un pasaporte, firmando una autorización a este fin.
+
+---
+
+ 
+
+*OTRA INFORMACION*
+
+ *El Consulado dispone de un fotomatón que funciona con monedas. Se ruega que venga con monedas suficientes ya que la ventanilla no dará cambio alguno para este servicio.*
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Requisitos%20y%20procedimiento%20para%20obtenerlo)

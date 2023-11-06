@@ -11,7 +11,7 @@
 
   ### Documentos necesarios
 
- 1. **[Impreso de solicitud de autorización de residencia de larga duración o de larga duración-UE](https://extranjeros.inclusion.gob.es/ficheros/Modelos_solicitudes/mod_solicitudes2/11-Formulario_larga_duracixn.pdf)**. Cada solicitante completará en todos sus apartados y firmará dos ejemplares del impreso de solicitud (modelo EX - 11). Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+ 1. **[Impreso de solicitud de autorización de residencia de larga duración o de larga duración-UE](https://sede.policia.gob.es/portalCiudadano/sede_electronica/extranjeria/EX11.pdf)**. Cada solicitante completará en todos sus apartados y firmará dos ejemplares del impreso de solicitud (modelo EX - 11). Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
 2. **Pasaporte**. Una fotocopia de todas las páginas del pasaporte o documento de viaje válido y en vigor.
 3. **Condiciones para recuperar la residencia de larga duración o de larga duración-UE**. Documentos que prueben que el solicitante se encuentra en alguno de los supuestos para recuperar la residencia de larga duración o de larga duración-UE.
 4. **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
@@ -54,7 +54,7 @@
  ### Procedimiento
 
  * **Sujeto legitimado**: La solicitud de visado se presentará personalmente por el interesado, o por uno de sus progenitores, si es menor de edad.
-* **Lugar de presentación**: Las solicitudes de visado se realizarán con cita previa que debe concertarse en el sistema de citas on line del Consulado General de España en Ámsterdam. Solicite cita aquí:  [Visados Nacionales - Visado para recuperar la residencia de larga duración o de larga duración-UE](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
+* **Lugar de presentación**: Las solicitudes de visado se realizarán con cita previa que debe concertarse en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales - Visado para recuperar la residencia de larga duración o de larga duración-UE](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
 * **Justificante de entrega**: La Oficina consular entregará al interesado un resguardo de solicitud con un código que permite verificar el estado de tramitación del expediente a través del enlace: <https://sutramiteconsular.maec.es>
 * **Subsanación del expediente**: La Oficina Consular podrá pedir al solicitante que presente los documentos que falten, o que aporte documentos o datos adicionales que sean necesarios para resolver la solicitud. También podrá convocar al solicitante a una entrevista personal.
 * **Plazo para resolver**: El plazo legal para tomar una decisión es de 3 meses contados a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.

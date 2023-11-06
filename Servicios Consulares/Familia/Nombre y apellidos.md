@@ -38,6 +38,8 @@
 
 cog.amsterdam.rgc@maec.es
 
+\* Tengan en cuenta que, debido a la falta de recursos el plazo de tramitación actual está entre tres y cuatro meses.
+
  ### Procedimiento
 
  Durante la tramitación del expediente, el interesado (o sus representantes legales) deberá comparecer personalmente a petición de la Oficina Consular y se deberá identificar con su DNI o pasaporte en vigor.
@@ -103,7 +105,9 @@ cog.amsterdam.rgc@maec.es
 
  Durante la tramitación del expediente, el interesado (o sus representantes legales) deberá comparecer personalmente a petición de la Oficina Consular y se deberá identificar con su DNI o pasaporte en vigor.
 
- se solicitará exclusivamente por correo postal enviando la documentacion cumplimentada. Una vez recibida se tramitará en un plazo máximo de un mes y se enviará de vuelta al solicitante.
+ se solicitará exclusivamente por correo postal enviando la documentación cumplimentada. Una vez recibida se tramitará en un plazo máximo de un mes y se enviará de vuelta al solicitante.
+
+\* POR FALTA DE PERSONAL LOS EXPEDIENTES DE CAMBIO O CORECCION DE APELLIDOS PUEDEN DEMORARSE HASTA 6 MESES.
 
  Una vez autorizado el cambio de apellido, se inscribirá en el Registro Civil del nacimiento.
 

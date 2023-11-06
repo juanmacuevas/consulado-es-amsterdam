@@ -16,7 +16,13 @@
 
  Además de los documentos que se relacionan a continuación, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente.
 
- 1. Hoja declaratoria del nacimiento:
+ \* SE RUEGA REMITIR, JUNTO A LA DOCUMENTACION DE INSCRIPCION DEL NACIMIENTO, LA DOCUMENTACION DE INSCRIPCION EN EL REGISTRO DE MATRICULA CONSULAR (FORMULARIO DE INSCRIPCION COMO RESIDENTE Y DECLARACION EXPLICATIVA A EFECTOS ELECTORALES).
+
+\* No se realizarán salvoconductos en el caso de no estar inscrito el nacimiento en el Registro Civil Consular y en le Registro de Matrícula.
+
+DOCUMENTACION NECESARIA PARA INSCRIBIR EL NACIMIENTO EN EL REGISTRO CIVIL CONSULAR:
+
+1. Hoja declaratoria del nacimiento:
 
 [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Hoja%20declaratoria%20de%20datos%20para%20la%20inscripci%C3%B3n%20de%20nacimiento.pdf)
 
@@ -42,6 +48,8 @@ Todos los certificados deben ser originales. Si desea que se le devuelvan los or
 -------------
 
  Para solicitar la inscripción del nacimiento de su hijo en el Registro Civil español, debe remitir por correo postal a esta oficina la documentación indicada más abajo, correspondiente a las circunstancias de su caso. Por favor, lea la información atentamente.
+
+\* Tenga en cuenta que, debido a la falta de recursos, el plazo de tramitación actual está entre los dos y tres meses desde la recepción de la solicitud.
 
 No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
 

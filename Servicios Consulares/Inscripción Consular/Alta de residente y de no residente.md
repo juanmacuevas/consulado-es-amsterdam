@@ -28,23 +28,23 @@
 * Fotocopia del DNI, si lo posee, o del pasaporte español o, en su defecto, partida literal de nacimiento expedida por el Registro Civil español.
 * Prueba de residencia:
 
- la inscripción como residente requerirá una prueba de residencia efectiva en Países Bajos:
-
-Inscripción en el ayuntamiento de residencia de Países Bajos o contrato de alquiler o carta del ayuntamiento o belastingdienst donde se refleje el domicilio actual.
+ Inscripción en el ayuntamiento de residencia de Países Bajos o contrato de alquiler o carta del ayuntamiento o *"Belastingdienst* donde se refleje el domicilio actual.
 * Una fotografía tamaño carnet (en color, reciente, hecha de frente, sobre fondo blanco, sin gafas oscuras ni prendas que dificulten la identificación).
 * Fotocopia del libro de familia en el caso de inscripción de menores de edad.
 
  ### Procedimiento
 
- La inscripción consular podrá realizarse por correo postal no siendo necesaria la presencia física de los inscritos. También existe la posibilidad de solicitar cita previa en mediante el sistema de citas on line del Consulado General de España en Ámsterdam.
+ La inscripción consular se realizará por correo postal no siendo necesaria la presencia física de los inscritos. La dirección del Consulado General es la siguiente:
 
-Solicite cita aquí:
+CONSULAAT GENERAAL SPANJE
 
- [Inscripción Consular](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime) 
+Frederiksplein 34
 
-\* El plazo de tramitación actual de las solicitudes de inscripción enviadas por correo postal puede demorarse hasta 2 meses.
+1017 XN Amsterdam.
 
-\* Las solicitudes enviadas por correo postal que no tengan la documentación completa o incorrectamente cumplimentada serán archivadas sin más trámite.
+El plazo de tramitación actual de las solicitudes de inscripción enviadas por correo postal puede demorarse entre DOS Y TRES MESES.
+
+Las solicitudes enviadas que no tengan la documentación completa o incorrectamente cumplimentada serán archivadas sin más trámite.
 
  ### Normativa básica
 
@@ -65,11 +65,7 @@ Solicite cita aquí:
 
  ### Procedimiento
 
- [Descargar formulario inscripción](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/01.%20Solicitud%20de%20inscripci%C3%B3n%20como%20residente%20%28imprimir%20en%20una%20sola%20hoja%29%5B1%5D.pdf)
-
-[Solicitud inscripción no residente](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/02.%20Solicitud%20de%20inscripci%C3%B3n%20como%20no%20residente%20%28imprimir%20en%20una%20sola%20hoja%29%5B1%5D.pdf)
-
-La inscripción consular se realizará preferente por correo postal no siendo necesaria la presencia física de los inscritos. También existe la posibilidad de solicitar cita previa en mediante el sistema de citas on line del Consulado General de España en Ámsterdam.
+ La inscripción consular puede enviarse por correo postal no siendo necesaria la presencia física de los inscritos, si bien el plazo de tramitación actualmente, debido a la falta de recursos, está entre DOS y TRES MESES.
 
  ### Normativa básica
 

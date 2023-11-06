@@ -19,7 +19,7 @@
  * Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
 * Inspección General de Servicios
 * Dirección postal: Plaza de la Provincia, 1, Madrid, España
-* Correo electrónico:[dpd@maec.es](mailto:dpd@maec.es)
+* Correo electrónico:[dpd@maec.es![Se abre en ventana nueva](/Style%20Library/PC/Img/icons/icon-external-link.svg)](mailto:dpd@maec.es)
 
  Para este fin, se pueden utilizar los siguientes formularios
 

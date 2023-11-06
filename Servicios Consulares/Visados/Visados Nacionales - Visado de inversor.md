@@ -29,13 +29,11 @@
 	* Depósito bancario: Certificado de la entidad bancaria que indique que el solicitante es el único titular de la inversión.
 	* Inversión en inmuebles: Certificado del Registro de la Propiedad con información continuada de dominio y cargas expedido en los últimos 90 días y escritura de compraventa en el caso de que el importe de la adquisición no esté incluido en el certificado de dominio y cargas
 	* Inversión en proyecto empresarial: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular, que constate el interés general del proyecto empresarial.
-	* En el caso de inversión realizada a través de una persona jurídica: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular que constate que la sociedad no tiene su sede en un paraíso fiscal, y que el inversor posee, directa o indirectamente la mayoría de sus derechos de voto y la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.Los documentos extranjeros deben ser traducidos al español. Tanto el documento como la
-
-traducción deberán estar apostillados.
+	* En el caso de inversión realizada a través de una persona jurídica: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular que constate que la sociedad no tiene su sede en un paraíso fiscal, y que el inversor posee, directa o indirectamente la mayoría de sus derechos de voto y la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.Los documentos extranjeros deben ser traducidos al español. Tanto el documento como latraducción deberán estar apostillados.
 5. **Medios económicos**. Original y una copia de los documentos que prueben la disponibilidad de medios económicos propios suficientes, o que acrediten una fuente de percepción periódica de ingresos para el inversor y, en su caso, para los familiares que le acompañen. La cantidad mínima exigida equivale al 400% del IPREM. A esta cantidad hay que añadir el 100% del IPREM por cada familiar.
-6. **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
+6. **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
 7. **Seguro de enfermedad**. Original y una copia de un certificado de seguro de enfermedad público o privado, concertado con una entidad aseguradora autorizada a operar en España.
-8. **Prueba de la residencia en la demarcación consular**. Documentación acreditativa de su residencia en los Países Bajos (permiso de residencia permanente, permiso de trabajo, permiso de estudios, etc.).
+8. **Prueba de la residencia en la demarcación consular**. Documentación acreditativa de su residencia en los Países Bajos (permiso de residenciapermanente, permiso de trabajo, permiso de estudios, etc.).
 9. **Prueba la identidad y capacidad del representante**. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
 10. **Abono de la tasa de visado**. La tasa por la tramitación de este visado es de 60€ que puede abonarse en efectivo o con tarjeta de un banco local.
 
@@ -58,22 +56,14 @@ traducción deberán estar apostillados.
 
  * **Sujeto legitimado**: La solicitud de visado se presentará personalmente por el interesado, o por uno de sus progenitores, si es menor de edad. También se puede presentar a través de un representante debidamente acreditado.
 * **Plazo para solicitar el visado**: 1 año desde la realización de la inversión de capital. Este plazo no se aplica a las inversiones en bienes inmuebles, pero no admitirán las inversiones realizadas antes del 29 de septiembre de 2013.
-* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam. Solicite cita aquí:  [Visados Nacionales - Visado de inversor](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
+* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales - Visado de inversor](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
 * **Justificante de entrega**: La Oficina Consular entregará al interesado un resguardo de solicitud con un código que permite verificar el estado de tramitación del expediente a través del enlace: <https://sutramiteconsular.maec.es>
 * **Subsanación de la solicitud**: La Oficina Consular podrá pedir al solicitante que presente los documentos que falten, o que aporte documentos o datos adicionales que sean necesarios para resolver la solicitud. También podrá convocar al solicitante a una entrevista personal.
 * **Plazo para resolver**: El plazo legal para tomar una decisión es de 10 días a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.
 * **Retirada del visado**: El visado debe ser retirado personalmente por el interesado o por su representante, sin necesidad de cita, en el plazo máximo de 1 mes, contado a partir del día siguiente a la fecha en que se notifique la resolución favorable.Una vez resuelto y expedido el visado el Consulado se pondrá en contacto con el interesado para que venga a recogerlo de lunes a viernes de 09 a 14h sin necesidad de cita previa.
 * **Denegación del visado**: En su caso, la denegación del visado se notificará siempre por escrito, expresando los motivos en los que se basa la decisión adoptada.
 * **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
-* Todos los solicitantes de visado requieren un certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientes
-
-términos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de las
-
-enfermedades que pueden tener repercusiones de salud pública graves de conformidad
-
-con lo dispuesto en el Reglamento Sanitario Internacional de 2005.” Si el certificado se
-
-hace en idioma distinto del español, deberá aportarse traducción
+* Todos los solicitantes de visado requieren un certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005.” Si el certificado sehace en idioma distinto del español, deberá aportarse traducción
 * **Validez del visado**: El visado tiene una validez de 1 año. 
 
  El visado acredita la residencia en España durante su validez, no siendo necesario obtener una Tarjeta de Identidad de Extranjero. No obstante, se puede solicitar esta tarjeta ante la Oficina de Extranjeros o la Comisaría de Policía correspondiente.

@@ -49,6 +49,8 @@ Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 se
 
 No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
 
+\* Tengan en cuenta que debido a la falta de recursos el plazo de tramitación actual está entre dos y tres meses.
+
  Practicada la inscripción, se entregará un certificado literal de matrimonio y el Libro de familia. Si los contrayentes ya tienen hijos en común, se anotarán los nacidos en la demarcación consular. Para la anotación del resto de hijos, la Oficina Consular remitirá el Libro de familia al Registro civil en el que conste el nacimiento.
 
  La inscripción del matrimonio es gratuita.
@@ -143,6 +145,8 @@ Además, el matrimonio podrá celebrarse en el Consulado, siempre que se reúnan
 Póngase en contacto con el Registro Civil Consular para informarse sobre la forma de iniciar la solicitud de certificado de capacidad matrimonial.
 
 Una vez recibida la solicitud completa, nos pondremos en contacto con usted para concertar cita de comparecencia. En la fecha fijada, ambos contrayentes habrán de presentarse acompañados de un testigo, con el fin de firmar el expediente de capacidad matrimonial.
+
+\*POR FALTA DE PERSONAL LOS EXPEDIENTES DE MATRIMONIO PUEDEN DEMORARSE HASTA 6 MESES.
 
  
 

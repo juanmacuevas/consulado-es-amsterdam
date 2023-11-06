@@ -9,11 +9,11 @@
 
  Además, los nacionales de los siguientes países necesitan visado para hacer tránsito en la zona internacional de cualquier aeropuerto situado en España para tomar un vuelo de conexión hacia un país fuera del área Schengen:
 
- * Camerún, Costa de Marfil, Cuba, Djibuti, Gambia, Guinea, Guinea Bissau, Haití, India, Liberia, Mali, República del Congo, Sierra Leona, Siria, Togo, Turquía y Yemen. También necesitan visado los titulares de pasaportes expedidos por la Autoridad Palestina.
+ * Burkina Faso, Camerún, Costa de Marfil, Cuba, Djibuti, Gambia, Guinea, Guinea Bissau, Haití, India, Liberia, Mali, República del Congo, Sierra Leona, Siria, Tayikistán, Togo, Turquía, Uzbekistán y Yemen. También necesitan visado los titulares de pasaportes expedidos por la Autoridad Palestina.
 
  Los nacionales de los Estados incluidos en los listados anteriores no necesitan visado de tránsito aeroportuario cuando tengan un visado Schengen, u otro tipo de visado, o una tarjeta de residencia que permita el reingreso, expedidos por algún Estado miembro de la Unión Europea o del Espacio Económico Europeo (EEE) o Suiza, o por Andorra, Canadá, Estados Unidos, Japón, o San Marino, o por algunos de los países y territorios de ultramar del Reino de los Países Bajos, o cuando sean titulares de pasaporte diplomático, o familiares de ciudadanos de la Unión o del EEE o Suiza, o miembros de tripulaciones de vuelo de los Estados parte de la OACI.
 
- El área Schengen abarca 26 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, República Checa, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
+ El área Schengen abarca 27 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, República Checa, Croacia, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
 
  El visado de tránsito aeroportuario permite hacer tránsito en la zona internacional de los aeropuertos del área Schengen pero no permite entrar en el territorio de los Estados Schengen. Cuando la conexión implique el cambio de terminal aérea que exija el paso de un control de fronteras, será necesario solicitar un visado Schengen (ver apartado “Visados Schengen).
 
@@ -24,7 +24,7 @@
  Documentos necesarios
 ---------------------
 
- 1. **Formulario de solicitud de visado Schengen**. Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+ 1. **Formulario de solicitud de visado Schengen**.  [FORMULARIO VISADO SCHENGEN](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Suiza/Z%C3%9CRICH%20%28C%29/Solicitud%20visados%20Schengen%202020.pdf)  Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
 2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
 3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expecidos hace más 10 años.
 4. **Abono de la tasa de visado**.

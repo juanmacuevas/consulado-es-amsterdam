@@ -10,6 +10,8 @@ No haga envíos parciales de documentación. Envíe la solicitud cuando tenga to
 
 Si los documentos exigidos para esta inscripción se redactan en idioma neerlandés, deberán traducirse oficialmente al español (vea traductores jurados). Las traducciones deben legalizarse con Apostilla (vea información sobre la Apostilla en los Países Bajos). Cuando el matrimonio disuelto por sentencia de divorcio figure inscrito en este Registro Civil Consular, no será necesario aportar traducción.
 
+\* Tengan en cuenta que debido a la falta de recursos el plazo de tramitación actual está entre dos y tres meses.
+
  Inscripción de sentencia de divorcio extranjera
 -----------------------------------------------
 
@@ -42,5 +44,7 @@ Para solicitar la inscripción de su divorcio en el Registro Civil español, sie
 \* por documentos extranjeros se entiende aquellos de países extracomunitarios. Unicamnte estos deben estar legalizados o apostillados.
 
  ### Procedimiento
+
+ \* POR FALTA DE PERSONAL LOS EXPEDIENTES DE DIVORCIO PUEDEN DEMORARSE HASTA 6 MESES.
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Divorcios)

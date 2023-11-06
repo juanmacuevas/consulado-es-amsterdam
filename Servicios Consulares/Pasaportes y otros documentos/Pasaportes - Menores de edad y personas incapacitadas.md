@@ -5,9 +5,11 @@
 
   La presencia física del menor de edad o persona incapacitada ante la Oficina Consular es obligatoria en todos los casos. 
 
- https://exterioresedicion.maec.es/Consulados/amsterdam/
+ * [Formulario de consentimiento para la expedición de pasaporte a menores de edad o sujetos a tutela](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Consentimiento%20Pasaporte%20Menor.pdf)
 
- **Documentos adicionales a aportar** (además de los ya mencionados en el apartado “Requisitos para obtener un pasaporte”):
+ 
+
+**Documentos adicionales a aportar** (además de los ya mencionados en el apartado “Requisitos para obtener un pasaporte”):
 
  En el caso de menores de edad: 
 
@@ -43,6 +45,8 @@
 * Ante la Policía española.
 * Ante notario público.Los documentos expedidos por autoridades de terceros países a la UE deberán ser traducidos y apostillados.
 * Los documentos expedidos por autoridades de terceros Países a la UE deberán ser traducidos y apostillados.
+
+Para prestar el Consentimiento paterno/materno en el Consulado del pasaporte de un menor puede concertar cita enviando un correo electrónico al correo institucional del Consulado: cog.amsterdam@maec.es
 
  Huellas dactilares y firma
 --------------------------

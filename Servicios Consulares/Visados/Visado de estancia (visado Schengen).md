@@ -7,7 +7,7 @@
 
  [Enlace al formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/impreso%20solicitud%20visado%20Schengen.pdf)
 
- El área Schengen abarca 26 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, República Checa, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
+ El área Schengen abarca 27 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, Croacia, República Checa, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
 
  El visado Schengen permite viajar a cualquiera de los Estados Schengen y transitar por su territorio, pero no implica un derecho automático de entrada en el área Schengen. Las autoridades de frontera pueden denegar la entrada si no se aportan pruebas del motivo y las condiciones del viaje o si no se cumplen el resto de las condiciones de entrada (Ver apartado “Condiciones de entrada en España”).
 
@@ -22,9 +22,9 @@
 2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
 3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expedidos hace más de 10 años.
 4. **Seguro médico de viaje**. El seguro cubrirá los gastos de repatriación por motivos médicos o por defunción y la asistencia médica de urgencia o la atención hospitalaria de urgencia durante todo el período de la estancia y en toda el área Schengen. La cobertura mínima será de 30.000 euros o su equivalente en moneda local. Si se solicita un visado de múltiples entradas, el seguro médico será válido para el primer viaje previsto. El solicitante se comprometerá a contratar un seguro para los viajes sucesivos.
-5. **Abono de la tasa de visado**. La tasa por la tramitación de estos visados es de 60€. Pueden existir además tasas de reciprocidad para determinados países, como es el caso de Canadá y EE.UU. o Australia.El coste total debe ser abonado en el momento de su solicitud en efectivo o con tarjeta de un banco local.
+5. **Abono de la tasa de visado**. La tasa por la tramitación de estos visados es de 60€. Pueden existir además tasas de reciprocidadpara determinados países, como es el caso de Canadá y EE.UU. o Australia.El coste total debe ser abonado enel momento de su solicitud en efectivo o con tarjeta de un banco local.
 6. **Documentos que acrediten el motivo del viaje y las condiciones de la estancia, la disponibilidad de medios económicos suficientes, y que permitan establecer la intención del solicitante de abandonar el espacio Schengen antes de la caducidad del visado**.
-7. **Prueba de residencia en la demarcación consular**. Documentación acreditativa de su residencia en España (copia de la tarjeta de residencia, copia de la autorización de retorno, etc.).
+7. **Prueba de residencia en la demarcación consular**. Documentación acreditativa de su residencia en España (copia de la tarjeta de residencia,copia de la autorización de retorno, etc.).
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documento o datos adicionales y también podrá convocar al solicitante a una entrevista personal.
 
@@ -52,13 +52,7 @@
 * **Concesión del visado:**El visado no implica un derecho automático de entrada en el espacio Schengen. El viajero debe cumplir todas las condiciones legales de entrada (ver apartado “Condiciones de entrada en España”).
 * **Denegación del visado:**La denegación de un visado se notificará por escrito, expresando los motivos en los que se basa la decisión adoptada.
 * **Recurso:**En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de un mes a partir del día siguiente a la fecha de recepción de la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de dos meses a partir del día siguiente a la fecha de recepción de la notificación de la denegación del visado o de la desestimación del recurso de reposición.
-Certificado médico expedido por su médico de cabecera formulado en los siguientes
-
-términos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de las
-
-enfermedades que pueden tener repercusiones de salud pública graves de conformidad
-
-con lo dispuesto en el Reglamento Sanitario Internacional de 2005,Si el certificado se hace en idioma distinto del español, deberá aportarse traducción
+Certificado médico expedido por su médico de cabecera formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005,Si el certificado se hace en idioma distinto del español, deberá aportarse traducción 
 
 
   Las quejas o sugerencias sobre la atención recibida o sobre el procedimiento de solicitud de visado se pueden presentar por vía electrónica a través de esta página web También se puede presentar por escrito en esta Oficina Consular. 
@@ -81,7 +75,7 @@ con lo dispuesto en el Reglamento Sanitario Internacional de 2005,Si el certific
 |  | Ministerio de Asuntos Exteriores, Unión Europea y Cooperación |
 |  | Inspección General de Servicios |
 |  | Dirección postal: Plaza de la Provincia, 1, Madrid, España |
-|  |  Correo electrónico: [dpd@maec.es](mailto:dpd@maec.es) |
+|  |  Correo electrónico: [dpd@maec.esSe abre en ventana nueva](mailto:dpd@maec.es) |
 
  
 

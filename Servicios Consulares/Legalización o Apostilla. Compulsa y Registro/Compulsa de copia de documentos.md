@@ -15,6 +15,8 @@
 
  Las compulsas se realizarán en las oficinas del Consulado mediante cita previa que los ciudadanos deberán concertar en el sistema de citas on line del Consulado General de España en Amsterdam, ventanilla A.
 
+\* PARA REALIZAR UNA COMPULSA ES NECESARIO APORTAR ORIGINAL Y COPIA DE LOS DOCUMENTOS.
+
 Solicite cita aquí:
 
  [Compulsa de copia de documentos](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime) 

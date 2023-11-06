@@ -43,7 +43,11 @@ que le devolvamos los documentos anulados del fallecido, remita dentro del sobre
 
  TRAMITE NO PRESENCIAL.
 
-Para solicitar la inscripción de una defunción, debe remitir por correo postal a esta oficina la documentación indicada más arriba. Por favor, lea atentamente la información. No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos necesarios. Si tiene alguna duda al respecto, póngase en contacto con nosotros en: cog.amsterdam.rgc@maec.es
+Para solicitar la inscripción de una defunción, debe remitir por correo postal a esta oficina la documentación indicada más arriba. Por favor, lea atentamente la información. No haga envíos parciales de documentación.
+
+Envíe la solicitud cuando tenga todos los documentos necesarios. Si tiene alguna duda al respecto, póngase en contacto con nosotros en: cog.amsterdam.rgc@maec.es
+
+\* POR FALTA DE PERSONAL LOS EXPEDIENTES DE DEFUNCIONES PUEDEN DEMORARSE HASTA 6 MESES.
 
  Practicada la inscripción, se entregarán 3 certificados literales de defunción y, si se aporta Libro de familia, se anotará en él la defunción.
 

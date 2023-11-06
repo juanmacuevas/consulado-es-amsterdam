@@ -32,7 +32,7 @@ Frederiksplein 34
 
 Ver formularios en información
 
-\*Tengan en cuenta que el plazo de demora en la tramitación actualmente es de dos a tres meses desde la recepción de la solicitud.​
+\*Tengan en cuenta que la tramitación de los expedientes por falta de recursos puede DEMORARSE HASTA 6 MESES desde su recepción.
 
  ¿Qué documentación hay que presentar?
 -------------------------------------
@@ -40,6 +40,8 @@ Ver formularios en información
  Además de los documentos que se relacionan a continuación para cada uno de los supuestos, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. 
 
  justificante de residencia en Países Bajos (permiso de residencia o inscripción en el ayuntamiento)
+
+\* POR FALTA DE PERSONAL LOS EXPEDIENTES DE NACIONALIDAD POR LA LMD PUEDEN DEMORARSE HASTA 6 MESES.
 
  A salvo de lo dispuesto en los tratados internacionales, las certificaciones registrales extranjeras presentadas deberán entregarse debidamente legalizadas o apostilladas, según sea el caso. De igual modo, deberá aportarse traducción oficial efectuada por órgano o funcionario competente en caso de documentos no redactados en español.
 
