@@ -34,7 +34,7 @@
 
  A petición de las autoridades competentes, se deberá acreditar la disponibilidad de medios económicos suficientes para la estancia prevista o estar en condiciones de obtenerlos legalmente.
 
- En 2023, la cantidad mínima exigida es de 108 euros por persona y día. En todo caso, y con independencia del número de días de estancia, se exigirá una cantidad mínima de 972 euros o su equivalente en divisas. 
+ En 2024, la cantidad mínima exigida es de 113 euros por persona y día. En todo caso, y con independencia del número de días de estancia, se exigirá una cantidad mínima de 1020 euros o su equivalente en divisas. 
 
  Los medios económicos se pueden acreditar presentando dinero en efectivo, cheques de viaje, tarjetas de crédito acompañadas de extracto de la cuenta bancaria, libreta bancaria puesta al día o cualquier otro medio que acredite la cantidad disponible como crédito de la tarjeta o cuenta bancaria. No se admiten cartas de entidades bancarias ni extractos bancarios por internet. 
 

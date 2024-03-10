@@ -13,8 +13,6 @@
 
   El salvoconducto se puede solicitar sin necesidad de cita siempre que se justifique documentalmente la necesidad y la urgencia del viaje. 
 
- Para la tramitación de salvoconductos deberá concertarse cita previa a través del sistema de citas on line del Consulado General de España en Amsterdam, ventanilla A.
-
   El salvoconducto se expide en el mismo día, siempre que el interesado aporte los documentos necesarios y no existan impedimentos para su expedición. 
 
   Para obtener un salvoconducto es necesario estar inscrito en el Registro de Matrícula Consular. Si el interesado no está inscrito, solicitará la inscripción al mismo tiempo que el salvoconducto (Ver apartado “Alta de no residente”) 
@@ -31,7 +29,7 @@
  La autorización se hará siguiendo el mismo procedimiento establecido para los pasaportes (Ver apartado: “Pasaporte para menores de edad y personas incapacitadas”)
 4. En caso de pérdida o sustracción del pasaporte o DNI, se completará en la Oficina Consular el impreso de **[declaración de pérdida o sustracción de documentos españoles](https://www.exteriores.gob.es/Documents/DocumentosSC/Pasaportes%20y%20otros%20documentos/DeclaracionPerdida.pdf)**.
 
- La denuncia ante la policía local es siempre recomendable para evitar responsabilidades derivadas del uso fraudulento de la documentación por parte de terceras personas. En algunos casos, la denuncia puede ser necesaria para salir del país.
+ La denuncia ante la policía local es siempre recomendable para evitar responsabilidades derivadas del uso fraudulento de la documentación por parte de terceras personas. En algunos casos, la denuncia puede ser necesaria para salir del país. La necesidad de disponer de dicha denuncia es requerida por la mayoría de líneas aéreas que operan desde los Paises Bajos.
 5. **Billete de avión o de otro medio de transporte** que el solicitante vaya a utilizar para viajar a España.
 
   El salvoconducto tiene una validez limitada al tiempo estrictamente necesario para hacer un único viaje de ida a España. 

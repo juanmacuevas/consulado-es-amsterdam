@@ -67,19 +67,20 @@
 > 
 > 
 
-#### ​Calendario de festivos 2023
+#### ​Calendario de festivos 2024
 
-+ 02 de enero / Año Nuevo
-+ 06 de enero / Epifanía del Señor
-+ 06 de abril / Jueves Santo
-+ 07 de abril / Viernes Santo
-+ 10 de abril / Lunes de Pascua
-+ 27 de abril / Día del Rey
++ 01 de enero / Año Nuevo​
++ 02 de enero / Día siguiente a Año Nuevo
++ 28 de marzo / Jueves Santo
++ 29 de marzo / Viernes Santo
++ 01 de abril / Lunes de Pascua
++ 27 de abri​l / Día del Rey
 + 01 de mayo / Día del Trabajo
-+ 05 de mayo / Día de la Liberación
-+ 18 de mayo / Dia de la Ascensión ​
-+ 29 de mayo / Lunes de Pentecostés
++ 09 de mayo /  Día de la Ascensión
++ 20 de mayo / Lunes de Pentecostés
++ 15 de agosto / Día de la Asunción
 + 12 de octubre / Día Nacional de España
++ 01de noviembre /Día de todos los Santos
 + 06 de diciembre / Día de la Constitución española
 + 25 de diciembre / Navidad
 + 26 de diciembre / Segundo día de Navidad

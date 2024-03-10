@@ -81,13 +81,13 @@ Certificado médico expedido por su médico de cabecera formulado en los siguien
 
 Para este fin, se pueden utilizar los siguientes formularios
 
- * [Derecho de acceso (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.docx).
-* [Derecho de rectificación (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.docx).
-* [Derecho de supresión (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-supresion-es-en.docx).
+ * [Derecho de acceso (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.pdf).
+* [Derecho de rectificación (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.pdf).
+* [Derecho de supresión (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-supresion-es-en.pdf).
 
  Las personas cuya solicitud de visado haya sido denegada a causa de tener una prohibición de entrada en el espacio Schengen, pueden ejercer sus derechos de acceso, corrección y supresión de sus datos personales en el Sistema de Información Schengen (SIS) dirigiéndose al Ministerio del Interior.
 
-  Para obtener más información sobre sus derechos y deberes y sobre cómo ejercer los derechos de acceso, corrección y supresión de datos incluidos en el SIS, se puede consultar la [página web de la Agencia Española de Protección de Datos.](https://www.aepd.es/es/derechos-y-deberes/conoce-tus-derechos/derechos-schengen) 
+  Para obtener más información sobre sus derechos y deberes y sobre cómo ejercer los derechos de acceso, corrección y supresión de datos incluidos en el SIS, se puede consultar la [página web de la Agencia Española de Protección de Datos.](https://www.aepd.es/internacional/supervision-de-grandes-sistemas) 
 
  
 

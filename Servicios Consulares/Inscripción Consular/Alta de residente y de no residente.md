@@ -36,13 +36,13 @@
 
  La inscripción consular se realizará por correo postal no siendo necesaria la presencia física de los inscritos. La dirección del Consulado General es la siguiente:
 
-CONSULAAT GENERAAL SPANJE
+SPAANS CONSULAAT GENERAAL
 
 Frederiksplein 34
 
-1017 XN Amsterdam.
+1017 XN Amsterdam
 
-El plazo de tramitación actual de las solicitudes de inscripción enviadas por correo postal puede demorarse entre DOS Y TRES MESES.
+El plazo de tramitación actual de las solicitudes de inscripción enviadas puede demorarse entre DOS y TRES MESES.
 
 Las solicitudes enviadas que no tengan la documentación completa o incorrectamente cumplimentada serán archivadas sin más trámite.
 

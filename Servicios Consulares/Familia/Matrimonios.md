@@ -17,39 +17,53 @@
 
  Además de los documentos que se relacionan a continuación, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente.
 
- Hoja declaratoria de datos para la inscripción del matrimonio, firmada por el declarante.
+ - Hoja declaratoria de datos para la inscripción del matrimonio, firmada por el declarante.
 
-[formulario](https://www.exteriores.gob.es/Documents/DocumentosSC/Familia/Hoja%20declaratoria%20inscripci%C3%B3n%20matrimonio.pdf)
 
-•Certificado literal de matrimonio expedido por el Registro Civil local.
+[pinche este enlace](https://www.exteriores.gob.es/Documents/DocumentosSC/Familia/Hoja%20declaratoria%20inscripci%C3%B3n%20matrimonio.pdf)
 
-•Copia del D.N.I. o pasaporte de los cónyuges.
+- Certificado literal de matrimonio expedido por el Registro Civil local.
 
-•Certificado literal de nacimiento de los cónyuges de nacionalidad española, expedido por el Registro Civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
 
-•Si alguno de los cónyuges no es español, certificado literal de nacimiento expedido por el Registro civil de su país.
+- Copia del D.N.I. o pasaporte de los cónyuges.
 
-•Si alguno de los cónyuges españoles era divorciado en el momento de celebrar el matrimonio, certificado literal del anterior matrimonio con nota marginal de divorcio, expedido por el Registro Civil español. Este certificado no será necesario si el anterior matrimonio está inscrito en esta Oficina Consular.
 
-•Si alguno de los cónyuges españoles era viudo en el momento de celebrar el matrimonio, certificado literal de matrimonio anterior expedido por el Registro Civil español y certificado de defunción del anterior cónyuge expedido por el Registro civil competente.
+- Certificado literal de nacimiento de los cónyuges de nacionalidad española, expedido por el Registro Civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
 
-•Si el contrayente divorciado o viudo es extranjero, aportará certificado de estado civil o documento equivalente expedido por las autoridades de su país.
 
-•Si los cónyuges tienen hijos en común, se aportará el Libro de familia original. En su defecto, se anotará en la solicitud los nombres y apellidos y la fecha y lugar de nacimiento de los hijos.
+- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
 
-Si los hijos no han nacido en esta demarcación consular, para que sus nacimientos se anoten en el Libro de familia, se aportarán los certificados literales de nacimiento de los hijos expedidos por el Registro civil español competente
 
-Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1 (por favor, no los pegue en el sobre). Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+- Si alguno de los cónyuges no es español, certificado literal de nacimiento expedido por el Registro civil de su país.
 
-\* Por documentos extranjeros se entiende aquellos de países extracomunitarios dado que son estos los unicos que requieren legalización o apostilla.
+
+- Si alguno de los cónyuges españoles era divorciado en el momento de celebrar el matrimonio, certificado literal del anterior matrimonio con nota marginal de divorcio, expedido por el Registro Civil español. Este certificado no será necesario si el anterior matrimonio está inscrito en esta Oficina Consular.
+
+
+- Si alguno de los cónyuges españoles era viudo en el momento de celebrar el matrimonio, certificado literal de matrimonio anterior expedido por el Registro Civil español y certificado de defunción del anterior cónyuge expedido por el Registro civil competente.
+
+
+- Si el contrayente divorciado o viudo es extranjero, aportará certificado de estado civil o documento equivalente expedido por las autoridades de su país.
+
+
+- Si los cónyuges tienen hijos en común, se aportará el Libro de familia original. En su defecto, se anotará en la solicitud los nombres y apellidos y la fecha y lugar de nacimiento de los hijos.
+
+
+- Si los hijos no han nacido en esta demarcación consular, para que sus nacimientos se anoten en el Libro de familia, se aportarán los certificados literales de nacimiento de los hijos expedidos por el Registro civil español competente.
+
+
+*Por documentos extranjeros se entiende aquellos de países extracomunitarios dado que son estos los únicos que requieren legalización o apostilla.*
 
  ### Procedimiento
 
- Para solicitar la inscripción de su matrimonio en el Registro Civil español, debe remitir por correo postal a esta oficina la documentación indicada más arriba. Por favor, lea la información atentamente.
+ * Para solicitar la inscripción de su matrimonio en el Registro Civil español, debe remitir por correo postal a esta oficina la documentación indicada más arriba. Por favor, lea la información atentamente.
 
-No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
 
-\* Tengan en cuenta que debido a la falta de recursos el plazo de tramitación actual está entre dos y tres meses.
+* No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
+
+
+* Tengan en cuenta que debido a la falta de recursos el plazo de tramitación actual está entre dos y tres meses.
+
 
  Practicada la inscripción, se entregará un certificado literal de matrimonio y el Libro de familia. Si los contrayentes ya tienen hijos en común, se anotarán los nacidos en la demarcación consular. Para la anotación del resto de hijos, la Oficina Consular remitirá el Libro de familia al Registro civil en el que conste el nacimiento.
 
@@ -87,47 +101,57 @@ No haga envíos parciales de documentación. Envíe la solicitud cuando tenga to
 
  Los documentos de países extracomunitarios deben estar legalizados o apostillados y, en su caso, traducidos oficialmente al castellano.
 
-1. Breve escrito firmado por ambos contrayentes para solicitar incoacción de expediente de matrimonio donde se exprese en qué localidad española proyectan casarse y ante qué autoridad se va a celebrar: Juzgado, ayuntamiento o notario.
+* Breve escrito firmado por ambos contrayentes para solicitar incoacción de expediente de matrimonio donde se exprese en qué localidad española proyectan casarse y ante qué autoridad se va a celebrar: Juzgado, ayuntamiento o notario.
 
-2.Copia del DNI o pasaporte de los contrayentes.
 
-3.Certificado literal de nacimiento de los contrayentes expedido por el Registro civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
+* Copia del DNI o pasaporte de los contrayentes.
 
-4.Si uno de los contrayentes es extranjero:
 
-•certificado literal de nacimiento expedido por las autoridades de su país.
+* Certificado literal de nacimiento de los contrayentes expedido por el Registro civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
 
-•certificado de estado civil o documento equivalente expedido por las autoridades de su país.
 
-5.Si alguno de los contrayentes españoles es divorciado, certificado literal del matrimonio anterior con nota marginal de divorcio, expedido por el Registro Civil español (no será necesario si está inscrito en esta Oficina Consular).
+* Si uno de los contrayentes es extranjero, deberá aportar certificado que acredite su estado civil actual (fe de vida y estado), debidamente traducido al español y legalizado. Los nacionales de Países Bajos y Antillas Neerlandesas, Austria, Italia, Luxemburgo y Portugal, en lugar de fe de vida y estado, deberán aportar certificado de capacidad matrimonial ajustado al convenio firmado en Múnich, 05.09.1980 (nombre del documento en neerlandés *"Verklaring Huwelijksbevoegdheid"*)
 
-6.Si alguno de los contrayentes españoles es viudo, certificado literal del matrimonio anterior expedido por el Registro Civil español y certificado literal de defunción del anterior cónyuge expedido por el Registro civil competente (no será necesario si está inscrito en esta Oficina Consular).
 
-7.Datos de identidad y de contacto y copia del DNI o pasaporte de dos testigos (familiares o allegados).
+* Si alguno de los contrayentes españoles es divorciado, certificado literal del matrimonio anterior con nota marginal de divorcio, expedido por el Registro Civil español (no será necesario si está inscrito en esta Oficina Consular).
 
-8. Certificado de empadronamiento expedido por el ayuntamiento neerlandés de su domicilio, donde se indique desde qué fecha residen en los Países Bajos.
 
-9.Si alguno de los contrayentes no reside en la demarcación consular, se indicarán sus datos de contacto. La tramitación correspondiente a este contrayente se realizará en el Registro civil español competente en función de su domicilio.
+* Si alguno de los contrayentes españoles es viudo, certificado literal del matrimonio anterior expedido por el Registro Civil español y certificado literal de defunción del anterior cónyuge expedido por el Registro civil competente (no será necesario si está inscrito en esta Oficina Consular).
 
-Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+
+* Datos de identidad y de contacto y copia del DNI o pasaporte de dos testigos (familiares o allegados).
+
+
+* Certificado de empadronamiento expedido por el ayuntamiento neerlandés de su domicilio, donde se indique desde qué fecha residen en los Países Bajos.
+
+
+* Si alguno de los contrayentes no reside en la demarcación consular, se indicarán sus datos de contacto. La tramitación correspondiente a este contrayente se realizará en el Registro civil español competente en función de su domicilio.
+
+
+* Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+
+
 
  ### Procedimiento
 
- Los contrayentes deberán acudir personalmente a la Oficina Consular para los trámites que requieran la comparecencia personal, cuando sean convocados para ello, y se identificarán con el original de su DNI o pasaporte.
+ 
+
+Los contrayentes deberán acudir personalmente a la Oficina Consular para los trámites que requieran la comparecencia personal, cuando sean convocados para ello, y se identificarán con el original de su DNI o pasaporte.
 
  Los españoles residentes en el extranjero que deseen casarse civilmente en España tienen que iniciar el expediente previo al matrimonio en el Consulado de su residencia. Más arriba se indica la documentación que debe remitir para solicitar la incoación de expediente previo al matrimonio. Por favor, lea la información atentamente.
 
-El envío se hará obligatoriamente por correo postal.
+**El envío se hará obligatoriamente por correo postal.**
 
 No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso (en particular, si alguno de los contrayentes es divorciado o de nacionalidad distinta a la española). Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
 
 Además, el matrimonio podrá celebrarse en el Consulado, siempre que se reúnan las siguientes condiciones:
 
-1.Ambos contrayentes sean españoles,
+Ambos contrayentes sean españoles, 
 
-2.Ninguno de los contrayentes sea neerlandés, además de español.
+Ninguno de los contrayentes sea neerlandés, además de español.
 
-3.Al menos uno de los contrayentes resida en Países Bajos y figure inscrito como residente en este Consulado.
+Al menos uno de los contrayentes resida en Países Bajos y figure inscrito como residente en este Consulado.
+
 
  
 
@@ -136,7 +160,9 @@ Además, el matrimonio podrá celebrarse en el Consulado, siempre que se reúnan
  Certificado de capacidad matrimonial
 ------------------------------------
 
- Algunos países exigen la presentación de un certificado de capacidad matrimonial para poder contraer matrimonio ante las autoridades locales.
+ 
+
+Algunos países exigen la presentación de un certificado de capacidad matrimonial para poder contraer matrimonio ante las autoridades locales.
 
  Los españoles inscritos como residentes en esta Oficina Consular pueden solicitar un certificado de capacidad matrimonial. También lo pueden solicitar los extranjeros residentes en esta demarcación consular que vaya a contraer matrimonio con un español.
 
@@ -146,7 +172,7 @@ Póngase en contacto con el Registro Civil Consular para informarse sobre la for
 
 Una vez recibida la solicitud completa, nos pondremos en contacto con usted para concertar cita de comparecencia. En la fecha fijada, ambos contrayentes habrán de presentarse acompañados de un testigo, con el fin de firmar el expediente de capacidad matrimonial.
 
-\*POR FALTA DE PERSONAL LOS EXPEDIENTES DE MATRIMONIO PUEDEN DEMORARSE HASTA 6 MESES.
+POR FALTA DE PERSONAL LOS EXPEDIENTES DE MATRIMONIO PUEDEN DEMORARSE HASTA 6 MESES.
 
  
 
@@ -155,12 +181,17 @@ Una vez recibida la solicitud completa, nos pondremos en contacto con usted para
  Normativa básica
 ----------------
 
- * [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
-* [Ley de 8 de junio de 1957 sobre el Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1957-7537)
-* [Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento del Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1958-18486)
++ [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
++ [Ley de 8 de junio de 1957 sobre el Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1957-7537)
++ [Decreto de 14 de noviembre de 1958 por el que se aprueba el Reglamento del Registro Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1958-18486)
 
- 
+
 
 ---
 
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Matrimonios)
+
+
+
+ 
+
+ [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Matrimonios)

@@ -5,7 +5,11 @@
  Fe de vida para pensión
 -----------------------
 
- La vida se prueba mediante la comparecencia personal. La fe de vida es necesaria para el cobro de pensión abonada por la Seguridad Social española.
+ Las personas perceptoras de pensiones a cargo de la Seguridad Social española, en su modalidad contributiva, residentes en el extranjero, pueden acreditar la vida mediante:
+
+ * El uso de la aplicación móvil VIVESS desarrollada por el INSS (run.gob.es/vopvivess).
+* Certificado de fe de vida y estado mediante comparecencia personal en la Oficina Consular (ver siguiente apartado para los requisitos).
+* Certificación de comparecencia expedida por la Consejería o Sección de Trabajo, Migraciones y Seguridad Social.
 
  Requisitos
 ----------
@@ -26,14 +30,12 @@
 
  Para obtener una fe de vida es necesario acudir personalmente a la Oficina Consular. La fe de vida es gratuita.
 
- Se trata de un TRÁMITE PRESENCIAL.
-
-Los CERTIFICADOS DE FES DE VIDA PARA PENSIONES podrán solicitarse en el Consulado SIN CITA PREVIA.
-
- Fe de vida y estado para matrimonio o pareja de hecho
+ Se trata de un TRÁMITE PRESENCIAL.Los CERTIFICADOS DE FES DE VIDA PARA PENSIONES podrán solicitarse en el Consulado SIN CITA PREVIA. Fe de vida y estado para matrimonio o pareja de hecho
 -----------------------------------------------------
 
- La fe de vida y estado prueba la vida y el estado civil. Se suele expedir para tramitar un expediente matrimonial o una inscripción como pareja de hecho.
+ 
+
+La fe de vida y estado prueba la vida y el estado civil. Se suele expedir para tramitar un expediente matrimonial o una inscripción como pareja de hecho.
 
  A los efectos de contraer matrimonio o registrarse como pareja de hecho, para probar el estado civil, será necesario aportar además un certificado literal de nacimiento. Para probar el estado civil de casado, divorciado o viudo se deberá aportar además el certificado literal de matrimonio y, en su caso, la sentencia de divorcio o el certificado de defunción del cónyuge.
 
@@ -47,14 +49,12 @@ Los CERTIFICADOS DE FES DE VIDA PARA PENSIONES podrán solicitarse en el Consula
 
  La fe de vida y estado exige la comparecencia personal del interesado ante la Oficina Consular de su domicilio. La fe de vida y estado es gratuita.
 
- Para la solicitud de este certificado de FE DE VIDA Y ESTADO es necesario concertar CITA PREVIA enviando un correo electrónico a la siguiente dirección:
-
-cog.amsterdam.rgc@maec.es . No olvide adjuntar en su correo copia de su certificado literal de nacimiento español no expedido hace más de 6 meses.
-
- Extranjeros
+ Para la solicitud de este certificado de FE DE VIDA Y ESTADO es necesario concertar CITA PREVIA enviando un correo electrónico a la siguiente dirección:cog.amsterdam.rgc@maec.es . No olvide adjuntar en su correo copia de su certificado literal de nacimiento español no expedido hace más de 6 meses. Extranjeros
 -----------
 
- Los extranjeros que necesiten una fe de vida o una fe de vida y estado deben acudir a las autoridades del país de su nacionalidad, pero podrán obtener una fe de vida y estado en esta Oficina Consular cuando su nacimiento esté inscrito en el Registro Civil español.
+ 
+
+Los extranjeros que necesiten una fe de vida o una fe de vida y estado deben acudir a las autoridades del país de su nacionalidad, pero podrán obtener una fe de vida y estado en esta Oficina Consular cuando su nacimiento esté inscrito en el Registro Civil español.
 
  Para acreditar la vida ante una autoridad española, también podrán hacerlo por comparecencia ante el órgano competente o por acta notarial de presencia. Para acreditar el estado civil ante una autoridad española, también podrán hacerlo por declaración jurada o afirmación solemne o por acta de notoriedad.
 

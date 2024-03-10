@@ -40,6 +40,30 @@ Tras su llegada a España, los trabajadores extranjeros deberán causar alta en 
 
 
   
+
+
+Viajar con animales de compañía a España​​
+------------------------------------------
+
+El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con un apartado con información actualizada sobre “Viajar con animales de compañía". La información está disponible en castellano, inglés y francés en el siguiente enlace:  
+
+
+[Ministerio de Agricultura, Pesca y Alimentación - Viajar con animales de compañía](https://www.mapa.gob.es/es/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx)  
+
+
+​En la citada página web se detallan los aeropuertos/puertos autorizados para la introducción de animales de compañía en España procedentes de países que no forman parte de la Unión Europea, así como los datos de contacto del Servicio de Sanidad Animal de los aeropuertos y puertos autorizados.  
+
+
+Tambiém dispone de información sobre la introducción de mascotas en el territorio de la Unión Europea y sobre el control veterinario en frontera.​  
+
+
+  
+
+
+  
+
+
+  
   
 
 

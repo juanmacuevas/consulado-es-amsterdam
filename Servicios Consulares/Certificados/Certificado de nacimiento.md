@@ -9,9 +9,15 @@
 
  El certificado se puede solicitar por correo postal, por correo electrónico o presencialmente, en la Oficina Consular.
 
- En esta Oficina Consular el certificado de nacimiento únicamnte puede solicitarse por corrreo postal. Se trata, pues, de un TRAMITE NO PRESENCIAL.
+ **ATENCION:**
+
+**En esta Oficina Consular el certificado de nacimiento únicamente puede solicitarse por correo postal.** 
 
 Si usted reside en los Países Bajos y necesita un certificado de un nacimiento inscrito en el Registro Civil de este Consulado, debe remitir la documentación por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, Frederiksplein 34, 1017XN Ámsterdam.
+
+Si usted reside en España, tendrá que solicitar su certificado al Registro Civil Central de Madrid.
+
+En el caso de haber nacido en España u otra demarcación consular, deberá dirigir su solicitud directamente al Registro Civil u Oficina Consular donde se registró su nacimiento.
 
 Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.amsterdam.rgc@maec.es, para recibir instrucciones para la obtención de este certificado.
 
