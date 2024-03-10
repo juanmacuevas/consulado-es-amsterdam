@@ -6,13 +6,15 @@ A diferencia del sitio web oficial, cuya estructura puede complicar la búsqueda
 
 ## Contenido y Búsqueda
 
-La información se organiza en carpetas denominadas [Páginas](./Páginas) y [Servicios Consulares](./Servicios%20Consulares), y se actualiza automáticamente cada semana. Esto asegura que los usuarios tengan acceso a la información más reciente y pertinente. 
-Además, mediante el uso del buscador de GitHub, el repositorio facilita la búsqueda rápida de documentos con palabras específicas, como por ejemplo [pasaporte](https://github.com/search?q=repo%3Ajuanmacuevas%2Fconsulado-es-amsterdam+language%3AMarkdown+pasaporte&type=code) o [elecciones](https://github.com/search?q=repo%3Ajuanmacuevas%2Fconsulado-es-amsterdam%20elecciones&type=code).
+La información se organiza en dos carpetas. [Páginas](./Páginas) contiene informacion general, noticias, etc. En [Servicios Consulares](./Servicios%20Consulares) se encuentra la documentacion para realizar distintos trámites y gestiones consulares. 
+
+Mediante el uso del buscador de GitHub, el repositorio facilita la búsqueda rápida de documentos usando palabras específicas, como por ejemplo [pasaporte](https://github.com/search?q=repo%3Ajuanmacuevas%2Fconsulado-es-amsterdam+language%3AMarkdown+pasaporte&type=code) o [elecciones](https://github.com/search?q=repo%3Ajuanmacuevas%2Fconsulado-es-amsterdam%20elecciones&type=code).
 
 ## Información Actualizada Periódicamente
 
 El mecanismo para detectar cambios (script de Python automatizado con GitHub Actions) se ejecuta cada lunes y navega por todo el sitio web del consulado, identifica diferencias en el contenido desde su última visita y actualiza este repositorio con la información más reciente.
-Se muestra un registro detallado de todas las modificaciones aplicadas en el [historial de cambios](https://github.com/juanmacuevas/consulado-es-amsterdam/commits) proporcionado por el repositorio. Existe la opción de recibir notificaciones dándole al botón "👁️ Watch" del repositorio.
+
+Se puede ver un registro detallado de todas las modificaciones aplicadas en el [historial de cambios](https://github.com/juanmacuevas/consulado-es-amsterdam/commits) proporcionado por el repositorio. Además existe la opción de recibir notificaciones por email dándole al botón "👁️ Watch" del repositorio.
 
 ## Comentarios y Quejas sobre los Contenidos
 
@@ -32,6 +34,7 @@ pip install -r requirements.txt
 python download-servicios-consulares.py
 ```
 
+
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para detalles.
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
