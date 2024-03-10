@@ -1,0 +1,42 @@
+name: Actualizar Servicios Consulares
+
+on:
+  schedule:
+    # Cron job para ejecutarse a las 20:00 cada domingo. La hora está en UTC.
+    - cron: '0 20 * * 0'
+  workflow_dispatch: # Permite la ejecución manual del workflow
+
+jobs:
+  actualizar-contenidos:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout del repositorio
+      uses: actions/checkout@v2
+      with:
+        ref: dev # Asegúrate de hacer checkout de la rama correcta
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8' # Asegúrate de usar la versión de Python que necesites
+
+    - name: Instalar dependencias
+      run: |
+        python -m venv venv # Crea un entorno virtual
+        source venv/bin/activate # Activa el entorno virtual
+        pip install -r requirements.txt
+
+    - name: Ejecutar script de scraping
+      run: |
+        source venv/bin/activate # Activa el entorno virtual
+        python download-servicios-consulares.py
+
+    - name: Añadir cambios al staging
+      run: git add .
+
+    - name: Commit cambios
+      run: git diff --quiet || git commit -m "Cambio en contenidos"
+
+    - name: Push al origen
+      run: git push origin dev
