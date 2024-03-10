@@ -20,7 +20,7 @@ Se puede ver un registro detallado de todas las modificaciones aplicadas en el [
 
 Algunos documentos contienen errores, bien sea por información incorrecta, desactualizada en la fuente original, o debido a desafíos en el proceso de copia automatizada. Si encuentras algún error o inexactitud en los documentos, te animamos a contribuir añadiendo un comentario en la línea específica que contiene el error: haz clic en el número de la línea, click en los tres puntos, y elige "Reference in new issue". Para ver los números de línea debes estar en modo "Code" o "Blame", no en "Preview".
 
-Los errores identificados serán comunicados al Consulado para su corrección, contribuyendo así a la mejora continua de la calidad de la información ofrecida tanto en este repositorio como en la fuente oficial.
+Los errores identificados están disponibles en el [listado de Issues](https://github.com/juanmacuevas/consulado-es-amsterdam/issues) y serán comunicados al Consulado para su corrección, contribuyendo así a la mejora continua de la calidad de la información ofrecida tanto en este repositorio como en la fuente oficial.
 
 
 ### Ejecutando el Script Localmente
