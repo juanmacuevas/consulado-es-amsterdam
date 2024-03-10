@@ -153,5 +153,5 @@ pages = [('Páginas', 'Consul', 'https://www.exteriores.gob.es/Consulados/amster
 
 pages += fetch_pages_servicios()
 for p in pages:    
-    save_markdown_content(p,3)
+    save_markdown_content(p,1)
 

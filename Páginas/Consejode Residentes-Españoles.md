@@ -10,8 +10,6 @@ Lo componen los siguientes consejeros:
 * Dª María Bruquetas Callejo, Presidenta.
 * Dª. Anna Domingo Escarmís.Secretaria.
 * Dª Maria de Sales Ramón Chordá. Consejera en el CGCEE.
-* Dª Sara Caminero Blanco.
-* D. Jaime Corbí Mongio
 * Dª. María Elena Prado Alonso.
 
    
