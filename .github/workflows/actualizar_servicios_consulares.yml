@@ -2,8 +2,8 @@ name: Actualizar Servicios Consulares
 
 on:
   schedule:
-    # Cron job para ejecutarse a las 20:00 cada domingo. La hora está en UTC.
-    - cron: '0 20 * * 0'
+    # Cron job para ejecutarse antes de las 2:00 cada lunes. La hora está en UTC.
+    - cron: '43 1 * * 1'
   workflow_dispatch: # Permite la ejecución manual del workflow
 
 jobs:
