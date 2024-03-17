@@ -2,6 +2,6 @@ requests
 beautifulsoup4
 fake-useragent
 markdownify
-PyYAML
+pyyaml
 selenium
 webdriver-manager
