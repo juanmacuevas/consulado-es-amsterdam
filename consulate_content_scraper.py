@@ -115,7 +115,7 @@ def update_last_fetched(url):
 def scrape_general_pages(browser):
     """Scrape general pages."""
     sorted_pages = sorted(PAGES_DATA, key=lambda x: x['updated'])
-    candidates = sorted_pages[:6]
+    candidates = sorted_pages[:10]
     random.shuffle(candidates)
     for candidate in candidates:
                 

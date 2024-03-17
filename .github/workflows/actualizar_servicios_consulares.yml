@@ -17,6 +17,11 @@ jobs:
       with:
         ref: develop 
 
+    - name: Configurar Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
