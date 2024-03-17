@@ -15,12 +15,12 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v3
       with:
-        ref: develop # Asegúrate de hacer checkout de la rama correcta
+        ref: develop 
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8' # Asegúrate de usar la versión de Python que necesites
+        python-version: '3.8' 
 
     - name: Instalar dependencias
       run: |
@@ -39,7 +39,8 @@ jobs:
       run: git add .
 
     - name: Commit cambios
-      run: git diff --quiet || git commit -m "Cambio en contenidos"
+      run: |
+        git commit -m "Cambio en contenidos" || echo "No changes to commit."
 
     - name: Push al origen
       run: git push origin develop
