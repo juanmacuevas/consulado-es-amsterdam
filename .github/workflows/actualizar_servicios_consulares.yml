@@ -3,7 +3,8 @@ name: Actualizar Servicios Consulares
 on:
   schedule:
     # Cron job para ejecutarse antes de las 2:00 cada lunes. La hora está en UTC.
-    - cron: '43 1 * * 1'
+    # - cron: '43 1 * * 1'
+    - cron: '10 8-15 * * *'
   workflow_dispatch: # Permite la ejecución manual del workflow
 
 jobs:
@@ -30,7 +31,9 @@ jobs:
     - name: Ejecutar script de scraping
       run: |
         source venv/bin/activate # Activa el entorno virtual
-        python download-servicios-consulares.py
+        python consulate_content_scraper.py
+      
+      # python download-servicios-consulares.py
 
     - name: Añadir cambios al staging
       run: git add .
