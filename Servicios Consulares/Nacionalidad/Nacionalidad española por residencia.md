@@ -8,13 +8,13 @@
  * Cinco años: para aquellas personas que hayan obtenido la condición de refugiado.
 * Dos años: para los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o personas de origen sefardí.
 * Sólo será necesario un año para:
-1. El que haya nacido en territorio español.
-2. El que no ejerció debidamente su derecho a adquirir la nacionalidad española por opción.
-3. El que haya estado sujeto legalmente a la tutela de un ciudadano o institución españoles durante dos años consecutivos, incluso si continúa en esta situación en el momento de la solicitud.
-4. El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
-5. El que, en el momento de la solicitud, lleve un año casado con un español o española y no esté separado legalmente o de hecho.
-6. El viudo o viuda de española o español, si en el momento de la muerte del cónyuge no estaban separados legalmente o de hecho.
-7. El nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles.
++ El que haya nacido en territorio español.
++ El que no ejerció debidamente su derecho a adquirir la nacionalidad española por opción.
++ El que haya estado sujeto legalmente a la tutela de un ciudadano o institución españoles durante dos años consecutivos, incluso si continúa en esta situación en el momento de la solicitud.
++ El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
++ El que, en el momento de la solicitud, lleve un año casado con un español o española y no esté separado legalmente o de hecho.
++ El viudo o viuda de española o español, si en el momento de la muerte del cónyuge no estaban separados legalmente o de hecho.
++ El nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles.
 
  Además, el interesado deberá acreditar buena conducta cívica, y suficiente grado de integración en la sociedad española.
 

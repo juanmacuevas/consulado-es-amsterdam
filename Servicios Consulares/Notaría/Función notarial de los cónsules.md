@@ -2,8 +2,6 @@
 
   Los Cónsules de España pueden ejercer funciones notariales, como los notarios en España, aunque estas funciones están sujetas a algunas limitaciones.
 
- 
-
 Los Cónsules podrán ejercer funciones notariales siempre que lo permitan las leyes del país en el que desempeñan sus funciones. En todo caso, los Cónsules no autorizan instrumentos notariales cuya finalidad sea producir efectos exclusivamente en el extranjero.
 
  Cuando un español necesite otorgar un instrumento que deba producir efectos en el extranjero, deberá acudir a un notario local.

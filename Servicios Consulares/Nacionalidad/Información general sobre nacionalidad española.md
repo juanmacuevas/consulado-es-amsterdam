@@ -21,22 +21,22 @@
 
  La nacionalidad derivativa la concede el Estado a las personas que la solicitan siempre que cumplan determinados requisitos legales. Éstas son las diferentes vías para adquirirla:
 
- 1. **Nacionalidad por opción** 
+ * **Nacionalidad por opción** 
 
  La opción es un beneficio que nuestra legislación ofrece a extranjeros que se encuentran en determinadas condiciones para que adquieran la nacionalidad española. Tendrán derecho a adquirir la nacionalidad española por esta vía:
 
 
-	* Las personas que estén o hayan estado sujetos a la patria potestad de un español.
-	* Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.Ver apartado “Opción”.
+	+ Las personas que estén o hayan estado sujetos a la patria potestad de un español.
+	+ Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.Ver apartado “Opción”.
   
-3. **Nacionalidad por residencia** 
+* **Nacionalidad por residencia** 
 
  Esta forma de adquisición de la nacionalidad exige la residencia de la persona en España de forma legal, continuada e inmediatamente anterior a la solicitud. Dependiendo de la nacionalidad previa y de las circunstancias personales, varía el número de años de residencia necesarios para adquirir la nacionalidad. Las Oficinas Consulares españolas no realizan trámites de nacionalidad por residencia.
 
    
  Ver apartado “Nacionalidad por residencia”.
   
-5. **Nacionalidad por carta de naturaleza** 
+* **Nacionalidad por carta de naturaleza** 
 
  Es una forma extraordinaria de adquisición de la nacionalidad que no se sujeta a las normas generales del procedimiento administrativo. Es otorgada o no discrecionalmente por el Gobierno tras valorar la concurrencia de circunstancias excepcionales. Las Oficinas Consulares se limitan a remitir este tipo de solicitudes de nacionalidad al Ministerio de Justicia, sin intervenir más en el procedimiento.
 
