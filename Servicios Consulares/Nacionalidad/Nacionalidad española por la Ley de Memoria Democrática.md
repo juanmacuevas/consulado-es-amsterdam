@@ -5,9 +5,9 @@
 
  Según la [Ley 20/2022, de 19 de octubre, de Memoria Democrática](https://www.boe.es/boe/dias/2022/10/20/pdfs/BOE-A-2022-17099.pdf) y [la Instrucción de 25 octubre de 2022 de la Dirección General de Seguridad Jurídica y Fe Pública sobre el derecho de opción a la nacionalidad española establecido en la disposición adicional octava de la Ley de Memoria Democrática](https://www.boe.es/boe/dias/2022/10/26/pdfs/BOE-A-2022-17470.pdf), podrán optar a la nacionalidad española:
 
- 1. Los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles, y los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles y que, como consecuencia de haber sufrido exilio por razones políticas, ideológicas o de creencia o de orientación e identidad sexual, hubieran perdido o renunciado a la nacionalidad española [(Anexo I).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%201.pdf)
-2. Los hijos e hijas nacidos en el exterior de mujeres españolas que perdieron su nacionalidad por casarse con extranjeros antes de la entrada en vigor de la Constitución de 1978 [(Anexo II).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%202.pdf)
-3. Los hijos e hijas mayores de edad de aquellos españoles a quienes les fue reconocida su nacionalidad de origen en virtud del derecho de opción de acuerdo a lo dispuesto en Ley de Memoria Democrática (Ley 20/2022) o en la llamada Ley de Memoria Histórica (Ley 52/2007) [(Anexo III).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%203.pdf)
+ * Los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles, y los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles y que, como consecuencia de haber sufrido exilio por razones políticas, ideológicas o de creencia o de orientación e identidad sexual, hubieran perdido o renunciado a la nacionalidad española [(Anexo I).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%201.pdf)
+* Los hijos e hijas nacidos en el exterior de mujeres españolas que perdieron su nacionalidad por casarse con extranjeros antes de la entrada en vigor de la Constitución de 1978 [(Anexo II).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%202.pdf)
+* Los hijos e hijas mayores de edad de aquellos españoles a quienes les fue reconocida su nacionalidad de origen en virtud del derecho de opción de acuerdo a lo dispuesto en Ley de Memoria Democrática (Ley 20/2022) o en la llamada Ley de Memoria Histórica (Ley 52/2007) [(Anexo III).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%203.pdf)
 
  Asimismo, las personas que, siendo hijos de padre o madre originariamente español y nacido en España, hubiesen optado a la nacionalidad española no de origen en virtud del artículo 20.1.b) del Código Civil, así como los hijos menores de edad de quienes adquirieron la nacionalidad española por aplicación de la Ley de Memoria Histórica, que optaron, a su vez, a la nacionalidad española no de origen en virtud del ejercicio del derecho de opción previsto en el artículo 20.1.a) del Código Civil por estar bajo la patria potestad de un español, podrán ahora acogerse igualmente a la opción contemplada en la disposición adicional octava de la Ley de Memoria Democrática a fin de obtener la nacionalidad española de origen sobrevenida [(Anexo IV).](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%204.pdf)
 
@@ -45,46 +45,46 @@ Ver formularios en información
 
  A salvo de lo dispuesto en los tratados internacionales, las certificaciones registrales extranjeras presentadas deberán entregarse debidamente legalizadas o apostilladas, según sea el caso. De igual modo, deberá aportarse traducción oficial efectuada por órgano o funcionario competente en caso de documentos no redactados en español.
 
- 1. Los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles, y los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles y que, como consecuencia de haber sufrido exilio por razones políticas, ideológicas o de creencia o de orientación e identidad sexual, hubieran perdido o renunciado a la nacionalidad española
-1. [Anexo I debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%201.pdf)
-2. Documento que acredite la identidad del solicitante.
-3. Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
-4. Certificación literal de nacimiento del padre, madre, abuelo o abuela del solicitante, que originalmente hubieran sido españoles.
-5. Si la solicitud se formula como nieto/a de abuelo/a originariamente español, certificación literal de nacimiento del padre o madre –el que corresponda a la línea del abuelo o abuela españoles– del solicitante.
-6. La acreditación de la condición de exiliado del padre, madre, abuelo o abuela mediante la aportación de alguno de los siguientes documentos:
-1. Documentación que acredite haber sido beneficiario de las pensiones otorgadas por la Administración española a los exiliados que prueba directamente y por sí sola el exilio.
-2. Documentación de la Oficina Internacional de Refugiados de Naciones Unidas y de las Oficinas de Refugiados de los Estados de acogida que asistieron a los refugiados españoles y a sus familias.
-3. Certificaciones o informes expedidos por partidos políticos, sindicatos o cualesquiera otras entidades o instituciones, públicas o privadas, debidamente reconocidas por las autoridades españolas o del Estado de acogida de los exiliados, que estén relacionadas con el exilio, bien por haber padecido exilio sus integrantes, o por haber destacado en la defensa y protección de los exiliados españoles, o por trabajar actualmente en la reparación moral y la recuperación de la memoria personal y familiar de las víctimas de la Guerra Civil y la Dictadura.
+ * Los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles, y los nacidos fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles y que, como consecuencia de haber sufrido exilio por razones políticas, ideológicas o de creencia o de orientación e identidad sexual, hubieran perdido o renunciado a la nacionalidad española
++ [Anexo I debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%201.pdf)
++ Documento que acredite la identidad del solicitante.
++ Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
++ Certificación literal de nacimiento del padre, madre, abuelo o abuela del solicitante, que originalmente hubieran sido españoles.
++ Si la solicitud se formula como nieto/a de abuelo/a originariamente español, certificación literal de nacimiento del padre o madre –el que corresponda a la línea del abuelo o abuela españoles– del solicitante.
++ La acreditación de la condición de exiliado del padre, madre, abuelo o abuela mediante la aportación de alguno de los siguientes documentos:
+- Documentación que acredite haber sido beneficiario de las pensiones otorgadas por la Administración española a los exiliados que prueba directamente y por sí sola el exilio.
+- Documentación de la Oficina Internacional de Refugiados de Naciones Unidas y de las Oficinas de Refugiados de los Estados de acogida que asistieron a los refugiados españoles y a sus familias.
+- Certificaciones o informes expedidos por partidos políticos, sindicatos o cualesquiera otras entidades o instituciones, públicas o privadas, debidamente reconocidas por las autoridades españolas o del Estado de acogida de los exiliados, que estén relacionadas con el exilio, bien por haber padecido exilio sus integrantes, o por haber destacado en la defensa y protección de los exiliados españoles, o por trabajar actualmente en la reparación moral y la recuperación de la memoria personal y familiar de las víctimas de la Guerra Civil y la Dictadura.
 
 Los documentos numerados en los apartados b) y c) anteriores constituirán prueba del exilio si se presentan en unión de cualquiera de los siguientes documentos:
 
-1. Pasaporte o título de viaje con sello de entrada en el país de acogida.
-2. Certificación del registro de matrícula de la Oficina Consular española
-3. Certificaciones del Registro Civil Consular que acrediten la residencia en el país de acogida, tales como inscripción de matrimonio, inscripciones de nacimiento de hijos, inscripciones de defunción, entre otras.
-4. Certificación del Registro Civil local del país de acogida que acredite haber adquirido la nacionalidad de dicho país.
-5. Documentación de la época del país de acogida en el que conste el año de la llegada a dicho país o la llegada al mismo por cualquier medio de transporte.
++ Pasaporte o título de viaje con sello de entrada en el país de acogida.
++ Certificación del registro de matrícula de la Oficina Consular española
++ Certificaciones del Registro Civil Consular que acrediten la residencia en el país de acogida, tales como inscripción de matrimonio, inscripciones de nacimiento de hijos, inscripciones de defunción, entre otras.
++ Certificación del Registro Civil local del país de acogida que acredite haber adquirido la nacionalidad de dicho país.
++ Documentación de la época del país de acogida en el que conste el año de la llegada a dicho país o la llegada al mismo por cualquier medio de transporte.
 
 Se presumirá la condición de exiliado respecto de todos los españoles que salieron de España entre el 18 de julio de 1936 y el 31 de diciembre de 1955, debiendo acreditarse, en estos supuestos, la salida del territorio español mediante cualquiera de los documentos enumerados en este punto.
 
  Deberá acreditarse la condición de exiliado cuando la salida de España se hubiera producido entre el 1 de enero de 1956 y el 28 de diciembre de 1978.
 
-8. Los hijos e hijas nacidos en el exterior de mujeres españolas que perdieron su nacionalidad por casarse con extranjeros antes de la entrada en vigor de la Constitución de 1978
-1. [Anexo II debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%202.pdf)
-2. Documento que acredite la identidad del solicitante.
-3. Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
-4. Certificación literal de nacimiento de la madre española del solicitante.
-5. Certificado literal de matrimonio de la madre con extranjero contraído antes del 29 de diciembre de 1978, expedida por el Registro Civil en que conste inscrito.
-6. Para matrimonios formalizados entre el 5 de agosto de 1954 y el 28 de diciembre de 1978, ambos incluidos, documentación que acredite la adquisición por la madre de la nacionalidad del marido y documento acreditativo de la legislación extranjera en materia de adquisición de la nacionalidad por matrimonio vigente en la fecha en que éste tuvo lugar.
+* Los hijos e hijas nacidos en el exterior de mujeres españolas que perdieron su nacionalidad por casarse con extranjeros antes de la entrada en vigor de la Constitución de 1978
++ [Anexo II debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%202.pdf)
++ Documento que acredite la identidad del solicitante.
++ Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
++ Certificación literal de nacimiento de la madre española del solicitante.
++ Certificado literal de matrimonio de la madre con extranjero contraído antes del 29 de diciembre de 1978, expedida por el Registro Civil en que conste inscrito.
++ Para matrimonios formalizados entre el 5 de agosto de 1954 y el 28 de diciembre de 1978, ambos incluidos, documentación que acredite la adquisición por la madre de la nacionalidad del marido y documento acreditativo de la legislación extranjera en materia de adquisición de la nacionalidad por matrimonio vigente en la fecha en que éste tuvo lugar.
 
-10. Los hijos e hijas mayores de edad de aquellos españoles a quienes les fue reconocida su nacionalidad de origen en virtud del derecho de opción de acuerdo a lo dispuesto en Ley de Memoria Democrática (Ley 20/2022) o en la llamada Ley de Memoria Histórica (Ley 52/2007)
-1. [Anexo III debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%203.pdf)
-2. Documento que acredite la identidad del solicitante.
-3. Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
-4. Certificación literal española de nacimiento del padre o de la madre de los solicitantes mayores de edad que opten a la nacionalidad española, al haberse reconocido a sus progenitores la nacionalidad española de origen en virtud del derecho de opción de acuerdo a la Ley de Memoria Democrática de 2022 o la Ley de Memoria Histórica de 2007, cuando la solicitud se presente en un Registro Civil distinto a aquel en el que se encuentra inscrito el nacimiento del padre o de la madre.
+* Los hijos e hijas mayores de edad de aquellos españoles a quienes les fue reconocida su nacionalidad de origen en virtud del derecho de opción de acuerdo a lo dispuesto en Ley de Memoria Democrática (Ley 20/2022) o en la llamada Ley de Memoria Histórica (Ley 52/2007)
++ [Anexo III debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%203.pdf)
++ Documento que acredite la identidad del solicitante.
++ Certificación literal de nacimiento del solicitante, expedida por el Registro Civil local en que conste inscrita.
++ Certificación literal española de nacimiento del padre o de la madre de los solicitantes mayores de edad que opten a la nacionalidad española, al haberse reconocido a sus progenitores la nacionalidad española de origen en virtud del derecho de opción de acuerdo a la Ley de Memoria Democrática de 2022 o la Ley de Memoria Histórica de 2007, cuando la solicitud se presente en un Registro Civil distinto a aquel en el que se encuentra inscrito el nacimiento del padre o de la madre.
 
-12. Las personas que, siendo hijos de padre o madre originariamente español y nacido en España, hubiesen optado a la nacionalidad española no de origen en virtud del artículo 20.1.b) del Código Civil, así como los hijos menores de edad de quienes adquirieron la nacionalidad española por aplicación de la Ley de Memoria Histórica, que optaron, a su vez, a la nacionalidad española no de origen en virtud del ejercicio del derecho de opción previsto en el artículo 20.1.a) del Código Civil por estar bajo la patria potestad de un español, podrán ahora acogerse igualmente a la opción contemplada en la disposición adicional octava de la Ley de Memoria Democrática, a fin de obtener la nacionalidad española de origen sobrevenida
-1. [Anexo IV debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%204.pdf)
-2. Documentación acreditativa correspondiente, en función del supuesto de que se trate, de acuerdo con lo dispuesto en el Anexo IV.
+* Las personas que, siendo hijos de padre o madre originariamente español y nacido en España, hubiesen optado a la nacionalidad española no de origen en virtud del artículo 20.1.b) del Código Civil, así como los hijos menores de edad de quienes adquirieron la nacionalidad española por aplicación de la Ley de Memoria Histórica, que optaron, a su vez, a la nacionalidad española no de origen en virtud del ejercicio del derecho de opción previsto en el artículo 20.1.a) del Código Civil por estar bajo la patria potestad de un español, podrán ahora acogerse igualmente a la opción contemplada en la disposición adicional octava de la Ley de Memoria Democrática, a fin de obtener la nacionalidad española de origen sobrevenida
++ [Anexo IV debidamente cumplimentado y firmado.](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%204.pdf)
++ Documentación acreditativa correspondiente, en función del supuesto de que se trate, de acuerdo con lo dispuesto en el Anexo IV.
 
  ¿Dónde se pueden solicitar las certificaciones registrales españolas?
 ---------------------------------------------------------------------

@@ -19,8 +19,8 @@ jobs:
 
     - name: Configurar Git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "jumacuca@gmail.com"
+        git config --local user.name "JuanMa Cuevas"
 
     - name: Cache Python virtual environment
       uses: actions/cache@v2

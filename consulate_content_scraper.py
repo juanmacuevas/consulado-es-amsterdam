@@ -19,9 +19,13 @@ from markdownify import markdownify as md
 # Constants
 
 PAGES_DATA = yaml.safe_load(open('pages_data.yml', 'r'))
-PATH_MAP = {'page':'Páginas/'}
-SERVICE_INDEX_URL = "service_index_url"  # Replace with actual service index URL
 
+def verify_unique_urls(data):
+    """Verify that all URLs are unique."""
+    urls = {page['url'] for page in data}
+    if len(urls) != len(data):
+        raise ValueError("Duplicate URLs in pages_data.yml")
+    
 
 def setup_browser():
     """Setup headless Chrome browser with random user agent."""
@@ -32,9 +36,30 @@ def setup_browser():
     browser = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     return browser
 
+def replace_ol_with_ul(soup):
+    for ol_tag in soup.find_all('ol'):
+        ul_tag = soup.new_tag('ul')
+        ul_tag.attrs = ol_tag.attrs
+
+        # Directly move each child from <ol> to the new <ul>, including non-<li> elements
+        for child in list(ol_tag.children):
+            ul_tag.append(child)
+
+        ol_tag.replace_with(ul_tag)
+
+
+
+def remove_empty_p(soup):
+    for p_tag in soup.find_all('p'):
+        if not p_tag.text.strip():
+            p_tag.decompose()
+
 def extract_content_from_html(html_content,url):
     soup = BeautifulSoup(html_content, "html.parser")
     parent_div = BeautifulSoup("<div></div>", "html.parser").div
+
+    remove_empty_p(soup)
+    replace_ol_with_ul(soup)
 
     section_content = soup.find_all("div", class_="single__detail-Wrapper")[-1]
     if section_content:
@@ -59,6 +84,7 @@ def extract_content_from_html(html_content,url):
 
     parent_div = fix_target_bank(parent_div)    
     parent_div = fix_links(parent_div)
+    
     return parent_div
 
 
@@ -86,10 +112,24 @@ def fetch_page_content(url, browser):
         section = WebDriverWait(browser, 10).until(
             EC.visibility_of_element_located((By.CSS_SELECTOR, "section.body__detail-Wrapper"))
         )        
-        html = extract_content_from_html( browser.page_source, url)
+        html =  browser.page_source
     except Exception as e:
         print(e)
     return html
+
+def get_html_content_with_element(url, browser,element):
+    """Fetch the HTML content of a page."""
+    browser.get(url)
+    html = None
+    try:
+        section = WebDriverWait(browser, 10).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, element))
+        )        
+        html = browser.page_source
+    except Exception as e:
+        print(e)
+    return html
+
 
 def parse_html_to_markdown(html_content):
     """Parse HTML content and convert it to Markdown."""
@@ -110,23 +150,52 @@ def update_last_fetched(url):
     with open(LAST_FETCHED_FILE, 'w') as file:
         json.dump(last_fetched, file)
 
+import os
+
+def write_to_file(path, content):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
 
 
 def scrape_general_pages(browser):
     """Scrape general pages."""
+
+    ### for testing only APPLY FILTERS###
+    # PAGES_DATA = [page for page in PAGES_DATA if page['type'] == 'service']
+    # PAGES_DATA = [page for page in PAGES_DATA if page['title'] == 'Matrimonios']
+    ### end testing only####
+
     sorted_pages = sorted(PAGES_DATA, key=lambda x: x['updated'])
     candidates = sorted_pages[:10]
     random.shuffle(candidates)
     for candidate in candidates:
-                
-        print('fetching:',candidate['url'])
-        html_content = fetch_page_content(candidate['url'], browser)
-        content = md(str(html_content))                
-        filename = PATH_MAP[candidate['type']]+candidate['title']+'.md'
+        url = candidate['url']
+        print('fetching:',)
+        if candidate['type'] == 'page':
+            html_content = get_html_content_with_element(url, browser,"section.body__detail-Wrapper")            
+        elif candidate['type'] == 'service':
+            html_content = get_html_content_with_element(url, browser,"section.section__mainSearch-wrapper")
+        html = extract_content_from_html( html_content, url)
+        
+        # input('press enter to continue')
+        content = md(str(html))  
+        # exceptions to avoid periodic notifications changes
+        if candidate['title'].startswith("Noticias"):
+            content = substitute_dates(content)
+        if candidate['title'].startswith("Recomendaciones"):
+            content = remove_date_from_recomendaciones(content)
+
+        if candidate['type'] == 'page':
+            filename = 'Páginas/'+candidate['title']+'.md'
+        elif candidate['type'] == 'service':
+            filename = f'Servicios Consulares/{candidate["category"]}/'+candidate['title']+'.md'
+        
         print('saving to:',filename)
-        open(filename, 'w').write(content)
+        write_to_file(filename, content)
+
         for page in PAGES_DATA:
-            if page['url'] == candidate['url']:
+            if page['url'] == url:
                 page['updated'] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
                 break
         # save updated pages_data.yml
@@ -142,21 +211,23 @@ def scrape_general_pages(browser):
     # # Save markdown_content to file or process as needed
     # update_last_fetched(url)
 
-def scrape_service_pages(browser):
-    """Scrape service pages."""
-    # Fetch and parse the service index page to get a list of service URLs
-    service_urls = []  # Implement fetching and parsing of service URLs
-    for url in service_urls:
-        html_content = fetch_page_content(url, browser)
-        markdown_content = parse_html_to_markdown(html_content)
-        # Save markdown_content to file or process as needed
-        update_last_fetched(url)
+
+
 
 def main():
+    verify_unique_urls(PAGES_DATA)
     browser = setup_browser()
     try:
         scrape_general_pages(browser)
-        # scrape_service_pages(browser)
+        # content = open('test_out.html','r').read()  
+        # # in content replace ordered list OL with unordered lists ul
+        # content = content.replace('<ol>','<ul>').replace('</ol>','</ul>')
+        # # in content remove empty paragraphs
+        # content = content.replace('<p></p>','')
+        # mdown = md(str(content))  
+        # print(mdown)
+
+    
     finally:
         browser.quit()
 

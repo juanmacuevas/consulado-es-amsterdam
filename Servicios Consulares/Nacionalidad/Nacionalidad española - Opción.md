@@ -102,9 +102,9 @@ Una vez recibida la documentación, nos pondremos en contacto con usted para fij
 
  Para adquirir efectivamente la nacionalidad española por opción es necesario:
 
- 1. Que el mayor de catorce años y capaz para prestar una declaración por sí jure o prometa fidelidad al Rey y obediencia a la Constitución y a las leyes.
-2. Que la misma persona declare que renuncia a su anterior nacionalidad. No tendrán que cumplir este requisito los menores de 14 años ni los naturales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal, Francia y los sefardíes originarios de España.
-3. Que la adquisición se inscriba en el Registro Civil español.
+ * Que el mayor de catorce años y capaz para prestar una declaración por sí jure o prometa fidelidad al Rey y obediencia a la Constitución y a las leyes.
+* Que la misma persona declare que renuncia a su anterior nacionalidad. No tendrán que cumplir este requisito los menores de 14 años ni los naturales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal, Francia y los sefardíes originarios de España.
+* Que la adquisición se inscriba en el Registro Civil español.
 
  La opción, una vez inscrita en el Registro Civil, conlleva la obligación de inscripción en el Registro de Matrícula Consular y permite solicitar el pasaporte español. Ver apartados: “Alta de residente” y “Pasaporte”
 
