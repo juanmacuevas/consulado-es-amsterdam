@@ -8,7 +8,4 @@
 * Teléfono:   020-620 38 11
 * Fax:            020-638 08 36
 * Correo electrónico:  [cog.amsterdam@maec.es](mailto:cog.amsterdam@maec.es) ​
-  
- 
-
    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx)

@@ -32,16 +32,7 @@ Valoración definitiva de méritos y de la entrevista de la fase de concurso y o
   
   
 ​  
-  
-
-
 ​  
-
-
-  
-
-
-  
 
 
    [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx)

@@ -6,9 +6,6 @@
 El Ministerio de Trabajo y Seguridad Social holandés, informa a los ciudadanos de la UE que quieran vivir o trabajar en su país, sobre asuntos de relevancia a tener en cuenta. ([Dossier new in Netherlands​](https://www.government.nl/documents/publications/2014/03/07/new-in-the-netherlands-2014))  
 
 
-  
-
-
  **Situación de la vivienda en Países Bajos para estudiantes y trabajadores extranjeros​**  
 
 

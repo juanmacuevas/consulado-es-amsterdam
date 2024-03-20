@@ -13,6 +13,7 @@ import random
 import time
 import yaml
 import os
+import re
 
 
 PAGES_DATA = yaml.safe_load(open('pages_data.yml', 'r'))
@@ -120,7 +121,7 @@ def fetch_html(browser,page):
     browser.get(page['url'])
     element = {
         'page':'section.body__detail-Wrapper',
-        'service':'section.section__mainSearch-wrapper'}[page['page_type']]
+        'service':'section.section__mainSearch-wrapper'}[page['type']]
     html = None
     try:
         section = WebDriverWait(browser, 10).until( EC.visibility_of_element_located((By.CSS_SELECTOR, element)) )        
@@ -140,14 +141,17 @@ def parse_html_to_markdown(html_content):
 def save_file(page, content):
     filename = get_filename(page)
     print('saving to:',filename)   
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
 
 def pick_next_candidates(amount):
     """Pick the next pages to scrape."""
     sorted_pages = sorted(PAGES_DATA, key=lambda x: x['updated'])
     candidates = sorted_pages[:min(amount,len(sorted_pages))]
+    print('Candidates:')
+    for p in sorted_pages:
+        print(p['updated'],p['type'],p['title'])
     random.shuffle(candidates)
     return candidates
 
@@ -167,6 +171,7 @@ def clean_markdown(content,title):
             return substitute_dates(content)
     elif title.startswith("Recomendaciones"):
             return remove_date_from_recomendaciones(content)
+    return content
 
 def get_filename(page):        
     if page['type'] == 'page':
@@ -175,11 +180,11 @@ def get_filename(page):
         return f'Servicios Consulares/{page["category"]}/'+page['title']+'.md'
 
 
-def update_status(url):
+def update_status(page):
     # update list
-    for page in PAGES_DATA:
-        if page['url'] == url:
-            page['updated'] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    for p in PAGES_DATA:
+        if p['url'] == page['url']:
+            p['updated'] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
             break
     # save list to  pages_data.yml
     with open('pages_data.yml', 'w') as file:
@@ -194,17 +199,21 @@ def convert_to_markdown(html_content,page):
 def main():
     # verify_unique_urls(PAGES_DATA)
     browser = setup_browser()
-    try:
-        candidates = pick_next_candidates(20)    
-        for candidate in candidates:            
+    candidates = pick_next_candidates(20)    
+    for candidate in candidates:            
+        try:
             html_content = fetch_html(browser, candidate)                            
             content = convert_to_markdown(html_content,candidate)                       
             save_file(candidate, content)
-            update_status(url)
-            
-            time.sleep(random.uniform(4, 8))  # Random wait to mimic human behavior
-    finally:
-        browser.quit()
+            update_status(candidate)
+    
+        except Exception as e:
+            print(e)
+            print(f"Failed to scrape {candidate['title']}")
+        
+        time.sleep(random.uniform(4, 8))  # Random wait to mimic human behavior
+    
+    browser.quit()
 
 if __name__ == "__main__":
     main()

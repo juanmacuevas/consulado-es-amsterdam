@@ -5,10 +5,10 @@
  Documentos necesarios
 ---------------------
 
- 1. Solicitud de certificado de residencia indicando la finalidad para la que se solicita. \* No existe un formulario en cuanto tal. Serán válidas las solicitudes enviadas por correo electrónico y por correo postal.
-2. Copia del DNI o del pasaporte del solicitante.
-3. Si el solicitante es menor de edad, se aportará además, copia del DNI o pasaporte del progenitor que firme la solicitud. Si el progenitor no está inscrito como residente en el Registro de Matrícula consular, se aportará también copia del Libro de Familia o del certificado de nacimiento del menor.
-4. Prueba de la continuidad de la residencia en la demarcación consular.
+ * Solicitud de certificado de residencia indicando la finalidad para la que se solicita. \* No existe un formulario en cuanto tal. Serán válidas las solicitudes enviadas por correo electrónico y por correo postal.
+* Copia del DNI o del pasaporte del solicitante.
+* Si el solicitante es menor de edad, se aportará además, copia del DNI o pasaporte del progenitor que firme la solicitud. Si el progenitor no está inscrito como residente en el Registro de Matrícula consular, se aportará también copia del Libro de Familia o del certificado de nacimiento del menor.
+* Prueba de la continuidad de la residencia en la demarcación consular.
 
  \* En esta Oficina Consular para la solicitud del certificado de residencia no se requiere prueba de continuidad residencia en la demarcación consular.
 

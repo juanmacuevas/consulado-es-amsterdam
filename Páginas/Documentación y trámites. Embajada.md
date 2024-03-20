@@ -14,7 +14,4 @@ La Embajada de España en La Haya carece de sección consular.
 Más información en la web del consulado​:​ [Servicios Consulares](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx)   
 
 
-  
-
-
    [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx)

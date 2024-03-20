@@ -13,10 +13,6 @@ Lo componen los siguientes consejeros:
 * Dª Sara Caminero Blanco.
 * D. Jaime Corbí Mongio
 * Dª. María Elena Prado Alonso.
-
-   
-
-
 * E-mail CRE en los Países Bajos: [info@crepaisesbajos.org](mailto:info@crepaisesbajos.org); crepaisesbajos@gmail.com
 * [Página web del CRE de Países Bajos](https://www.crepaisesbajos.org/)
 * [Portal de la Ciudadanía Española en el Exterior](http://www.ciudadaniaexterior.empleo.gob.es/es/index.htm)

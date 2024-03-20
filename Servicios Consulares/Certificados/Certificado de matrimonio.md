@@ -5,7 +5,7 @@
  Procedimiento
 -------------
 
- 1. **Matrimonios celebrados en esta demarcación consular**  
+ * **Matrimonios celebrados en esta demarcación consular**  
 
  El certificado se puede solicitar por correo postal, por correo electrónico o presencialmente, en la Oficina Consular.
 
@@ -18,20 +18,20 @@ Si usted reside en los Países Bajos y necesita un certificado de un matrimonio 
  Se presentarán los siguientes documentos:
 
 
-	* [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235560-Modelo_de_solicitud_para_Certificado_de_Matrimonio.PDF).
-	* Copia del DNI o pasaporte del solicitante.
-	* Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
-	* En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
-	* Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
-	* Copia de la inscripción en el Libro de Familia (si lo posee) del matrimonio que se ha de certificar.
+	+ [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235560-Modelo_de_solicitud_para_Certificado_de_Matrimonio.PDF).
+	+ Copia del DNI o pasaporte del solicitante.
+	+ Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
+	+ En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
+	+ Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
+	+ Copia de la inscripción en el Libro de Familia (si lo posee) del matrimonio que se ha de certificar.
 	
 	Sobre A5 suficientemente franqueado (2 sellos), con nombre y dirección completa.Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
   
-3. **Matrimonios celebrados en otra demarcación consular** 
+* **Matrimonios celebrados en otra demarcación consular** 
 
  El certificado se solicitará directamente a la Oficina Consular correspondiente, de acuerdo con el procedimiento descrito en su página web.
   
-5. **Matrimonios celebrados en España** 
+* **Matrimonios celebrados en España** 
 
   El certificado se puede solicitar directamente al Registro Civil del lugar de celebración del matrimonio, bien presencialmente o por correo postal, siguiendo las instrucciones que figuran en la [página web del Ministerio de Justicia](https://www.mjusticia.gob.es/es/ciudadania/tramites/certificadocertificacion1). 
 
@@ -49,13 +49,13 @@ Si usted reside en los Países Bajos y necesita un certificado de un matrimonio 
 
  Se pueden solicitar varios tipos de certificado de matrimonio.
 
- 1. **Certificado literal de matrimonio**: Es una copia exacta de la inscripción de matrimonio, que contiene todos los datos relativos a la celebración del matrimonio, la identidad de los contrayentes, y las posibles anotaciones marginales sobre el régimen económico del matrimonio, anulación, separación o divorcio, etc.
-2. **Certificado de matrimonio en extracto**: Es un resumen de la información que consta en el Registro Civil relativa a la celebración del matrimonio y la identidad de los contrayentes. 
+ * **Certificado literal de matrimonio**: Es una copia exacta de la inscripción de matrimonio, que contiene todos los datos relativos a la celebración del matrimonio, la identidad de los contrayentes, y las posibles anotaciones marginales sobre el régimen económico del matrimonio, anulación, separación o divorcio, etc.
+* **Certificado de matrimonio en extracto**: Es un resumen de la información que consta en el Registro Civil relativa a la celebración del matrimonio y la identidad de los contrayentes. 
 
   **El certificado internacional o plurilingüe**: es un certificado en extracto válido en los países que hayan ratificado el Convenio de Viena de 8 de septiembre de 1976 (Alemania, Austria, Bélgica, Bosnia y Herzegovina, Bulgaria, Croacia, Eslovenia, España, Estonia, Francia, Grecia, Italia, Lituania, Luxemburgo, Macedonia del Norte, Moldavia, Montenegro, Países Bajos, Polonia, Portugal, Rumanía, Serbia, Suiza, Turquía) 
 
  Este certificado se expide en el idioma oficial de todos los países firmantes del Convenio y no necesita legalización ni apostilla.
-3. **Certificado negativo**: Acredita que el matrimonio de una persona no está inscrito en un Registro Civil determinado.
+* **Certificado negativo**: Acredita que el matrimonio de una persona no está inscrito en un Registro Civil determinado.
 
  Normativa básica
 ----------------

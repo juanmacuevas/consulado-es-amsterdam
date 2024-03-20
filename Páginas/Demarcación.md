@@ -81,9 +81,6 @@ Estas islas tienen Viceconsulados Honorarios, cuyas coordenadas se indican a co
 > 
 > 
 
-   
-
-
 **Viceconsulado honorario en Bonaire:**
 
 
@@ -139,12 +136,5 @@ Estas islas tienen Viceconsulados Honorarios, cuyas coordenadas se indican a co
 > Correo Electrónico: [espanaconsulsxm@gmail.com](mailto:espanaconsulsxm@gmail.com)​
 > 
 > 
-
-   
-
-
-  
-  
-
 
    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx)

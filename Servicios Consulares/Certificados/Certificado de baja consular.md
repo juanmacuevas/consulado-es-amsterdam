@@ -5,9 +5,9 @@
  Documentos necesarios
 ---------------------
 
- 1. Solicitud de certificado de baja indicando la finalidad para la que se solicita. [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Sol.%20Baja.pdf)
-2. Copia del DNI o del pasaporte del solicitante.
-3. Si el solicitante es menor de edad, se aportará además, copia del DNI o pasaporte del progenitor que firme la solicitud. Si el progenitor no está inscrito como residente en el Registro de Matrícula consular, se aportará también copia del Libro de Familia o del certificado de nacimiento del menor.
+ * Solicitud de certificado de baja indicando la finalidad para la que se solicita. [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Sol.%20Baja.pdf)
+* Copia del DNI o del pasaporte del solicitante.
+* Si el solicitante es menor de edad, se aportará además, copia del DNI o pasaporte del progenitor que firme la solicitud. Si el progenitor no está inscrito como residente en el Registro de Matrícula consular, se aportará también copia del Libro de Familia o del certificado de nacimiento del menor.
 
  Procedimiento
 -------------

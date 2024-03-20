@@ -8,13 +8,7 @@
 **Asistencia Técnica para elecciones autónomicas de 28 de mayo de 2023.**  
 
 
-  
-
-
 Periodo estimativo de la Asistencia Técnica ofertada: del 05-04-2023 al 09-06-2023  
-
-
-  
 
 
 Fecha límite de presentación de ofertas: **28 de marzo******de 2023**.**
@@ -35,27 +29,7 @@ Fecha límite de presentación de ofertas: **28 de marzo******de 2023**.**
 [![]()MODELO OFERTA ASISTENCIA TECNICA ELECC AUTONOMICAS MAYO 23.docx](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/PublishingImages/Paginas/Ofertas-de-empleo/MODELO%20OFERTA%20ASISTENCIA%20TECNICA%20ELECC%20AUTONOMICAS%20MAYO%2023.docx)  
 
 
-  
-  
-
-
-  
-
-
-  
-
-
-  
-
-
 ​  
-
-
-  
-
-
-  
-  
 
 
    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx)

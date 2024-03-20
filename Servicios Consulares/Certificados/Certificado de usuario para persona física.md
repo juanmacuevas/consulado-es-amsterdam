@@ -11,15 +11,15 @@
 
   El proceso para solicitar el certificado se describe en la [página web de la FNMT](https://www.sede.fnmt.gob.es/certificados/persona-fisica/obtener-certificado-software). 
 
- 1. Antes de solicitar el certificado, es necesario consultar las instrucciones sobre la configuración del navegador del ordenador desde el que se va a solicitar el certificado y realizar los ajustes necesarios.
-2. Una vez configurado el navegador, se solicita el certificado por internet, siguiendo las instrucciones de la FNMT. Al finalizar el proceso de solicitud, se recibirá en el correo electrónico un código de solicitud que es necesario para completar los trámites.
-3. A continuación, es necesario acreditar la identidad ante una oficina de registro. Este trámite se puede hacer en la Oficina Consular, compareciendo personalmente sin necesidad de cita y aportando la siguiente documentación:
+ * Antes de solicitar el certificado, es necesario consultar las instrucciones sobre la configuración del navegador del ordenador desde el que se va a solicitar el certificado y realizar los ajustes necesarios.
+* Una vez configurado el navegador, se solicita el certificado por internet, siguiendo las instrucciones de la FNMT. Al finalizar el proceso de solicitud, se recibirá en el correo electrónico un código de solicitud que es necesario para completar los trámites.
+* A continuación, es necesario acreditar la identidad ante una oficina de registro. Este trámite se puede hacer en la Oficina Consular, compareciendo personalmente sin necesidad de cita y aportando la siguiente documentación:
 
 
-	* [Impreso de solicitud por triplicado](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud%20certificado%20usuario%20persona%20f%C3%ADsica.pdf).
-	* Original y una fotocopia del DNI o del NIE.
-	* Código de solicitud proporcionado por la FNMT, que se anotará en el impreso de solicitud.
-4. Al cabo de uno o dos días hábiles se podrá descargar el certificado de usuario haciendo uso del código de solicitud y con el mismo ordenador, navegador y usuario utilizado para solicitar el certificado. Es recomendable hacer una copia de seguridad del certificado electrónico.
+	+ [Impreso de solicitud por triplicado](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud%20certificado%20usuario%20persona%20f%C3%ADsica.pdf).
+	+ Original y una fotocopia del DNI o del NIE.
+	+ Código de solicitud proporcionado por la FNMT, que se anotará en el impreso de solicitud.
+* Al cabo de uno o dos días hábiles se podrá descargar el certificado de usuario haciendo uso del código de solicitud y con el mismo ordenador, navegador y usuario utilizado para solicitar el certificado. Es recomendable hacer una copia de seguridad del certificado electrónico.
 
  La obtención del certificado digital es gratuita.
 

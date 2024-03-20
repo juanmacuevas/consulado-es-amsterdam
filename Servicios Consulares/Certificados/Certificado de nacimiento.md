@@ -5,7 +5,7 @@
  Procedimiento
 -------------
 
- 1. **Personas nacidas en esta demarcación consular** 
+ * **Personas nacidas en esta demarcación consular** 
 
  El certificado se puede solicitar por correo postal, por correo electrónico o presencialmente, en la Oficina Consular.
 
@@ -24,12 +24,12 @@ Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.ams
  Se presentarán los siguientes documentos:
 
 
-	* [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235421-Modelo_de_Solicitud_de_Certificado_de_Nacimiento_.PDF).
-	* Copia del DNI o pasaporte del solicitante.
-	* Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
-	* En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
-	* Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
-	* •Solicitud de certificado cumplimentada y firmada, indicando para qué fin solicita el certificado. Si es para solicitar el DNI por primera vez, incluya por favor la fecha en que viajará a España para realizarlo.
+	+ [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235421-Modelo_de_Solicitud_de_Certificado_de_Nacimiento_.PDF).
+	+ Copia del DNI o pasaporte del solicitante.
+	+ Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
+	+ En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
+	+ Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
+	+ •Solicitud de certificado cumplimentada y firmada, indicando para qué fin solicita el certificado. Si es para solicitar el DNI por primera vez, incluya por favor la fecha en que viajará a España para realizarlo.
 	
 	[formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20Cert.%20Nacimiento.pdf)
 	
@@ -43,11 +43,11 @@ Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.ams
 	
 	\* Esta Oficina Consular no interviene en la solicitud de certificados a Oficinas terceras.Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
   
-3. **Personas nacidas en otra demarcación consular** 
+* **Personas nacidas en otra demarcación consular** 
 
  El certificado se solicitará directamente a la Oficina Consular correspondiente, de acuerdo con el procedimiento descrito en su página web.
   
-5. **Personas nacidas en España o inscritas en España** 
+* **Personas nacidas en España o inscritas en España** 
 
   El certificado se puede solicitar directamente al Registro Civil del nacimiento, bien presencialmente o por correo postal, siguiendo las instrucciones que figuran en la [página web del Ministerio de Justicia](https://www.mjusticia.gob.es/es/ciudadania/tramites/certificadocertificacion). 
 
@@ -65,16 +65,16 @@ Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.ams
 
  Se pueden solicitar varios tipos de certificado de nacimiento.
 
- 1. **Certificado literal de nacimiento**: Es una copia exacta de la inscripción de nacimiento, que contiene todos los datos relativos a la identidad y al hecho del nacimiento.
-2. **Certificado literal de nacimiento para DNI o para pasaporte**: Es un certificado literal de nacimiento que se expide a los solos efectos de la obtención del DNI o del pasaporte. 
+ * **Certificado literal de nacimiento**: Es una copia exacta de la inscripción de nacimiento, que contiene todos los datos relativos a la identidad y al hecho del nacimiento.
+* **Certificado literal de nacimiento para DNI o para pasaporte**: Es un certificado literal de nacimiento que se expide a los solos efectos de la obtención del DNI o del pasaporte. 
 
  Este tipo de certificado es necesario para obtener el DNI por primera vez o para renovarlo cuando hayan pasado más de tres años de su caducidad, o cuando hayan cambiado los datos de identidad. También es necesario para tramitar un pasaporte a un menor de 14 que no tenga DNI. Se indicará expresamente en el formulario que el certificado se solicita para obtener el DNI o el pasaporte.
-3. **Certificado de nacimiento en extracto**: Es un resumen de la información que consta en el Registro Civil relativa al hecho del nacimiento. 
+* **Certificado de nacimiento en extracto**: Es un resumen de la información que consta en el Registro Civil relativa al hecho del nacimiento. 
 
   **El certificado internacional o plurilingüe**: es un certificado en extracto válido en los países que hayan ratificado el Convenio de Viena de 8 de septiembre de 1976 (Alemania, Austria, Bélgica, Bosnia y Herzegovina, Bulgaria, Croacia, Eslovenia, España, Estonia, Francia, Grecia, Italia, Lituania, Luxemburgo, Macedonia del Norte, Moldavia, Montenegro, Países Bajos, Polonia, Portugal, Rumanía, Serbia, Suiza, Turquía) 
 
  Este certificado se expide en el idioma oficial de todos los países firmantes del Convenio y no necesita legalización ni apostilla.
-4. **Certificado negativo**: Acredita que el nacimiento de una persona no está inscrito en un Registro Civil determinado.
+* **Certificado negativo**: Acredita que el nacimiento de una persona no está inscrito en un Registro Civil determinado.
 
  Normativa básica
 ----------------

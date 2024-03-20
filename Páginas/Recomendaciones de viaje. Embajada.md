@@ -9,18 +9,14 @@ Antes de realizar un viaje al extranjero, se recomienda registrar sus datos en e
 Paseo de la Castellana, 259-D Piso 36. 28046  
 Fax: 91 353 75 65  
 Correo electrónico: [mad@minbuza.nl](mailto:mad@minbuza.nl)  
-<https://www.paisesbajosytu.nl/su-pais-y-los-paises-bajos/espana>    Recomendaciones vigentes a 18 de marzo de 2024    
+<https://www.paisesbajosytu.nl/su-pais-y-los-paises-bajos/espana>    Recomendaciones vigentes    
   Última actualización el 18 de enero de 2023     ###  Notas importantes
 
   **NO HAY RESTRICCIONES ESPECÍFICAS RELATIVAS A VIAJES A ESTE PAÍS**. Excepcionalmente, las personas procedentes de China y otros países están sujeto a algunas limitaciones relacionadas con la Covid-19. Se sugiere leer con atención el resto de estas recomendaciones de viaje. Normativa COVID consultar el apartado de Sanidad.    ###  Documentación y visados
 
-   **Pasaporte/DNI:**Pasaporte o DNI en vigor tanto a la entrada como a la salida del país. 
+   **Pasaporte/DNI:**Pasaporte o DNI en vigor tanto a la entrada como a la salida del país.**Visados:**Los ciudadanos españoles no necesitan visado para entrar en los Países Bajos.
 
-**Visados:**Los ciudadanos españoles no necesitan visado para entrar en los Países Bajos.
-
-**Vacunas obligatorias:**Ninguna 
-
-**Vacunas recomendadas:**
+**Vacunas obligatorias:**Ninguna**Vacunas recomendadas:**
 
 Para los niños, tétanos, meningitis, polio y hepatitis.Para más información, puede consultarse la siguiente [página web](http://www.mscbs.gob.es/ciudadanos/proteccionSalud/vacunaciones/home.htm) del Ministerio de Sanidad español. 
 
@@ -162,9 +158,7 @@ Transavia: desde España: +31 20 214 6032; desde los Países Bajos: 020 214 6032
 
 **Consulado Honorario en Rotterdam**
 
-Cónsul Honorario: Don Diederick Lodewijk Baron Van WassenaerWTC, Beursplein 37 - 3001 DC RotterdamTeléfono: +31 10 205 3344Fax: +31 10 205 3345Correo electrónico: [info@monchy.nl](mailto:info@monchy.nl) 
-
-**Viceconsulado Honorario en Maastricht**
+Cónsul Honorario: Don Diederick Lodewijk Baron Van WassenaerWTC, Beursplein 37 - 3001 DC RotterdamTeléfono: +31 10 205 3344Fax: +31 10 205 3345Correo electrónico: [info@monchy.nl](mailto:info@monchy.nl)**Viceconsulado Honorario en Maastricht**
 
 Vicecónsul Honorario: Don Hubertus J.F.P. DolmansBonaertstraat 6 - 6241 NK Bunde - MeerssenTeléfono: +31 43 364 5749Fax: +31 43 358 0491Correo electrónico: [esconsul@xs4all.nl](mailto:esconsul@xs4all.nl)**Viceconsulado Honorario en Aruba**
 
@@ -184,15 +178,9 @@ Correo electrónico: [viceconsul-h-spain@licoresmaduro.com](mailto:viceconsul-h
 
 **Consulado General en Ámsterdam**
 
-Frederiksplein, 34.- 1017 XN ÁmsterdamTeléfono: +31 20 620 38 11Teléfono de emergencia consular: +31 6 52 66 50 78Fax: +31 20 638 0836Correo electrónico: [cog.amsterdam@maec.es](mailto:cog.amsterdam@maec.es)[Página web](https://www.exteriores.gob.es/Consulados/AMSTERDAM/es/Paginas/index.aspx)   
+Frederiksplein, 34.- 1017 XN ÁmsterdamTeléfono: +31 20 620 38 11Teléfono de emergencia consular: +31 6 52 66 50 78Fax: +31 20 638 0836Correo electrónico: [cog.amsterdam@maec.es](mailto:cog.amsterdam@maec.es)[Página web](https://www.exteriores.gob.es/Consulados/AMSTERDAM/es/Paginas/index.aspx)**Embajada de España en La Haya**
 
-
-**Embajada de España en La Haya**
-
-Lange Voorhout, 50.- 2514 EG La HayaTeléfono: +31 70 302 49 99Fax: +31 70 361 79 59Correo electrónico: [emb.lahaya@maec.es](mailto:emb.lahaya@maec.es)[Página web](https://www.exteriores.gob.es/embajadas/lahaya/es/Paginas/index.aspx)   
- 
-
-**Embajada de los Países Bajos en España**
+Lange Voorhout, 50.- 2514 EG La HayaTeléfono: +31 70 302 49 99Fax: +31 70 361 79 59Correo electrónico: [emb.lahaya@maec.es](mailto:emb.lahaya@maec.es)[Página web](https://www.exteriores.gob.es/embajadas/lahaya/es/Paginas/index.aspx) **Embajada de los Países Bajos en España**
 
 Paseo de la Castellana, 259-D Piso 36. 28046
 
