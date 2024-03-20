@@ -16,18 +16,18 @@
  Documentos a presentar en frontera
 ----------------------------------
 
- 1. **Pasaporte o documento de viaje válido y en vigor**: El documento deberá ser válido hasta 3 meses después de la fecha prevista de salida del territorio Schengen, y haber sido expedido dentro de los 10 años anteriores a la fecha de entrada.
-2. **Visado**: Para determinadas nacionalidades, se necesita visado de estancia válido y en vigor. El visado de estancia no será necesario si el interesado tiene un permiso de residencia válido o un visado de larga duración válido expedido por un Estado Schengen. 
+ * **Pasaporte o documento de viaje válido y en vigor**: El documento deberá ser válido hasta 3 meses después de la fecha prevista de salida del territorio Schengen, y haber sido expedido dentro de los 10 años anteriores a la fecha de entrada.
+* **Visado**: Para determinadas nacionalidades, se necesita visado de estancia válido y en vigor. El visado de estancia no será necesario si el interesado tiene un permiso de residencia válido o un visado de larga duración válido expedido por un Estado Schengen. 
 
   Las nacionalidades que requieren visado de estancia se pueden consultar en el [Anexo I del Reglamento (UE) 2018/1806](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32018R1806&from=EN)
-3. **Documentos que justifiquen el objeto y las condiciones de la estancia prevista**: A petición de las autoridades competentes, se deberá justificar los motivos y las condiciones de la estancia prevista, presentando cualquier documento o medio de prueba. A este fin, se podrá exigir la presentación, entre otros, de los siguientes documentos: 
+* **Documentos que justifiquen el objeto y las condiciones de la estancia prevista**: A petición de las autoridades competentes, se deberá justificar los motivos y las condiciones de la estancia prevista, presentando cualquier documento o medio de prueba. A este fin, se podrá exigir la presentación, entre otros, de los siguientes documentos: 
 
 
-	* Billete de vuelta o de circuito turístico, en cualquier caso.
-	* Para los viajes profesionales, invitación de una empresa o autoridad para participar en reuniones o documentos que prueben la existencia de relaciones vinculadas a la actividad profesional o tarjetas de acceso a ferias y congresos.
-	* Para los viajes turísticos o privados, confirmación de la reserva de un viaje organizado o prueba de hospedaje o carta de invitación de un particular (la carta de invitación sólo prueba la disponibilidad de hospedaje y no suple la acreditación del resto de requisitos de entrada). La prueba del hospedaje podrá indicar si conlleva la cobertura de todo o parte de la manutención.
-	* Para los viajes por estudios, formación, prácticas no laborales o voluntariado de hasta 3 meses de duración, matrícula o prueba de admisión en un centro de enseñanza o convenio de prácticas o prueba de la admisión en un programa de voluntariado.
-	* Para los viajes por otros motivos, invitaciones, reservas o programas o certificados de participación en actividades relacionadas con el viaje, tarjetas de entrada o recibos.
+	+ Billete de vuelta o de circuito turístico, en cualquier caso.
+	+ Para los viajes profesionales, invitación de una empresa o autoridad para participar en reuniones o documentos que prueben la existencia de relaciones vinculadas a la actividad profesional o tarjetas de acceso a ferias y congresos.
+	+ Para los viajes turísticos o privados, confirmación de la reserva de un viaje organizado o prueba de hospedaje o carta de invitación de un particular (la carta de invitación sólo prueba la disponibilidad de hospedaje y no suple la acreditación del resto de requisitos de entrada). La prueba del hospedaje podrá indicar si conlleva la cobertura de todo o parte de la manutención.
+	+ Para los viajes por estudios, formación, prácticas no laborales o voluntariado de hasta 3 meses de duración, matrícula o prueba de admisión en un centro de enseñanza o convenio de prácticas o prueba de la admisión en un programa de voluntariado.
+	+ Para los viajes por otros motivos, invitaciones, reservas o programas o certificados de participación en actividades relacionadas con el viaje, tarjetas de entrada o recibos.
 
  Acreditación de medios económicos
 ---------------------------------

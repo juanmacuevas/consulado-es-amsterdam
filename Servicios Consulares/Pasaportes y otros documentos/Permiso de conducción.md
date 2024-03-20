@@ -39,13 +39,13 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
  El pago puede hacerse:
 
 
-	1. por internet, a través de la [sede electrónica de la Dirección General de Tráfico](https://sede.dgt.gob.es/es/otros-tramites/pago-de-tasas/index.shtml), accediendo con certificado digital, DNI electrónico o cl@ve
-	2. por transferencia bancaria, **por el importe exacto en euros**, dirigida a la Jefatura Central de Tráfico: 
+	+ por internet, a través de la [sede electrónica de la Dirección General de Tráfico](https://sede.dgt.gob.es/es/otros-tramites/pago-de-tasas/index.shtml), accediendo con certificado digital, DNI electrónico o cl@ve
+	+ por transferencia bancaria, **por el importe exacto en euros**, dirigida a la Jefatura Central de Tráfico: 
 	
 	
-		+ C.C.C.: 2100 5731 7602 0020 4028
-		+ IBAN: ES29 2100 5731 7602 0020 4028
-		+ SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
+		- C.C.C.: 2100 5731 7602 0020 4028
+		- IBAN: ES29 2100 5731 7602 0020 4028
+		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
 	
 	  **Nota importante**: Los gastos de la transferencia corren por cuenta del interesado.
 
@@ -77,13 +77,13 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
  El pago puede hacerse: 
 
 
-	1. por internet, a través de la [sede electrónica de la Dirección General de Tráfico](https://sede.dgt.gob.es/es/otros-tramites/pago-de-tasas/index.shtml), accediendo con certificado digital, DNI electrónico o cl@ve
-	2. por transferencia bancaria, **por el importe exacto en euros**, dirigida a la Jefatura Central de Tráfico: 
+	+ por internet, a través de la [sede electrónica de la Dirección General de Tráfico](https://sede.dgt.gob.es/es/otros-tramites/pago-de-tasas/index.shtml), accediendo con certificado digital, DNI electrónico o cl@ve
+	+ por transferencia bancaria, **por el importe exacto en euros**, dirigida a la Jefatura Central de Tráfico: 
 	
 	
-		+ C.C.C.: 2100 5731 7602 0020 4028
-		+ IBAN: ES29 2100 5731 7602 0020 4028
-		+ SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
+		- C.C.C.: 2100 5731 7602 0020 4028
+		- IBAN: ES29 2100 5731 7602 0020 4028
+		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
 	
 	  Nota importante: Los gastos de la transferencia corren por cuenta del interesado.
 

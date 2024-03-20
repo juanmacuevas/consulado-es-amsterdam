@@ -16,17 +16,17 @@ Documentos necesarios para solicitar un pasaporte
 -------------------------------------------------
 
 
-1. **Pasaporte anterior**.
-2. **DNI** en vigor, si se posee.
-3. Si no tiene ninguno de los dos documentos anteriores o si éstos están caducados desde hace 3 años o más, **certificado literal de nacimiento expedido a los solos efectos de obtener pasaporte**. Este documento debe ser expedido por el Registro civil español competente en los 6 meses anteriores a la solicitud de pasaporte.
+* **Pasaporte anterior**.
+* **DNI** en vigor, si se posee.
+* Si no tiene ninguno de los dos documentos anteriores o si éstos están caducados desde hace 3 años o más, **certificado literal de nacimiento expedido a los solos efectos de obtener pasaporte**. Este documento debe ser expedido por el Registro civil español competente en los 6 meses anteriores a la solicitud de pasaporte.
 
 
 Si el nacimiento está inscrito en esta Oficina Consular no será necesario presentar este certificado.
-4. **1 fotografía** (32 x 26 mm.) reciente, a color, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
-5. Los solicitantes deberán aportar una copia de su pasaporte anterior o, en su caso, acta de nacimiento o nacionalidad. En el caso de menores, será necesario también aportar copia de los pasaportes de los padres y del libro de familia.
-6. Pago de la **tasa**. 30 euros por pasaporte pudiendo ser abonada tanto por tarjeta bancaria como en efectivo.
-7. Para menores de edad o personas incapacitadas se exigen documentos adicionales. Ver apartado “Pasaportes para menores de edad y personas incapacitadas”.
-8. En su caso, ver apartado “Sustracción o pérdida de pasaporte”.
+* **1 fotografía** (32 x 26 mm.) reciente, a color, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
+* Los solicitantes deberán aportar una copia de su pasaporte anterior o, en su caso, acta de nacimiento o nacionalidad. En el caso de menores, será necesario también aportar copia de los pasaportes de los padres y del libro de familia.
+* Pago de la **tasa**. 30 euros por pasaporte pudiendo ser abonada tanto por tarjeta bancaria como en efectivo.
+* Para menores de edad o personas incapacitadas se exigen documentos adicionales. Ver apartado “Pasaportes para menores de edad y personas incapacitadas”.
+* En su caso, ver apartado “Sustracción o pérdida de pasaporte”.
 
 
 
@@ -87,35 +87,23 @@ Plazo de tramitación y entrega
 
 
 
- Es posible autorizar a un tercero para la retirada de un pasaporte, firmando una autorización a este fin.La presente [autorización](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Autorizacion%20Recogida%20Pasaporte.pdf) que deberá ir acompañada del resguardo de solicitud, copia de los documentos identificativos del autorizante como el autorizado y, en caso de renovación, presentar el anterior pasaporte para su anulación. Si no presenta el resguardo, no se identifica o, en caso de renovación, no presenta el pasaporte anterior, no se entregará el nuevo pasaporte. También es posible la recepción del pasaporte en su domicilio mediante correo postal certificada, para lo cual será necesario entregar en el momento de la cita: 1. Una etiqueta “*aangetekend 0-2 kgs*”, disponible en la página web de PostNL por importe de 8,75 euros. Contrariamente a lo que indica dicha página web en el momento del pedido, la etiqueta sí es válida más allá de 5 días. Sólo se aceptará la etiqueta comprada online en la página web de PostNL e impresa por usted mismo. Para más información, [pinche aquí.](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/ENVIO%20POSTAL_NL.pdf)
-2. Un sobre mediano de burbujas
+ Es posible autorizar a un tercero para la retirada de un pasaporte, firmando una autorización a este fin.La presente [autorización](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Autorizacion%20Recogida%20Pasaporte.pdf) que deberá ir acompañada del resguardo de solicitud, copia de los documentos identificativos del autorizante como el autorizado y, en caso de renovación, presentar el anterior pasaporte para su anulación. Si no presenta el resguardo, no se identifica o, en caso de renovación, no presenta el pasaporte anterior, no se entregará el nuevo pasaporte. 
 
- El Consulado no se responsabilizará del envío una vez que el pasaporte sea registrado como "entregado". 
+También es posible la recepción del pasaporte en su domicilio mediante correo postal certificada, para lo cual será necesario entregar en el momento de la cita: 
+
+* Una etiqueta “*aangetekend 0-2 kgs*”, disponible en la página web de PostNL por importe de 8,75 euros. Contrariamente a lo que indica dicha página web en el momento del pedido, la etiqueta sí es válida más allá de 5 días. Sólo se aceptará la etiqueta comprada online en la página web de PostNL e impresa por usted mismo. Para más información, [pinche aquí.](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/ENVIO%20POSTAL_NL.pdf)
+* Un sobre mediano de burbujas
+
+ El Consulado no se responsabilizará del envío una vez que el pasaporte sea registrado como "entregado".
+
+
 
 ---
 
  *OTRA INFORMACION*
 
- 1. *Por razones ajenas a este Consulado General, los plazos de recepción de los nuevos pasaportes pueden superar las 5 o 6 semanas. Para más información, pinche en el siguiente [enlace.](%e2%80%9d)*
-2. *El Consulado dispone de un fotomatón que funciona con monedas. Se ruega que venga con monedas suficientes ya que la ventanilla no dará cambio alguno para este servicio.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ * *Por razones ajenas a este Consulado General, los plazos de recepción de los nuevos pasaportes pueden superar las 5 o 6 semanas. Para más información, pinche en el siguiente [enlace.](%e2%80%9d)*
+* *El Consulado dispone de un fotomatón que funciona con monedas. Se ruega que venga con monedas suficientes ya que la ventanilla no dará cambio alguno para este servicio.*
 
 
 

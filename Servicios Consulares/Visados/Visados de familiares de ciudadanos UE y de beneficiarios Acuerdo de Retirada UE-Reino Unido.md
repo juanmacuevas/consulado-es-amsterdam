@@ -32,13 +32,13 @@
  Documentos necesarios
 ---------------------
 
- 1. **Formulario de solicitud de visado Schengen**. Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará quien ostente la patria potestad.
-2. **Fotografía**. Se presentará 1 fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expedidos hace más de 10 años.
-4. **Documentos que prueben la relación de parentesco con un ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza**:
-5. **En el caso de los hijos mayores de 21 años, ascendientes y otros familiares, documentos que prueben que viven a cargo del ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o, en su caso, su estado de salud**:
-6. **Documentos que prueben que el solicitante viaja junto al ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o que va a reunirse con él**:
-7. **Prueba de residencia en la demarcación consular**.
+ * **Formulario de solicitud de visado Schengen**. Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará quien ostente la patria potestad.
+* **Fotografía**. Se presentará 1 fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expedidos hace más de 10 años.
+* **Documentos que prueben la relación de parentesco con un ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza**:
+* **En el caso de los hijos mayores de 21 años, ascendientes y otros familiares, documentos que prueben que viven a cargo del ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o, en su caso, su estado de salud**:
+* **Documentos que prueben que el solicitante viaja junto al ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o que va a reunirse con él**:
+* **Prueba de residencia en la demarcación consular**.
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documento o datos adicionales y también podrá convocar al solicitante a una entrevista personal.
 
@@ -82,7 +82,7 @@
 
  Las personas que deseen ejercer los derechos de acceso, corrección y supresión de sus datos personales en el Sistema de Información de Visados (VIS) deben dirigirse al: 
 
-  
+ 
 
 |  |  |
 | --- | --- |
@@ -91,9 +91,7 @@
 |  | Dirección postal: Plaza de la Provincia, 1, Madrid, España |
 |  |  Correo electrónico: [dpd@maec.esSe abre en ventana nueva](mailto:dpd@maec.es) |
 
- 
-
-Para este fin, se pueden utilizar los siguientes formularios
+ Para este fin, se pueden utilizar los siguientes formularios
 
  * [Derecho de acceso (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.docx).
 * [Derecho de rectificación (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.docx).

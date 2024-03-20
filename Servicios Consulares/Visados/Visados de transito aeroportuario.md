@@ -24,13 +24,13 @@
  Documentos necesarios
 ---------------------
 
- 1. **Formulario de solicitud de visado Schengen**.  [FORMULARIO VISADO SCHENGEN](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Suiza/Z%C3%9CRICH%20%28C%29/Solicitud%20visados%20Schengen%202020.pdf)  Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
-2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expecidos hace más 10 años.
-4. **Abono de la tasa de visado**.
-5. **Documentos relativos a la continuación del viaje hasta el destino final tras el tránsito previsto**. Se aportará prueba del viaje con escala internacional en algún aeropuerto de España o país representado por España, así como de los permisos de entrada necesarios para el país de destino y las escalas intermedias.
-6. **Documentos que permitan establecer la intención del solicitante de no entrar en el territorio de los Estados miembros**.
-7. **Prueba de residencia en la demarcación consular**.
+ * **Formulario de solicitud de visado Schengen**.  [FORMULARIO VISADO SCHENGEN](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Suiza/Z%C3%9CRICH%20%28C%29/Solicitud%20visados%20Schengen%202020.pdf)  Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+* **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expecidos hace más 10 años.
+* **Abono de la tasa de visado**.
+* **Documentos relativos a la continuación del viaje hasta el destino final tras el tránsito previsto**. Se aportará prueba del viaje con escala internacional en algún aeropuerto de España o país representado por España, así como de los permisos de entrada necesarios para el país de destino y las escalas intermedias.
+* **Documentos que permitan establecer la intención del solicitante de no entrar en el territorio de los Estados miembros**.
+* **Prueba de residencia en la demarcación consular**.
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documento o datos adicionales y también podrá convocar al solicitante a una entrevista personal.
 
@@ -72,7 +72,7 @@
 
  Las personas que deseen ejercer los derechos de acceso, corrección y supresión de sus datos personales en el Sistema de Información de Visados (VIS) deben dirigirse al: 
 
-  
+ 
 
 |  |  |
 | --- | --- |
@@ -81,9 +81,7 @@
 |  | Dirección postal: Plaza de la Provincia, 1, Madrid, España |
 |  |  Correo electrónico: [dpd@maec.esSe abre en ventana nueva](mailto:dpd@maec.es) |
 
- 
-
-Para este fin, se pueden utilizar los siguientes formularios
+ Para este fin, se pueden utilizar los siguientes formularios
 
  * [Derecho de acceso (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.docx).
 * [Derecho de rectificación (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.docx).
