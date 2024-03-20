@@ -11,16 +11,16 @@
 
   ### Documentos necesarios
 
- 1. **[Impreso de solicitud de autorización de residencia de larga duración o de larga duración-UE](https://sede.policia.gob.es/portalCiudadano/sede_electronica/extranjeria/EX11.pdf)**. Cada solicitante completará en todos sus apartados y firmará dos ejemplares del impreso de solicitud (modelo EX - 11). Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
-2. **Pasaporte**. Una fotocopia de todas las páginas del pasaporte o documento de viaje válido y en vigor.
-3. **Condiciones para recuperar la residencia de larga duración o de larga duración-UE**. Documentos que prueben que el solicitante se encuentra en alguno de los supuestos para recuperar la residencia de larga duración o de larga duración-UE.
-4. **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
-5. **Certificado médico**. Original y una copia de un certificado médico que acredite que el solicitante no padece enfermedades que puedan tener repercusiones graves para la salud pública de conformidad con el Reglamento Sanitario Internacional de 2005.
-6. **Abono de la tasa**. Para abonar la tasa de autorización de residencia en la Oficina Consular, se deberá completar en todos sus campos y firmar dos ejemplares del modelo 790 código 052, epígrafe 2.6 ([autorización de residencia de larga duración y autorización de residencia de larga duración-UE](https://sede.administracionespublicas.gob.es/pagina/index/directorio/tasa052)). 
+ * **[Impreso de solicitud de autorización de residencia de larga duración o de larga duración-UE](https://sede.policia.gob.es/portalCiudadano/sede_electronica/extranjeria/EX11.pdf)**. Cada solicitante completará en todos sus apartados y firmará dos ejemplares del impreso de solicitud (modelo EX - 11). Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+* **Pasaporte**. Una fotocopia de todas las páginas del pasaporte o documento de viaje válido y en vigor.
+* **Condiciones para recuperar la residencia de larga duración o de larga duración-UE**. Documentos que prueben que el solicitante se encuentra en alguno de los supuestos para recuperar la residencia de larga duración o de larga duración-UE.
+* **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
+* **Certificado médico**. Original y una copia de un certificado médico que acredite que el solicitante no padece enfermedades que puedan tener repercusiones graves para la salud pública de conformidad con el Reglamento Sanitario Internacional de 2005.
+* **Abono de la tasa**. Para abonar la tasa de autorización de residencia en la Oficina Consular, se deberá completar en todos sus campos y firmar dos ejemplares del modelo 790 código 052, epígrafe 2.6 ([autorización de residencia de larga duración y autorización de residencia de larga duración-UE](https://sede.administracionespublicas.gob.es/pagina/index/directorio/tasa052)). 
 
  La tasa también se puede abonar por internet, a través del enlace al modelo 790-052. En ese caso, se adjuntará justificante del pago obtenido a través de la misma página web.
-7. **Medios económicos (sólo para recuperar la residencia de larga duración-UE)**. Original y una copia de los documentos que acrediten que el solicitante cuenta con medios económicos fijos y regulares suficientes para su manutención y, en su caso, la de su familia.
-8. **Seguro de enfermedad (sólo para recuperar la residencia de larga duración-UE)**. Original y una copia del certificado de seguro de enfermedad público o privado contratado con una entidad aseguradora autorizada a operar en España. El seguro debe cubrir todos los riesgos asegurados por el sistema público de salud en España.
+* **Medios económicos (sólo para recuperar la residencia de larga duración-UE)**. Original y una copia de los documentos que acrediten que el solicitante cuenta con medios económicos fijos y regulares suficientes para su manutención y, en su caso, la de su familia.
+* **Seguro de enfermedad (sólo para recuperar la residencia de larga duración-UE)**. Original y una copia del certificado de seguro de enfermedad público o privado contratado con una entidad aseguradora autorizada a operar en España. El seguro debe cubrir todos los riesgos asegurados por el sistema público de salud en España.
 
  ### Procedimiento
 
@@ -40,14 +40,14 @@
 
   ### Documentos necesarios
 
- 1. **Formulario de solicitud de visado nacional**. () Cada solicitante completará en todos sus apartados y firmará una solicitud de visado. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
-2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 4 meses y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
-4. **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
-5. **Certificado médico**. Original y una copia de un certificado médico que acredite que el solicitante no padece enfermedades que puedan tener repercusiones graves para la salud pública de conformidad con el Reglamento Sanitario Internacional de 2005.
-6. **Prueba de la residencia en la demarcación consular**.
-7. **Prueba la identidad y capacidad del representante**. Si el solicitante es menor de edad, se mostrará el original y se entregará una copia del documento de identidad o pasaporte del progenitor o tutor y del documento que pruebe el parentesco.
-8. **Abono de la tasa de visado**.
+ * **Formulario de solicitud de visado nacional**. () Cada solicitante completará en todos sus apartados y firmará una solicitud de visado. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+* **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 4 meses y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
+* **Certificado de antecedentes penales**. Los solicitantes mayores de edad penal presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 5 años.
+* **Certificado médico**. Original y una copia de un certificado médico que acredite que el solicitante no padece enfermedades que puedan tener repercusiones graves para la salud pública de conformidad con el Reglamento Sanitario Internacional de 2005.
+* **Prueba de la residencia en la demarcación consular**.
+* **Prueba la identidad y capacidad del representante**. Si el solicitante es menor de edad, se mostrará el original y se entregará una copia del documento de identidad o pasaporte del progenitor o tutor y del documento que pruebe el parentesco.
+* **Abono de la tasa de visado**.
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documentos o datos adicionales y también podrá convocar al solicitante a una entrevista personal. 
 

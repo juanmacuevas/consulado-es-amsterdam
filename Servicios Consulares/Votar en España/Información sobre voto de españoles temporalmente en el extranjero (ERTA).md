@@ -5,10 +5,10 @@
  Pasos para votar
 ----------------
 
- 1. Estar de alta como no residente en el Registro de Matrícula Consular.
-2. Solicitar el voto. Es necesario acudir a la Oficina Consular, donde se facilitan los impresos y se tramita la solicitud. Es necesario identificarse con DNI o pasaporte.
-3. La documentación para votar se recibirá por correo certificado en el domicilio indicado en la solicitud de voto.
-4. Remitir por correo certificado el voto a la mesa electoral correspondiente en España.
+ * Estar de alta como no residente en el Registro de Matrícula Consular.
+* Solicitar el voto. Es necesario acudir a la Oficina Consular, donde se facilitan los impresos y se tramita la solicitud. Es necesario identificarse con DNI o pasaporte.
+* La documentación para votar se recibirá por correo certificado en el domicilio indicado en la solicitud de voto.
+* Remitir por correo certificado el voto a la mesa electoral correspondiente en España.
 
  El trámite de inscripción como no residente y la solicitud del voto se pueden realizar simultáneamente en la Oficina Consular, sin necesidad de cita y siempre de forma presencial.
 

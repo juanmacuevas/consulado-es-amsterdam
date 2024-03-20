@@ -11,22 +11,22 @@
  Documentos necesarios para el emprendedor
 -----------------------------------------
 
- 1. **Formulario de solicitud de visado nacional**. ([Solicitud en español](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/SolicitudNacionalES.pdf)[Solicitud en inglés](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/SolicitudNacionalEN.pdf)) Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado.
-2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
-4. **Informe favorable sobre el proyecto**. Original y una copia del Informe favorable emitido por la Oficina Económica y Comercial competente en esta demarcación consular o por la Dirección General de Comercio Internacional e Inversiones. El informe deberá tener en cuenta: 
+ * **Formulario de solicitud de visado nacional**. ([Solicitud en español](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/SolicitudNacionalES.pdf)[Solicitud en inglés](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/SolicitudNacionalEN.pdf)) Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado.
+* **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
+* **Informe favorable sobre el proyecto**. Original y una copia del Informe favorable emitido por la Oficina Económica y Comercial competente en esta demarcación consular o por la Dirección General de Comercio Internacional e Inversiones. El informe deberá tener en cuenta: 
 
 
-	* Especialmente y con carácter prioritario, la creación de puestos de trabajo en España.
-	* El perfil profesional del solicitante, su formación y experiencia profesional, así como su implicación en el proyecto.
-	* El plan de negocio que describa el proyecto, el producto o servicio, el análisis de mercado y la financiación.
-	* El valor añadido para la economía española, la innovación u oportunidades de inversión.
-5. **Medios económicos**. Original y una copia de los documentos que prueben la disponibilidad de medios económicos propios suficientes, o que acrediten una fuente de percepción periódica de ingresos para el emprendedor y, en su caso, para los familiares que le acompañen. La cantidad mínima exigida equivale al 100% del IPREM. A esta cantidad hay que añadir el 50% del IPREM por cada familiar. Los documentos extranjeros deben ser traducidos al español. Tanto el documento como la traducción deberán estar apostillados.
-6. **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
-7. **Seguro de enfermedad**. Original y una copia de un certificado de seguro de enfermedad público o privado, concertado con una entidad aseguradora autorizada a operar en España.
-8. **Prueba de la residencia en la demarcación consular**. 5. Documentación acreditativa de su residencia en Países Bajos (permiso de residencia permanente, permiso de trabajo, permiso de estudios, etc.)
-9. **Prueba la identidad y capacidad del representante**. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
-10. **Abono de la tasa de visado**. La tasa por la tramitación de este visado es de 60€ y la tasa de autorización de residencia es de10,85€. Pueden existir además tasas de reciprocidad para determinados países, como es el caso deCanadá y EE.UU o Australia. El coste total debe ser abonado en el momento de su solicitud en efectivo o con tarjeta de un banco local.
+	+ Especialmente y con carácter prioritario, la creación de puestos de trabajo en España.
+	+ El perfil profesional del solicitante, su formación y experiencia profesional, así como su implicación en el proyecto.
+	+ El plan de negocio que describa el proyecto, el producto o servicio, el análisis de mercado y la financiación.
+	+ El valor añadido para la economía española, la innovación u oportunidades de inversión.
+* **Medios económicos**. Original y una copia de los documentos que prueben la disponibilidad de medios económicos propios suficientes, o que acrediten una fuente de percepción periódica de ingresos para el emprendedor y, en su caso, para los familiares que le acompañen. La cantidad mínima exigida equivale al 100% del IPREM. A esta cantidad hay que añadir el 50% del IPREM por cada familiar. Los documentos extranjeros deben ser traducidos al español. Tanto el documento como la traducción deberán estar apostillados.
+* **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
+* **Seguro de enfermedad**. Original y una copia de un certificado de seguro de enfermedad público o privado, concertado con una entidad aseguradora autorizada a operar en España.
+* **Prueba de la residencia en la demarcación consular**. 5. Documentación acreditativa de su residencia en Países Bajos (permiso de residencia permanente, permiso de trabajo, permiso de estudios, etc.)
+* **Prueba la identidad y capacidad del representante**. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
+* **Abono de la tasa de visado**. La tasa por la tramitación de este visado es de 60€ y la tasa de autorización de residencia es de10,85€. Pueden existir además tasas de reciprocidad para determinados países, como es el caso deCanadá y EE.UU o Australia. El coste total debe ser abonado en el momento de su solicitud en efectivo o con tarjeta de un banco local.
 
  Documentos necesarios para los familiares
 -----------------------------------------

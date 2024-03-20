@@ -5,11 +5,11 @@
  Pasos para votar
 ----------------
 
- 1. Estar de alta como residente en el Registro de Matrícula Consular y estar inscrito correctamente en el censo vigente para cada convocatoria electoral. Si los datos no son correctos, se deberá presentar reclamación en el plazo legalmente establecido (ver apartado “Consulta de listas y reclamaciones”).
-2. La documentación para votar se recibirá por correo certificado en el domicilio del elector. En un primer envío se recibirán los distintos juegos de sobres, los certificados de inscripción en el censo, una hoja informativa sobre cómo ejercer el derecho de voto, que incluirá la dirección de la página web oficial en la que se expondrán las candidaturas definitivas y en la que estarán disponibles juegos de papeletas descargables, y una relación de los centros habilitados para el depósito del voto en urna en la demarcación consular.
+ * Estar de alta como residente en el Registro de Matrícula Consular y estar inscrito correctamente en el censo vigente para cada convocatoria electoral. Si los datos no son correctos, se deberá presentar reclamación en el plazo legalmente establecido (ver apartado “Consulta de listas y reclamaciones”).
+* La documentación para votar se recibirá por correo certificado en el domicilio del elector. En un primer envío se recibirán los distintos juegos de sobres, los certificados de inscripción en el censo, una hoja informativa sobre cómo ejercer el derecho de voto, que incluirá la dirección de la página web oficial en la que se expondrán las candidaturas definitivas y en la que estarán disponibles juegos de papeletas descargables, y una relación de los centros habilitados para el depósito del voto en urna en la demarcación consular.
 
  Con posterioridad, una vez sean proclamadas las listas, las Delegaciones Provinciales del Censo Electoral remitirán en un segundo envío los juegos de papeletas oficiales al domicilio de las personas censadas. Asimismo, las papeletas podrán ser descargadas en la página web oficial que se habilite.
-3. Para votar, se podrá optar entre remitir el voto por correo postal, certificado cuando sea posible, dirigido a la Oficina Consular; o depositar el voto en urna en los centros habilitados, dentro de los plazos establecidos para cada convocatoria electoral. 
+* Para votar, se podrá optar entre remitir el voto por correo postal, certificado cuando sea posible, dirigido a la Oficina Consular; o depositar el voto en urna en los centros habilitados, dentro de los plazos establecidos para cada convocatoria electoral. 
 
  Las Oficinas Consulares garantizarán la disponibilidad de papeletas oficiales de voto en los centros de votación que se habiliten, así como sobres de votación y medios informáticos para la descarga de la documentación precisa para votar durante los días habilitados para la votación presencial.
 

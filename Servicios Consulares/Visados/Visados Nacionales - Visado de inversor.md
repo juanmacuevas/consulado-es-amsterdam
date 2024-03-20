@@ -17,25 +17,25 @@
  Documentos necesarios para el inversor
 --------------------------------------
 
- 1. **Formulario de solicitud de visado nacional**. ([Enlace a la solicitud](http://www.exteriores.gob.es/Consulados/AMSTERDAM/es/Consulado/Documents/SolicitudNacionalES.pdf)) Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado.
-2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
-4. **Documentos que acrediten la inversión**. Original y una copia de los siguientes documentos
+ * **Formulario de solicitud de visado nacional**. ([Enlace a la solicitud](http://www.exteriores.gob.es/Consulados/AMSTERDAM/es/Consulado/Documents/SolicitudNacionalES.pdf)) Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado.
+* **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
+* **Documentos que acrediten la inversión**. Original y una copia de los siguientes documentos
 
 
-	* Inversión en acciones no cotizadas y participaciones sociales: Ejemplar de la declaración de inversión realizada en el Registro de Inversiones Exteriores del Ministerio de Asuntos Económicos y Transformación Digital.
-	* Inversión en acciones cotizadas: Certificado del intermediario financiero registrado en la Comisión Nacional del Mercado de Valores o en el Banco de España, en el que conste que el interesado ha efectuado la inversión.
-	* Inversión en deuda pública: Certificado de la entidad financiera o del Banco de España que acredite que el solicitante es el titular único de la inversión para un período igual o superior a 5 años.
-	* Depósito bancario: Certificado de la entidad bancaria que indique que el solicitante es el único titular de la inversión.
-	* Inversión en inmuebles: Certificado del Registro de la Propiedad con información continuada de dominio y cargas expedido en los últimos 90 días y escritura de compraventa en el caso de que el importe de la adquisición no esté incluido en el certificado de dominio y cargas
-	* Inversión en proyecto empresarial: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular, que constate el interés general del proyecto empresarial.
-	* En el caso de inversión realizada a través de una persona jurídica: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular que constate que la sociedad no tiene su sede en un paraíso fiscal, y que el inversor posee, directa o indirectamente la mayoría de sus derechos de voto y la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.Los documentos extranjeros deben ser traducidos al español. Tanto el documento como latraducción deberán estar apostillados.
-5. **Medios económicos**. Original y una copia de los documentos que prueben la disponibilidad de medios económicos propios suficientes, o que acrediten una fuente de percepción periódica de ingresos para el inversor y, en su caso, para los familiares que le acompañen. La cantidad mínima exigida equivale al 400% del IPREM. A esta cantidad hay que añadir el 100% del IPREM por cada familiar.
-6. **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
-7. **Seguro de enfermedad**. Original y una copia de un certificado de seguro de enfermedad público o privado, concertado con una entidad aseguradora autorizada a operar en España.
-8. **Prueba de la residencia en la demarcación consular**. Documentación acreditativa de su residencia en los Países Bajos (permiso de residenciapermanente, permiso de trabajo, permiso de estudios, etc.).
-9. **Prueba la identidad y capacidad del representante**. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
-10. **Abono de la tasa de visado**. La tasa por la tramitación de este visado es de 60€ que puede abonarse en efectivo o con tarjeta de un banco local.
+	+ Inversión en acciones no cotizadas y participaciones sociales: Ejemplar de la declaración de inversión realizada en el Registro de Inversiones Exteriores del Ministerio de Asuntos Económicos y Transformación Digital.
+	+ Inversión en acciones cotizadas: Certificado del intermediario financiero registrado en la Comisión Nacional del Mercado de Valores o en el Banco de España, en el que conste que el interesado ha efectuado la inversión.
+	+ Inversión en deuda pública: Certificado de la entidad financiera o del Banco de España que acredite que el solicitante es el titular único de la inversión para un período igual o superior a 5 años.
+	+ Depósito bancario: Certificado de la entidad bancaria que indique que el solicitante es el único titular de la inversión.
+	+ Inversión en inmuebles: Certificado del Registro de la Propiedad con información continuada de dominio y cargas expedido en los últimos 90 días y escritura de compraventa en el caso de que el importe de la adquisición no esté incluido en el certificado de dominio y cargas
+	+ Inversión en proyecto empresarial: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular, que constate el interés general del proyecto empresarial.
+	+ En el caso de inversión realizada a través de una persona jurídica: Informe favorable de la Oficina Económica y Comercial competente en esta demarcación consular que constate que la sociedad no tiene su sede en un paraíso fiscal, y que el inversor posee, directa o indirectamente la mayoría de sus derechos de voto y la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.Los documentos extranjeros deben ser traducidos al español. Tanto el documento como latraducción deberán estar apostillados.
+* **Medios económicos**. Original y una copia de los documentos que prueben la disponibilidad de medios económicos propios suficientes, o que acrediten una fuente de percepción periódica de ingresos para el inversor y, en su caso, para los familiares que le acompañen. La cantidad mínima exigida equivale al 400% del IPREM. A esta cantidad hay que añadir el 100% del IPREM por cada familiar.
+* **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
+* **Seguro de enfermedad**. Original y una copia de un certificado de seguro de enfermedad público o privado, concertado con una entidad aseguradora autorizada a operar en España.
+* **Prueba de la residencia en la demarcación consular**. Documentación acreditativa de su residencia en los Países Bajos (permiso de residenciapermanente, permiso de trabajo, permiso de estudios, etc.).
+* **Prueba la identidad y capacidad del representante**. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
+* **Abono de la tasa de visado**. La tasa por la tramitación de este visado es de 60€ que puede abonarse en efectivo o con tarjeta de un banco local.
 
  Documentos necesarios para los familiares
 -----------------------------------------

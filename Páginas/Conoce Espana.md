@@ -39,9 +39,6 @@ Los ciudadanos extranjeros que tengan la intención de realizar en España cualq
 Tras su llegada a España, los trabajadores extranjeros deberán causar alta en el Régimen de Seguridad Social correspondiente y solicitar la tarjeta de identidad de extranjero. Los ciudadanos de la Unión Europea y sus familiares, siempre que estos últimos viajen o se reúnan con dichos ciudadanos, están sometidos a un régimen jurídico específico en base a los derechos reconocidos por los Tratados.​  
 
 
-  
-
-
 Viajar con animales de compañía a España​​
 ------------------------------------------
 
@@ -55,16 +52,6 @@ El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con
 
 
 Tambiém dispone de información sobre la introducción de mascotas en el territorio de la Unión Europea y sobre el control veterinario en frontera.​  
-
-
-  
-
-
-  
-
-
-  
-  
 
 
    [Enlace a la página original](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx)

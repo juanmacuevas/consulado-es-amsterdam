@@ -7,14 +7,14 @@
  Documentos necesarios
 ---------------------
 
- 1. **Formulario de solicitud de visado nacional**. () Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores o un representante debidamente acreditado.
-2. **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
-3. **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
-4. **Autorización de residencia**. Original y una copia de la autorización expedida por la Delegación o Subdelegación del Gobierno de la provincia en la que se desarrollarán las prácticas.
-5. **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
-6. **Prueba de la residencia en la demarcación consular**.
-7. **Prueba la identidad y capacidad del representante**. Si el solicitante es menor de edad, se presentará copia del documento de identidad o pasaporte del progenitor y del documento que pruebe el parentesco. Los originales se mostrarán en el momento de presentar la solicitud. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
-8. **Abono de la tasa de visado**.
+ * **Formulario de solicitud de visado nacional**. () Cada solicitante, o su representante, completará en todos sus apartados y firmará una solicitud de visado. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores o un representante debidamente acreditado.
+* **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara.
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá tener una validez mínima de 1 año y dos páginas en blanco. No se admiten pasaportes expedidos hace más 10 años.
+* **Autorización de residencia**. Original y una copia de la autorización expedida por la Delegación o Subdelegación del Gobierno de la provincia en la que se desarrollarán las prácticas.
+* **Certificado de antecedentes penales**. Los solicitantes mayores de edad presentarán original y una copia del certificado de antecedentes penales expedido por el país o países de residencia en los últimos 2 años. Adicionalmente, se presentará una declaración responsable de la inexistencia de antecedentes penales de los últimos cinco años.
+* **Prueba de la residencia en la demarcación consular**.
+* **Prueba la identidad y capacidad del representante**. Si el solicitante es menor de edad, se presentará copia del documento de identidad o pasaporte del progenitor y del documento que pruebe el parentesco. Los originales se mostrarán en el momento de presentar la solicitud. Si se solicita el visado a través de representante, se presentará copia del documento de identidad o pasaporte del representante y del poder notarial o documento que acredite la representación. Los originales se mostrarán en el momento de presentar la solicitud.
+* **Abono de la tasa de visado**.
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documentos o datos adicionales y también podrá convocar al solicitante a una entrevista personal.
 

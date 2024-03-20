@@ -1,22 +1,19 @@
-import time
-import random
-import yaml
-import requests
-from selenium import webdriver
-from fake_useragent import UserAgent
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from markdownify import markdownify 
+from fake_useragent import UserAgent
+from selenium import webdriver
 from bs4 import BeautifulSoup
-from markdownify import markdownify as md
+import requests
+import random
+import time
+import yaml
+import os
 
-
-
-
-# Constants
 
 PAGES_DATA = yaml.safe_load(open('pages_data.yml', 'r'))
 
@@ -54,7 +51,7 @@ def remove_empty_p(soup):
         if not p_tag.text.strip():
             p_tag.decompose()
 
-def extract_content_from_html(html_content,url):
+def clean_html_content(html_content,url):
     soup = BeautifulSoup(html_content, "html.parser")
     parent_div = BeautifulSoup("<div></div>", "html.parser").div
 
@@ -117,14 +114,16 @@ def fetch_page_content(url, browser):
         print(e)
     return html
 
-def get_html_content_with_element(url, browser,element):
+def fetch_html(browser,page):
+    print('fetching:',page['title'])
     """Fetch the HTML content of a page."""
-    browser.get(url)
+    browser.get(page['url'])
+    element = {
+        'page':'section.body__detail-Wrapper',
+        'service':'section.section__mainSearch-wrapper'}[page['page_type']]
     html = None
     try:
-        section = WebDriverWait(browser, 10).until(
-            EC.visibility_of_element_located((By.CSS_SELECTOR, element))
-        )        
+        section = WebDriverWait(browser, 10).until( EC.visibility_of_element_located((By.CSS_SELECTOR, element)) )        
         html = browser.page_source
     except Exception as e:
         print(e)
@@ -137,97 +136,73 @@ def parse_html_to_markdown(html_content):
     markdown_content = md(str(soup))
     return markdown_content
 
-def update_last_fetched(url):
-    """Update the last fetched timestamp for a URL."""
-    try:
-        with open(LAST_FETCHED_FILE, 'r') as file:
-            last_fetched = json.load(file)
-    except FileNotFoundError:
-        last_fetched = {}
-    
-    last_fetched[url] = time.time()
-    
-    with open(LAST_FETCHED_FILE, 'w') as file:
-        json.dump(last_fetched, file)
 
-import os
-
-def write_to_file(path, content):
+def save_file(page, content):
+    filename = get_filename(page)
+    print('saving to:',filename)   
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
 
-
-def scrape_general_pages(browser):
-    """Scrape general pages."""
-
-    ### for testing only APPLY FILTERS###
-    # PAGES_DATA = [page for page in PAGES_DATA if page['type'] == 'service']
-    # PAGES_DATA = [page for page in PAGES_DATA if page['title'] == 'Matrimonios']
-    ### end testing only####
-
+def pick_next_candidates(amount):
+    """Pick the next pages to scrape."""
     sorted_pages = sorted(PAGES_DATA, key=lambda x: x['updated'])
-    candidates = sorted_pages[:10]
+    candidates = sorted_pages[:min(amount,len(sorted_pages))]
     random.shuffle(candidates)
-    for candidate in candidates:
-        url = candidate['url']
-        print('fetching:',)
-        if candidate['type'] == 'page':
-            html_content = get_html_content_with_element(url, browser,"section.body__detail-Wrapper")            
-        elif candidate['type'] == 'service':
-            html_content = get_html_content_with_element(url, browser,"section.section__mainSearch-wrapper")
-        html = extract_content_from_html( html_content, url)
-        
-        # input('press enter to continue')
-        content = md(str(html))  
-        # exceptions to avoid periodic notifications changes
-        if candidate['title'].startswith("Noticias"):
-            content = substitute_dates(content)
-        if candidate['title'].startswith("Recomendaciones"):
-            content = remove_date_from_recomendaciones(content)
+    return candidates
 
-        if candidate['type'] == 'page':
-            filename = 'Páginas/'+candidate['title']+'.md'
-        elif candidate['type'] == 'service':
-            filename = f'Servicios Consulares/{candidate["category"]}/'+candidate['title']+'.md'
-        
-        print('saving to:',filename)
-        write_to_file(filename, content)
+def substitute_dates(text):
+    days = ["lunes", "martes", "mi[eé]rcoles", "jueves", "viernes", "s[aá]bado", "domingo"]
+    days_pattern = "|".join(days)
+    pattern = re.compile(rf'(?i)({days_pattern}),\s', re.MULTILINE)
+    return pattern.sub('', text)
 
-        for page in PAGES_DATA:
-            if page['url'] == url:
-                page['updated'] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-                break
-        # save updated pages_data.yml
-        with open('pages_data.yml', 'w') as file:
-            yaml.dump(PAGES_DATA, file, default_flow_style=False, allow_unicode=True)
-            print('updated pages_data.yml')
+def remove_date_from_recomendaciones(text):
+    pattern = re.compile(r"(?i)(Recomendaciones vigentes) a \d{1,2} de [a-zA-Z]+ de \d{4}")
+    return pattern.sub(r'\1', text)
 
-        #wait random time
-        time.sleep(random.uniform(4, 12))  # Random wait to mimic human behavior
-        
+def clean_markdown(content,title):
+    """ exceptions to avoid periodic notifications changes """
+    if title.startswith("Noticias"):
+            return substitute_dates(content)
+    elif title.startswith("Recomendaciones"):
+            return remove_date_from_recomendaciones(content)
 
-    # markdown_content = parse_html_to_markdown(html_content)
-    # # Save markdown_content to file or process as needed
-    # update_last_fetched(url)
+def get_filename(page):        
+    if page['type'] == 'page':
+        return 'Páginas/'+page['title']+'.md'
+    elif page['type'] == 'service':
+        return f'Servicios Consulares/{page["category"]}/'+page['title']+'.md'
 
 
+def update_status(url):
+    # update list
+    for page in PAGES_DATA:
+        if page['url'] == url:
+            page['updated'] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+            break
+    # save list to  pages_data.yml
+    with open('pages_data.yml', 'w') as file:
+        yaml.dump(PAGES_DATA, file, default_flow_style=False, allow_unicode=True)
+        print('updated pages_data.yml')
 
+def convert_to_markdown(html_content,page):
+    html = clean_html_content( html_content, page['url'])        
+    content =  markdownify(str(html))  
+    return  clean_markdown(content,page['title'])
 
 def main():
-    verify_unique_urls(PAGES_DATA)
+    # verify_unique_urls(PAGES_DATA)
     browser = setup_browser()
     try:
-        scrape_general_pages(browser)
-        # content = open('test_out.html','r').read()  
-        # # in content replace ordered list OL with unordered lists ul
-        # content = content.replace('<ol>','<ul>').replace('</ol>','</ul>')
-        # # in content remove empty paragraphs
-        # content = content.replace('<p></p>','')
-        # mdown = md(str(content))  
-        # print(mdown)
-
-    
+        candidates = pick_next_candidates(20)    
+        for candidate in candidates:            
+            html_content = fetch_html(browser, candidate)                            
+            content = convert_to_markdown(html_content,candidate)                       
+            save_file(candidate, content)
+            update_status(url)
+            
+            time.sleep(random.uniform(4, 8))  # Random wait to mimic human behavior
     finally:
         browser.quit()
 
