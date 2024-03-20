@@ -13,7 +13,9 @@
 
  La solicitud se puede presentar personalmente o a través de representante. 
 
- Para la tramitación de Números de identidad Fiscal deberá concertarse cita previa a través del sistema de citas on line del Consulado General de España en Amsterdam.Solicite cita aquí: [Número de Identificación Fiscal (NIF)](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)  Documentos necesarios para obtener el NIF L o M (NIF para persona física)
+ Para la tramitación de Números de identidad Fiscal deberá concertarse cita previa a través del sistema de citas on line del Consulado General de España en Amsterdam.Solicite cita aquí: [Número de Identificación Fiscal (NIF)](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)  
+
+Documentos necesarios para obtener el NIF L o M (NIF para persona física)
 -------------------------------------------------------------------------
 
  * [Solicitud mediante modelo 030](https://www.agenciatributaria.es/static_files/Sede/Procedimiento_ayuda/G321/mod030_es_es.pdf). Se completará en línea el formulario para cada solicitante, imprimiendo y firmando los dos ejemplares (uno para la Administración y otro para el interesado).
@@ -22,9 +24,7 @@
 * En el caso de menores de edad y personas incapacitadas, copia del libro de familia o del certificado de nacimiento o del documento de constitución de la tutela. Además, pasaporte o DNI en vigor del progenitor o tutor.
 * Si se solicita a través de representante, documento de identidad o pasaporte en vigor del representante y documento que acredite la representación.
 
- 
-
-El solicitante deberá facilitar los siguientes datos:
+ El solicitante deberá facilitar los siguientes datos:
 
  * Nombre y apellidos
 * Número o código de identificación fiscal en el país o número de pasaporte

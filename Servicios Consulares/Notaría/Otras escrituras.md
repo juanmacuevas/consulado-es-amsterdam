@@ -4,13 +4,13 @@
 
  Además de escrituras de testamentos, poderes o capitulaciones matrimoniales, de las que se informa en otros apartados de esta página web, los Cónsules también pueden autorizar los siguientes tipos de escrituras:
 
- 1. **Escritura de ratificación** 
+ * **Escritura de ratificación** 
 
  Es la escritura que se otorga para ratificar otra escritura pública (de compraventa, de aceptación de herencia, etc.) en la que el otorgante ha sido representado por un tercero que actuó como su mandatario verbal. Para que dicha escritura sea válida, es necesario que el representado la ratifique ante Notario, o ante el Cónsul, mediante una escritura de ratificación.
-2. **Escritura de revocación de poder** 
+* **Escritura de revocación de poder** 
 
  El poder general o especial otorgado a una tercera persona o apoderado para que actúe como representante del otorgante en algún acto o negocio jurídico se puede revocar en cualquier momento. Para ello, es necesario otorgar una escritura de revocación de poder ante Notario o ante el Cónsul.
-3. **Escritura de renuncia a una herencia** 
+* **Escritura de renuncia a una herencia** 
 
  Es posible renunciar a una herencia otorgando una escritura de renuncia de herencia. La renuncia libera al interesado de todas las obligaciones y derechos relacionados con la herencia. Debe tenerse en cuenta que la renuncia es irrevocable y que la ley no permite renunciar a una herencia de forma parcial ni a plazo ni condicionalmente.
 

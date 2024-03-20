@@ -7,9 +7,7 @@
 
  * [Formulario de consentimiento para la expedición de pasaporte a menores de edad o sujetos a tutela](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Consentimiento%20Pasaporte%20Menor.pdf)
 
- 
-
-**Documentos adicionales a aportar** (además de los ya mencionados en el apartado “Requisitos para obtener un pasaporte”):
+ **Documentos adicionales a aportar** (además de los ya mencionados en el apartado “Requisitos para obtener un pasaporte”):
 
  En el caso de menores de edad: 
 
