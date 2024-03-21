@@ -20,10 +20,6 @@
 
  Es importante tener en cuenta que, por difícil que resulte, muchas veces la solución más rápida y eficaz, y la que garantiza plenamente el interés del menor, es la de intentar llegar a un acuerdo amistoso con el progenitor sustractor. 
 
-  
+ Esta oficina consular tiene su demarcación en Países Bajos que es parte del Convenio de La Haya.
 
-Esta oficina consular tiene su demarcación en Países Bajos que es parte del Convenio de La Haya.
-
-   
-
- [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Sustracci%C3%B3n%20internacional%20de%20menores)
+   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Sustracci%C3%B3n%20internacional%20de%20menores)
