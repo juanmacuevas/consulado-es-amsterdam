@@ -1,6 +1,6 @@
 - title: Consul
   type: page
-  updated: '2024-03-20T21:11:42Z'
+  updated: '2024-03-24T08:23:06Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx
 - title: Consulado
   type: page
@@ -12,7 +12,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx
 - title: Horario, localización y contacto
   type: page
-  updated: '2024-03-20T21:11:47Z'
+  updated: '2024-03-24T08:22:44Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx
 - title: Ofertas de empleo
   type: page
@@ -20,7 +20,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx
 - title: Tasas consulares 2023
   type: page
-  updated: '2024-03-20T21:11:54Z'
+  updated: '2024-03-24T08:23:15Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx
 - title: Establecerse
   type: page
@@ -32,11 +32,11 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Trabajar.aspx
 - title: Educación y sanidad
   type: page
-  updated: '2024-03-20T21:18:54Z'
+  updated: '2024-03-24T08:22:37Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx
 - title: Enlaces de interés
   type: page
-  updated: '2024-03-20T21:12:03Z'
+  updated: '2024-03-24T08:22:51Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx
 - title: Seguridad y otros aspectos
   type: page
@@ -72,15 +72,15 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx
 - title: Embajada
   type: page
-  updated: '2024-03-20T21:12:17Z'
+  updated: '2024-03-24T08:24:26Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx
 - title: Consulados
   type: page
-  updated: '2024-03-20T21:11:29Z'
+  updated: '2024-03-24T08:24:21Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Consulados.aspx
 - title: Horario, localización y contacto. Embajada
   type: page
-  updated: '2024-03-20T21:12:12Z'
+  updated: '2024-03-24T08:24:07Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx
 - title: Ofertas de empleo. Embajada
   type: page
@@ -104,7 +104,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx
 - title: Enlaces de interés. Embajada
   type: page
-  updated: '2024-03-20T21:11:36Z'
+  updated: '2024-03-24T08:24:00Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx
 - title: Recomendaciones de viaje. Embajada
   type: page
@@ -122,17 +122,17 @@
 - category: Certificados
   title: Certificado de baja consular
   type: service
-  updated: '2024-03-20T21:18:23Z'
+  updated: '2024-03-24T08:23:48Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular
 - category: Certificados
   title: Certificado de defunción
   type: service
-  updated: '2024-03-20T21:18:30Z'
+  updated: '2024-03-24T08:23:32Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20defunci%C3%B3n
 - category: Certificados
   title: Certificado de ley
   type: service
-  updated: '2024-03-20T21:17:48Z'
+  updated: '2024-03-24T08:24:45Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20ley
 - category: Certificados
   title: Certificado de matrimonio
@@ -152,22 +152,22 @@
 - category: Certificados
   title: Certificado de usuario para persona física
   type: service
-  updated: '2024-03-20T21:19:01Z'
+  updated: '2024-03-24T08:24:14Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20persona%20f%C3%ADsica
 - category: Certificados
   title: Certificado de usuario para representante
   type: service
-  updated: '2024-03-20T21:19:10Z'
+  updated: '2024-03-24T08:24:36Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20representante
 - category: Certificados
   title: Fe de vida y estado
   type: service
-  updated: '2024-03-20T21:18:11Z'
+  updated: '2024-03-24T08:22:30Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida%20y%20estado
 - category: Emergencia Consular
   title: Asistencia en caso de emergencia
   type: service
-  updated: '2024-03-20T21:18:39Z'
+  updated: '2024-03-24T08:23:54Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Asistencia%20en%20caso%20de%20emergencia
 - category: Emergencia Consular
   title: Búsqueda de personas o paraderos
@@ -177,17 +177,17 @@
 - category: Emergencia Consular
   title: Detenidos
   type: service
-  updated: '2024-03-20T21:17:54Z'
+  updated: '2024-03-24T08:24:53Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Detenidos
 - category: Emergencia Consular
   title: Información sobre abogados e interpretes
   type: service
-  updated: '2024-03-20T21:18:03Z'
+  updated: '2024-03-24T08:23:25Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Informaci%C3%B3n%20sobre%20abogados%20e%20interpretes
 - category: Emergencia Consular
   title: Traslado de restos mortales
   type: service
-  updated: '2024-03-20T21:18:46Z'
+  updated: '2024-03-24T08:23:41Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Traslado%20de%20restos%20mortales
 - category: Emergencia Consular
   title: Violencia contra la mujer
@@ -207,7 +207,7 @@
 - category: Familia
   title: Divorcios
   type: service
-  updated: '2024-03-20T21:18:17Z'
+  updated: '2024-03-24T08:22:59Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Divorcios
 - category: Familia
   title: Libro de Familia
