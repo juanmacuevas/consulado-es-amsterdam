@@ -1,7 +1,7 @@
  Visados Nacionales - Información general
 
-    Información general
---------------------
+   Información general
+-------------------
 
   Los nacionales de terceros Estados necesitan un visado nacional cuando vayan a permanecer en España durante más de 90 días (en cualquier período de 180 días) con el fin de trabajar, estudiar o establecer su residencia. También necesitan un visado nacional cuando se desplacen para trabajar por un período inferior a 90 días.
 
@@ -9,8 +9,8 @@
 
  El visado nacional permite viajar a España y realizar tránsito o circular por el territorio de cualquiera de los Estados Schengen durante un máximo de 90 días, pero no implica un derecho automático de entrada en el área Schengen. Las autoridades de frontera pueden denegar la entrada si no se cumplen todos los requisitos legales para la entrada (ver apartado “Condiciones de entrada en España”).
 
-   Protección de datos
---------------------
+  Protección de datos
+-------------------
 
    El tratamiento de los datos personales de los solicitantes de visado se realiza de acuerdo con el [Reglamento General de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf) 
 
@@ -31,13 +31,13 @@
 
   Para obtener más información sobre sus derechos y deberes y sobre cómo ejercer los derechos de acceso, corrección y supresión de datos incluidos en el SIS, se puede consultar la página web de la [Agencia Española de Protección de Datos](https://www.aepd.es/es/derechos-y-deberes/conoce-tus-derechos/derechos-schengen). 
 
-   Quejas o sugerencias
----------------------
+  Quejas o sugerencias
+--------------------
 
    Las quejas o sugerencias sobre la atención recibida o sobre el procedimiento de solicitud de visado se pueden presentar por vía electrónica a través de esta página web . También se puede presentar por escrito en esta Oficina Consular. correo electrónico: cog.amsterdam@maec.es 
 
-   Normativa básica
------------------
+  Normativa básica
+----------------
 
   * [Ley Orgánica 4/2000](https://www.boe.es/buscar/act.php?id=BOE-A-2000-544), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 * [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por la Ley Orgánica 2/2009.
