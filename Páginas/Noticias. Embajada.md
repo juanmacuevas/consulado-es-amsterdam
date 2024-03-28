@@ -1,7 +1,6 @@
 
-
- Noticias de la embajada
-=========================
+Noticias de la embajada
+=======================
 
 
 * [España formaliza un acuerdo con la CPI para el programa JPO](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20240116_NOT01.aspx "España formaliza un acuerdo con la CPI para el programa JPO") 

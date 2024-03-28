@@ -1,5 +1,5 @@
-  Noticias del consulado
-=======================
+ Noticias del consulado
+======================
 
  * [ELECCIONES AL PARALAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240320_NOT01.aspx "ELECCIONES AL PARALAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024")   20 de marzo de 2024
 * [ELECCIONES AL PARLAMENTO VASCO DE 21 DE ABRIL DE 2024](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240228_NOT1.aspx "ELECCIONES AL PARLAMENTO VASCO DE 21 DE ABRIL DE 2024")   28 de febrero de 2024
