@@ -65,7 +65,7 @@ Consejería de Turismo:      
 * Difusión y promoción de los productos turísticos españoles entre las empresas y consumidores holandeses.
 
 
->  **B) Unión Europea:**  
+> **B) Unión Europea:**  
 >    
 > La Embajada de España hace un seguimiento especial de los asuntos europeos en todos sus ámbitos, especialmente para preparar el Consejo Europeo y otras altas reuniones de la UE, y prepara informes que remiten a las autoridades españolas.   
 >    
@@ -106,6 +106,5 @@ Consejería de Turismo:      
 > * Agencia Espacial Europea (cuya rama holandesa se denomina ESTEC).
 > * EUROPOL.
 > * EUROJUST.​
-> 
 
    [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx)

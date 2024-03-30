@@ -5,58 +5,40 @@
 
 
 > Uso exclusivo para emergencias cons​ulares:  
-> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, notariales, ni consultas sobre restricciones de viaje o información sobre la crisis de COVID-19.  
-> 
-> 
-> 
+> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, notariales, ni consultas sobre restricciones de viaje o información sobre la crisis de COVID-19.
 
 
-> 
 > > Desde los Países Bajos: ​0 652 66 50 78  
 > > Desde el extranjero: 0031 652 66 50 78
-> > 
-> > 
-> 
-> 
 
 #### ​Horario de atención al público
 
 
 > Cancillería: 09:00 a 14:00, de lunes a viernes  
 > (Solamente mediante cita previa por vía telefónica o correo electrónico)
-> 
-> 
 
 #### ​Horario de oficina
 
 
 > Cancillería: 09:00 a 17:00, de lunes a viernes
-> 
-> 
 
 #### ​Dirección
 
 
 > Lange Voorhout, 50  
 > 2514 EG La Haya
-> 
-> 
 
 #### ​Correo electrónico
 
 
 > emb.lahaya@maec.es  
 > > para asuntos y trámites consulares como DNI, Pasaporte, Registro Civil, Notaría, etc., se ruega contactar con el [Consulado General en Ámsterdam](https://www.exteriores.gob.es/Consulados/amsterdam/es/Paginas/index.aspx). Esta embajada carece de sección consular.
-> 
-> 
 
 #### ​Web y re​​des sociales
 
 
 > Twitter: [@EmbPaisesBajos](https://twitter.com/embpaisesbajos?lang=es)  
 > Youtube: [https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA​](https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA)
-> 
-> 
 
 #### ​Teléfono
 
@@ -64,8 +46,6 @@
 > Desde los Países Bajos: 070 302 49 99  
 > Desde el extranjero: 0031 70 302 49 99  
 > Fax: 070 361 79 59
-> 
-> 
 
 #### ​Calendario de festivos 2024
 
@@ -89,8 +69,6 @@
 
 
 > ​​Tranvías y autobuses en la zona:  1, 15, 1​6, 22, 24, 28
-> 
-> 
 
 Desde la Estación Central:   
 
@@ -108,10 +86,7 @@ Transportes en La Haya: 
 
 
 > Parking in the city: <https://www.denhaag.nl/en/parking.htm>  
-> Webs de aparcamientos más cercanos (Permite consultar precios, hacer reservas, etc.):  
-> 
-> 
-> 
+> Webs de aparcamientos más cercanos (Permite consultar precios, hacer reservas, etc.):
 
 - [Museumkwartier](https://www.interparking.nl/nl-NL/find-parking/Museumkwartier/)
 - [Noordeinde](https://www.q-park.nl/en-gb/parking/den-haag/noordeinde/)
