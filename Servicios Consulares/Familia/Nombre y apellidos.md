@@ -1,7 +1,7 @@
  Nombre y apellidos
 
-    Nombre propio
---------------
+   Nombre propio
+-------------
 
   ### Elección de nombre propio
 
@@ -54,8 +54,8 @@ cog.amsterdam.rgc@maec.es
 
  El procedimiento de cambio de nombre es gratuito.
 
-   Apellidos
-----------
+  Apellidos
+---------
 
   Los españoles tienen dos apellidos, que se corresponden con los de sus progenitores.
 
