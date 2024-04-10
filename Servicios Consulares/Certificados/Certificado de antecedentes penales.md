@@ -1,64 +1,66 @@
  Certificado de antecedentes penales
 
-  El certificado de antecedentes penales permite acreditar la carencia o existencia de antecedentes que constan en el Registro Central de Penados y es expedido por el Ministerio de Justicia.
+  El certificado de antecedentes penales permite acreditar la carencia o existencia de antecedentes que constan en el Registro Central de Penados y es expedido por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
 
- El certificado se puede obtener por internet, con certificado digital. También se puede solicitar directamente al Ministerio de Justicia por correo postal o presencialmente.
+ El certificado se puede obtener por internet, con certificado digital, a través de la [sede electrónica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes](https://sede.mjusticia.gob.es/es/tramites/certificado-antecedentes). También se puede solicitar directamente al citado Ministerio por [correo postal o presencialmente](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-certificado-antecedentes-penales-presencial). Los españoles que se encuentren en el extranjero y que deseen solicitar el certificado de antecedentes penales por correo postal deberán aportar una copia de su DNI o pasaporte compulsada por la Oficina Consular. Ver apartado “Compulsa de documentos”.
 
-  La información sobre cómo solicitar el certificado por internet, por correo postal o presencialmente en España, se puede consultar en la [página web del Ministerio de Justicia](https://sede.mjusticia.gob.es/es/tramites/certificado-antecedentes). 
+ Asimismo, los ciudadanos españoles y los ciudadanos extranjeros que hayan residido en España podrán solicitar el certificado de antecedentes penales desde el extranjero a través de alguna de las vías que se detallan a continuación. Sin embargo, los ciudadanos de otros Estados miembros de la UE y aquellos extranjeros de otros países que residan en un Estado miembro de la UE distinto de España deberán presentar sus solicitudes en el Registro de Antecedentes Penales del país de su nacionalidad o residencia.
 
- Los españoles residentes en esta demarcación consular también pueden solicitar el certificado de antecedentes penales a través de la Oficina Consular, designando a un representante, que deberá abonar las tasas y retirarlo en España.
+ Solicitud del certificado a través de la Oficina Consular
+---------------------------------------------------------
 
- Documentos necesarios para solicitar el certificado a través de la Oficina Consular
------------------------------------------------------------------------------------
+ La comparecencia personal del interesado es obligatoria. Los documentos necesarios para solicitar el certificado son:
 
- * Original y fotocopia del DNI o del pasaporte en vigor.
-* Impreso de solicitud de certificado de antecedentes penales. [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20certif%20antec%20penales.pdf) 
+ * DNI o pasaporte original, en vigor, de la persona interesada.
+* [Modelo 790-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559) “Ejemplar para la Administración” debidamente cumplimentado y firmado.
+* Justificante del abono de la tasa, que podrá realizarse a través de cualquiera de las siguientes vías: 
 
- En la solicitud se completarán los datos personales del solicitante y los datos del representante y el lugar en el que éste recogerá el certificado en España.
-* La fotocopia del DNI o pasaporte deberá ser compulsada. La compulsa podrá realizarse en el Consulado.La tasa Consular por la realización de una compulsa es de 3,20 €.
 
- Procedimiento para solicitar el certificado a través de la Oficina Consular
----------------------------------------------------------------------------
+	+ Pago a través de sistemas de banca electrónica: Si se dispone de cuenta abierta y firma electrónica para operar en cualquiera de las entidades financieras colaboradoras con la Agencia Tributaria, se podrá realizar el pago a través de sus servicios electrónicos. Para ello, en primer lugar, deberá descargarse el modelo 790 e incluir su número de justificante en el apartado “Tasas Administrativas 790” del sistema de banca electrónica y, si existe la opción, “Código 006 Tasas Administrativas Ministerio de Justicia”. El pago se acreditará en este caso con el comprobante de pago que le facilitará al particular la banca electrónica, donde figura el NRC que deberá presentar junto con la hoja "Ejemplar para la Administración" del modelo 790.
+	+ Pago a través de entidad financiera española colaboradora con la Agencia Tributaria: Se podrá acudir con el impreso 790 cumplimentado a una entidad financiera española colaboradora con la Agencia Tributaria que tenga sucursal en el país desde donde se solicita el certificado. El pago se acreditará con la validación mecánica o firma autorizada de la entidad financiera en la hoja “Ejemplar para la Administración” del impreso 790 que habrá que presentar.
+	+ Pago mediante transferencia bancaria: Se podrá ingresar el importe de la tasa mediante transferencia bancaria, siempre que dicha transferencia se realice desde una cuenta abierta en un banco situado fuera del territorio nacional (no será válida ni se aceptará el pago si la transferencia se hace desde una cuenta con el IBAN español). Para efectuar la transferencia se utilizará el IBAN o Código Internacional de la cuenta de ingresos restringida cuyos datos se indican a continuación: 
+	
+	
+		- ENTIDAD: BBVA.
+		- TITULAR DE LA CUENTA: Ministerio de Justicia – Cuenta Restringida Recaudación Tasas Extranjero.
+		- NIF DEL TITULAR DE LA CUENTA: S-2813610-I
+		- IBAN o Código Internacional de Cuenta Bancaria: IBAN ES62 0182 2370 4202 0800 0060
+		- Código de Identificación Bancario (BIC) del BBVA: BBVAESMMXXX
+		- PRECIO DE LA TASA: 3,86 €
 
- La comparecencia personal del interesado es obligatoria.
+ Es importante que se proceda al abono correcto del importe de la tasa. De hacerlo por una cuantía errónea, la entidad financiera no podrá devolver la misma de manera inmediata; el interesado deberá solicitar su reintegro iniciando un expediente de devolución de ingresos indebidos.
 
- Para este trámite será necesario concertar cita previa en sistema de citas online del Consulado, ventanilla A "autorizaciones de antecedentes penales"
+ El pago se acreditará en este caso a través del justificante de pago que proporcionará la entidad bancaria.
 
-Solicite cita aquí:
+ [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20certif%20antec%20penales.pdf) 
 
- [Autorización de antecedentes penales](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#services) 
+Una vez emitido el certificado por parte del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, la persona interesada recibirá un mensaje por SMS o por correo electrónico para que pueda descargar el certificado con Código Seguro de Verificación (CSV), cuya autenticidad podrá validarse a través de la sede electrónica del citado Ministerio. Se recomienda verificar la bandeja de correo no deseado o Spam.
 
-En esta Oficina Consular no es posible solicitar el certificado de antecedentes penales por correo.
+ Solicitud del certificado a través de representante en España
+-------------------------------------------------------------
 
- El representante designado en la solicitud deberá abonar la tasa en una entidad bancaria colaboradora con la Agencia Tributaria. Para ello, descargará el formulario 790 a través de la página web del Ministerio de Justicia. Posteriormente, podrá retirar el certificado en la Oficina Central de Atención al Ciudadano del Ministerio de Justicia (calle Bolsa, nº 8, Madrid) o en cualquiera de las Gerencias Territoriales del Ministerio de Justicia.
+ La persona interesada podrá designar a un representante, que deberá acreditar su identidad y representación a la hora de presentar la solicitud en España. Para ello, la persona interesada deberá presentar personalmente en la Oficina Consular los siguientes documentos:
 
- Trámites consulares necesarios para solicitar el certificado por correo
------------------------------------------------------------------------
+ * Solicitud debidamente cumplimentada y firmada. En ella constarán tanto sus datos como los del representante, en quien delega la facultad de solicitar y obtener el certificado de antecedentes penales, además de la Gerencia Territorial elegida. El modelo de solicitud será proporcionado por la oficina consular.
+* DNI o pasaporte original, en vigor, de la persona interesada.
 
- Los españoles que deseen solicitar el certificado de antecedentes penales por correo postal deberán aportar una copia de su DNI o pasaporte compulsada por la Oficina Consular. Ver apartado “Compulsa de documentos”.
+ La fotocopia del DNI o pasaporte deberá ser compulsada. La compulsa podrá realizarse en el Consulado.La tasa Consular por la realización de una compulsa es de 3,20 €.
 
- Certificado de antecedentes penales para extranjeros
-----------------------------------------------------
-
- Los extranjeros que necesiten un certificado de antecedentes penales expedido por el Ministerio de Justicia de España deberán designar a un representante para que lo tramite en su nombre ante dicho Ministerio, en España.
-
- Para ello, podrán autorizar a otra persona en un documento privado firmado ante el Cónsul. Ver apartado “Legitimación de firma”.
-
- También necesitarán una copia compulsada de su documento de identidad o pasaporte y, en caso de tenerlo, de su NIE. Ver apartado “Compulsa de documentos”.
+ La persona autorizada deberá acreditar su identidad y presentar en la oficina elegida por la persona interesada el [Modelo 790-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559), “Ejemplar para la Administración”, debidamente cumplimentado y firmado, junto al justificante de abono de la tasa. El certificado se entregará preferentemente en papel, salvo petición expresa de que se haga de otra forma.
 
  Españoles detenidos
 -------------------
 
  Los españoles detenidos en el extranjero podrán autorizar por escrito a la Oficina Consular para solicitar el certificado en su nombre. En este caso, el certificado se tramita de oficio y de forma gratuita.
 
- Legalización o apostilla del certificado de antecedentes penales.
------------------------------------------------------------------
+ Legalización o apostilla del certificado de antecedentes penales
+----------------------------------------------------------------
 
- En la solicitud, se indicará el país en el que debe producir efectos el certificado. El Ministerio de Justicia lo expedirá apostillado o legalizado, según corresponda.
+ En la solicitud, se indicará el país en el que debe producir efectos el certificado. El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes lo expedirá apostillado o legalizado, según corresponda. 
 
  Certificado de delitos de naturaleza sexual
 -------------------------------------------
 
- El certificado de antecedentes penales no habilita para trabajar con menores o acogerlos en España. Para este fin, es necesario un certificado de delitos de naturaleza sexual que se tramita directamente a través del Ministerio de Justicia en España.
+ El certificado de antecedentes penales no habilita para trabajar con menores o acogerlos en España. Para este fin, es necesario un certificado de delitos de naturaleza sexual que se tramita directamente a través del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes en España.
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales)
