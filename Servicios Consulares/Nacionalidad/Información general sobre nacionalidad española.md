@@ -14,7 +14,7 @@
  * Por ser hijo biológico o adoptivo de padre o madre de nacionalidad española, con independencia del lugar de nacimiento.
 * Excepcionalmente, por haber nacido en España en determinados casos: Cuando alguno de los progenitores extranjeros también haya nacido en España; cuando los progenitores carezcan de nacionalidad; cuando las leyes de ninguno de los progenitores extranjeros le atribuya al hijo la nacionalidad del país y cuando los progenitores sean desconocidos.
 
- Ver apartado “Nacimientos”.
+ [Ver apartado “Nacimientos”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Familia&scs=Nacimientos)
 
  Nacionalidad derivativa
 -----------------------
@@ -27,14 +27,14 @@
 
 
 	+ Las personas que estén o hayan estado sujetos a la patria potestad de un español.
-	+ Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.Ver apartado “Opción”.
+	+ Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.[Ver apartado “Opción”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Opci%C3%B3n)
   
 * **Nacionalidad por residencia** 
 
  Esta forma de adquisición de la nacionalidad exige la residencia de la persona en España de forma legal, continuada e inmediatamente anterior a la solicitud. Dependiendo de la nacionalidad previa y de las circunstancias personales, varía el número de años de residencia necesarios para adquirir la nacionalidad. Las Oficinas Consulares españolas no realizan trámites de nacionalidad por residencia.
 
    
- Ver apartado “Nacionalidad por residencia”.
+ [Ver apartado “Nacionalidad por residencia”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20por%20residencia)
   
 * **Nacionalidad por carta de naturaleza** 
 
