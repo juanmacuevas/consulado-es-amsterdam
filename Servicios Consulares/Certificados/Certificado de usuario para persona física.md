@@ -18,7 +18,7 @@
 
 	+ [Impreso de solicitud por triplicado](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud%20certificado%20usuario%20persona%20f%C3%ADsica.pdf).
 	+ Original y una fotocopia del DNI o del NIE.
-	+ Código de solicitud proporcionado por la FNMT, que se anotará en el impreso de solicitud.
+	+ Código de solicitud proporcionado por la FNMT, que se anotará en el impreso de solicitud.Para poder atender su petición, rogamos se personen en este Consulado General de **10 a 12:00 horas**.
 * Al cabo de uno o dos días hábiles se podrá descargar el certificado de usuario haciendo uso del código de solicitud y con el mismo ordenador, navegador y usuario utilizado para solicitar el certificado. Es recomendable hacer una copia de seguridad del certificado electrónico.
 
  La obtención del certificado digital es gratuita.
