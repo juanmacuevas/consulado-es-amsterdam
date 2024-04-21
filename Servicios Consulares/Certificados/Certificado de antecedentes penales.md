@@ -26,11 +26,9 @@
 		- NIF DEL TITULAR DE LA CUENTA: S-2813610-I
 		- IBAN o Código Internacional de Cuenta Bancaria: IBAN ES62 0182 2370 4202 0800 0060
 		- Código de Identificación Bancario (BIC) del BBVA: BBVAESMMXXX
-		- PRECIO DE LA TASA: 3,86 €
-
- Es importante que se proceda al abono correcto del importe de la tasa. De hacerlo por una cuantía errónea, la entidad financiera no podrá devolver la misma de manera inmediata; el interesado deberá solicitar su reintegro iniciando un expediente de devolución de ingresos indebidos.
-
- El pago se acreditará en este caso a través del justificante de pago que proporcionará la entidad bancaria.
+		- PRECIO DE LA TASA: 3,86 €Es importante que se proceda al abono correcto del importe de la tasa. De hacerlo por una cuantía errónea, la entidad financiera no podrá devolver la misma de manera inmediata; el interesado deberá solicitar su reintegro iniciando un expediente de devolución de ingresos indebidos.
+	
+	 El pago se acreditará en este caso a través del justificante de pago que proporcionará la entidad bancaria.
 
  [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20certif%20antec%20penales.pdf) 
 
@@ -41,7 +39,7 @@ Una vez emitido el certificado por parte del Ministerio de la Presidencia, Justi
 
  La persona interesada podrá designar a un representante, que deberá acreditar su identidad y representación a la hora de presentar la solicitud en España. Para ello, la persona interesada deberá presentar personalmente en la Oficina Consular los siguientes documentos:
 
- * Solicitud debidamente cumplimentada y firmada. En ella constarán tanto sus datos como los del representante, en quien delega la facultad de solicitar y obtener el certificado de antecedentes penales, además de la Gerencia Territorial elegida. El modelo de solicitud será proporcionado por la oficina consular.
+ * Solicitud debidamente cumplimentada y firmada. En ella constarán tanto sus datos como los del representante, en quien delega la facultad de solicitar y obtener el certificado de antecedentes penales, además de la Gerencia Territorial elegida.  [Enlace solicitud pdf.](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud%20CAP.pdf)
 * DNI o pasaporte original, en vigor, de la persona interesada.
 
  La fotocopia del DNI o pasaporte deberá ser compulsada. La compulsa podrá realizarse en el Consulado.La tasa Consular por la realización de una compulsa es de 3,20 €.
