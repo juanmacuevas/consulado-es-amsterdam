@@ -80,7 +80,7 @@ Practicada la inscripción, se entregará un certificado literal de matrimonio y
 - Si alguno de los contrayentes españoles es divorciado, certificado literal del matrimonio anterior con nota marginal de divorcio, expedido por el Registro Civil español (no será necesario si está inscrito en esta Oficina Consular).
 - Si alguno de los contrayentes españoles es viudo, certificado literal del matrimonio anterior expedido por el Registro Civil español y certificado literal de defunción del anterior cónyuge expedido por el Registro civil competente (no será necesario si está inscrito en esta Oficina Consular).
 - Datos de identidad y de contacto y copia del DNI o pasaporte de dos testigos (familiares o allegados).
-- Certificado de empadronamiento expedido por el ayuntamiento neerlandés de su domicilio, donde se indique desde qué fecha residen en los Países Bajos.
+- Certificado de empadronamiento expedido por el ayuntamiento neerlandés de su domicilio, donde se indique desde qué fecha residen en los Países Bajos. Si el contrayente español lleva más de dos años inscrito en el Registro de Matrícula Consular de este Consulado, no precisará aportar historial padronal ni certificado consular que acredite su lugar de residencia en los dos últimos años.
 - Si alguno de los contrayentes no reside en la demarcación consular, se indicarán sus datos de contacto. La tramitación correspondiente a este contrayente se realizará en el Registro civil español competente en función de su domicilio.
 - Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
 
