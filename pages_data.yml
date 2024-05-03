@@ -48,11 +48,11 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx
 - title: Documentación y trámites
   type: page
-  updated: '2024-04-28T08:24:54Z'
+  updated: '2024-05-03T08:25:51Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
 - title: Conoce Espana
   type: page
-  updated: '2024-04-27T08:26:06Z'
+  updated: '2024-05-03T08:25:42Z'
   url: https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx
 - title: Recomendaciones de viaje
   type: page
@@ -112,7 +112,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias. Embajada
   type: page
-  updated: '2024-04-28T08:24:24Z'
+  updated: '2024-05-03T08:25:23Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx
 - category: Certificados
   title: Certificado de antecedentes penales
@@ -192,7 +192,7 @@
 - category: Emergencia Consular
   title: Violencia contra la mujer
   type: service
-  updated: '2024-04-28T08:24:39Z'
+  updated: '2024-05-03T08:25:33Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Violencia%20contra%20la%20mujer
 - category: Familia
   title: Adopción internacional
@@ -202,12 +202,12 @@
 - category: Familia
   title: Defunciones
   type: service
-  updated: '2024-04-28T08:25:22Z'
+  updated: '2024-05-03T08:26:11Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Defunciones
 - category: Familia
   title: Divorcios
   type: service
-  updated: '2024-04-28T08:25:32Z'
+  updated: '2024-05-03T08:26:59Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Divorcios
 - category: Familia
   title: Libro de Familia
@@ -252,7 +252,7 @@
 - category: Inscripción Consular
   title: Modificación de datos o cambio de domicilio
   type: service
-  updated: '2024-04-27T08:25:46Z'
+  updated: '2024-05-03T08:26:27Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Inscripci%C3%B3n%20Consular&scs=Modificaci%C3%B3n%20de%20datos%20o%20cambio%20de%20domicilio
 - category: Legalización o Apostilla. Compulsa y Registro
   title: Compulsa de copia de documentos
@@ -292,7 +292,7 @@
 - category: Nacionalidad
   title: Nacionalidad española por residencia
   type: service
-  updated: '2024-04-27T08:26:39Z'
+  updated: '2024-05-03T08:26:01Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20por%20residencia
 - category: Nacionalidad
   title: Pérdida de la nacionalidad española
@@ -302,7 +302,7 @@
 - category: Nacionalidad
   title: Recuperación de la nacionalidad española
   type: service
-  updated: '2024-04-27T08:26:20Z'
+  updated: '2024-05-03T08:26:43Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Recuperaci%C3%B3n%20de%20la%20nacionalidad%20espa%C3%B1ola
 - category: Notaría
   title: Actas notariales
@@ -322,7 +322,7 @@
 - category: Notaría
   title: Legitimación de firma
   type: service
-  updated: '2024-04-28T08:25:38Z'
+  updated: '2024-05-03T08:24:54Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Legitimaci%C3%B3n%20de%20firma
 - category: Notaría
   title: Obtención de copia
@@ -342,7 +342,7 @@
 - category: Notaría
   title: Testamentos
   type: service
-  updated: '2024-04-28T08:24:31Z'
+  updated: '2024-05-03T08:24:29Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Testamentos
 - category: Pasaportes y otros documentos
   title: Autorización de viaje para menores
@@ -362,22 +362,22 @@
 - category: Pasaportes y otros documentos
   title: Número de Identificación Fiscal (NIF)
   type: service
-  updated: '2024-04-28T08:25:01Z'
+  updated: '2024-05-03T08:25:04Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=N%C3%BAmero%20de%20Identificaci%C3%B3n%20Fiscal%20%28NIF%29
 - category: Pasaportes y otros documentos
   title: Pasaportes - Información importante
   type: service
-  updated: '2024-04-27T08:26:12Z'
+  updated: '2024-05-03T08:24:19Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Informaci%C3%B3n%20importante
 - category: Pasaportes y otros documentos
   title: Pasaportes - Menores de edad y personas incapacitadas
   type: service
-  updated: '2024-04-27T08:26:30Z'
+  updated: '2024-05-03T08:25:14Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Menores%20de%20edad%20y%20personas%20incapacitadas
 - category: Pasaportes y otros documentos
   title: Pasaportes - Requisitos y procedimiento para obtenerlo
   type: service
-  updated: '2024-04-27T08:25:38Z'
+  updated: '2024-05-03T08:26:20Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Requisitos%20y%20procedimiento%20para%20obtenerlo
 - category: Pasaportes y otros documentos
   title: Pasaportes - Sustracción o pérdida
@@ -397,7 +397,7 @@
 - category: Recursos en materia de Registro Civil
   title: Recursos en materia de Registro Civil
   type: service
-  updated: '2024-04-28T08:24:47Z'
+  updated: '2024-05-03T08:24:09Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Recursos%20en%20materia%20de%20Registro%20Civil&scs=Recursos%20en%20materia%20de%20Registro%20Civil
 - category: Visados
   title: Condiciones de entrada en España
@@ -407,7 +407,7 @@
 - category: Visados
   title: Lugar de presentación de solicitudes de visado
   type: service
-  updated: '2024-04-28T08:25:47Z'
+  updated: '2024-05-03T08:24:46Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Lugar%20de%20presentaci%C3%B3n%20de%20solicitudes%20de%20visado
 - category: Visados
   title: Visado de estancia (visado Schengen)
@@ -418,7 +418,7 @@
   title: Visados de familiares de ciudadanos UE y de beneficiarios Acuerdo de Retirada
     UE-Reino Unido
   type: service
-  updated: '2024-04-27T08:25:56Z'
+  updated: '2024-05-03T08:26:36Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20de%20familiares%20de%20ciudadanos%20UE%20y%20de%20beneficiarios%20Acuerdo%20de%20Retirada%20UE-Reino%20Unido
 - category: Visados
   title: Visados de transito aeroportuario
@@ -438,7 +438,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de inversor
   type: service
-  updated: '2024-04-28T08:25:07Z'
+  updated: '2024-05-03T08:24:36Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20inversor
 - category: Visados
   title: Visados Nacionales - Visado de investigador
@@ -500,7 +500,7 @@
 - category: Votar en España
   title: Información sobre voto de españoles residentes en el extranjero (CERA)
   type: service
-  updated: '2024-04-28T08:25:16Z'
+  updated: '2024-05-03T08:26:50Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Votar%20en%20Espa%C3%B1a&scs=Informaci%C3%B3n%20sobre%20voto%20de%20espa%C3%B1oles%20residentes%20en%20el%20extranjero%20%28CERA%29
 - category: Votar en España
   title: Información sobre voto de españoles temporalmente en el extranjero (ERTA)
