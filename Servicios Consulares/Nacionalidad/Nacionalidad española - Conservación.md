@@ -39,7 +39,7 @@ Procedimiento
 
  La comparecencia personal del interesado durante el procedimiento es siempre necesaria.
 
-  Para presentar una solicitud, se debe obtener cita por correo electrónico dirigido a 
+  Para presentar una solicitud, 
 
 Para solicitar cita para realizar esta declaración de voluntad de conservación, debe remitir por correo postal a esta Oficina la documentación indicada más abajo. Por favor, lea la información atentamente. Recordamos que para realizar este trámite, ha de estar usted inscrito como Residente en el Registro de Matrícula de este Consulado. Vea más información sobre el procedimiento de inscripción.[Solicitud de conservación de la nacionalidad](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20conservaci%C3%B3n%20nacionalidad%20espa%C3%B1ola.pdf)No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en el correo: cog.amsterdam.rgc@maec.esUna vez recibida la documentación, nos pondremos en contacto con usted para fijar una cita para que usted acuda a nuestras oficinas a realizar esta declaración. 
 
