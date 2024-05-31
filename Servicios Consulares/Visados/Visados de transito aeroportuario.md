@@ -13,7 +13,7 @@
 
  Los nacionales de los Estados incluidos en los listados anteriores no necesitan visado de tránsito aeroportuario cuando tengan un visado Schengen, u otro tipo de visado, o una tarjeta de residencia que permita el reingreso, expedidos por algún Estado miembro de la Unión Europea o del Espacio Económico Europeo (EEE) o Suiza, o por Andorra, Canadá, Estados Unidos, Japón, o San Marino, o por algunos de los países y territorios de ultramar del Reino de los Países Bajos, o cuando sean titulares de pasaporte diplomático, o familiares de ciudadanos de la Unión o del EEE o Suiza, o miembros de tripulaciones de vuelo de los Estados parte de la OACI.
 
- El área Schengen abarca 27 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, República Checa, Croacia, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
+ El área Schengen abarca 29 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, Bulgaria, República Checa, Croacia, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Rumanía, Suecia y Suiza.
 
  El visado de tránsito aeroportuario permite hacer tránsito en la zona internacional de los aeropuertos del área Schengen pero no permite entrar en el territorio de los Estados Schengen. Cuando la conexión implique el cambio de terminal aérea que exija el paso de un control de fronteras, será necesario solicitar un visado Schengen (ver apartado “Visados Schengen).
 
