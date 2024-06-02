@@ -7,7 +7,7 @@
 
  [Enlace al formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/impreso%20solicitud%20visado%20Schengen.pdf)
 
- El área Schengen abarca 27 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, Croacia, República Checa, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
+ El área Schengen abarca 29 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, Bulgaria, Croacia, República Checa, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
 
  El visado Schengen permite viajar a cualquiera de los Estados Schengen y transitar por su territorio, pero no implica un derecho automático de entrada en el área Schengen. Las autoridades de frontera pueden denegar la entrada si no se aportan pruebas del motivo y las condiciones del viaje o si no se cumplen el resto de las condiciones de entrada (Ver apartado “Condiciones de entrada en España”).
 
