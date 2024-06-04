@@ -4,10 +4,6 @@
 
 Los Cónsules podrán ejercer funciones notariales siempre que lo permitan las leyes del país en el que desempeñan sus funciones. En todo caso, los Cónsules no autorizan instrumentos notariales cuya finalidad sea producir efectos exclusivamente en el extranjero.
 
- Cuando un español necesite otorgar un instrumento que deba producir efectos en el extranjero, deberá acudir a un notario local.
-
- Los actos notariales otorgados ante un notario extranjero también pueden producir efectos en España, siempre que estén debidamente legalizados o apostillados y vayan acompañados de una traducción oficial al castellano, en su caso.
-
  Los Cónsules de España autorizan principalmente los siguientes tipos de actos notariales:
 
  * Poderes generales o especiales para pleitos u otros fines
@@ -22,6 +18,22 @@ Los Cónsules podrán ejercer funciones notariales siempre que lo permitan las l
  Si la persona que otorga el acto o declaración de voluntad no comprende suficientemente el castellano, deberá acudir a la Oficina Consular acompañado de un intérprete a su costa, salvo que el Cónsul conozca la lengua en la que se exprese el interesado.
 
  Los Consulados Honorarios de España no están autorizados para ejercer funciones notariales.
+
+ Otorgamiento de instrumentos notariales por vía telemática ante notarios en España
+----------------------------------------------------------------------------------
+
+ Adicionalmente a la función notarial de los Cónsules de España, cualquier ciudadano puede otorgar determinados actos y negocios jurídicos ante un notario de su elección en España mediante videoconferencia, con independencia del lugar de residencia y sin necesidad de comparecencia presencial. 
+
+ Pueden otorgarse a través de este procedimiento telemático poderes especiales, legitimaciones de firma, pólizas mercantiles, así como todos los actos y negocios de carácter mercantil o societario, salvo la compraventa de participaciones. En ningún caso podrán otorgarse poderes generales y preventivos (ni su revocación), testamentos (salvo en caso de epidemia declarada), trámites relativos a herencias, hipotecas, expedientes matrimoniales ni actas de manifestaciones.
+
+ Este procedimiento en línea se realiza a través de la sede electrónica del notariado, el [Portal Notarial del Ciudadano](https://www.portalnotarial.es), siendo necesario para operar en él darse de alta en el Portal y disponer de un certificado digital válido en España. En caso de que no se disponga de certificado digital, éste podrá obtenerse para el otorgamiento o trámite en cuestión, una vez elegido el notario, a través del mencionado Portal. 
+
+ Otorgamiento de instrumentos notariales ante notarios locales
+-------------------------------------------------------------
+
+ Cuando un español necesite otorgar un instrumento que deba producir efectos en el extranjero, deberá acudir a un notario local.
+
+ Los actos notariales otorgados ante un notario extranjero también pueden producir efectos en España, siempre que estén debidamente legalizados o apostillados y vayan acompañados de una traducción oficial al castellano, en su caso. 
 
  Normativa básica
 ----------------

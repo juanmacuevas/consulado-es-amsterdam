@@ -23,7 +23,7 @@
 
  Los familiares de ciudadanos de la Unión que deseen permanecer en España más allá de los 90 días, una vez en España, deben solicitar una tarjeta de residencia de familiar de ciudadano de la Unión ante las autoridades competentes.
 
- El área Schengen abarca 27 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, República Checa, Croacia, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Suecia y Suiza.
+ El área Schengen abarca 29 países europeos sin controles fronterizos entre ellos: Alemania, Austria, Bélgica, Bulgaria, República Checa, Croacia, Dinamarca, Eslovenia, Eslovaquia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania, Luxemburgo, Malta, Noruega, Países Bajos, Polonia, Portugal, Rumanía, Suecia y Suiza.
 
  
 
