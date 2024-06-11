@@ -21,7 +21,7 @@
 
  ### Documentos a presentar
 
- * [Formulario de solicitud de inscripción como residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/02.01._SOLICITUD%20DE%20INSCRIPCION%20COMO%20RESIDENTE_v3.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
+ * [Formulario de solicitud de inscripción como residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/2020112_SOLICITUD%20DE%20INSCRIPCION%20COMO%20RESIDENTE_v4.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
 * [Formulario de declaración explicativa de elección de municipio a efectos electorales](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/Declaracionexplicativa_PERECERA_12abr21.pdf), firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
 
  En este formulario se indicará el municipio de inscripción a efectos electorales, que podrá ser el del último domicilio en España en el que se haya estado empadronado, o el municipio de mayor arraigo del solicitante o de sus progenitores, en el caso de españoles que nunca han residido en España
@@ -34,19 +34,9 @@
 
  ### Procedimiento
 
- La inscripción consular se realizará por correo postal no siendo necesaria la presencia física de los inscritos. La dirección del Consulado General es la siguiente:
+ La inscripción consular se realizará por correo postal no siendo necesaria la presencia física de los inscritos. La dirección del Consulado General es la siguiente: SPAANS CONSULAAT GENERAALFrederiksplein 341017 XN AmsterdamEl plazo de tramitación actual de las solicitudes de inscripción enviadas puede demorarse entre DOS y TRES MESES.Las solicitudes enviadas que no tengan la documentación completa o incorrectamente cumplimentada serán archivadas sin más trámite. 
 
-SPAANS CONSULAAT GENERAAL
-
-Frederiksplein 34
-
-1017 XN Amsterdam
-
-El plazo de tramitación actual de las solicitudes de inscripción enviadas puede demorarse entre DOS y TRES MESES.
-
-Las solicitudes enviadas que no tengan la documentación completa o incorrectamente cumplimentada serán archivadas sin más trámite.
-
- ### Normativa básica
+### Normativa básica
 
  * [Real Decreto 3425/2000](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-174), de 15 de diciembre, sobre inscripción de los españoles en los Registros de Matrícula de las oficinas consulares en el extranjero.
 
@@ -59,7 +49,7 @@ Las solicitudes enviadas que no tengan la documentación completa o incorrectame
 
  ### Documentación a presentar
 
- * [Formulario de inscripción como no residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/02.01.%20SOLICITUD%20DE%20INSCRIPCION%20COMO%20NO%20%20RESIDENTE_v3.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores en el caso de menor de edad o persona incapacitada.
+ * [Formulario de inscripción como no residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/20201112_SOLICITUD%20DE%20INSCRIPCION%20COMO%20NO%20%20RESIDENTE_v4.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores en el caso de menor de edad o persona incapacitada.
 * Fotocopia del DNI, si lo posee, o del pasaporte español o, en su defecto, partida literal de nacimiento expedida por el Registro Civil español.
 * Una fotografía tamaño carnet (en color, reciente, hecha de frente, sobre fondo blanco, sin gafas oscuras ni prendas que dificulten la identificación).
 
