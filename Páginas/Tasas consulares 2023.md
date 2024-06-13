@@ -1,8 +1,10 @@
-  TASAS CONSULARES 2023
-=====================
+  Error 404 - Página no encontrada
+================================
 
-   4 de enero de 2023    ​  
-[![]()Tasas Consulares 2023.pdf](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/PublishingImages/Paginas/TASAS-CONSULARES-2023/Tasas%20Consulares%202023.pdf)​  
+    No ha sido posible encontrar la página solicitada.  
+
+
+Para seguir navegando pulse [aq​uí​](https://www.exteriores.gob.es/es/Paginas/index.aspx)  
 
 
    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx)
