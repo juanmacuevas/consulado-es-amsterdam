@@ -12,14 +12,14 @@ Noticias de la embajada
 
 16 de enero de 2024
 
-![España formaliza un acuerdo con la CPI para el programa JPO]()
+![España formaliza un acuerdo con la CPI para el programa JPO](/Embajadas/lahaya/es/Comunicacion/Noticias/PublishingImages/Paginas/Articulos/20240116_NOT01/Foto%204.jpg?width=424&height=244)
 * Presidencia Española de la UE
 
 [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya") 
 
 6 de julio de 2023
 
-![Acto inaugural de la presidencia española del Consejo de la UE en La Haya]()
+![Acto inaugural de la presidencia española del Consejo de la UE en La Haya](/Embajadas/lahaya/es/Comunicacion/Noticias/PublishingImages/2023/20230705-Nacho%20Vilaplana-DSC_9432-3Mpx-95ppp-100-DSC_9432.jpg?width=424&height=244)
 * OPAQ
 
 [España formaliza contribuciones para el Fondo Fiduciario de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230227_Not01.aspx "España formaliza contribuciones para el Fondo Fiduciario de la OPAQ") 
