@@ -3,24 +3,18 @@
   ¿Qué es?
 --------
 
- Es el acto por el que se manifiesta la voluntad de preservar la nacionalidad española cuando se adquiere o se ostenta otra nacionalidad extranjera.
-
- Para evitar la pérdida de la nacionalidad tendrá que producirse la conservación de la nacionalidad española transcurridos tres años desde la adquisición de la nacionalidad extranjera o desde la emancipación.
-
- La conservación expresa se realiza con una declaración personal ante el Encargado del Registro Civil Consular en determinadas circunstancias.
-
- La conservación tácita se podría producir a través de un acto que implique el ejercicio de derechos o el cumplimiento de deberes en determinados supuestos que serán valorados por la Oficina consular competente.
+ La conservación de la nacionalidad española es una declaración personal ante el Encargado del Registro Civil Consular del domicilio que evita la pérdida de la nacionalidad española en determinadas circunstancias. 
 
  ¿Quiénes pueden conservar la nacionalidad española?
 ---------------------------------------------------
 
  De manera general, pueden probar el acto de conservación o realizar la declaración ante el Encargado del Registro Civil, los españoles residentes en el extranjero que:
 
- * Adquieran voluntariamente otra nacionalidad después de la mayoría de edad. La declaración o el acto de conservación se debe hacer antes de que pasen tres años desde la adquisición de otra nacionalidad y será valorado por el RC consular.
+ * Adquieran voluntariamente otra nacionalidad después de la mayoría de edad o emancipación. La declaración de conservación se debe hacer antes de que pasen tres años desde la adquisición de otra nacionalidad.
 
-  Los españoles de origen que adquieran la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o Francia están exentos del requisito de conservación de la nacionalidad española.
-* Tengan otra nacionalidad, además de la española, desde la minoría de edad. La declaración o el acto de conservación se debe hacer antes de que transcurran tres años desde la mayoría de edad o la emancipación.
-* Los españoles que hayan nacido y residan habitualmente en el extranjero, y sean hijos de españoles también nacidos en el extranjero, si el país en el que residen les atribuye su nacionalidad durante la minoría de edad. Deberán declarar su voluntad de conservar la nacionalidad española ante el Encargado del Registro Civil o probar el acto de conservación en el plazo de tres años a contar desde que cumplan los 18 años o desde que se emancipen.
+ Los españoles de origen que adquieran la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal no tienen que hacer la declaración de conservación de la nacionalidad española.
+* Tengan otra nacionalidad, además de la española, desde la minoría de edad. La declaración se debe hacer antes de que transcurran tres años desde la mayoría de edad o la emancipación.
+* Los españoles que hayan nacido y residan habitualmente en el extranjero, y sean hijos de españoles también nacidos en el extranjero, si el país en el que residen les atribuye su nacionalidad durante la minoría de edad, deberán declarar su voluntad de conservar la nacionalidad española ante el Encargado del Registro Civil en el plazo de tres años a contar desde que cumplan los 18 años o desde que se emancipen.
 
  Nota aclaratoria: Art. 24.3 del CC “Los que habiendo nacido y residiendo en el extranjero ostenten la nacionalidad española por ser hijos de padre o madre españoles, también nacidos en el extranjero, cuando las leyes del país donde residan les atribuyan la nacionalidad del mismo, perderán, en todo caso, la nacionalidad española si no declaran su voluntad de conservarla ante el encargado del Registro Civil en el plazo de tres años, a contar desde su mayoría de edad o emancipación”; SIN EMBARGO: Ver sentencia del Tribunal Supremo nº 696/2019 “La sentencia de la Sala de lo Civil del Tribunal Supremo nº 696/2019 de fecha 19 de diciembre de 2019 determinaba, en relación con la pérdida de la nacionalidad española conforme al art. 24.3 CC, que no se exige que la declaración de querer conservar la nacionalidad se realice "expresamente", admitiendo que la voluntad pueda manifestarse de manera indirecta a través de un comportamiento concluyente, como es la solicitud de renovación de pasaporte, supuesto al que se equiparó la tenencia de pasaporte en vigor dentro del plazo de los tres años siguientes al cumplimiento de la mayoría de edad o emancipación,\*Salvedad: cuando la tenencia de pasaporte español en vigor no comprenda la totalidad del periodo de los tres años a que se refiere el artículo 24.3 del Código Civil y el interesado no formule la declaración de la voluntad de conservar la nacionalidad de manera expresa, o mediante la solicitud de renovación de pasaporte en el periodo comprendido desde la fecha de expiración del mismo hasta la finalización del plazo citado, sería procedente declarar la pérdida de la nacionalidad española.”
 
@@ -39,9 +33,7 @@ Procedimiento
 
  La comparecencia personal del interesado durante el procedimiento es siempre necesaria.
 
-  Para presentar una solicitud, 
-
-Para solicitar cita para realizar esta declaración de voluntad de conservación, debe remitir por correo postal a esta Oficina la documentación indicada más abajo. Por favor, lea la información atentamente. Recordamos que para realizar este trámite, ha de estar usted inscrito como Residente en el Registro de Matrícula de este Consulado. Vea más información sobre el procedimiento de inscripción.[Solicitud de conservación de la nacionalidad](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20conservaci%C3%B3n%20nacionalidad%20espa%C3%B1ola.pdf)No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en el correo: cog.amsterdam.rgc@maec.esUna vez recibida la documentación, nos pondremos en contacto con usted para fijar una cita para que usted acuda a nuestras oficinas a realizar esta declaración. 
+ Para solicitar cita para realizar esta declaración de voluntad de conservación, debe remitir por correo postal a esta Oficina la documentación indicada más abajo. Por favor, lea la información atentamente. Recordamos que para realizar este trámite, ha de estar usted inscrito como Residente en el Registro de Matrícula de este Consulado. Vea más información sobre el procedimiento de inscripción.[Solicitud de conservación de la nacionalidad](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20conservaci%C3%B3n%20nacionalidad%20espa%C3%B1ola.pdf)No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en el correo: cog.amsterdam.rgc@maec.esUna vez recibida la documentación, nos pondremos en contacto con usted para fijar una cita para que usted acuda a nuestras oficinas a realizar esta declaración. 
 
 Documentos necesarios
 ---------------------
