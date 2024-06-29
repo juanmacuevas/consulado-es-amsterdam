@@ -24,7 +24,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx
 - title: Establecerse
   type: page
-  updated: '2024-06-23T08:25:55Z'
+  updated: '2024-06-29T08:26:05Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx
 - title: Trabajar
   type: page
@@ -44,7 +44,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx
 - title: Consejode Residentes-Españoles
   type: page
-  updated: '2024-06-24T08:27:42Z'
+  updated: '2024-06-29T08:28:31Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx
 - title: Documentación y trámites
   type: page
@@ -60,11 +60,11 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias
   type: page
-  updated: '2024-06-24T08:28:37Z'
+  updated: '2024-06-29T08:26:37Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx
 - title: Embajador-a
   type: page
-  updated: '2024-06-23T08:26:38Z'
+  updated: '2024-06-29T08:28:50Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajador.aspx
 - title: Contacto. Embajada
   type: page
@@ -112,7 +112,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias. Embajada
   type: page
-  updated: '2024-06-24T08:27:59Z'
+  updated: '2024-06-29T08:28:40Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx
 - category: Certificados
   title: Certificado de antecedentes penales
@@ -132,7 +132,7 @@
 - category: Certificados
   title: Certificado de ley
   type: service
-  updated: '2024-06-24T08:27:51Z'
+  updated: '2024-06-29T08:27:13Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20ley
 - category: Certificados
   title: Certificado de matrimonio
@@ -167,7 +167,7 @@
 - category: Emergencia Consular
   title: Asistencia en caso de emergencia
   type: service
-  updated: '2024-06-23T08:26:06Z'
+  updated: '2024-06-29T08:27:04Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Asistencia%20en%20caso%20de%20emergencia
 - category: Emergencia Consular
   title: Búsqueda de personas o paraderos
@@ -232,7 +232,7 @@
 - category: Familia
   title: Parejas de hecho
   type: service
-  updated: '2024-06-24T08:27:32Z'
+  updated: '2024-06-29T08:27:21Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Parejas%20de%20hecho
 - category: Familia
   title: Sustracción internacional de menores
@@ -247,12 +247,12 @@
 - category: Inscripción Consular
   title: Baja del Registro de Matrícula
   type: service
-  updated: '2024-06-24T08:27:23Z'
+  updated: '2024-06-29T08:26:21Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Inscripci%C3%B3n%20Consular&scs=Baja%20del%20Registro%20de%20Matr%C3%ADcula
 - category: Inscripción Consular
   title: Modificación de datos o cambio de domicilio
   type: service
-  updated: '2024-06-23T08:26:29Z'
+  updated: '2024-06-29T08:26:54Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Inscripci%C3%B3n%20Consular&scs=Modificaci%C3%B3n%20de%20datos%20o%20cambio%20de%20domicilio
 - category: Legalización o Apostilla. Compulsa y Registro
   title: Compulsa de copia de documentos
@@ -297,7 +297,7 @@
 - category: Nacionalidad
   title: Pérdida de la nacionalidad española
   type: service
-  updated: '2024-06-23T08:26:22Z'
+  updated: '2024-06-29T08:26:29Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=P%C3%A9rdida%20de%20la%20nacionalidad%20espa%C3%B1ola
 - category: Nacionalidad
   title: Recuperación de la nacionalidad española
@@ -377,7 +377,7 @@
 - category: Pasaportes y otros documentos
   title: Pasaportes - Requisitos y procedimiento para obtenerlo
   type: service
-  updated: '2024-06-24T08:28:08Z'
+  updated: '2024-06-29T08:28:11Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Requisitos%20y%20procedimiento%20para%20obtenerlo
 - category: Pasaportes y otros documentos
   title: Pasaportes - Sustracción o pérdida
@@ -387,7 +387,7 @@
 - category: Pasaportes y otros documentos
   title: Permiso de conducción
   type: service
-  updated: '2024-06-24T08:28:19Z'
+  updated: '2024-06-29T08:27:56Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Permiso%20de%20conducci%C3%B3n
 - category: Pasaportes y otros documentos
   title: Salvoconducto
@@ -428,12 +428,12 @@
 - category: Visados
   title: Visados Nacionales - Información general
   type: service
-  updated: '2024-06-24T08:28:57Z'
+  updated: '2024-06-29T08:26:46Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Informaci%C3%B3n%20general
 - category: Visados
   title: Visados Nacionales - Visado de estudios
   type: service
-  updated: '2024-06-24T08:28:47Z'
+  updated: '2024-06-29T08:28:04Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20estudios
 - category: Visados
   title: Visados Nacionales - Visado de inversor
@@ -458,12 +458,12 @@
 - category: Visados
   title: Visados Nacionales - Visado de residencia no lucrativa
   type: service
-  updated: '2024-06-23T08:26:13Z'
+  updated: '2024-06-29T08:27:46Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20no%20lucrativa
 - category: Visados
   title: Visados Nacionales - Visado de residencia para teletrabajo (nómada digital)
   type: service
-  updated: '2024-06-23T08:26:45Z'
+  updated: '2024-06-29T08:26:12Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20para%20teletrabajo%20%28n%C3%B3mada%20digital%29
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta ajena
@@ -473,7 +473,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta propia
   type: service
-  updated: '2024-06-24T08:28:27Z'
+  updated: '2024-06-29T08:27:30Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20trabajo%20por%20cuenta%20propia
 - category: Visados
   title: Visados Nacionales - Visado para emprendedor
@@ -490,7 +490,7 @@
   title: Visados Nacionales - Visado para trabajador altamente cualificado y para
     traslado intraempresarial
   type: service
-  updated: '2024-06-23T08:25:48Z'
+  updated: '2024-06-29T08:27:38Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20para%20trabajador%20altamente%20cualificado%20y%20para%20traslado%20intraempresarial
 - category: Votar en España
   title: Información general
@@ -505,7 +505,7 @@
 - category: Votar en España
   title: Información sobre voto de españoles temporalmente en el extranjero (ERTA)
   type: service
-  updated: '2024-06-24T08:29:03Z'
+  updated: '2024-06-29T08:28:21Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Votar%20en%20Espa%C3%B1a&scs=Informaci%C3%B3n%20sobre%20voto%20de%20espa%C3%B1oles%20temporalmente%20en%20el%20extranjero%20%28ERTA%29
 - category: Votar en España
   title: Plazos para votar
