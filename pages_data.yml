@@ -1,6 +1,6 @@
 - title: Consul
   type: page
-  updated: '2024-06-25T08:29:27Z'
+  updated: '2024-07-01T08:28:01Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx
 - title: Consulado
   type: page
@@ -8,7 +8,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx
 - title: Demarcación
   type: page
-  updated: '2024-06-26T08:28:47Z'
+  updated: '2024-07-01T08:28:23Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx
 - title: Horario, localización y contacto
   type: page
@@ -92,11 +92,11 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
 - title: Establecerse. Embajada
   type: page
-  updated: '2024-06-25T08:28:53Z'
+  updated: '2024-07-01T08:28:57Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Establecerse.aspx
 - title: Educación y sanidad. Embajada
   type: page
-  updated: '2024-06-26T08:28:37Z'
+  updated: '2024-07-01T08:30:24Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx
 - title: Trabajar. Embajada
   type: page
@@ -142,7 +142,7 @@
 - category: Certificados
   title: Certificado de nacimiento
   type: service
-  updated: '2024-06-26T08:27:22Z'
+  updated: '2024-07-01T08:29:50Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20nacimiento
 - category: Certificados
   title: Certificado de residencia
@@ -187,7 +187,7 @@
 - category: Emergencia Consular
   title: Traslado de restos mortales
   type: service
-  updated: '2024-06-26T08:27:52Z'
+  updated: '2024-07-01T08:29:19Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Traslado%20de%20restos%20mortales
 - category: Emergencia Consular
   title: Violencia contra la mujer
@@ -202,7 +202,7 @@
 - category: Familia
   title: Defunciones
   type: service
-  updated: '2024-06-25T08:29:38Z'
+  updated: '2024-07-01T08:28:08Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Defunciones
 - category: Familia
   title: Divorcios
@@ -212,12 +212,12 @@
 - category: Familia
   title: Libro de Familia
   type: service
-  updated: '2024-06-25T08:29:11Z'
+  updated: '2024-07-01T08:30:30Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Libro%20de%20Familia
 - category: Familia
   title: Matrimonios
   type: service
-  updated: '2024-06-25T08:29:48Z'
+  updated: '2024-07-01T08:30:16Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Matrimonios
 - category: Familia
   title: Nacimientos
@@ -272,7 +272,7 @@
 - category: Nacionalidad
   title: Información general sobre nacionalidad española
   type: service
-  updated: '2024-06-26T08:27:44Z'
+  updated: '2024-07-01T08:29:05Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Informaci%C3%B3n%20general%20sobre%20nacionalidad%20espa%C3%B1ola
 - category: Nacionalidad
   title: Nacionalidad española - Conservación
@@ -282,7 +282,7 @@
 - category: Nacionalidad
   title: Nacionalidad española - Opción
   type: service
-  updated: '2024-06-26T08:28:18Z'
+  updated: '2024-07-01T08:29:42Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Opci%C3%B3n
 - category: Nacionalidad
   title: Nacionalidad española por la Ley de Memoria Democrática
@@ -307,7 +307,7 @@
 - category: Notaría
   title: Actas notariales
   type: service
-  updated: '2024-06-25T08:29:19Z'
+  updated: '2024-07-01T08:28:30Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Actas%20notariales
 - category: Notaría
   title: Capitulaciones matrimoniales
@@ -322,7 +322,7 @@
 - category: Notaría
   title: Legitimación de firma
   type: service
-  updated: '2024-06-25T08:29:02Z'
+  updated: '2024-07-01T08:29:59Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Legitimaci%C3%B3n%20de%20firma
 - category: Notaría
   title: Obtención de copia
@@ -362,7 +362,7 @@
 - category: Pasaportes y otros documentos
   title: Número de Identificación Fiscal (NIF)
   type: service
-  updated: '2024-06-26T08:28:56Z'
+  updated: '2024-07-01T08:30:06Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=N%C3%BAmero%20de%20Identificaci%C3%B3n%20Fiscal%20%28NIF%29
 - category: Pasaportes y otros documentos
   title: Pasaportes - Información importante
@@ -392,7 +392,7 @@
 - category: Pasaportes y otros documentos
   title: Salvoconducto
   type: service
-  updated: '2024-06-26T08:28:28Z'
+  updated: '2024-07-01T08:28:40Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Salvoconducto
 - category: Recursos en materia de Registro Civil
   title: Recursos en materia de Registro Civil
@@ -412,13 +412,13 @@
 - category: Visados
   title: Visado de estancia (visado Schengen)
   type: service
-  updated: '2024-06-26T08:27:15Z'
+  updated: '2024-07-01T08:29:35Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visado%20de%20estancia%20%28visado%20Schengen%29
 - category: Visados
   title: Visados de familiares de ciudadanos UE y de beneficiarios Acuerdo de Retirada
     UE-Reino Unido
   type: service
-  updated: '2024-06-26T08:28:00Z'
+  updated: '2024-07-01T08:29:11Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20de%20familiares%20de%20ciudadanos%20UE%20y%20de%20beneficiarios%20Acuerdo%20de%20Retirada%20UE-Reino%20Unido
 - category: Visados
   title: Visados de transito aeroportuario
@@ -443,7 +443,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de investigador
   type: service
-  updated: '2024-06-25T08:29:58Z'
+  updated: '2024-07-01T08:28:49Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20investigador
 - category: Visados
   title: Visados Nacionales - Visado de prácticas
@@ -468,7 +468,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta ajena
   type: service
-  updated: '2024-06-26T08:28:08Z'
+  updated: '2024-07-01T08:28:17Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20trabajo%20por%20cuenta%20ajena
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta propia
@@ -484,7 +484,7 @@
   title: Visados Nacionales - Visado para recuperar la residencia de larga duración
     o de larga duración-UE
   type: service
-  updated: '2024-06-26T08:27:33Z'
+  updated: '2024-07-01T08:29:28Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20para%20recuperar%20la%20residencia%20de%20larga%20duraci%C3%B3n%20o%20de%20larga%20duraci%C3%B3n-UE
 - category: Visados
   title: Visados Nacionales - Visado para trabajador altamente cualificado y para
