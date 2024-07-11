@@ -38,7 +38,7 @@
   
 * **Nacionalidad por carta de naturaleza** 
 
- Es una forma extraordinaria de adquisición de la nacionalidad que no se sujeta a las normas generales del procedimiento administrativo. Es otorgada o no discrecionalmente por el Gobierno tras valorar la concurrencia de circunstancias excepcionales. Las Oficinas Consulares se limitan a remitir este tipo de solicitudes de nacionalidad al Ministerio de Justicia, sin intervenir más en el procedimiento.
+ Es una forma extraordinaria de adquisición de la nacionalidad que no se sujeta a las normas generales del procedimiento administrativo. Es otorgada o no discrecionalmente por el Gobierno tras valorar la concurrencia de circunstancias excepcionales. Las Oficinas Consulares se limitan a remitir este tipo de solicitudes de nacionalidad al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, sin intervenir más en el procedimiento.
 
  Todos los trámites en el Registro Civil son gratuitos.
 
