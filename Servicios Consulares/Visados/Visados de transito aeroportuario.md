@@ -24,7 +24,7 @@
  Documentos necesarios
 ---------------------
 
- * **Formulario de solicitud de visado Schengen**.  [FORMULARIO VISADO SCHENGEN](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Suiza/Z%C3%9CRICH%20%28C%29/Solicitud%20visados%20Schengen%202020.pdf)  Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
+ * **Formulario de solicitud de visado Schengen**. Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará la solicitud uno de sus progenitores.
 * **Fotografía**. Una fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
 * **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos del pasaporte. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expecidos hace más 10 años.
 * **Abono de la tasa de visado**.
