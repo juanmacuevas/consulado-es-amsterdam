@@ -10,7 +10,7 @@
 * Sólo será necesario un año para:
 + El que haya nacido en territorio español.
 + El que no ejerció debidamente su derecho a adquirir la nacionalidad española por opción.
-+ El que haya estado sujeto legalmente a la tutela de un ciudadano o institución españoles durante dos años consecutivos, incluso si continúa en esta situación en el momento de la solicitud.
++ El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
 + El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
 + El que, en el momento de la solicitud, lleve un año casado con un español o española y no esté separado legalmente o de hecho.
 + El viudo o viuda de española o español, si en el momento de la muerte del cónyuge no estaban separados legalmente o de hecho.
@@ -21,7 +21,7 @@
  ¿Cómo se puede solicitar la nacionalidad española por residencia?
 -----------------------------------------------------------------
 
- Las Embajadas y Consulados de España en el extranjero no realizan trámites de nacionalidad española por residencia. Para saber más sobre este trámite, se puede consultar la página web del [Ministerio de Justicia](https://sede.mjusticia.gob.es/es/tramites/nacionalidad-espanola).
+ Las Embajadas y Consulados de España en el extranjero no realizan trámites de nacionalidad española por residencia. Para saber más sobre este trámite, se puede consultar la página web del [Ministerio de la Presidencia, Justicia y Relaciones con las Cortes](https://sede.mjusticia.gob.es/es/tramites/nacionalidad-espanola).
 
  Todos los trámites en el Registro Civil son gratuitos.
 
