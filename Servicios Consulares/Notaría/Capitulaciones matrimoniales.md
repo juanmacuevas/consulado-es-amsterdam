@@ -29,7 +29,7 @@
  Normativa básica
 ----------------
 
- * [Ley del Notariado, de 28 de mayo de 1862.](https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073)
+ * [Ley del Notariado, de 28 de mayo de 1862\.](https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073)
 * [Decreto de 2 de junio de 1944 por el que se aprueba con carácter definitivo el Reglamento de la Organización y régimen del Notariado.](https://www.boe.es/buscar/act.php?id=BOE-A-1944-6578)
 * [Artículos. 1325 y siguientes del Código Civil.](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
 

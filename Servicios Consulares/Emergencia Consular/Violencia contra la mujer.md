@@ -2,9 +2,9 @@
 
   Las españolas que sean víctimas de violencia o sus allegados pueden solicitar la ayuda de la Embajada o Consulado General en cualquier momento.
 
-  En caso de urgencia, el número de contacto es Desde Países Bajos: 0652 665 078•Desde España o móvil español: 00 31 652 665 078 E-mail de emergencias consulares: cog.amsterdam.emerg@maec.es 
+  En caso de urgencia, el número de contacto es Desde Países Bajos: 0652 665 078•Desde España o móvil español: 00 31 652 665 078 E\-mail de emergencias consulares: cog.amsterdam.emerg@maec.es 
 
-  Las consultas se pueden dirigir al número Consejería de Trabajo, Migraciones y Seguridad Social. Oficina en La Haya.Embajada en la Haya.Teléfono: 0031 (0)70 350 3811e-mail: paisesbajos.atpublico@mites.gob.es, en horario , y a la dirección de correo electrónico cog.amsterdam@maec.esemb.lahaya@maec.es. 
+  Las consultas se pueden dirigir al número Consejería de Trabajo, Migraciones y Seguridad Social. Oficina en La Haya.Embajada en la Haya.Teléfono: 0031 (0\)70 350 3811e\-mail: paisesbajos.atpublico@mites.gob.es, en horario , y a la dirección de correo electrónico cog.amsterdam@maec.esemb.lahaya@maec.es. 
 
   En Países Bajos existen además los siguientes recursos que pueden resultar de ayuda: 
 
@@ -14,6 +14,6 @@
 
   <https://violenciagenero.igualdad.gob.es/informacionUtil/espanolas/protocolo/pdf/ProtocoloEspanolasExtranjero.pdf> 
 
- #NoEstoySola
+ \#NoEstoySola
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Violencia%20contra%20la%20mujer)

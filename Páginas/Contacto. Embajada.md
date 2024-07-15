@@ -37,9 +37,9 @@ Secretario de Embajada: D. Juan Almazán Fuentes​
 
 1000 Bruselas
 
-Tel: 0032 (0)22 232 033
+Tel: 0032 (0\)22 232 033
 
-Fax: 0032 (0)22 263 522
+Fax: 0032 (0\)22 263 522
 
 Correo Electrónico: [consejeriabelgica.be@educacion.gob.es](mailto:consejeriabelgica.be@educacion.gob.es) 
 
@@ -56,9 +56,9 @@ Frederiksplein 34
 
 1017 XN Ámsterdam
 
-Tel: 0031 (0)20 4236919
+Tel: 0031 (0\)20 4236919
 
-Fax: 0031 (0)20 6277159
+Fax: 0031 (0\)20 6277159
 
 Correo Electrónico: [asesoriaholanda.nl@educacion.gob.es](mailto:asesoriaholanda.nl@educacion.gob.es) 
 
@@ -72,10 +72,10 @@ Frederiksplein 34
 
 1017 XN Ámsterdam
 
-Tel: 0031 (0) 206 260 743  
+Tel: 0031 (0\) 206 260 743  
 
 
-Fax: 0031 (0) 206 260 739
+Fax: 0031 (0\) 206 260 739
 
 Correo Electrónico: [alce.holanda@educacion.gob.es](mailto:alce.holanda@educacion.gob.es) 
 
@@ -90,9 +90,9 @@ Koninginnegracht 14G
 
 2514 AA La Haya
 
-Tel: 0031 (0) 703 503 811
+Tel: 0031 (0\) 703 503 811
 
-Fax: 0031 (0) 703 268 440
+Fax: 0031 (0\) 703 268 440
 
 Correo electrónico: [paisesbajos.atpublico@mites.gob.es](mailto:paisesbajos.atpublico@mites.gob.es)   
    
@@ -104,10 +104,10 @@ Frederiksplein 34
 
 1017 XN Ámsterdam
 
-Tel: 0031(0) 206 207 126  
+Tel: 0031(0\) 206 207 126  
 
 
-Fax: 0031 (0) 703 268 440
+Fax: 0031 (0\) 703 268 440
 
 Correo Electrónico: [amsterdam@mites.gob.es](mailto:amsterdam@mites.gob.es) ​  
    
@@ -126,9 +126,9 @@ Correo Electrónico: [amsterdam@mites.gob.es](mailto:amsterdam@mites.gob.es) ​
 
 2514 EG La Haya
 
-Tel: 0031 (0) 703 107 521
+Tel: 0031 (0\) 703 107 521
 
-Fax: 0031 (0) 703 106 124
+Fax: 0031 (0\) 703 106 124
 
 Correo electrónico: [lahaya@comunicacion.presidencia.gob.es](mailto:lahaya@comunicacion.presidencia.gob.es) 
 
@@ -142,9 +142,9 @@ Consejera​: Dª. Isabel Sánchez Miguel​
 
 3512 JC Utrecht
 
-Tel: 0031 (0) 302 334 261
+Tel: 0031 (0\) 302 334 261
 
-Fax: 0031 (0) 302 332 970
+Fax: 0031 (0\) 302 332 970
 
 Correo electrónico: [dirutr@cervantes.es](mailto:dirutr@cervantes.es) 
 
@@ -159,7 +159,7 @@ Directora: D. Alberto Gascón​
 
 2585 BJ La Haya, Países Bajos
 
-Tel: 0031 (0) 703 643 166
+Tel: 0031 (0\) 703 643 166
 
 Correo electrónico: [lahaya@comercio.mineco.es](mailto:lahaya@comercio.mineco.es) 
 
@@ -181,11 +181,11 @@ Web: [Oficinas Comerciales en Países Bajos](https://www.icex.es/icex/es/navega
 Tel: 
 
 
-> 0031 (0) 703 465 900 
+> 0031 (0\) 703 465 900 
 > 
-> 0031 (0) 703 465​ 901
+> 0031 (0\) 703 465​ 901
 
-Fax: 0031 (0) 703 649 859
+Fax: 0031 (0\) 703 649 859
 
 Correo electrónico: [lahaya@tourspain.es](mailto:lahaya@tourspain.es) 
 

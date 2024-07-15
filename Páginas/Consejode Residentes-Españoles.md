@@ -3,7 +3,7 @@
 
    3 de octubre de 2022    ​
 
-​El Consejo de Residentes Españoles (CRE)  de la Demarcación Consular de Ámsterdam, que cubre los Países Bajos, fue constituido con fecha 11 de junio de 2021. 
+​El Consejo de Residentes Españoles (CRE)  de la Demarcación Consular de Ámsterdam, que cubre los Países Bajos, fue constituido con fecha 11 de junio de 2021\. 
 
 Lo componen los siguientes consejeros:
 
@@ -13,7 +13,7 @@ Lo componen los siguientes consejeros:
 * Dª Sara Caminero Blanco.
 * D. Jaime Corbí Mongio
 * Dª. María Elena Prado Alonso.
-* E-mail CRE en los Países Bajos: [info@crepaisesbajos.org](mailto:info@crepaisesbajos.org); crepaisesbajos@gmail.com
+* E\-mail CRE en los Países Bajos: [info@crepaisesbajos.org](mailto:info@crepaisesbajos.org); crepaisesbajos@gmail.com
 * [Página web del CRE de Países Bajos](https://www.crepaisesbajos.org/)
 * [Portal de la Ciudadanía Española en el Exterior](http://www.ciudadaniaexterior.empleo.gob.es/es/index.htm)
 

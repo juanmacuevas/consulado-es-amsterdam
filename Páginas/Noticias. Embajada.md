@@ -67,7 +67,7 @@ Noticias de la embajada
 ![Festival de Cine Español de Ámsterdam (ASFF)]()
 * 77ª edición Vuelta ciclista a España
 
-[Vuelta ciclista a España 2022-La vuelta Países Bajos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/77%C2%AA%20Vuelta%20Ciclista%20a%20Espa%C3%B1a.aspx "Vuelta ciclista a España 2022-La vuelta Países Bajos") 
+[Vuelta ciclista a España 2022\-La vuelta Países Bajos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/77%C2%AA%20Vuelta%20Ciclista%20a%20Espa%C3%B1a.aspx "Vuelta ciclista a España 2022-La vuelta Países Bajos") 
 
 
  Concluyen con éxito en Países Bajos las tres primeras etapas de la Vuelta cic​lista a España 

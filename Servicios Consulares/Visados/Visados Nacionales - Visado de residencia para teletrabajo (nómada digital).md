@@ -1,4 +1,4 @@
- Visados Nacionales - Visado de residencia para teletrabajo (nómada digital)
+ Visados Nacionales \- Visado de residencia para teletrabajo (nómada digital)
 
   Información general
 -------------------
@@ -17,7 +17,7 @@
 * Los hijos menores de edad y los mayores de esa edad que dependan económicamente del teletrabajador y que no hayan constituido por sí mismos una unidad familiar.
 * Los ascendientes que estén a cargo del teletrabajador.
 
- Es necesario solicitar al mismo tiempo que el visado un NIE (Ver apartado Pasaportes y otros documentos > Número de Identificación de Extranjero).
+ Es necesario solicitar al mismo tiempo que el visado un NIE (Ver apartado Pasaportes y otros documentos \> Número de Identificación de Extranjero).
 
  Documentos necesarios
 ---------------------
@@ -74,7 +74,7 @@
 * **Plazo para resolver:** El plazo legal para tomar una decisión es de 10 días a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.
 * **Retirada del visado:** El visado debe ser retirado personalmente por el interesado o por su representante, sin necesidad de cita, en el plazo máximo de 1 mes, contado a partir del día siguiente a la fecha en que se notifique la resolución favorable.
 * **Denegación del visado:** En su caso, la denegación del visado se notificará siempre por escrito, expresando los motivos en los que se basa la decisión adoptada.
-* **Recursos:** En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
+* **Recursos:** En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso\-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
 * **Validez del visado:**El visado tiene una validez de 1 año o la misma validez que la autorización de residencia concedida, siempre que ésta sea inferior a un año. El visado acredita la residencia en España durante su validez, no siendo necesario obtener una Tarjeta de Identidad de Extranjero. No obstante, se puede solicitar esta tarjeta ante la Oficina de Extranjeros o la Comisaría de Policía correspondiente.
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20para%20teletrabajo%20%28n%C3%B3mada%20digital%29)
