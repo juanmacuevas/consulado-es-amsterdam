@@ -29,11 +29,11 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
 
  ### Documentos a presentar
 
- * Impreso de solicitud, mediante talón-foto original firmado por el solicitante (este impreso se facilita en la Oficina Consular en el momento de solicitar la renovación).
+ * Impreso de solicitud, mediante talón\-foto original firmado por el solicitante (este impreso se facilita en la Oficina Consular en el momento de solicitar la renovación).
 * Permiso de conducir a renovar (original y fotocopia). La copia será compulsada por la Oficina Consular.
 * DNI o pasaporte ordinario en vigor (original y fotocopia). La copia será compulsada por la Oficina Consular.
 * Dos fotografías en color, recientes, sobre fondo blanco, tomadas de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara.
-* Informe de aptitud psicofísica, que será expedido por un médico local, debiendo especificar que el solicitante es apto para la conducción. El informe llevará adherida una fotografía del solicitante, que será idéntica a la que se adjunte al impreso de solicitud (talón-foto). El médico deberá poner su firma por encima de la fotografía. La Oficina Consular legitimará la firma del médico.
+* Informe de aptitud psicofísica, que será expedido por un médico local, debiendo especificar que el solicitante es apto para la conducción. El informe llevará adherida una fotografía del solicitante, que será idéntica a la que se adjunte al impreso de solicitud (talón\-foto). El médico deberá poner su firma por encima de la fotografía. La Oficina Consular legitimará la firma del médico.
 * Prueba del pago de la tasa de renovación. El importe exacto de la tasa es: 
 
  El pago puede hacerse:
@@ -45,7 +45,7 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
 	
 		- C.C.C.: 2100 5731 7602 0020 4028
 		- IBAN: ES29 2100 5731 7602 0020 4028
-		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
+		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante \- 2º Apellidos y nombre \- 3º Tasa de renovación permiso de conducir. 
 	
 	  **Nota importante**: Los gastos de la transferencia corren por cuenta del interesado.
 
@@ -68,7 +68,7 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
 
  ### Documentos a presentar
 
- * Impreso de solicitud mediante talón-foto original firmado por el solicitante (este impreso se facilita en la Oficina Consular en el momento de solicitar el duplicado).
+ * Impreso de solicitud mediante talón\-foto original firmado por el solicitante (este impreso se facilita en la Oficina Consular en el momento de solicitar el duplicado).
 * DNI o pasaporte ordinario en vigor (original y fotocopia). La copia será compulsada por la Oficina Consular.
 * En caso de robo o extravío, se completará la [declaración de pérdida o sustracción de documentos españoles](https://www.exteriores.gob.es/Documents/DocumentosSC/Pasaportes%20y%20otros%20documentos/DeclaracionPerdida.pdf), que se podrá completar en la Oficina Consular. Esta declaración no sustituye a la denuncia. La denuncia ante la policía local no es obligatoria, pero sí es muy conveniente, para evitar responsabilidades derivadas del uso fraudulento del documento por parte de terceras personas.
 * En caso de deterioro, original y copia del permiso a sustituir. La copia será compulsada por la Oficina Consular
@@ -83,7 +83,7 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
 	
 		- C.C.C.: 2100 5731 7602 0020 4028
 		- IBAN: ES29 2100 5731 7602 0020 4028
-		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante - 2º Apellidos y nombre - 3º Tasa de renovación permiso de conducir. 
+		- SWIFT: CAIXESBBXXX Como concepto de la transferencia deberá constar, por este orden: 1º DNI del solicitante \- 2º Apellidos y nombre \- 3º Tasa de renovación permiso de conducir. 
 	
 	  Nota importante: Los gastos de la transferencia corren por cuenta del interesado.
 

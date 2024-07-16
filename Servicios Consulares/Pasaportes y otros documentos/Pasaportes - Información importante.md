@@ -1,4 +1,4 @@
- Pasaportes - Información importante
+ Pasaportes \- Información importante
 
   Quién puede obtener un pasaporte
 --------------------------------
@@ -37,7 +37,7 @@
 
  \* Los solicitantes de un pasaporte provisional que consideren que su caso es una emergencia deberán enviar previamente al correo institucional del Consulado:cog.amsterdam@maec.es un correo electrónico explicando sus circunstancias y adjuntando la documentación justificativa que será valorada por el Titular.
 
-\* Esta Oficina Consular no emitirá pasaportes provisionales salvo casos de emergencia (fallecimiento, enfermedad grave de un familar etc) debidamente justificados previo correo electrónico explicativo al e-mail: cog.amsterdam@maec.es.
+\* Esta Oficina Consular no emitirá pasaportes provisionales salvo casos de emergencia (fallecimiento, enfermedad grave de un familar etc) debidamente justificados previo correo electrónico explicativo al e\-mail: cog.amsterdam@maec.es.
 
 \* No se emitirán pasaportes provisionales para viajar al Reino Unido ni a ningún otro país extracomunitario por caducidad o perdida o robo de documentación (salvo casos de emergencia debidamente justificados)
 
@@ -61,8 +61,8 @@
  Normativa básica
 ----------------
 
- * Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana <https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3442>
-* Real Decreto 896/2003, de 11 de julio, por el que se regula la expedición del pasaporte ordinario y se determinan sus características <https://boe.es/buscar/act.php?id=BOE-A-2003-13978>
-* Real Decreto 116/2013, de 15 de febrero, por el que se regula la expedición del pasaporte provisional y del salvoconducto <https://boe.es/buscar/doc.php?id=BOE-A-2013-2033>
+ * Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana [https://www.boe.es/diario\_boe/txt.php?id\=BOE\-A\-2015\-3442](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3442)
+* Real Decreto 896/2003, de 11 de julio, por el que se regula la expedición del pasaporte ordinario y se determinan sus características [https://boe.es/buscar/act.php?id\=BOE\-A\-2003\-13978](https://boe.es/buscar/act.php?id=BOE-A-2003-13978)
+* Real Decreto 116/2013, de 15 de febrero, por el que se regula la expedición del pasaporte provisional y del salvoconducto [https://boe.es/buscar/doc.php?id\=BOE\-A\-2013\-2033](https://boe.es/buscar/doc.php?id=BOE-A-2013-2033)
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Informaci%C3%B3n%20importante)

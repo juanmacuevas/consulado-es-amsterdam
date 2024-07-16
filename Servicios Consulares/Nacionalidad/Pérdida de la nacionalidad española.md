@@ -4,10 +4,10 @@
 
  La pérdida se puede producir:
 
- * En el caso de los mayores de edad o emancipados, al cabo de tres años desde la adquisición voluntaria de otra nacionalidad si no declaran su voluntad de conservar la nacionalidad española. Los españoles de origen pueden adquirir la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal sin perder su nacionalidad española.
+ * En el caso de los mayores de edad o emancipados, al cabo de tres años desde la adquisición voluntaria de otra nacionalidad si no declaran su voluntad de conservar la nacionalidad española. Los españoles de origen pueden adquirir la nacionalidad de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o Francia sin perder su nacionalidad española.
 * En el caso de los españoles que tuvieran otra nacionalidad desde la minoría de edad, al cabo de tres años desde la mayoría de edad (18 años) o desde la emancipación,si hacen uso exclusivo de su otra nacionalidad y no declaran su voluntad de conservar la nacionalidad española entre los 18 y los 21 años.
 * En todo caso, pierden la nacionalidad española los españoles nacidos en el extranjero que sean hijos de españoles también nacidos en el extranjero si también tienen la nacionalidad de su país de nacimiento, siempre que no declaren su voluntad de conservar la nacionalidad española entre los 18 y los 21 años.
-* Los españoles que no lo sean de origen (por ejemplo, los que adquirieron la nacionalidad española por residencia) pierden la nacionalidad española si utilizan exclusivamente su nacionalidad anterior durante cualquier periodo ininterrumpido de tres años, siempre y cuando hubieran renunciado a ella al adquirir la española. Los menores de 14 años y los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial o Portugal y los sefardíes originarios de España pueden adquirir la nacionalidad española sin renunciar a su nacionalidad anterior.
+* Los españoles que no lo sean de origen (por ejemplo, los que adquirieron la nacionalidad española por residencia) pierden la nacionalidad española si utilizan exclusivamente su nacionalidad anterior durante cualquier periodo ininterrumpido de tres años, siempre y cuando hubieran renunciado a ella al adquirir la española. Los menores de 14 años y los nacionales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal o Francia y los sefardíes originarios de España pueden adquirir la nacionalidad española sin renunciar a su nacionalidad anterior.
 * Un español mayor de edad que tenga al mismo tiempo otra nacionalidad y que resida en el extranjero también puede renunciar a su nacionalidad española.
 
   A partir de estas reglas generales, [en los artículos 24 y 25 del Código Civil](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763) se detallan las situaciones concretas en las que un español puede perder su nacionalidad. 
@@ -19,9 +19,13 @@
  ¿Cómo puedo evitar la pérdida de la nacionalidad?
 -------------------------------------------------
 
- * Manteniendo la documentación española en regla (DNI o pasaporte). Sin embargo, en ciertos casos, es posible perder la nacionalidad incluso teniendo la documentación en vigor.
-* Realizando una declaración de conservación de la nacionalidad española (Ver apartado “Conservación”).
-* En caso de duda, conviene consultar con la Oficina Consular.
+ Para evitar la pérdida de la nacionalidad tendrá que producirse la conservación de la nacionalidad española transcurridos tres años desde la adquisición de la nacionalidad extranjera o desde la emancipación.
+
+ La conservación es el acto por el que se manifiesta la voluntad de preservar la nacionalidad española cuando se adquiere o se ostenta otra nacionalidad extranjera.
+
+ La conservación expresa se realiza con una declaración personal ante la persona Encargada del Registro Civil.
+
+ La conservación tácita se podría producir a través de un acto que implique el ejercicio de derechos o el cumplimiento de deberes en determinados supuestos que serán valorados por la Oficina Consular competente.
 
  ¿Cómo puedo conservar la nacionalidad española?
 -----------------------------------------------

@@ -5,7 +5,7 @@
 
  Los españoles que se encuentren en el extranjero tienen a su disposición el número de teléfono para emergencias consulares gestionado por la Embajada o Consulado que cubra el país o la demarcación consular de que se trate.
 
- Este número –distinto para cada Oficina Consular- está permanentemente disponible, y atiende cualquier situación en la que haya un riesgo o un daño a la vida o la integridad de los españoles que se encuentran en el extranjero, o en situaciones graves de desamparo derivadas de robo o extravío de documentación, violencia, secuestro, accidentes, catástrofes naturales o ataques terroristas, entre otros.
+ Este número –distinto para cada Oficina Consular\- está permanentemente disponible, y atiende cualquier situación en la que haya un riesgo o un daño a la vida o la integridad de los españoles que se encuentran en el extranjero, o en situaciones graves de desamparo derivadas de robo o extravío de documentación, violencia, secuestro, accidentes, catástrofes naturales o ataques terroristas, entre otros.
 
  No se consideran emergencias consulares, y por lo tanto no se atienden en este teléfono, las solicitudes de información general sobre, por ejemplo, trámites de visados, nacionalidad, registro civil o trámites notariales. En todos estos casos y, en general, para cualquier cuestión que no suponga una emergencia, deberán utilizarse los medios ordinarios de contacto con las oficinas consulares.
 

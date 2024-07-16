@@ -2,9 +2,9 @@
 
   La nacionalidad es el vínculo político y jurídico que une a una persona con su Estado. La nacionalidad permite a una persona reclamar una serie de derechos y, a su vez, le impone una serie de obligaciones.
 
- La nacionalidad española es la característica común que une a las personas que forman parte de la comunidad nacional española, a la Nación española, de acuerdo con el artículo 2 de la Constitución Española de 1978.
+ La nacionalidad española es la característica común que une a las personas que forman parte de la comunidad nacional española, a la Nación española, de acuerdo con el artículo 2 de la Constitución Española de 1978\.
 
- El artículo 11 de la Constitución señala que “la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley”. La nacionalidad está regulada principalmente en el Código Civil (artículos 17 al 26) y en la Ley de Registro Civil, dado que la nacionalidad española debe constar inscrita oficialmente en el Registro Civil.
+ El artículo 11 de la Constitución señala que “la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley”. La nacionalidad está regulada principalmente en el Código Civil (artículos 17 al 26\) y en la Ley de Registro Civil, dado que la nacionalidad española debe constar inscrita oficialmente en el Registro Civil.
 
  Nacionalidad de origen
 ----------------------

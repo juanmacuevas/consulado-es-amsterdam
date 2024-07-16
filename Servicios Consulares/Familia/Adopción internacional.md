@@ -20,7 +20,7 @@ cog.amsterdam.rgc@maec.es
 
  * [Ley 54/2007, de 28 de diciembre, de Adopción internacional, modificada por Ley 26/2015, de 29 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-22438)
 * [Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción internacional.](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-4951)
-* [Código Civil (artículos 9 y 175 a 180).](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
+* [Código Civil (artículos 9 y 175 a 180\).](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
 * [Convenio de La Haya, de 29 de mayo de 1993, relativo a la Protección del Niño y a la Cooperación en materia de Adopción Internacional.](https://www.boe.es/buscar/doc.php?id=BOE-A-1995-18485)
 * [En la página web del Ministerio de Sanidad, Consumo y Bienestar Social se puede consultar la información sobre la legislación aplicable en los distintos países de origen.](https://www.mscbs.gob.es/)
 

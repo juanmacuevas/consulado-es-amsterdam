@@ -1,9 +1,9 @@
- Visados Nacionales - Visado de inversor
+ Visados Nacionales \- Visado de inversor
 
   Visado de estancia o de residencia para extranjeros que realicen una inversión significativa de capital, entendiéndose como tal: 
 
  * Una inversión inicial de, al menos, 2 millones de euros en títulos de deuda pública española; o 1 millón de euros en acciones o participaciones sociales de sociedades españolas con actividad real de negocio, o en fondos de inversión o capital riesgo constituidos en España, o en depósitos bancarios en entidades financieras españolas.
-* La adquisición de bienes inmuebles por un importe mínimo de 500.000 euros, libres de cargas (si la inversión la realiza un matrimonio casado en régimen de gananciales, uno de los cónyuges puede obtener un visado como inversor y el otro cónyuge, un visado como familiar de inversor).
+* La adquisición de bienes inmuebles por un importe mínimo de 500\.000 euros, libres de cargas (si la inversión la realiza un matrimonio casado en régimen de gananciales, uno de los cónyuges puede obtener un visado como inversor y el otro cónyuge, un visado como familiar de inversor).
 * Un proyecto empresarial en España que se considere de interés general, en función de la creación de puestos de trabajo, del impacto socioeconómico de relevancia en el ámbito geográfico en el que se desarrolle el proyecto o de su aportación relevante a la innovación científica o tecnológica. En este caso, puede obtener el visado un representante designado por el inversor para la gestión del proyecto.
 
  Se admite la inversión realizada a través de una persona jurídica, siempre que no tenga su sede en un paraíso fiscal, y siempre que el inversor posea, directa o indirectamente, la mayoría de sus derechos de voto y la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración. 
@@ -42,7 +42,7 @@
 
  Para cada familiar que acompañe al inversor se presentará: 
 
- * Todos los requisitos mencionados en los apartados 1, 2, 3, 6, 7, 8 y 10. En su caso, también el 9. Para los menores de edad, la solicitud de visado será firmada por uno de sus progenitores o por el representante debidamente acreditado.
+ * Todos los requisitos mencionados en los apartados 1, 2, 3, 6, 7, 8 y 10\. En su caso, también el 9\. Para los menores de edad, la solicitud de visado será firmada por uno de sus progenitores o por el representante debidamente acreditado.
 * Documentos que prueben la relación de parentesco con el inversor: certificados de nacimiento o matrimonio expedidos por el registro civil, certificado de registro como pareja de hecho o cualquier otro documento que pruebe la relación como pareja no registrada.
 * En el caso de los hijos mayores de edad, documentos que prueben la dependencia económica y el estado civil del hijo.
 * En el caso de los ascendientes, documentos que prueben que están a cargo del trabajador.
@@ -55,15 +55,15 @@
  Esta Oficina Consular es competente para admitir las solicitudes de visado de las personas que residan en la demarcación consular.
 
  * **Sujeto legitimado**: La solicitud de visado se presentará personalmente por el interesado, o por uno de sus progenitores, si es menor de edad. También se puede presentar a través de un representante debidamente acreditado.
-* **Plazo para solicitar el visado**: 1 año desde la realización de la inversión de capital. Este plazo no se aplica a las inversiones en bienes inmuebles, pero no admitirán las inversiones realizadas antes del 29 de septiembre de 2013.
-* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales - Visado de inversor](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
+* **Plazo para solicitar el visado**: 1 año desde la realización de la inversión de capital. Este plazo no se aplica a las inversiones en bienes inmuebles, pero no admitirán las inversiones realizadas antes del 29 de septiembre de 2013\.
+* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales \- Visado de inversor](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
 * **Justificante de entrega**: La Oficina Consular entregará al interesado un resguardo de solicitud con un código que permite verificar el estado de tramitación del expediente a través del enlace: <https://sutramiteconsular.maec.es>
 * **Subsanación de la solicitud**: La Oficina Consular podrá pedir al solicitante que presente los documentos que falten, o que aporte documentos o datos adicionales que sean necesarios para resolver la solicitud. También podrá convocar al solicitante a una entrevista personal.
 * **Plazo para resolver**: El plazo legal para tomar una decisión es de 10 días a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.
 * **Retirada del visado**: El visado debe ser retirado personalmente por el interesado o por su representante, sin necesidad de cita, en el plazo máximo de 1 mes, contado a partir del día siguiente a la fecha en que se notifique la resolución favorable.Una vez resuelto y expedido el visado el Consulado se pondrá en contacto con el interesado para que venga a recogerlo de lunes a viernes de 09 a 14h sin necesidad de cita previa.
 * **Denegación del visado**: En su caso, la denegación del visado se notificará siempre por escrito, expresando los motivos en los que se basa la decisión adoptada.
-* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
-* Todos los solicitantes de visado requieren un certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005.” Si el certificado sehace en idioma distinto del español, deberá aportarse traducción
+* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso\-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
+* Todos los solicitantes de visado requieren un certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. \[…..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005\.” Si el certificado sehace en idioma distinto del español, deberá aportarse traducción
 * **Validez del visado**: El visado tiene una validez de 1 año. 
 
  El visado acredita la residencia en España durante su validez, no siendo necesario obtener una Tarjeta de Identidad de Extranjero. No obstante, se puede solicitar esta tarjeta ante la Oficina de Extranjeros o la Comisaría de Policía correspondiente.

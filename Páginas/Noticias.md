@@ -12,7 +12,7 @@
 * INFORMACION SOBRE PASAPORTES   [INFORMACION SOBRE PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/INFORMACION-SOBRE-PASAPORTES.aspx "INFORMACION SOBRE PASAPORTES")    ​​Procedimiento de elaboración y tiempos de espera. Ruta solicitud de citas para renovar o solicitar el primer pasaporte 
 
  25 de enero de 2023  ![INFORMACION SOBRE PASAPORTES]()
-* BOE 20-10-2022   [LEY DE MEMORIA DEMOCRATICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/LEY-DE-MEMORIA-DEMOCRATICA.aspx "LEY DE MEMORIA DEMOCRATICA")    ​ 
+* BOE 20\-10\-2022   [LEY DE MEMORIA DEMOCRATICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/LEY-DE-MEMORIA-DEMOCRATICA.aspx "LEY DE MEMORIA DEMOCRATICA")    ​ 
 
  25 de enero de 2023  ![LEY DE MEMORIA DEMOCRATICA]()
 * AVISO   [AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/AVISO--ACTUALIZACION-DATOS-EN-REGISTRO-DE-MATRICULA-CONSULAR.aspx "AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR")    ​ACTUALIZACION DE DATOS EN EL REGISTRO DE MATRICULA CONSULAR 

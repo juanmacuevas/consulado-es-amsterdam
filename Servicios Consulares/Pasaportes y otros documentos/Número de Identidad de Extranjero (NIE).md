@@ -22,7 +22,7 @@ Solicite cita aquí: AFSPRAAK MAKEN HIER:
  Documentación necesaria para solicitar el NIE en la Oficina Consular
 --------------------------------------------------------------------
 
- * [Impreso-solicitud normalizado EX-15](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf/3d63419b-0ff8-4c5c-3404-22d602bc9b6a?version=1.0&t=1674731355836&download=false) (original y una copia), rellenado y firmado por el solicitante o por su representante. El formulario se rellenará preferentemente en línea y se imprimirá.
+ * [Impreso\-solicitud normalizado EX\-15](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf/3d63419b-0ff8-4c5c-3404-22d602bc9b6a?version=1.0&t=1674731355836&download=false) (original y una copia), rellenado y firmado por el solicitante o por su representante. El formulario se rellenará preferentemente en línea y se imprimirá.
 
  En el impreso solicitud se deberá indicar las causas económicas, profesionales o sociales que justifican la solicitud de NIE.
 * Original del pasaporte en vigor del solicitante y copia de la página de datos biográficos del pasaporte. 
@@ -59,6 +59,6 @@ Será necesario la presentación de un justificante del motivo por el cual se so
 ---------
 
  * [Ley Orgánica 4/2000](https://www.boe.es/buscar/act.php?id=BOE-A-2000-544) , de 11 de enero, sobre los derechos y libertades de los extranjeros y su integración social.
-* [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por Ley Orgánica 2/2009.
+* [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por Ley Orgánica 2/2009\.
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=N%C3%BAmero%20de%20Identidad%20de%20Extranjero%20%28NIE%29)

@@ -12,7 +12,7 @@
 
 > Cónsul Honorario: Sr. D. Diederick Lodewijk Baron van Wassenaer  
 > 
-> Cancillería: WTC, Beursplein, 37. P.O.Box 30149.- 3001 DC Rotterdam
+> Cancillería: WTC, Beursplein, 37\. P.O.Box 30149\.\- 3001 DC Rotterdam
 > 
 > Tfno.: 10 205 33 44
 > 
@@ -30,9 +30,9 @@
 
 > Email: [ESconsul.limburg@agueria.nl](mailto:ESconsul.limburg@agueria.nl)
 > 
-> Tel. 0031-628040915
+> Tel. 0031\-628040915
 > 
-> Van maandag-vrijdag / De lunes-viernes  : 10.00h-15.00h
+> Van maandag\-vrijdag / De lunes\-viernes  : 10\.00h\-15\.00h
 
 **Viceconsulado Honorario de España en Eindhoven.**  
 
@@ -59,11 +59,11 @@ Estas islas tienen Viceconsulados Honorarios, cuyas coordenadas se indican a co
 > Vicecónsul Honoraria: **Sra. Elizabeth Baarh​**
 
 
-> Cancillería: Italiëstraat 36 - Oranjestad – Aruba
+> Cancillería: Italiëstraat 36 \- Oranjestad – Aruba
 > 
 >  Tfnos.:00297 523 33 24
 > 
->  E-mail: [consuladoespana.aruba@hotmail.com](mailto:consuladoespana.aruba@hotmail.com)
+>  E\-mail: [consuladoespana.aruba@hotmail.com](mailto:consuladoespana.aruba@hotmail.com)
 
 **Viceconsulado honorario en Bonaire:**
 
@@ -86,7 +86,7 @@ Estas islas tienen Viceconsulados Honorarios, cuyas coordenadas se indican a co
 > 
 >  Fax: 5999 7371327
 > 
-> Correo Electrónico: [viceconsul-h-spain@licoresmaduro.com](mailto:viceconsul-h-spain@licoresmaduro.com)
+> Correo Electrónico: [viceconsul\-h\-spain@licoresmaduro.com](mailto:viceconsul-h-spain@licoresmaduro.com)
 
    
  **Viceconsulado honorario de España en Philipsburg (San Martín) con jurisdicción en las islas de San Martín (zona holandesa), isla de Saba e Isla de San Eustaquio.** 
@@ -98,7 +98,7 @@ Estas islas tienen Viceconsulados Honorarios, cuyas coordenadas se indican a co
 > Cancilleria: Welfare Road 68, Philipsburg,San Martín
 
 
-> Tfono: +1721 544 5312
+> Tfono: \+1721 544 5312
 
 
 > Correo Electrónico: [espanaconsulsxm@gmail.com](mailto:espanaconsulsxm@gmail.com)​
