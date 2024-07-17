@@ -23,7 +23,7 @@
 
  Legalizaciones y apostilla en Países Bajos:
 
-https://www.rechtspraak.nl/Onderwerpen/apostille-legalisatie
+https://www.rechtspraak.nl/Onderwerpen/apostille\-legalisatie
 
 https://www.nederlandwereldwijd.nl/legaliseren
 
@@ -31,7 +31,7 @@ https://www.nederlandwereldwijd.nl/legaliseren
 
  En el siguiente enlace se puede consultar el texto del Convenio de 5 de octubre de 1961 por el que se suprime la exigencia de legalización de los documentos públicos extranjeros, así como el listado de Estados parte y las autoridades competentes en cada Estado para apostillar un documento:
 
-  <https://www.hcch.net/es/instruments/conventions/full-text/?cid=41> 
+  [https://www.hcch.net/es/instruments/conventions/full\-text/?cid\=41](https://www.hcch.net/es/instruments/conventions/full-text/?cid=41) 
 
  Legalización o apostilla de documentos españoles
 ------------------------------------------------

@@ -22,7 +22,7 @@
  Documentos a presentar
 ----------------------
 
- * **1 fotografía** (32 x 26 mm.) reciente, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
+ * **1 fotografía** (32 x 26 mm.) reciente, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara\-.
 * **Cualquier documento que permita establecer la identidad y nacionalidad** del solicitante (originales o copias de DNI, pasaporte caducado, carnet de conducir u otros).
 * En el caso de menores de edad o personas incapacitadas, **documento de identidad o pasaporte de los progenitores o tutores** que le acompañen y, en su caso, autorización de los que no puedan comparecer.
 
@@ -39,6 +39,6 @@
  Normativa básica
 ----------------
 
- * Real Decreto 116/2013, de 15 de febrero, por el que se regula la expedición del pasaporte provisional y del salvoconducto<https://boe.es/buscar/doc.php?id=BOE-A-2013-2033>
+ * Real Decreto 116/2013, de 15 de febrero, por el que se regula la expedición del pasaporte provisional y del salvoconducto [https://boe.es/buscar/doc.php?id\=BOE\-A\-2013\-2033](https://boe.es/buscar/doc.php?id=BOE-A-2013-2033)
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Salvoconducto)

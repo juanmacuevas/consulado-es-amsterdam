@@ -36,7 +36,7 @@ Hoja declaratoria de datos para la inscripción de la defunción, firmada por el
 
 Sobre de tamaño A5 con su nombre y dirección completa en los Países Bajos y 2 sellos de tarifa 1 para remitirle dos certificados de defunción por correo postal ordinario. Si desea
 
-que le devolvamos los documentos anulados del fallecido, remita dentro del sobre 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal.
+que le devolvamos los documentos anulados del fallecido, remita dentro del sobre 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal.
 
  Procedimiento
 -------------

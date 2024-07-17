@@ -1,5 +1,5 @@
 
-Pasaportes - Requisitos y procedimiento para obtenerlo
+Pasaportes \- Requisitos y procedimiento para obtenerlo
 
 
 
@@ -22,7 +22,7 @@ Documentos necesarios para solicitar un pasaporte
 
 
 Si el nacimiento está inscrito en esta Oficina Consular no será necesario presentar este certificado.
-* **1 fotografía** (32 x 26 mm.) reciente, a color, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
+* **1 fotografía** (32 x 26 mm.) reciente, a color, sobre fondo blanco, tomada de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara\-.
 * Los solicitantes deberán aportar una copia de su pasaporte anterior o, en su caso, acta de nacimiento o nacionalidad. En el caso de menores, será necesario también aportar copia de los pasaportes de los padres y del libro de familia.
 * Pago de la **tasa**. 30 euros por pasaporte pudiendo ser abonada tanto por tarjeta bancaria como en efectivo.
 * Para menores de edad o personas incapacitadas se exigen documentos adicionales. Ver apartado “Pasaportes para menores de edad y personas incapacitadas”.
@@ -34,7 +34,7 @@ Si el nacimiento está inscrito en esta Oficina Consular no será necesario pres
  
 
 
-**NOTA IMPORTANTE: Para verificar los datos de identidad y la nacionalidad española, la Oficina Consular podrá solicitar otros documentos, entre ellos, el certificado mencionado en el apartado 3).**
+**NOTA IMPORTANTE: Para verificar los datos de identidad y la nacionalidad española, la Oficina Consular podrá solicitar otros documentos, entre ellos, el certificado mencionado en el apartado 3\).**
 
 
 Procedimientos para obtener un pasaporte
@@ -77,7 +77,7 @@ Plazo de tramitación y entrega
 
 
 
- La retirada del pasaporte se puede realizar, sin necesidad de cita, de lunes a viernes de 12.00 a 13.30 h. Para ello, los solicitantes podrán consultar si su pasaporte ya ha llegado al Consulado con el resguardo entregado en el momento de la cita previa.
+ La retirada del pasaporte se puede realizar, sin necesidad de cita, de lunes a viernes de 12\.00 a 13\.30 h. Para ello, los solicitantes podrán consultar si su pasaporte ya ha llegado al Consulado con el resguardo entregado en el momento de la cita previa.
  
 
 
@@ -91,7 +91,7 @@ Plazo de tramitación y entrega
 
 También es posible la recepción del pasaporte en su domicilio mediante correo postal certificada, para lo cual será necesario entregar en el momento de la cita: 
 
-* Una etiqueta “*aangetekend 0-2 kgs*”, disponible en la página web de PostNL por importe de 8,75 euros. Contrariamente a lo que indica dicha página web en el momento del pedido, la etiqueta sí es válida más allá de 5 días. Sólo se aceptará la etiqueta comprada online en la página web de PostNL e impresa por usted mismo. Para más información, [pinche aquí.](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/ENVIO%20POSTAL_NL.pdf)
+* Una etiqueta “*aangetekend 0\-2 kgs*”, disponible en la página web de PostNL por importe de 8,75 euros. Contrariamente a lo que indica dicha página web en el momento del pedido, la etiqueta sí es válida más allá de 5 días. Sólo se aceptará la etiqueta comprada online en la página web de PostNL e impresa por usted mismo. Para más información, [pinche aquí.](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/ENVIO%20POSTAL_NL.pdf)
 * Un sobre mediano de burbujas
 
  El Consulado no se responsabilizará del envío una vez que el pasaporte sea registrado como "entregado".

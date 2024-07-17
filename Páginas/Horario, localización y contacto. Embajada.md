@@ -5,7 +5,7 @@
 
 
 > Uso exclusivo para emergencias cons​ulares:  
-> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, notariales, ni consultas sobre restricciones de viaje o información sobre la crisis de COVID-19.
+> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, notariales, ni consultas sobre restricciones de viaje o información sobre la crisis de COVID\-19\.
 
 
 > > Desde los Países Bajos: ​0 652 66 50 78  
@@ -32,7 +32,7 @@
 
 
 > emb.lahaya@maec.es  
-> > para asuntos y trámites consulares como DNI, Pasaporte, Registro Civil, Notaría, etc., se ruega contactar con el [Consulado General en Ámsterdam](https://www.exteriores.gob.es/Consulados/amsterdam/es/Paginas/index.aspx). Esta embajada carece de sección consular.
+> \> para asuntos y trámites consulares como DNI, Pasaporte, Registro Civil, Notaría, etc., se ruega contactar con el [Consulado General en Ámsterdam](https://www.exteriores.gob.es/Consulados/amsterdam/es/Paginas/index.aspx). Esta embajada carece de sección consular.
 
 #### ​Web y re​​des sociales
 
@@ -80,7 +80,7 @@ Transportes en La Haya: 
 
 
 + HTM [https://www.htm.nl/​](https://www.htm.nl/)
-+ [Movilidad La Haya​](https://www.denhaag.nl/en/in-the-city/getting-there-and-around.htm) (Información sobre apps para transporte público, Park&Ride, bicicletas y otros servicios de interés)
++ [Movilidad La Haya​](https://www.denhaag.nl/en/in-the-city/getting-there-and-around.htm) (Información sobre apps para transporte público, Park\&Ride, bicicletas y otros servicios de interés)
 
 #### ​Información sobre aparcamientos
 

@@ -42,9 +42,7 @@
 
  la solicitud deberá presentarse por correo postal mediante el siguiente formulario:[formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Marginal%20apellidos.pdf) 
 
-En determinados casos, la Oficina Consular deberá elevar el expediente al Ministerio de Justicia para que decida sobre el cambio de nombre.
-
- Una vez autorizado el cambio de nombre, se inscribirá en el Registro Civil.
+Una vez autorizado el cambio de nombre, se inscribirá en el Registro Civil.
 
  El procedimiento de cambio de nombre es gratuito.
 

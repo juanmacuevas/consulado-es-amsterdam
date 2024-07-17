@@ -20,7 +20,7 @@ Documentos necesarios para obtener el NIF L o M (NIF para persona física)
 
  * [Solicitud mediante modelo 030](https://sede.agenciatributaria.gob.es/static_files/Sede/Procedimiento_ayuda/G321/mod030_es_es.pdf). Se completará en línea el formulario para cada solicitante, imprimiendo y firmando los dos ejemplares (uno para la Administración y otro para el interesado).
 * Pasaporte en vigor. Los extranjeros podrán aportar pasaporte o documento de identidad en vigor.
-* 2.Certificado internacional de inscripción en el Ayuntamiento correspondiente (Internationale Uittreksel uit Bevolkingsregister), expedido con un máximo de tres meses de antelación a la fecha de la solicitud. Para las personas de nacionalidad española, certificado de inscripción en el Registro de Matrícula Consular.
+* 2\.Certificado internacional de inscripción en el Ayuntamiento correspondiente (Internationale Uittreksel uit Bevolkingsregister), expedido con un máximo de tres meses de antelación a la fecha de la solicitud. Para las personas de nacionalidad española, certificado de inscripción en el Registro de Matrícula Consular.
 * En el caso de menores de edad y personas incapacitadas, copia del libro de familia o del certificado de nacimiento o del documento de constitución de la tutela. Además, pasaporte o DNI en vigor del progenitor o tutor.
 * Si se solicita a través de representante, documento de identidad o pasaporte en vigor del representante y documento que acredite la representación.
 
@@ -42,7 +42,7 @@ Documentos necesarios para obtener el NIF L o M (NIF para persona física)
 * Documento acreditativo del NIF del representante.
 * Documento que acredite la existencia de la sociedad y los datos que se deben aportar (ver más abajo)
 * Documento que acredite que la persona que firma la solicitud tiene suficiente poder para hacerlo (certificado de la autoridad registral o fiscal del país en el conste que el solicitante es el representante legal o poder notarial otorgado por el representante legal).
-* 2.Certificado internacional de inscripción en el Ayuntamiento correspondiente (Internationale Uittreksel uit Bevolkingsregister), expedido con un máximo de tres meses de antelación a la fecha de la solicitud. Para las personas de nacionalidad española, certificado de inscripción en el Registro de Matrícula Consular.
+* 2\.Certificado internacional de inscripción en el Ayuntamiento correspondiente (Internationale Uittreksel uit Bevolkingsregister), expedido con un máximo de tres meses de antelación a la fecha de la solicitud. Para las personas de nacionalidad española, certificado de inscripción en el Registro de Matrícula Consular.
 
  La persona jurídica debe aportar la siguiente información:
 
