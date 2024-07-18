@@ -10,7 +10,7 @@ Desde Países Bajos: 0652 665 078
 
 •Desde España o móvil español: 00 31 652 665 078
 
-E-mail de emergencias consulares: cog.amsterdam.emerg@maec.es
+E\-mail de emergencias consulares: cog.amsterdam.emerg@maec.es
 
  Si el español detenido lo autoriza, el funcionario consular le visitará en prisión. En ese momento, le entregará una hoja informativa con la siguiente información:
 

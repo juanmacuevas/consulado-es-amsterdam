@@ -43,7 +43,7 @@ Todos los certificados deben ser originales. Si desea que se le devuelvan los or
 - Solicitud de anotación marginal de diversidad de nombre y apellidos (esta solicitud, cuya presentación es facultativa, sólo se aportará en el caso de que su hijo sea inscrito en el Registro
 Civil local con solo un apellido, bien sea del padre o de la madre).
 
-- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio de su libro de familia por correo postal.
+- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio de su libro de familia por correo postal.
 Todos los certificados deben ser originales. Si desea que se le devuelvan los originales, deberá remitir copias.
 
 
@@ -65,7 +65,7 @@ La documentación necesaria para la inscripción del nacimiento es la siguiente:
 - Certificado literal del acta de nacimiento del niño (en neerlandés, *"Gewaarmerkt letterlijk afschrift van de geboorteakte van het kind"*)
 - Hoja declaratoria de datos debidamente cumplimentada y firmada por el declarante (el padre o la madre; si uno de los padres fuera extranjero, será declarante el padre o la madre español/a). Lea cuidadosamente las instrucciones de cumplimentación al final de la hoja.
 - Solicitud de anotación marginal de diversidad de nombre y apellidos (esta solicitud, cuya presentación es facultativa, sólo se aportará en el caso de que su hijo sea inscrito en el Registro Civil local con solo un apellido, bien sea del padre o de la madre).
-- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio de su libro de familia por correo postal.
+- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio de su libro de familia por correo postal.
 Todos los certificados deben ser originales. Si desea que se le devuelvan los originales, deberá remitir copias.
 
 
@@ -79,7 +79,7 @@ La documentación necesaria para la inscripción del nacimiento es la siguiente:
 - Certificado literal del acta de nacimiento del niño (en neerlandés, *"Gewaarmerkt letterlijk afschrift van de geboorteakte van het kind"*).
 - Hoja declaratoria de datos debidamente cumplimentada y firmada por el declarante (el padre o la madre; si uno de los padres fuera extranjero, será declarante el padre o la madre español/a). Lea cuidadosamente las instrucciones de cumplimentación abajo.
 - Solicitud de anotación marginal de diversidad de nombre y apellidos (esta solicitud, cuya presentación es facultativa, sólo se aportará en el caso de que su hijo sea inscrito en el Registro Civil local con un solo apellido, bien sea del padre o de la madre).
-- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
 Todos los certificados deben ser originales. Si desea que se le devuelvan los originales, deberá presentar fotocopias de los mismos.
 
 Practicada la inscripción, se entregará un certificado literal de nacimiento y se anotará el nacimiento en el Libro de familia.

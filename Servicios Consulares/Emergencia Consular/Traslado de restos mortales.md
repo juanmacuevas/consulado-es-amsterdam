@@ -38,7 +38,7 @@ La Oficina Consular inscribirá la defunción en el Registro Civil Consular (ver
 ----------------
 
  * [Reglamento de Policía Sanitaria Mortuoria](https://www.boe.es/buscar/doc.php?id=BOE-A-1974-1358), aprobado por Real Decreto 2263/1974, de 20 de julio.
-* Acuerdo de Berlín sobre el traslado de cadáveres (1937).
-* [Acuerdo de Estrasburgo sobre traslado de cadáveres](https://www.boe.es/boe/dias/1992/05/13/pdfs/A16157-16160.pdf)  (1973).
+* Acuerdo de Berlín sobre el traslado de cadáveres (1937\).
+* [Acuerdo de Estrasburgo sobre traslado de cadáveres](https://www.boe.es/boe/dias/1992/05/13/pdfs/A16157-16160.pdf)  (1973\).
 
   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Traslado%20de%20restos%20mortales)

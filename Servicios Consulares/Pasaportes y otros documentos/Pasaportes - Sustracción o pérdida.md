@@ -1,4 +1,4 @@
- Pasaportes - Sustracción o pérdida
+ Pasaportes \- Sustracción o pérdida
 
    En caso de sustracción o pérdida del pasaporte, se puede solicitar un duplicado del mismo. La validez de la nueva libreta de pasaporte se limitará a la validez de la libreta perdida o sustraída, salvo que ésta tuviera una caducidad inferior a 12 meses. 
 
@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------
 
  * **DNI**, si se posee.
-* **2 fotografías** (32 x 26 mm.), recientes, sobre fondo blanco, tomadas de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara-.
+* **2 fotografías** (32 x 26 mm.), recientes, sobre fondo blanco, tomadas de frente, sin gafas oscuras o prendas que impidan la identificación de la persona –se aceptan prendas que dejen visible el óvalo de la cara\-.
 * **[Declaración de pérdida o sustracción de documentos españoles](https://www.exteriores.gob.es/Documents/DocumentosSC/Pasaportes%20y%20otros%20documentos/DeclaracionPerdida.pdf)**, que se podrá completar en la Oficina Consular.
 * Se deberá cumplimentar la declaración de perdida de documento:
 

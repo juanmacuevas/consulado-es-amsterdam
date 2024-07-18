@@ -20,6 +20,6 @@ Se recomienda que se asesoren a través de amigos o compañeros de trabajo. La c
 
 Quienes dispongan de la obligatoria cobertura médica deben tener en cuenta que en los Países Bajos, toda consulta médica o tratamiento pasa a través del médico de cabecera o de familia, al que se acude para cualquier dolencia o enfermedad. El médico de cabecera determinará si prescribe él mismo tratamiento o remite al paciente a un especialista o al hospital. 
 
-Número de teléfono para llamar a una AMBULANCIA: 112.
+Número de teléfono para llamar a una AMBULANCIA: 112\.
 
    [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx)

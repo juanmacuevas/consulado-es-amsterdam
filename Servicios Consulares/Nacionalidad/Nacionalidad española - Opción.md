@@ -1,4 +1,4 @@
- Nacionalidad española - Opción
+ Nacionalidad española \- Opción
 
   ¿Qué es la opción?
 ------------------
@@ -43,27 +43,27 @@
 
 menores de edad es la siguiente:
 
-1. Certificado literal del acta de nacimiento del menor (original y copia): [formulario](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Hoja%20declaratoria%20inscripci%C3%B3n%20nacimiento.pdf)
+1\. Certificado literal del acta de nacimiento del menor (original y copia): [formulario](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Hoja%20declaratoria%20inscripci%C3%B3n%20nacimiento.pdf)
 
-2. Certificado literal del acta de nacimiento de ambos padres. Este certificado deberá ser el
+2\. Certificado literal del acta de nacimiento de ambos padres. Este certificado deberá ser el
 
 español para el padre o madre que hayan adquirido la nacionalidad española (original y
 
 copia).
 
-3. Certificado de matrimonio de los padres, si existe, o Libro de Familia. En defecto de
+3\. Certificado de matrimonio de los padres, si existe, o Libro de Familia. En defecto de
 
 matrimonio, certificado acreditativo del estado civil (original y copia).
 
-4. Certificado internacional o prueba de residencia en los Países Bajos de padres e hijos
+4\. Certificado internacional o prueba de residencia en los Países Bajos de padres e hijos
 
 (original y copia).
 
-5. Formulario de solicitud de comparecencia debidamente cumplimentado. (Uno por cada
+5\. Formulario de solicitud de comparecencia debidamente cumplimentado. (Uno por cada
 
 menor por el que se solicita la opción).
 
-6. Fotocopias de los pasaportes de los padres y de los hijos (2 copias de cada documento).
+6\. Fotocopias de los pasaportes de los padres y de los hijos (2 copias de cada documento).
 
 Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 12 sellos de
 

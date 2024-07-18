@@ -1,9 +1,9 @@
- Visados Nacionales - Visado de investigador
+ Visados Nacionales \- Visado de investigador
 
   Visado para realizar actividades de formación, investigación, desarrollo e innovación en entidades públicas o privadas en los siguientes casos: 
 
  * Personal investigador al que se refieren el artículo 13 y la disposición adicional primera de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.
-* Personal científico y técnico que lleve a cabo trabajos de investigación científica, desarrollo e innovación tecnológica, en entidades empresariales o centros de I+D+i establecidos en España.
+* Personal científico y técnico que lleve a cabo trabajos de investigación científica, desarrollo e innovación tecnológica, en entidades empresariales o centros de I\+D\+i establecidos en España.
 * Investigadores acogidos en el marco de un convenio por organismos de investigación públicos o privados.
 * Profesores contratados por universidades, órganos o centros de educación superior e investigación, o escuelas de negocios establecidos en España.
 
@@ -30,7 +30,7 @@
 
  Para cada familiar que acompañe al investigador se presentará: 
 
- * Todos los requisitos mencionados en los apartados 1, 2, 3, 4, 5, 6 y 8. En su caso, también el apartado 7.
+ * Todos los requisitos mencionados en los apartados 1, 2, 3, 4, 5, 6 y 8\. En su caso, también el apartado 7\.
 * Documentos que prueben la relación de parentesco con el investigador: certificados de nacimiento o matrimonio expedidos por el registro civil, certificado de registro como pareja de hecho o cualquier otro documento que pruebe la relación como pareja no registrada.
 * En el caso de los hijos mayores de edad, documentos que prueben la dependencia económica y el estado civil de los hijos.
 * En el caso de los ascendientes, documentos que prueben que están a cargo del investigador.
@@ -43,14 +43,14 @@
  Esta Oficina Consular es competente para admitir las solicitudes de visado de las personas que residan en la demarcación consular. 
 
  * **Sujeto legitimado**: La solicitud de visado se presentará personalmente por el interesado, o por uno de sus progenitores, si es menor de edad. También se puede presentar a través de un representante debidamente acreditado.
-* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales - Visado de investigador](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
+* **Lugar de presentación**: La solicitud del visado debe realizarse con cita previa en el sistema de citas on line del Consulado General de España en Ámsterdam.Solicite cita aquí: [Visados Nacionales \- Visado de investigador](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime)
 * **Justificante de entrega**: La Oficina Consular entregará al interesado un resguardo de solicitud con un código que permite verificar el estado de tramitación del expediente a través del enlace: <https://sutramiteconsular.maec.es>
 * **Subsanación de la solicitud**: La Oficina Consular podrá pedir al solicitante que presente los documentos que falten, o que aporte documentos o datos adicionales que sean necesarios para resolver la solicitud. También podrá convocar al solicitante a una entrevista personal.
 * **Plazo para resolver**: El plazo legal para tomar una decisión es de 10 días a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.
 * **Retirada del visado**: El visado debe ser retirado personalmente por el interesado o por su representante, sin necesidad de cita, en el plazo máximo de 1 mes, contado a partir del día siguiente a la fecha en que se notifique la resolución favorable. Una vez resuelto y expedido el visado el Consulado se pondrá en contacto con el interesado por correo electrónico para su recogida.
 * **Denegación del visado**: En su caso, la denegación del visado se notificará siempre por escrito, expresando los motivos en los que se basa la decisión adoptada.
-* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
-* Certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. […..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005. Si el certificado se hace en idioma distinto del español, deberá aportarse traducción
+* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso\-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
+* Certificado médico expedido por su médico de cabecera neerlandés formulado en los siguientestérminos: "Este certificado médico acredita que el Sr. / Sra. \[…..] no padece ninguna de lasenfermedades que pueden tener repercusiones de salud pública graves de conformidadcon lo dispuesto en el Reglamento Sanitario Internacional de 2005\. Si el certificado se hace en idioma distinto del español, deberá aportarse traducción
 * **Validez del visado**: El visado tiene una validez de 1 año o la misma validez que la autorización de residencia concedida, siempre que ésta sea inferior a un año. 
 
  El visado acredita la residencia en España durante su validez, no siendo necesario obtener una Tarjeta de Identidad de Extranjero. No obstante, se puede solicitar esta tarjeta ante la Oficina de Extranjeros o la Comisaría de Policía correspondiente.

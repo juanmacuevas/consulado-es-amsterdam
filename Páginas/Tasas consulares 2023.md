@@ -1,5 +1,5 @@
-  Error 404 - Página no encontrada
-================================
+  Error 404 \- Página no encontrada
+=================================
 
     No ha sido posible encontrar la página solicitada.  
 
