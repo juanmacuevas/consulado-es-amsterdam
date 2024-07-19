@@ -1,4 +1,4 @@
- Visados Nacionales - Visado para trabajador altamente cualificado y para traslado intraempresarial
+ Visados Nacionales \- Visado para trabajador altamente cualificado y para traslado intraempresarial
 
   Visado para trabajador altamente cualificado: Visado para realizar una actividad laboral por cuenta ajena en España como profesional altamente cualificado, directivo de empresas que cumplan determinadas condiciones establecidas en la normativa vigente o como graduado o postgraduado de universidades y escuelas de negocio de reconocido prestigio. 
 
@@ -27,7 +27,7 @@
 
  Para cada familiar que acompañe al trabajador se presentará: 
 
- * Todos los requisitos mencionados en los apartados 1, 2, 3, 4, 5, 6 y 8. En su caso, también el 7. Para los menores de edad, la solicitud de visado será firmada por uno de sus progenitores o por el representante debidamente acreditado.
+ * Todos los requisitos mencionados en los apartados 1, 2, 3, 4, 5, 6 y 8\. En su caso, también el 7\. Para los menores de edad, la solicitud de visado será firmada por uno de sus progenitores o por el representante debidamente acreditado.
 * Documentos que prueben la relación de parentesco con el trabajador: certificados de nacimiento o matrimonio expedidos por el registro civil, certificado de registro como pareja de hecho o cualquier otro documento que pruebe la relación como pareja no registrada.
 * En el caso de los hijos mayores de edad, documentos que prueben la dependencia económica y el estado civil del hijo.
 * En el caso de los ascendientes, documentos que prueben que están a cargo del trabajador.
@@ -46,7 +46,7 @@
 * **Plazo para resolver**: El plazo legal para tomar una decisión es de 10 días a partir del día siguiente a la fecha de presentación de la solicitud, pero este plazo se podrá ampliar cuando se soliciten documentos adicionales o la celebración de una entrevista.
 * **Retirada del visado**: El visado debe ser retirado personalmente por el interesado o por su representante, sin necesidad de cita, en el plazo máximo de 1 mes, contado a partir del día siguiente a la fecha en que se notifique la resolución favorable. Una vez resuelto y expedido el visado el Consulado se pondrá en contacto con el interesado por correo electrónico.
 * **Denegación del visado**: En su caso, la denegación del visado se notificará siempre por escrito, expresando los motivos en los que se basa la decisión adoptada.
-* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
+* **Recursos**: En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de 1 mes a partir del día siguiente a la fecha en que reciba la notificación de la denegación. También puede presentar un recurso contencioso\-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de 2 meses a partir del día siguiente a la fecha en que reciba la notificación de denegación del visado o de desestimación del recurso de reposición.
 * **Validez del visado**: El visado tiene una validez de 1 año o la misma validez que la autorización de residencia concedida, siempre que ésta sea inferior a un año. 
 
  El visado acredita la residencia en España durante su validez, no siendo necesario obtener una Tarjeta de Identidad de Extranjero. No obstante, se puede solicitar esta tarjeta ante la Oficina de Extranjeros o la Comisaría de Policía correspondiente.

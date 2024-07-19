@@ -6,7 +6,7 @@
 
  ¿Qué hacer en caso de sustracción internacional de un menor?
 
-  A. Presentar lo antes posible una solicitud de restitución al Ministerio de Justicia ([sustraccionmenores@mjusticia.es](mailto:sustraccionmenores@mjusticia.es))  **si el país al que ha sido trasladado el menor ilícitamente es parte del Convenio de La Haya de 1980**. En estos casos la comunicación es directa entre las Autoridades Centrales designadas por el Convenio de la Haya de 1980. La lista de Estados parte en el Convenio se puede consultar en el siguiente enlace: <https://www.hcch.net/es/instruments/conventions/status-table/?cid=24>. 
+  A. Presentar lo antes posible una solicitud de restitución al Ministerio de Justicia ([sustraccionmenores@mjusticia.es](mailto:sustraccionmenores@mjusticia.es))  **si el país al que ha sido trasladado el menor ilícitamente es parte del Convenio de La Haya de 1980**. En estos casos la comunicación es directa entre las Autoridades Centrales designadas por el Convenio de la Haya de 1980\. La lista de Estados parte en el Convenio se puede consultar en el siguiente enlace: [https://www.hcch.net/es/instruments/conventions/status\-table/?cid\=24](https://www.hcch.net/es/instruments/conventions/status-table/?cid=24). 
 
   B. Ponerlo en conocimiento de la Embajada/Consulado de España en el país al que ha sido trasladado el menor ilícitamente **si dicho país no es parte del Convenio de La Haya de 1980** para ser informado de las vías de actuación existentes: 
 

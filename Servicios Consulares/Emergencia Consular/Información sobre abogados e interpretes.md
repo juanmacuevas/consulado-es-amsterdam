@@ -22,7 +22,7 @@
 
  La Oficina Consular no mantiene ninguna relación contractual o profesional con estos traductores e intérpretes y no asume ninguna responsabilidad por los resultados de su desempeño profesional
 
- En Países Bajos existe posibilidad de interpretes y traductores neerlandés-español y viceversa. Los interesados pueden solicitar expresamente una lista confeccionada por el Consulado.
+ En Países Bajos existe posibilidad de interpretes y traductores neerlandés\-español y viceversa. Los interesados pueden solicitar expresamente una lista confeccionada por el Consulado.
 
   Para obtener información sobre traductores jurados en España, se puede consultar la [página web del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Traductores-Interpretes-Jurados.aspx). 
 

@@ -17,7 +17,7 @@
 ### Localización​​:
 
 
-> Frederiksplein, 34. 1017 XN Ámsterdam.
+> Frederiksplein, 34\. 1017 XN Ámsterdam.
 
 
 > El Consulado General de España en Ámsterdam se encuentra situado en un extremo del parque denominado Frederiksplein, al lado del Banco Nacional de Países Bajos.
@@ -54,7 +54,7 @@
 * Desde Países Bajos: 0652 6​65078
 * Desde España y otros países del extranjero: 0031 652 665078
 
-**El teléfono de emergencias se destina exclusivamente para asuntos graves que afecten a españoles: accidentes, desapariciones y situaciones de necesidad** (estar en peligro de muerte, enfermedad grave, incapacidad física sobrevenida o atentado grave a las libertades). Nunca para consultas que puedan atenderse en las horas habituales de oficina. Para consultas deberá usted contactar con el numero general del Consulado 0031 020 620 3811 de lunes a viernes de 09.00 a 14.00h.  
+**El teléfono de emergencias se destina exclusivamente para asuntos graves que afecten a españoles: accidentes, desapariciones y situaciones de necesidad** (estar en peligro de muerte, enfermedad grave, incapacidad física sobrevenida o atentado grave a las libertades). Nunca para consultas que puedan atenderse en las horas habituales de oficina. Para consultas deberá usted contactar con el numero general del Consulado 0031 020 620 3811 de lunes a viernes de 09\.00 a 14\.00h.  
   
 ​  
 
@@ -65,10 +65,10 @@
 > ### *Oficina de la Consejería de Trabajo, Migraciones y Seguridad Social en Amsterdam*​
 
 
-> > > ​​Frederiksplein 34. 3ª planta, 1017 XN  Ámsterdam
+> > > ​​Frederiksplein 34\. 3ª planta, 1017 XN  Ámsterdam
 
 
-> > > Tel:  020-262 04 83
+> > > Tel:  020\-262 04 83
 
 
 > > > Correo Electrónico: amsterdam@mtes.gob.es
@@ -83,7 +83,7 @@
 > > ​​​​Frederiksplein 34, 4ª planta, 1017XN Ámsterdam, Países Bajos
 
 
-> > ​​E-mail: [asesoriaholanda.nl@educacion.gob.e](mailto:asesoriaholanda.nl@educacion.gob.es)s
+> > ​​E\-mail: [asesoriaholanda.nl@educacion.gob.e](mailto:asesoriaholanda.nl@educacion.gob.es)s
 
 
 > ​

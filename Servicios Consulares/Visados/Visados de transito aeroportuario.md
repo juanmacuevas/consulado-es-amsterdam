@@ -57,7 +57,7 @@
 * **Devolución del pasaporte y la documentación:** La Oficina Consular o el Centro de Visados informará al solicitante sobre el procedimiento para la devolución del pasaporte y la documentación original.
 * **Concesión del visado:** El visado no implica un derecho automático de entrada en el espacio Schengen. El viajero debe cumplir todas las condiciones legales de entrada (ver apartado “Condiciones de entrada en España”).
 * **Denegación del visado:** La denegación de un visado se notificará por escrito, expresando los motivos en los que se basa la decisión adoptada.
-* **Recurso:** En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de un mes a partir del día siguiente a la fecha de recepción de la notificación de la denegación. También puede presentar un recurso contencioso-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de dos meses a partir del día siguiente a la fecha de recepción de la notificación de la denegación del visado o de la desestimación del recurso de reposición.
+* **Recurso:** En caso de denegación del visado, el solicitante puede presentar un recurso de reposición ante esta Oficina Consular en el plazo de un mes a partir del día siguiente a la fecha de recepción de la notificación de la denegación. También puede presentar un recurso contencioso\-administrativo ante el Tribunal Superior de Justicia de Madrid en el plazo de dos meses a partir del día siguiente a la fecha de recepción de la notificación de la denegación del visado o de la desestimación del recurso de reposición.
 
   Las quejas o sugerencias sobre la atención recibida o sobre el procedimiento de solicitud de visado se pueden presentar por vía electrónica a través de esta página web También se puede presentar por escrito en esta Oficina Consular. 
 
@@ -82,9 +82,9 @@
 
  Para este fin, se pueden utilizar los siguientes formularios
 
- * [Derecho de acceso (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.docx).
-* [Derecho de rectificación (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.docx).
-* [Derecho de supresión (versión español-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-supresion-es-en.docx).
+ * [Derecho de acceso (versión español\-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-acceso-es-en.docx).
+* [Derecho de rectificación (versión español\-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-rectificacion-es-en.docx).
+* [Derecho de supresión (versión español\-inglés)](https://www.exteriores.gob.es/Documents/DocumentosSC/Visados/vis-dcho-supresion-es-en.docx).
 
  Las personas cuya solicitud de visado haya sido denegada a causa de tener una prohibición de entrada en el espacio Schengen, pueden ejercer sus derechos de acceso, corrección y supresión de sus datos personales en el Sistema de Información Schengen (SIS) dirigiéndose al Ministerio del Interior.
 

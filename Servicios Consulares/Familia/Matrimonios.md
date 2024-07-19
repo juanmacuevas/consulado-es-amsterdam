@@ -23,7 +23,7 @@
 * Certificado literal de matrimonio expedido por el Registro Civil local.
 * Copia del D.N.I. o pasaporte de los cónyuges.
 * Certificado literal de nacimiento de los cónyuges de nacionalidad española, expedido por el Registro Civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
-* Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+* Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
 * Si alguno de los cónyuges no es español, certificado literal de nacimiento expedido por el Registro civil de su país.
 * Si alguno de los cónyuges españoles era divorciado en el momento de celebrar el matrimonio, certificado literal del anterior matrimonio con nota marginal de divorcio, expedido por el Registro Civil español. Este certificado no será necesario si el anterior matrimonio está inscrito en esta Oficina Consular.
 * Si alguno de los cónyuges españoles era viudo en el momento de celebrar el matrimonio, certificado literal de matrimonio anterior expedido por el Registro Civil español y certificado de defunción del anterior cónyuge expedido por el Registro civil competente.
@@ -76,13 +76,13 @@ Practicada la inscripción, se entregará un certificado literal de matrimonio y
 - Breve escrito firmado por ambos contrayentes para solicitar incoacción de expediente de matrimonio donde se exprese en qué localidad española proyectan casarse y ante qué autoridad se va a celebrar: Juzgado, ayuntamiento o notario.
 - Copia del DNI o pasaporte de los contrayentes.
 - Certificado literal de nacimiento de los contrayentes expedido por el Registro civil español en los últimos 6 meses. Este certificado no será necesario si el nacimiento está inscrito en esta Oficina Consular.
-- Si uno de los contrayentes es extranjero, deberá aportar certificado que acredite su estado civil actual (fe de vida y estado), debidamente traducido al español y legalizado. Los nacionales de Países Bajos y Antillas Neerlandesas, Austria, Italia, Luxemburgo y Portugal, en lugar de fe de vida y estado, deberán aportar certificado de capacidad matrimonial ajustado al convenio firmado en Múnich, 05.09.1980 (nombre del documento en neerlandés *"Verklaring Huwelijksbevoegdheid"*)
+- Si uno de los contrayentes es extranjero, deberá aportar certificado que acredite su estado civil actual (fe de vida y estado), debidamente traducido al español y legalizado. Los nacionales de Países Bajos y Antillas Neerlandesas, Austria, Italia, Luxemburgo y Portugal, en lugar de fe de vida y estado, deberán aportar certificado de capacidad matrimonial ajustado al convenio firmado en Múnich, 05\.09\.1980 (nombre del documento en neerlandés *"Verklaring Huwelijksbevoegdheid"*)
 - Si alguno de los contrayentes españoles es divorciado, certificado literal del matrimonio anterior con nota marginal de divorcio, expedido por el Registro Civil español (no será necesario si está inscrito en esta Oficina Consular).
 - Si alguno de los contrayentes españoles es viudo, certificado literal del matrimonio anterior expedido por el Registro Civil español y certificado literal de defunción del anterior cónyuge expedido por el Registro civil competente (no será necesario si está inscrito en esta Oficina Consular).
 - Datos de identidad y de contacto y copia del DNI o pasaporte de dos testigos (familiares o allegados).
 - Certificado de empadronamiento expedido por el ayuntamiento neerlandés de su domicilio, donde se indique desde qué fecha residen en los Países Bajos. Si el contrayente español lleva más de dos años inscrito en el Registro de Matrícula Consular de este Consulado, no precisará aportar historial padronal ni certificado consular que acredite su lugar de residencia en los dos últimos años.
 - Si alguno de los contrayentes no reside en la demarcación consular, se indicarán sus datos de contacto. La tramitación correspondiente a este contrayente se realizará en el Registro civil español competente en función de su domicilio.
-- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
+- Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 4 sellos de tarifa 1\. Con dicho franqueo abonará los gastos de envío a su domicilio por correo postal de su libro de familia.
 
 ### Procedimiento
 
