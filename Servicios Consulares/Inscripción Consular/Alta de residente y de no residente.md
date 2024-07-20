@@ -21,7 +21,7 @@
 
  ### Documentos a presentar
 
- * [Formulario de solicitud de inscripción como residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/2020112_SOLICITUD%20DE%20INSCRIPCION%20COMO%20RESIDENTE_v4.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
+ * [Formulario de solicitud de inscripción como residente](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/20240702%20-%20SOLICITUD%20DE%20INSCRIPCION%20COMO%20RESIDENTE_v4_002.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
 * [Formulario de declaración explicativa de elección de municipio a efectos electorales](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/Declaracionexplicativa_PERECERA_12abr21.pdf), firmado por el solicitante o por uno de sus progenitores o tutores, en el caso de menor de edad o persona incapacitada.
 
  En este formulario se indicará el municipio de inscripción a efectos electorales, que podrá ser el del último domicilio en España en el que se haya estado empadronado, o el municipio de mayor arraigo del solicitante o de sus progenitores, en el caso de españoles que nunca han residido en España

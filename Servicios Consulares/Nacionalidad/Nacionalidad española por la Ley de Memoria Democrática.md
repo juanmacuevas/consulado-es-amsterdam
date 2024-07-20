@@ -81,7 +81,7 @@ Se presumirá la condición de exiliado respecto de todos los españoles que sal
 
   Las certificaciones registrales españolas podrán solicitarse:
 
- * Por vía telemática a través de la  [sede electrónica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes](https://www.mjusticia.gob.es/es/tramites/certificado-nacimiento), haciendo constar expresamente que la certificación se solicita a los efectos de ejercicio del derecho de opción previsto en la Ley de Memoria Democrática.
+ * Por vía telemática a través de la  [sede electrónica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes](https://sede.mjusticia.gob.es/es/tramites/certificado-nacimiento), haciendo constar expresamente que la certificación se solicita a los efectos de ejercicio del derecho de opción previsto en la Ley de Memoria Democrática.
 * Mediante el propio modelo normalizado de solicitud de certificación literal de nacimiento [(Anexo VI)](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Anexo%206.pdf)
 
  En los casos en que no exista inscripción de nacimiento de los padres o abuelos, el interesado podrá aportar la partida de bautismo del archivo parroquial o diocesano, junto con el certificado negativo de inscripción de nacimiento emitido por el Registro correspondiente. De igual modo, podrá promover el expediente de inscripción de nacimiento fuera de plazo previsto en la legislación registral.

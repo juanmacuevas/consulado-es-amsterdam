@@ -12,18 +12,18 @@
  La comparecencia personal del interesado es obligatoria. Los documentos necesarios para solicitar el certificado son:
 
  * DNI o pasaporte original, en vigor, de la persona interesada.
-* [Modelo 790-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559) “Ejemplar para la Administración” debidamente cumplimentado y firmado.
+* [Modelo 790\-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559) “Ejemplar para la Administración” debidamente cumplimentado y firmado.
 * Justificante del abono de la tasa, que podrá realizarse a través de cualquiera de las siguientes vías: 
 
 
-	+ Pago a través de sistemas de banca electrónica: Si se dispone de cuenta abierta y firma electrónica para operar en cualquiera de las entidades financieras colaboradoras con la Agencia Tributaria, se podrá realizar el pago a través de sus servicios electrónicos. Para ello, en primer lugar, deberá descargarse el modelo 790 e incluir su número de justificante en el apartado “Tasas Administrativas 790” del sistema de banca electrónica y, si existe la opción, “Código 006 Tasas Administrativas Ministerio de Justicia”. El pago se acreditará en este caso con el comprobante de pago que le facilitará al particular la banca electrónica, donde figura el NRC que deberá presentar junto con la hoja "Ejemplar para la Administración" del modelo 790.
+	+ Pago a través de sistemas de banca electrónica: Si se dispone de cuenta abierta y firma electrónica para operar en cualquiera de las entidades financieras colaboradoras con la Agencia Tributaria, se podrá realizar el pago a través de sus servicios electrónicos. Para ello, en primer lugar, deberá descargarse el modelo 790 e incluir su número de justificante en el apartado “Tasas Administrativas 790” del sistema de banca electrónica y, si existe la opción, “Código 006 Tasas Administrativas Ministerio de Justicia”. El pago se acreditará en este caso con el comprobante de pago que le facilitará al particular la banca electrónica, donde figura el NRC que deberá presentar junto con la hoja "Ejemplar para la Administración" del modelo 790\.
 	+ Pago a través de entidad financiera española colaboradora con la Agencia Tributaria: Se podrá acudir con el impreso 790 cumplimentado a una entidad financiera española colaboradora con la Agencia Tributaria que tenga sucursal en el país desde donde se solicita el certificado. El pago se acreditará con la validación mecánica o firma autorizada de la entidad financiera en la hoja “Ejemplar para la Administración” del impreso 790 que habrá que presentar.
 	+ Pago mediante transferencia bancaria: Se podrá ingresar el importe de la tasa mediante transferencia bancaria, siempre que dicha transferencia se realice desde una cuenta abierta en un banco situado fuera del territorio nacional (no será válida ni se aceptará el pago si la transferencia se hace desde una cuenta con el IBAN español). Para efectuar la transferencia se utilizará el IBAN o Código Internacional de la cuenta de ingresos restringida cuyos datos se indican a continuación: 
 	
 	
 		- ENTIDAD: BBVA.
 		- TITULAR DE LA CUENTA: Ministerio de Justicia – Cuenta Restringida Recaudación Tasas Extranjero.
-		- NIF DEL TITULAR DE LA CUENTA: S-2813610-I
+		- NIF DEL TITULAR DE LA CUENTA: S\-2813610\-I
 		- IBAN o Código Internacional de Cuenta Bancaria: IBAN ES62 0182 2370 4202 0800 0060
 		- Código de Identificación Bancario (BIC) del BBVA: BBVAESMMXXX
 		- PRECIO DE LA TASA: 3,86 €Es importante que se proceda al abono correcto del importe de la tasa. De hacerlo por una cuantía errónea, la entidad financiera no podrá devolver la misma de manera inmediata; el interesado deberá solicitar su reintegro iniciando un expediente de devolución de ingresos indebidos.
@@ -44,7 +44,7 @@ Una vez emitido el certificado por parte del Ministerio de la Presidencia, Justi
 
  La fotocopia del DNI o pasaporte deberá ser compulsada. La compulsa podrá realizarse en el Consulado.La tasa Consular por la realización de una compulsa es de 3,20 €.
 
- La persona autorizada deberá acreditar su identidad y presentar en la oficina elegida por la persona interesada el [Modelo 790-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559), “Ejemplar para la Administración”, debidamente cumplimentado y firmado, junto al justificante de abono de la tasa. El certificado se entregará preferentemente en papel, salvo petición expresa de que se haga de otra forma.
+ La persona autorizada deberá acreditar su identidad y presentar en la oficina elegida por la persona interesada el [Modelo 790\-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559), “Ejemplar para la Administración”, debidamente cumplimentado y firmado, junto al justificante de abono de la tasa. El certificado se entregará preferentemente en papel, salvo petición expresa de que se haga de otra forma.
 
  Españoles detenidos
 -------------------

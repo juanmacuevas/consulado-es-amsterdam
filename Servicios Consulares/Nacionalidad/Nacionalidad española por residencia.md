@@ -11,7 +11,6 @@
 + El que haya nacido en territorio español.
 + El que no ejerció debidamente su derecho a adquirir la nacionalidad española por opción.
 + El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
-+ El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
 + El que, en el momento de la solicitud, lleve un año casado con un español o española y no esté separado legalmente o de hecho.
 + El viudo o viuda de española o español, si en el momento de la muerte del cónyuge no estaban separados legalmente o de hecho.
 + El nacido fuera de España de padre o madre, abuelo o abuela, que originariamente hubieran sido españoles.

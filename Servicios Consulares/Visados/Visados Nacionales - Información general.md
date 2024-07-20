@@ -1,4 +1,4 @@
- Visados Nacionales - Información general
+ Visados Nacionales \- Información general
 
    Información general
 -------------------
@@ -40,7 +40,7 @@
 ----------------
 
   * [Ley Orgánica 4/2000](https://www.boe.es/buscar/act.php?id=BOE-A-2000-544), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
-* [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por la Ley Orgánica 2/2009.
+* [Real Decreto 557/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7703), de 20 de abril, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, tras su reforma por la Ley Orgánica 2/2009\.
 * [Ley 14/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-10074), de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
 
     [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Informaci%C3%B3n%20general)

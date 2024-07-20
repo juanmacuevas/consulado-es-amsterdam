@@ -73,7 +73,7 @@ Consejería de Turismo:      
 >    
 > En La Haya tienen sede varias instituciones internacionales. La Embajada de España mantiene relaciones de distinto carácter con las mismas.  
 >    
-> 1. Esta Embajada es la Representación Permanente de España ante la Organización para la Prohibición de las Armas Químicas (OPAQ), y tiene las siguientes funciones: 
+> 1\. Esta Embajada es la Representación Permanente de España ante la Organización para la Prohibición de las Armas Químicas (OPAQ), y tiene las siguientes funciones: 
 > 
 > * Defensa de la posición española en el Consejo Ejecutivo y la Conferencia de los Estados Parte.
 > * Contribución a la formación de las políticas de la Organización.
@@ -81,7 +81,7 @@ Consejería de Turismo:      
 > * Seguimiento de sus políticas y decisiones y preparación de informes al respecto que se envían a las autoridades competentes en España.
 > * Organización de las visitas oficiales a España de altos cargos de la Organización y de la participación de las autoridades españolas en las reuniones de la misma.
 > 
-> 2. En La Haya tienen su sede asimismo diversos Tribunales internacionales:  
+> 2\. En La Haya tienen su sede asimismo diversos Tribunales internacionales:  
 >  
 > 
 > * El Tribunal Internacional de Justicia
@@ -98,7 +98,7 @@ Consejería de Turismo:      
 > * Promoción de la presencia española en puestos clave en los Tribunales.
 > * Tramitación de documentos para garantizar que los Tribunales otorguen la debida protección a testigos (Tribunal Especial para el Líbano).
 > 
-> 3. Otras Instituciones Internacionales con las que la Embajada mantiene contacto, no solo por los importantes temas de que se ocupan sino también por el gran número de funcionarios españoles que en ellas trabajan, son:  
+> 3\. Otras Instituciones Internacionales con las que la Embajada mantiene contacto, no solo por los importantes temas de que se ocupan sino también por el gran número de funcionarios españoles que en ellas trabajan, son:  
 >  
 > 
 > * Conferencia de Derecho Internacional Privado.

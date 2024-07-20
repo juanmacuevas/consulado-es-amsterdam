@@ -11,7 +11,7 @@
 * Probar las condiciones de la estancia prevista y la disponibilidad de medios económicos.
 * No estar sujeto a prohibiciones de entrada.
 
-  **COVID-19:** Actualmente no existen restricciones de entrada en España ni se realizan controles sanitarios a la llegada a España con motivo del COVID-19. Se puede consultar la información más reciente en la [página web del Ministerio de Sanidad](https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/spth.htm).
+  **COVID\-19:** Actualmente no existen restricciones de entrada en España ni se realizan controles sanitarios a la llegada a España con motivo del COVID\-19\. Se puede consultar la información más reciente en la [página web del Ministerio de Sanidad](https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/spth.htm).
 
  Documentos a presentar en frontera
 ----------------------------------
