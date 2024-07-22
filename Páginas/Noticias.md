@@ -3,8 +3,8 @@
 
  * [ELECCIONES AL PARLAMENTO EUROPEO DE 9 DE JUNIO DE 2024](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240417_NOT01.aspx "ELECCIONES AL PARLAMENTO EUROPEO DE 9 DE JUNIO DE 2024")    ​ 
 
- 17 de abril de 2024  ![ELECCIONES AL PARLAMENTO EUROPEO DE 9 DE JUNIO DE 2024]()
-* [ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240320_NOT01.aspx "ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024")   20 de marzo de 2024  ![ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024]()
+ 17 de abril de 2024  ![ELECCIONES AL PARLAMENTO EUROPEO DE 9 DE JUNIO DE 2024](/Style%20Library/PC/Img/common/imagen-recurso-186x107_2.png?width=424&height=244)
+* [ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240320_NOT01.aspx "ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024")   20 de marzo de 2024  ![ELECCIONES AL PARLAMENTO DE CATALUÑA DE 12 DE MAYO DE 2024](/Style%20Library/PC/Img/common/imagen-recurso-186x107_2.png?width=424&height=244)
 * [RENUNCIA A LA NACIONALIDAD ESPAÑOLA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20240202_NOT01.aspx "RENUNCIA A LA NACIONALIDAD ESPAÑOLA")   2 de febrero de 2024  ![RENUNCIA A LA NACIONALIDAD ESPAÑOLA]()
 * NUEVO SISTEMA DE CITAS PARA PASAPORTES   [AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/AVISO-SOBRE-LA-IMPLANTACION-DE-UN-NUEVO-SISTEMA-DE-CITAS-PARA-PASAPORTES.aspx "AVISO SOBRE LA IMPLANTACION DE NUEVO SISTEMA DE CITAS PARA PASAPORTES")    ​​ 
 
