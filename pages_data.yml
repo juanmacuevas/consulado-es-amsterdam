@@ -125,6 +125,11 @@
   updated: '2024-07-29T08:28:07Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular
 - category: Certificados
+  title: Certificado de capacidad matrimonial
+  type: service
+  updated: '2024-01-01T00:00:00Z'
+  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial
+- category: Certificados
   title: Certificado de defunción
   type: service
   updated: '2024-07-28T08:27:08Z'
@@ -150,20 +155,20 @@
   updated: '2024-08-01T08:28:45Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20residencia
 - category: Certificados
-  title: Certificado de usuario para persona física
+  title: Certificado electrónico de ciudadano
   type: service
-  updated: '2024-07-28T08:24:48Z'
-  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20persona%20f%C3%ADsica
+  updated: '2024-01-01T00:00:00Z'
+  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20electr%C3%B3nico%20de%20ciudadano
 - category: Certificados
-  title: Certificado de usuario para representante
+  title: Certificado electrónico de empresa
   type: service
-  updated: '2024-08-01T08:28:01Z'
-  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20usuario%20para%20representante
+  updated: '2024-01-01T00:00:00Z'
+  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20electr%C3%B3nico%20de%20empresa
 - category: Certificados
-  title: Fe de vida y estado
+  title: Fe de vida
   type: service
-  updated: '2024-07-30T08:28:47Z'
-  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida%20y%20estado
+  updated: '2024-01-01T00:00:00Z'
+  url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida
 - category: Emergencia Consular
   title: Asistencia en caso de emergencia
   type: service
@@ -512,3 +517,4 @@
   type: service
   updated: '2024-07-28T08:26:36Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Votar%20en%20Espa%C3%B1a&scs=Plazos%20para%20votar
+
