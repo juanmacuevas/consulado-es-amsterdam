@@ -3,6 +3,18 @@ Noticias de la embajada
 =======================
 
 
+* Anuncio de Licitación 
+
+[ANUNCIO DE LICITACIÓN](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/ANUNCIO-DE-LICITACI%C3%93N-.aspx "ANUNCIO DE LICITACIÓN") 
+
+
+ ​La Embajada de España en la Haya anuncia la licitación del servicio de limpieza en la Cancillería de la Embajada de España. Plazo participación hasta ...
+ 
+
+
+7 de agosto de 2024
+
+![ANUNCIO DE LICITACIÓN](/Style%20Library/PC/Img/common/imagen-recurso-186x107_2.png?width=424&height=244)
 * [España formaliza un acuerdo con la CPI para el programa JPO](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20240116_NOT01.aspx "España formaliza un acuerdo con la CPI para el programa JPO") 
 
 
@@ -12,7 +24,7 @@ Noticias de la embajada
 
 16 de enero de 2024
 
-![España formaliza un acuerdo con la CPI para el programa JPO]()
+![España formaliza un acuerdo con la CPI para el programa JPO](/Embajadas/lahaya/es/Comunicacion/Noticias/PublishingImages/Paginas/Articulos/20240116_NOT01/Foto%204.jpg?width=424&height=244)
 * Presidencia Española de la UE
 
 [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya") 
@@ -113,17 +125,5 @@ Noticias de la embajada
 10 de junio de 2022
 
 !["Nosotras también hacemos ciencia"]()
-* Deportes: Vuelta 2022
-
-[La Vuelta Holanda](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20220531NOT1.aspx "La Vuelta Holanda") 
-
-
- ​Del 19 al 21 de agosto en Utrecht, Den Bosch y Breda 
- 
-
-
-31 de mayo de 2022
-
-![La Vuelta Holanda]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
