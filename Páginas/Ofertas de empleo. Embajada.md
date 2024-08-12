@@ -5,10 +5,10 @@
 
 [### 03\.05\.2024 Corrección de errores observados en el Órgano de Selección previsto en el Anexo IV de la Convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Correci%C3%B3n%20de%20errores%20vacante%20auxiliar%202024.pdf)### [22042024 BASES CONVOCATORIA.pdf](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/22042024%20BASES%20CONVOCATORIA.pdf)[**22052024 RESOLUCIÓN TRIBUNAL CALIFICADOR.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/22052024%20RESOLUCI%C3%93N%20TRIBUNAL%20CALIFICADOR.pdf)
 
-[![]()**30052024 RESOLUCIÓN DEFINITIVA DE ASPIRANTES ADMITIDOS\-​EXCLUIDOS.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/30052024%20RESOLUCI%C3%93N%20DEFINITIVA%20DE%20ASPIRANTES%20ADMITIDOS-EXCLUIDOS.pdf)  
+[![](/_layouts/15/images/icpdf.png)**30052024 RESOLUCIÓN DEFINITIVA DE ASPIRANTES ADMITIDOS\-​EXCLUIDOS.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/30052024%20RESOLUCI%C3%93N%20DEFINITIVA%20DE%20ASPIRANTES%20ADMITIDOS-EXCLUIDOS.pdf)  
 
 
-[![]()**20240617 RESOLUCIÓN DE ASPIRANTES QUE HAN OBTENIDO LA PUNTUACIÓN MÍNIMA PARA SUPERAR LA PRIMERA PRUEBA.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20240617%20RESOLUCI%C3%93N%20DE%20ASPIRANTES%20QUE%20HAN%20OBTENIDO%20LA%20PUNTUACI%C3%93N%20M%C3%8DNIMA%20PARA%20SUPERAR%20LA%20PRIMERA%20PRUEBA.pdf)  
+[![](/_layouts/15/images/icpdf.png)**20240617 RESOLUCIÓN DE ASPIRANTES QUE HAN OBTENIDO LA PUNTUACIÓN MÍNIMA PARA SUPERAR LA PRIMERA PRUEBA.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20240617%20RESOLUCI%C3%93N%20DE%20ASPIRANTES%20QUE%20HAN%20OBTENIDO%20LA%20PUNTUACI%C3%93N%20M%C3%8DNIMA%20PARA%20SUPERAR%20LA%20PRIMERA%20PRUEBA.pdf)  
 
 
 [![]()**24062024 MODIFICACIÓN Ó​RGANO DE SELECCIÓN PREVISTO EN ANEXO IV DE LA CONVOCATORIA.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/24062024%20MODIFICACI%C3%93N%20ORGANO%20DE%20SELECCI%C3%93N%20PREVISTO%20EN%20ANEXO%20IV%20DE%20LA%20CONVOCATORIA.pdf)  

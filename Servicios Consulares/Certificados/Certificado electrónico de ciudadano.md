@@ -5,7 +5,7 @@
  ¿Quién puede solicitarlo?
 -------------------------
 
- Todos los españoles y los extranjeros mayores de edad o emancipados que tengan un DNI físico en vigor o una Tarjeta de Identificación de Extranjero (TIE) podrán obtener un certificado digital. Los ciudadanos extranjeros que tengan Número de Identidad de Extranjero (NIE) sin tarjeta física sólo podrán solicitarlo presencialmente en España. 
+ Todos los españoles y los extranjeros mayores de edad o emancipados que tengan un DNI físico en vigor o una Tarjeta de Identificación de Extranjero (TIE) podrán obtener un certificado digital. Los ciudadanos extranjeros que tengan Número de Identidad de Extranjero (NIE) podrán solicitarlo si se presenta documento oficial verificable que demuestra la concesión del NIE y, además, acredita su identidad con un documento de identificación válido y vigente. 
 
  ¿Cómo puede obtenerse?
 ----------------------

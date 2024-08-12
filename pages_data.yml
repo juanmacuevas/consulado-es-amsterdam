@@ -4,7 +4,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx
 - title: Consulado
   type: page
-  updated: '2024-08-07T08:27:58Z'
+  updated: '2024-08-12T08:31:32Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx
 - title: Demarcación
   type: page
@@ -60,7 +60,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias
   type: page
-  updated: '2024-08-07T08:27:05Z'
+  updated: '2024-08-12T08:32:02Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx
 - title: Embajador-a
   type: page
@@ -80,11 +80,11 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Consulados.aspx
 - title: Horario, localización y contacto. Embajada
   type: page
-  updated: '2024-08-07T08:27:26Z'
+  updated: '2024-08-12T08:30:58Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx
 - title: Ofertas de empleo. Embajada
   type: page
-  updated: '2024-08-06T08:29:04Z'
+  updated: '2024-08-12T08:31:06Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx
 - title: Documentación y trámites. Embajada
   type: page
@@ -92,7 +92,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
 - title: Establecerse. Embajada
   type: page
-  updated: '2024-08-07T08:28:04Z'
+  updated: '2024-08-12T08:30:50Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Establecerse.aspx
 - title: Educación y sanidad. Embajada
   type: page
@@ -100,7 +100,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx
 - title: Trabajar. Embajada
   type: page
-  updated: '2024-08-06T08:29:21Z'
+  updated: '2024-08-12T08:31:14Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx
 - title: Enlaces de interés. Embajada
   type: page
@@ -117,7 +117,7 @@
 - category: Certificados
   title: Certificado de antecedentes penales
   type: service
-  updated: '2024-08-06T08:29:14Z'
+  updated: '2024-08-12T08:30:19Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales
 - category: Certificados
   title: Certificado de baja consular
@@ -127,7 +127,7 @@
 - category: Certificados
   title: Certificado de capacidad matrimonial
   type: service
-  updated: '2024-08-07T08:27:33Z'
+  updated: '2024-08-12T08:29:46Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial
 - category: Certificados
   title: Certificado de defunción
@@ -157,7 +157,7 @@
 - category: Certificados
   title: Certificado electrónico de ciudadano
   type: service
-  updated: '2024-08-07T08:27:49Z'
+  updated: '2024-08-12T08:29:38Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20electr%C3%B3nico%20de%20ciudadano
 - category: Certificados
   title: Certificado electrónico de empresa
@@ -167,7 +167,7 @@
 - category: Certificados
   title: Fe de vida
   type: service
-  updated: '2024-08-07T08:27:13Z'
+  updated: '2024-08-12T08:30:27Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida
 - category: Emergencia Consular
   title: Asistencia en caso de emergencia
@@ -207,12 +207,12 @@
 - category: Familia
   title: Defunciones
   type: service
-  updated: '2024-08-06T08:28:58Z'
+  updated: '2024-08-12T08:29:30Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Defunciones
 - category: Familia
   title: Divorcios
   type: service
-  updated: '2024-08-07T08:27:19Z'
+  updated: '2024-08-12T08:30:34Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Divorcios
 - category: Familia
   title: Libro de Familia
@@ -257,7 +257,7 @@
 - category: Inscripción Consular
   title: Modificación de datos o cambio de domicilio
   type: service
-  updated: '2024-08-06T08:28:52Z'
+  updated: '2024-08-12T08:30:12Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Inscripci%C3%B3n%20Consular&scs=Modificaci%C3%B3n%20de%20datos%20o%20cambio%20de%20domicilio
 - category: Legalización o Apostilla. Compulsa y Registro
   title: Compulsa de copia de documentos
@@ -277,7 +277,7 @@
 - category: Nacionalidad
   title: Información general sobre nacionalidad española
   type: service
-  updated: '2024-08-07T08:27:40Z'
+  updated: '2024-08-12T08:29:20Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Informaci%C3%B3n%20general%20sobre%20nacionalidad%20espa%C3%B1ola
 - category: Nacionalidad
   title: Nacionalidad española - Conservación
@@ -332,7 +332,7 @@
 - category: Notaría
   title: Obtención de copia
   type: service
-  updated: '2024-08-06T08:28:38Z'
+  updated: '2024-08-12T08:30:03Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Obtenci%C3%B3n%20de%20copia
 - category: Notaría
   title: Otras escrituras
@@ -397,7 +397,7 @@
 - category: Pasaportes y otros documentos
   title: Salvoconducto
   type: service
-  updated: '2024-08-07T08:26:50Z'
+  updated: '2024-08-12T08:29:54Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Salvoconducto
 - category: Recursos en materia de Registro Civil
   title: Recursos en materia de Registro Civil
@@ -407,7 +407,7 @@
 - category: Visados
   title: Condiciones de entrada en España
   type: service
-  updated: '2024-08-06T08:28:45Z'
+  updated: '2024-08-12T08:30:42Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Condiciones%20de%20entrada%20en%20Espa%C3%B1a
 - category: Visados
   title: Lugar de presentación de solicitudes de visado
@@ -463,12 +463,12 @@
 - category: Visados
   title: Visados Nacionales - Visado de residencia no lucrativa
   type: service
-  updated: '2024-08-06T08:29:27Z'
+  updated: '2024-08-12T08:31:52Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20no%20lucrativa
 - category: Visados
   title: Visados Nacionales - Visado de residencia para teletrabajo (nómada digital)
   type: service
-  updated: '2024-08-06T08:28:31Z'
+  updated: '2024-08-12T08:31:42Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20para%20teletrabajo%20%28n%C3%B3mada%20digital%29
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta ajena
@@ -505,7 +505,7 @@
 - category: Votar en España
   title: Información sobre voto de españoles residentes en el extranjero (CERA)
   type: service
-  updated: '2024-08-07T08:26:57Z'
+  updated: '2024-08-12T08:31:23Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Votar%20en%20Espa%C3%B1a&scs=Informaci%C3%B3n%20sobre%20voto%20de%20espa%C3%B1oles%20residentes%20en%20el%20extranjero%20%28CERA%29
 - category: Votar en España
   title: Información sobre voto de españoles temporalmente en el extranjero (ERTA)
