@@ -32,19 +32,19 @@
  Documentos necesarios
 ---------------------
 
- * **Formulario de solicitud de visado Schengen**. Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará quien ostente la patria potestad.
+ * **Formulario de solicitud de visado Schengen**. [Formulario Schengen.](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Reino%20Unido/LONDRES%20%28C%29/Schengen%20Application%20Form.pdf) Cada solicitante presentará una solicitud utilizando el formulario oficial, que debe ser completado en todos sus apartados y firmado por el propio solicitante. Si el solicitante es menor de edad, firmará quien ostente la patria potestad.
 * **Fotografía**. Se presentará 1 fotografía reciente, tamaño carné, a color, con fondo claro, tomada de frente, sin gafas oscuras, ni reflejos, ni prendas que oculten el óvalo de la cara. En la fotografía de un menor de edad no deben verse partes del cuerpo del adulto que lo sostiene.
-* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos. El pasaporte deberá ser válido, como mínimo, hasta 3 meses después de la fecha prevista de salida del territorio Schengen. Deberá tener, al menos, dos páginas en blanco. No se admiten pasaportes expedidos hace más de 10 años.
-* **Documentos que prueben la relación de parentesco con un ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza**:
+* **Pasaporte válido y en vigor**. Original y una fotocopia de la página o páginas con datos biométricos.
+* **Documentos que prueben la relación de parentesco con un ciudadano de la Unión, de un Estado del Espacio Económico Europeo o de Suiza o con ciudadanos británicos que sean beneficiarios del Acuerdo de Retirada entre la Unión Europea y el Reino Unido**: Certificados de registro civil (de nacimiento o matrimonio, según el caso), certificados de registro de parejas no casadas o documentos que prueben una relación de pareja análoga a la conyugal.
 * **En el caso de los hijos mayores de 21 años, ascendientes y otros familiares, documentos que prueben que viven a cargo del ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o, en su caso, su estado de salud**:
-* **Documentos que prueben que el solicitante viaja junto al ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o que va a reunirse con él**:
+* **Documentos que prueben que el solicitante viaja junto al ciudadano de la Unión o de un Estado del Espacio Económico Europeo o de Suiza o que va a reunirse con él**, o de que viaja con el fin de residir en España con su familiar británico beneficiario del Acuerdo de Retirada.
 * **Prueba de residencia en la demarcación consular**.
 
  Cuando sea necesario para valorar la solicitud, la Oficina Consular podrá solicitar documento o datos adicionales y también podrá convocar al solicitante a una entrevista personal.
 
  El cumplimiento de los requisitos establecidos en los apartados 1, 2 y 3 es indispensable para la admisibilidad de una solicitud.
 
-  El visado es gratuito. 
+  El visado es gratuito. Pero si se solicita voluntariamente a través de un centro de recepción de visados, se pagará la tasa por servicios prestados. Para consultar el importe de la tasa y más información de servicios adicionales voluntarios por favor visite [la página web de BLS International](https://uk.blsspainvisa.com/london/). 
 
  
 
