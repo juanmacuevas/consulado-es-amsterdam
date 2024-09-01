@@ -8,17 +8,9 @@
 
  En estos casos, no será posible tramitar la renovación ni el duplicado a través de la Oficina Consular, a excepción de los funcionarios españoles destinados en el exterior.
 
- La renovación del permiso de conducción debe realizarse en España. No se podrá, en ningún caso, tramitar la renovación en esta Oficina Consular.
+ La renovación del permiso de conducción debe realizarse en España. No se podrá, en ningún caso, tramitar la renovación en esta Oficina Consular.El único trámite posible es la autorización a una persona en España para realizar el trámite en la DGT.Solicite cita aquí: [Permiso de conducción](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime) Los españoles residentes en Países Bajos deben canjear su permiso de conducción español por el neerlandés. Para ello, deben dirigirse con su permiso en vigor a su ayuntamiento de inscripción. 
 
-El único trámite posible es la autorización a una persona en España para realizar el trámite en la DGT.
-
-Solicite cita aquí:
-
- [Permiso de conducción](https://app.bookitit.com/es/hosteds/widgetdefault/2c6277fc2bf43562ccce5c647ff1db4eb#datetime) 
-
-Los españoles residentes en Países Bajos deben canjear su permiso de conducción español por el neerlandés. Para ello, deben dirigirse con su permiso en vigor a su ayuntamiento de inscripción.
-
- Renovación del permiso de conducción
+Renovación del permiso de conducción
 ------------------------------------
 
  ### Procedimiento
@@ -110,7 +102,7 @@ Los españoles residentes en Países Bajos deben canjear su permiso de conducci�
 
 ---
 
- Para obtener más información se puede consultar la página web de la [Dirección General de Tráfico](https://sede.dgt.gob.es/es/permisos-de-conducir/canje-permisos/index.shtml).
+ Para obtener más información se puede consultar la página web de la [Dirección General de Tráfico](https://sede.dgt.gob.es/es/permisos-de-conducir/canjes-de-permisos/).
 
  Normativa
 ---------
