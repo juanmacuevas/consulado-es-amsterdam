@@ -1,6 +1,6 @@
   Cónsul General
 ==============
 
-    ​D. Antonio Torres\-Dulce Ruiz​​
+    ​D. Román Oyarzun Marchesi​​​
 
    [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx)
