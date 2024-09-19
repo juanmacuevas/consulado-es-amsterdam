@@ -1,12 +1,28 @@
   Ofertas de empleo
 =================
 
-   23 de marzo de 2023    **​CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAY​A CON LA CATEGORIA DE AUXILIAR**
+   Ayer    ### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
 
-> [BASES DE LA CONVOCATORIA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20240422_BASES%20CONVOCATORIA.pdf)
+> [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/BASE%20DE%20LA%20CONVOCATORIA.pdf)
 
 ​  
+  
+  
+  
+  
+  
+### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA OFICINA ECONOMICA Y COMERCIAL DE ESPAÑA EN LA HAYA, PAÍSES BAJOS, CON LA CATEGORIA DE ADMINISTRATIVO
+
+
+> ​[BASE DE LA CONVOCATORIA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/ConvocatoriaLAHAYA.Admin2024_signed.pdf%20F.pdf)
+
+​​​
+
+  
+​​​  
+
+
 ​  
   
 
