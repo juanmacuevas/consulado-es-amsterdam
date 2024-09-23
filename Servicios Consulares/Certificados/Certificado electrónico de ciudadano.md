@@ -19,7 +19,7 @@
 * A continuación, es necesario acreditar la identidad ante una oficina de acreditación de identidad. Este trámite se puede hacer en la Oficina Consular, donde se deben presentar los siguientes requisitos:
 
 
-	+ [Impreso de solicitud](https://www.sede.fnmt.gob.es/documents/10445900/10545713/Contrato_emision_persona_fisica_ac_usuarios.pdf) .
+	+ [Impreso de solicitud](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud_certificado_usuario_persona_fisica_Consulado.pdf) .
 	+ Original y una fotocopia del DNI o del NIE.
 	+ Código de solicitud proporcionado por la FNMT, que se anotará en el impreso de solicitud.Para poder atender su petición, rogamos se personen en este Consulado General de **10 a 12:00 horas**.
 * Al cabo de uno o dos días hábiles se podrá descargar el certificado de usuario haciendo uso del código de solicitud y con el mismo ordenador, navegador y usuario utilizado para solicitar el certificado. Es recomendable hacer una copia de seguridad del certificado electrónico.
