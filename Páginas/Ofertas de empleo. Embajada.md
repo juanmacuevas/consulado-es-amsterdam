@@ -61,6 +61,9 @@
 [![]()**03072024 LISTADO DE CALIFICACIONES POR ORDEN DE MAYOR PUTUACIÓN TOTAL.pdf​**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/03072024%20LISTADO%20DE%20CALIFICACIONES%20POR%20ORDEN%20DE%20MAYOR%20PUTUACI%C3%93N%20TOTAL.pdf)  
 
 
+[![]()**23092024 CONVOCATORIA DESIERTA.pdf**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/23092024%20CONVOCATORIA%20DESIERTA.pdf)  
+
+
 ​  
 
 
@@ -70,7 +73,7 @@
 
 ### ​
 
-### 
+### ​
 
 ### 
 
