@@ -24,7 +24,7 @@ Noticias de la embajada
 
 16 de enero de 2024
 
-![España formaliza un acuerdo con la CPI para el programa JPO]()
+![España formaliza un acuerdo con la CPI para el programa JPO](/Embajadas/lahaya/es/Comunicacion/Noticias/PublishingImages/Paginas/Articulos/20240116_NOT01/Foto%204.jpg?width=424&height=244)
 * Presidencia Española de la UE
 
 [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya") 
