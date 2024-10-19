@@ -10,10 +10,12 @@
 
  Número de emergencia: 112
 
- Las mujeres españolas residentes en el extranjero víctimas de violencia de género se pueden encontrar en una situación de especial vulnerabilidad por diferentes motivos: existencia de barreras lingüísticas y culturales, falta de acceso a instituciones sociales de ayuda o desconocimiento de los recursos existentes en el país, entre otros. El 8 de octubre de 2015 el Ministerios de Asuntos Exteriores, Unión Europea y Cooperación firmó el Protocolo interministerial de Actuación para la Atención de las Mujeres Españolas Víctimas de Violencia de Género en el Exterior para tratar de paliar esta circunstancia:
+ Las mujeres españolas residentes en el extranjero víctimas de violencia se suelen encontrar en una situación de especial vulnerabilidad por las barreras lingüísticas y culturales o por la falta de acceso a instituciones sociales de ayuda, debido en muchas ocasiones al desconocimiento de los recursos existentes en el país.
 
-  <https://violenciagenero.igualdad.gob.es/informacionUtil/espanolas/protocolo/pdf/ProtocoloEspanolasExtranjero.pdf> 
+ El 16 de julio de 2024, los Ministerios de Asuntos Exteriores, Unión Europea y Cooperación; Presidencia, Justicia y Relaciones con las Cortes; Interior; Trabajo y Economía Social; Igualdad; Inclusión, Seguridad Social y Migraciones firmaron un [Acuerdo de Actuación para la Atención de las Mujeres Españolas Víctimas de Violencia de Género en el Exterior.](https://violenciagenero.igualdad.gob.es/informacion-3/espanolas/)
+
+ El Acuerdo puede consultarse a texto completo en la página web del [Ministerio de Igualdad](https://violenciagenero.igualdad.gob.es/wp-content/uploads/ACUERDO-INTERMINISTERIAL-DE-COOPERACION-PARA-LA-ATENCION-EL-TRASLADO-Y-EL-RETORNO-DE-LAS-ESPANOLAS-VICTIMAS-DE-VIOLENCIA-CONTRA-LAS-MUJERES-EN-EL-EXTERIOR.pdf)
 
  \#NoEstoySola
 
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Violencia%20contra%20la%20mujer)
+\-\-\>  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Violencia%20contra%20la%20mujer)
