@@ -5,7 +5,7 @@
 
  Es el acto por el que se manifiesta la voluntad de preservar la nacionalidad española cuando se adquiere o se ostenta otra nacionalidad extranjera.
 
- Para evitar la pérdida de la nacionalidad tendrá que producirse la conservación de la nacionalidad española transcurridos tres años desde la adquisición de la nacionalidad extranjera o desde la emancipación.
+ Para evitar la pérdida de la nacionalidad hay que solicitar la conservación de la nacionalidad española antes de que transcurran tres años desde la adquisición de la nacionalidad extranjera o desde la emancipación, si se adquirió siendo menor de edad.
 
  La conservación expresa se realiza con una declaración personal ante el Encargado del Registro Civil Consular en determinadas circunstancias.
 
