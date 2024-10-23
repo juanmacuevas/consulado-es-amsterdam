@@ -72,7 +72,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx
 - title: Embajada
   type: page
-  updated: '2024-10-17T08:32:49Z'
+  updated: '2024-10-23T08:32:52Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx
 - title: Consulados
   type: page
@@ -92,7 +92,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
 - title: Establecerse. Embajada
   type: page
-  updated: '2024-10-17T08:33:46Z'
+  updated: '2024-10-23T08:34:29Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Establecerse.aspx
 - title: Educación y sanidad. Embajada
   type: page
@@ -100,7 +100,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx
 - title: Trabajar. Embajada
   type: page
-  updated: '2024-10-18T08:32:25Z'
+  updated: '2024-10-23T08:34:00Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx
 - title: Enlaces de interés. Embajada
   type: page
@@ -108,7 +108,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx
 - title: Recomendaciones de viaje. Embajada
   type: page
-  updated: '2024-10-18T08:32:18Z'
+  updated: '2024-10-23T08:34:44Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias. Embajada
   type: page
@@ -117,7 +117,7 @@
 - category: Certificados
   title: Certificado de antecedentes penales
   type: service
-  updated: '2024-10-18T08:31:52Z'
+  updated: '2024-10-23T08:32:13Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales
 - category: Certificados
   title: Certificado de baja consular
@@ -132,12 +132,12 @@
 - category: Certificados
   title: Certificado de defunción
   type: service
-  updated: '2024-10-18T08:32:42Z'
+  updated: '2024-10-23T08:34:20Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20defunci%C3%B3n
 - category: Certificados
   title: Certificado de ley
   type: service
-  updated: '2024-10-17T08:33:20Z'
+  updated: '2024-10-23T08:32:35Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20ley
 - category: Certificados
   title: Certificado de matrimonio
@@ -167,7 +167,7 @@
 - category: Certificados
   title: Fe de vida
   type: service
-  updated: '2024-10-18T08:31:33Z'
+  updated: '2024-10-23T08:34:36Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Fe%20de%20vida
 - category: Emergencia Consular
   title: Asistencia en caso de emergencia
@@ -182,7 +182,7 @@
 - category: Emergencia Consular
   title: Detenidos
   type: service
-  updated: '2024-10-18T08:32:35Z'
+  updated: '2024-10-23T08:34:12Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Detenidos
 - category: Emergencia Consular
   title: Información sobre abogados e interpretes
@@ -227,7 +227,7 @@
 - category: Familia
   title: Nacimientos
   type: service
-  updated: '2024-10-18T08:31:41Z'
+  updated: '2024-10-23T08:33:10Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Nacimientos
 - category: Familia
   title: Nombre y apellidos
@@ -267,7 +267,7 @@
 - category: Legalización o Apostilla. Compulsa y Registro
   title: Legalización y apostilla de la Haya
   type: service
-  updated: '2024-10-17T08:32:41Z'
+  updated: '2024-10-23T08:32:04Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Legalizaci%C3%B3n%20o%20Apostilla.%20Compulsa%20y%20Registro&scs=Legalizaci%C3%B3n%20y%20apostilla%20de%20la%20Haya
 - category: Legalización o Apostilla. Compulsa y Registro
   title: Registro de Solicitudes y Escritos
@@ -302,7 +302,7 @@
 - category: Nacionalidad
   title: Pérdida de la nacionalidad española
   type: service
-  updated: '2024-10-18T08:31:22Z'
+  updated: '2024-10-23T08:33:32Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=P%C3%A9rdida%20de%20la%20nacionalidad%20espa%C3%B1ola
 - category: Nacionalidad
   title: Recuperación de la nacionalidad española
@@ -317,7 +317,7 @@
 - category: Notaría
   title: Capitulaciones matrimoniales
   type: service
-  updated: '2024-10-18T08:32:01Z'
+  updated: '2024-10-23T08:33:01Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Capitulaciones%20matrimoniales
 - category: Notaría
   title: Función notarial de los cónsules
@@ -342,7 +342,7 @@
 - category: Notaría
   title: Poderes notariales
   type: service
-  updated: '2024-10-17T08:33:10Z'
+  updated: '2024-10-23T08:31:55Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Notar%C3%ADa&scs=Poderes%20notariales
 - category: Notaría
   title: Testamentos
@@ -357,7 +357,7 @@
 - category: Pasaportes y otros documentos
   title: Documento Nacional de Identidad (DNI)
   type: service
-  updated: '2024-10-17T08:33:30Z'
+  updated: '2024-10-23T08:31:45Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Documento%20Nacional%20de%20Identidad%20%28DNI%29
 - category: Pasaportes y otros documentos
   title: Número de Identidad de Extranjero (NIE)
@@ -372,7 +372,7 @@
 - category: Pasaportes y otros documentos
   title: Pasaportes - Información importante
   type: service
-  updated: '2024-10-17T08:33:36Z'
+  updated: '2024-10-23T08:32:25Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Informaci%C3%B3n%20importante
 - category: Pasaportes y otros documentos
   title: Pasaportes - Menores de edad y personas incapacitadas
@@ -438,12 +438,12 @@
 - category: Visados
   title: Visados Nacionales - Visado de estudios
   type: service
-  updated: '2024-10-17T08:33:01Z'
+  updated: '2024-10-23T08:33:40Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20estudios
 - category: Visados
   title: Visados Nacionales - Visado de inversor
   type: service
-  updated: '2024-10-18T08:32:51Z'
+  updated: '2024-10-23T08:32:44Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20inversor
 - category: Visados
   title: Visados Nacionales - Visado de investigador
@@ -463,7 +463,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de residencia no lucrativa
   type: service
-  updated: '2024-10-18T08:32:09Z'
+  updated: '2024-10-23T08:33:22Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20residencia%20no%20lucrativa
 - category: Visados
   title: Visados Nacionales - Visado de residencia para teletrabajo (nómada digital)
@@ -473,7 +473,7 @@
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta ajena
   type: service
-  updated: '2024-10-17T08:33:56Z'
+  updated: '2024-10-23T08:33:50Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20trabajo%20por%20cuenta%20ajena
 - category: Visados
   title: Visados Nacionales - Visado de trabajo por cuenta propia
