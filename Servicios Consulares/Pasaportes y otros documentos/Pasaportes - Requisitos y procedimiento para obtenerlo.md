@@ -47,7 +47,7 @@ La tramitación de un nuevo pasaporte se realizará **exclusivamente mediante el
 
 Sólo se puede solicitar una única cita por persona. En el caso de familias, se deberán solicitar tantas citas como miembros de la unidad familiar deseen realizar dicho trámite. 
 
-Antes de proceder a concertar la cita previa o a efectos de resolver posibles dudas que pudiera tener, SE RUEGA LEER DETENIDAMENTE LAS SIGUIENTES  [INSTRUCCIONES](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/PROCEDIMIENTO%20DE%20SOLICITUD%20DE%20CITA.pdf). 
+Antes de proceder a concertar la cita previa o a efectos de resolver posibles dudas que pudiera tener, SE RUEGA LEER DETENIDAMENTE LAS SIGUIENTES  [INSTRUCCIONES](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/PROCEDIMIENTO%20DE%20SOLICITUD%20DE%20CITA_.pdf). 
 
 Para concertar una cita para solicitud de pasaporte, rogamos que pinche el siguiente enlace: [Cita Previa](https://www.citaconsular.es/es/hosteds/widgetdefault/28e1e70e15c0c9e53c7ee319e97281d07)
 
