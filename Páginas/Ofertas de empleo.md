@@ -1,7 +1,7 @@
   Ofertas de empleo
 =================
 
-   martes, 15 de octubre de 2024    ### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
+   miércoles, 23 de octubre de 2024    ### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
 
 > [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/BASE%20DE%20LA%20CONVOCATORIA.pdf)  
@@ -16,7 +16,10 @@
 > [RELACION APROBADOS FASE OPOSICIÓN Y CONVOCATORIA ENTREVISTA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%201_Calificaci%C3%B3n.pdf)  
 > 
 > 
-> [RELACION PROVISIONAL FASE CONCURSO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20241015_CALIFICACIONES%20PROVISIONALES%20CONCURSO.pdf)
+> [RELACION PROVISIONAL FASE CONCURSO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20241015_CALIFICACIONES%20PROVISIONALES%20CONCURSO.pdf)   
+> 
+> 
+> [RELACION DEFINITIVA FASE CONCURSO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones%20Definitiva.pdf)
 
 ​​  
 ​  
