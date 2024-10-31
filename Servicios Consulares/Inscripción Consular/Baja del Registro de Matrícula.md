@@ -3,7 +3,7 @@
   Documentación a presentar
 -------------------------
 
- * [Formulario de solicitud de baja](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/20240907%20-%20Solicitud%20de%20baja%20consular_nuevo%20modelo.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores en el caso de menor de edad o persona incapacitada, indicando claramente cuántos certificados de baja se necesitan y para qué fin se solicitan.
+ * [Formulario de solicitud de baja](https://www.exteriores.gob.es/Documents/DocumentosSC/Inscripci%C3%B3n%20Consular/Solicitud%20de%20baja%20consular.pdf) rellenado y firmado por el solicitante o por uno de sus progenitores o tutores en el caso de menor de edad o persona incapacitada, indicando claramente cuántos certificados de baja se necesitan y para qué fin se solicitan.
 * Fotocopia del DNI o pasaporte del solicitante y, en su caso, del DNI o pasaporte del progenitor o tutor firmante.
 * Si la baja se solicita para importación de un automóvil en España, fotocopia del certificado de matriculación del país de origen.
 
