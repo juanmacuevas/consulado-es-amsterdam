@@ -4,7 +4,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx
 - title: Consulado
   type: page
-  updated: '2024-11-01T08:30:33Z'
+  updated: '2024-11-06T08:33:32Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx
 - title: Demarcación
   type: page
@@ -24,7 +24,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx
 - title: Establecerse
   type: page
-  updated: '2024-11-01T08:30:38Z'
+  updated: '2024-11-06T08:33:39Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx
 - title: Trabajar
   type: page
@@ -36,7 +36,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx
 - title: Enlaces de interés
   type: page
-  updated: '2024-11-01T08:31:45Z'
+  updated: '2024-11-06T08:32:44Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx
 - title: Seguridad y otros aspectos
   type: page
@@ -44,7 +44,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx
 - title: Consejode Residentes-Españoles
   type: page
-  updated: '2024-11-01T08:31:12Z'
+  updated: '2024-11-06T08:33:47Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx
 - title: Documentación y trámites
   type: page
@@ -60,7 +60,7 @@
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx
 - title: Noticias
   type: page
-  updated: '2024-11-01T08:31:36Z'
+  updated: '2024-11-06T08:32:52Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx
 - title: Embajador-a
   type: page
@@ -68,7 +68,7 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajador.aspx
 - title: Contacto. Embajada
   type: page
-  updated: '2024-10-31T08:31:32Z'
+  updated: '2024-11-06T08:33:56Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx
 - title: Embajada
   type: page
@@ -84,11 +84,11 @@
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx
 - title: Ofertas de empleo. Embajada
   type: page
-  updated: '2024-11-01T08:31:26Z'
+  updated: '2024-11-06T08:33:25Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx
 - title: Documentación y trámites. Embajada
   type: page
-  updated: '2024-11-01T08:30:24Z'
+  updated: '2024-11-06T08:33:15Z'
   url: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
 - title: Establecerse. Embajada
   type: page
@@ -152,12 +152,12 @@
 - category: Certificados
   title: Certificado de residencia
   type: service
-  updated: '2024-10-31T08:30:42Z'
+  updated: '2024-11-06T08:31:54Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20residencia
 - category: Certificados
   title: Certificado electrónico de ciudadano
   type: service
-  updated: '2024-10-31T08:31:07Z'
+  updated: '2024-11-06T08:32:04Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20electr%C3%B3nico%20de%20ciudadano
 - category: Certificados
   title: Certificado electrónico de empresa
@@ -187,7 +187,7 @@
 - category: Emergencia Consular
   title: Información sobre abogados e interpretes
   type: service
-  updated: '2024-10-31T08:31:14Z'
+  updated: '2024-11-06T08:32:12Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Emergencia%20Consular&scs=Informaci%C3%B3n%20sobre%20abogados%20e%20interpretes
 - category: Emergencia Consular
   title: Traslado de restos mortales
@@ -207,7 +207,7 @@
 - category: Familia
   title: Defunciones
   type: service
-  updated: '2024-10-31T08:31:23Z'
+  updated: '2024-11-06T08:31:24Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Defunciones
 - category: Familia
   title: Divorcios
@@ -242,7 +242,7 @@
 - category: Familia
   title: Sustracción internacional de menores
   type: service
-  updated: '2024-10-31T08:31:42Z'
+  updated: '2024-11-06T08:31:47Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Familia&scs=Sustracci%C3%B3n%20internacional%20de%20menores
 - category: Inscripción Consular
   title: Alta de residente y de no residente
@@ -277,12 +277,12 @@
 - category: Nacionalidad
   title: Información general sobre nacionalidad española
   type: service
-  updated: '2024-11-01T08:30:48Z'
+  updated: '2024-11-06T08:33:00Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Informaci%C3%B3n%20general%20sobre%20nacionalidad%20espa%C3%B1ola
 - category: Nacionalidad
   title: Nacionalidad española - Conservación
   type: service
-  updated: '2024-10-31T08:30:52Z'
+  updated: '2024-11-06T08:31:38Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Conservaci%C3%B3n
 - category: Nacionalidad
   title: Nacionalidad española - Opción
@@ -352,7 +352,7 @@
 - category: Pasaportes y otros documentos
   title: Autorización de viaje para menores
   type: service
-  updated: '2024-11-01T08:30:58Z'
+  updated: '2024-11-06T08:32:28Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Autorizaci%C3%B3n%20de%20viaje%20para%20menores
 - category: Pasaportes y otros documentos
   title: Documento Nacional de Identidad (DNI)
@@ -377,7 +377,7 @@
 - category: Pasaportes y otros documentos
   title: Pasaportes - Menores de edad y personas incapacitadas
   type: service
-  updated: '2024-10-31T08:31:51Z'
+  updated: '2024-11-06T08:31:31Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Pasaportes%20y%20otros%20documentos&scs=Pasaportes%20-%20Menores%20de%20edad%20y%20personas%20incapacitadas
 - category: Pasaportes y otros documentos
   title: Pasaportes - Requisitos y procedimiento para obtenerlo
@@ -428,7 +428,7 @@
 - category: Visados
   title: Visados de transito aeroportuario
   type: service
-  updated: '2024-11-01T08:31:05Z'
+  updated: '2024-11-06T08:32:21Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20de%20transito%20aeroportuario
 - category: Visados
   title: Visados Nacionales - Información general
@@ -448,12 +448,12 @@
 - category: Visados
   title: Visados Nacionales - Visado de investigador
   type: service
-  updated: '2024-11-01T08:31:19Z'
+  updated: '2024-11-06T08:32:38Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20investigador
 - category: Visados
   title: Visados Nacionales - Visado de prácticas
   type: service
-  updated: '2024-10-31T08:31:00Z'
+  updated: '2024-11-06T08:33:08Z'
   url: https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Visados&scs=Visados%20Nacionales%20-%20Visado%20de%20pr%C3%A1cticas
 - category: Visados
   title: Visados Nacionales - Visado de reagrupación familiar en régimen general
