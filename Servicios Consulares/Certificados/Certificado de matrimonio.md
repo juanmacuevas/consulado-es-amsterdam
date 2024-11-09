@@ -9,13 +9,9 @@
 
  El certificado se puede solicitar por correo postal, por correo electrónico o presencialmente, en la Oficina Consular.
 
- En esta Oficina Consular los certificados se solicitan y entregan por correo postal únicamente. Se trata, pues, de un TRAMITE NO PRESENCIAL.
+ En esta Oficina Consular los certificados se solicitan y entregan por correo postal únicamente. Se trata, pues, de un TRAMITE NO PRESENCIAL. \* Esta Oficina Consular no interviene en la solicitud de certificados a terceras oficinas. Si usted reside en los Países Bajos y necesita un certificado de un matrimonio inscrito en el Registro Civil de este Consulado, debe remitir la solicitud por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, sección Registro Civil, Frederiksplein 34, 1017XN Ámsterdam. 
 
-\* Esta Oficina Consular no interviene en la solicitud de certificados a terceras oficinas.
-
-Si usted reside en los Países Bajos y necesita un certificado de un matrimonio inscrito en el Registro Civil de este Consulado, debe remitir la solicitud por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, sección Registro Civil, Frederiksplein 34, 1017XN Ámsterdam.
-
- Se presentarán los siguientes documentos:
+Se presentarán los siguientes documentos:
 
 
 	+ [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235560-Modelo_de_solicitud_para_Certificado_de_Matrimonio.PDF).
@@ -23,9 +19,7 @@ Si usted reside en los Países Bajos y necesita un certificado de un matrimonio 
 	+ Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
 	+ En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
 	+ Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
-	+ Copia de la inscripción en el Libro de Familia (si lo posee) del matrimonio que se ha de certificar.
-	
-	Sobre A5 suficientemente franqueado (2 sellos), con nombre y dirección completa.Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
+	+ Copia de la inscripción en el Libro de Familia (si lo posee) del matrimonio que se ha de certificar.Sobre A5 suficientemente franqueado (2 sellos), con nombre y dirección completa.Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
   
 * **Matrimonios celebrados en otra demarcación consular** 
 
