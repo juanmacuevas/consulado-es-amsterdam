@@ -39,68 +39,16 @@
 
  Además de los documentos que se relacionan a continuación, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente.
 
- La documentación necesaria para formular la opción por la nacionalidad española de uno o varios
+ La documentación necesaria para formular la opción por la nacionalidad española de uno o variosmenores de edad es la siguiente:1\. Certificado literal del acta de nacimiento del menor (original y copia): [formulario](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Hoja%20declaratoria%20inscripci%C3%B3n%20nacimiento.pdf)2\. Certificado literal del acta de nacimiento de ambos padres. Este certificado deberá ser elespañol para el padre o madre que hayan adquirido la nacionalidad española (original ycopia).3\. Certificado de matrimonio de los padres, si existe, o Libro de Familia. En defecto dematrimonio, certificado acreditativo del estado civil (original y copia).4\. Certificado internacional o prueba de residencia en los Países Bajos de padres e hijos(original y copia).5\. Formulario de solicitud de comparecencia debidamente cumplimentado. (Uno por cadamenor por el que se solicita la opción).6\. Fotocopias de los pasaportes de los padres y de los hijos (2 copias de cada documento).Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 12 sellos detarifa 1 (por favor, no los pegue en el sobre). Con dicho franqueo abonará los gastos deenvío a su domicilio por correo postal certificado de su libro de familia.NOTA IMPORTANTE:Los certificados de residencia (padrón municipal) deberán ser expedidos en formulario internacional o, en sudefecto, ser traducidos al idioma español por traductor jurado. (Vea información sobre traductores juradosen la página web).Para los nacidos fuera de los Países Bajos: Los documentos neerlandeses que no fuesen expedidos enmodelo internacional deberán ser traducidos al idioma español por traductor jurado e ir provistos ambos deapostilla. (Ver información sobre traductores jurados y Apostilla en la página web)De toda la documentación se ha de remitir original y 1 fotocopia, salvo de los pasaportes o DNI,de los que se enviarán 2 fotocopias. 
 
-menores de edad es la siguiente:
-
-1\. Certificado literal del acta de nacimiento del menor (original y copia): [formulario](https://www.exteriores.gob.es/Documents/DocumentosSC/Nacionalidad/Hoja%20declaratoria%20inscripci%C3%B3n%20nacimiento.pdf)
-
-2\. Certificado literal del acta de nacimiento de ambos padres. Este certificado deberá ser el
-
-español para el padre o madre que hayan adquirido la nacionalidad española (original y
-
-copia).
-
-3\. Certificado de matrimonio de los padres, si existe, o Libro de Familia. En defecto de
-
-matrimonio, certificado acreditativo del estado civil (original y copia).
-
-4\. Certificado internacional o prueba de residencia en los Países Bajos de padres e hijos
-
-(original y copia).
-
-5\. Formulario de solicitud de comparecencia debidamente cumplimentado. (Uno por cada
-
-menor por el que se solicita la opción).
-
-6\. Fotocopias de los pasaportes de los padres y de los hijos (2 copias de cada documento).
-
-Sobre tamaño A5 con su nombre y dirección completa en los Países Bajos y 12 sellos de
-
-tarifa 1 (por favor, no los pegue en el sobre). Con dicho franqueo abonará los gastos de
-
-envío a su domicilio por correo postal certificado de su libro de familia.
-
-NOTA IMPORTANTE:
-
-Los certificados de residencia (padrón municipal) deberán ser expedidos en formulario internacional o, en su
-
-defecto, ser traducidos al idioma español por traductor jurado. (Vea información sobre traductores jurados
-
-en la página web).
-
-Para los nacidos fuera de los Países Bajos: Los documentos neerlandeses que no fuesen expedidos en
-
-modelo internacional deberán ser traducidos al idioma español por traductor jurado e ir provistos ambos de
-
-apostilla. (Ver información sobre traductores jurados y Apostilla en la página web)
-
-De toda la documentación se ha de remitir original y 1 fotocopia, salvo de los pasaportes o DNI,
-
-de los que se enviarán 2 fotocopias.
-
- ¿Cuál es el procedimiento?
+¿Cuál es el procedimiento?
 --------------------------
 
  La comparecencia personal del interesado mayor de 14 años durante el procedimiento es siempre necesaria.
 
- Para ejercer este derecho, debe remitir por correo postal a esta oficina la documentación indicada arriba.
+ Para ejercer este derecho, debe remitir por correo postal a esta oficina la documentación indicada arriba. No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es. Una vez recibida la documentación, nos pondremos en contacto con usted para fijar una cita para que usted acuda a nuestras oficinas a realizar esta declaración 
 
-No haga envíos parciales de documentación. Envíe la solicitud cuando tenga todos los documentos aplicables a su caso. Si tiene alguna duda al respecto, póngase en contacto con nosotros en cog.amsterdam.rgc@maec.es.
-
-Una vez recibida la documentación, nos pondremos en contacto con usted para fijar una cita para que usted acuda a nuestras oficinas a realizar esta declaración
-
- Para adquirir efectivamente la nacionalidad española por opción es necesario:
+Para adquirir efectivamente la nacionalidad española por opción es necesario:
 
  * Que el mayor de catorce años y capaz para prestar una declaración por sí jure o prometa fidelidad al Rey y obediencia a la Constitución y a las leyes.
 * Que la misma persona declare que renuncia a su anterior nacionalidad. No tendrán que cumplir este requisito los menores de 14 años ni los naturales de países iberoamericanos, Andorra, Filipinas, Guinea Ecuatorial, Portugal, Francia y los sefardíes originarios de España.

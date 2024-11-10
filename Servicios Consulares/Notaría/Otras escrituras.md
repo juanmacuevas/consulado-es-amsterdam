@@ -19,11 +19,9 @@
 
  Además de los documentos que se relacionan a continuación, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar la solicitud.
 
- Cualquier duda o cuestión deberá contactar con la sección notarial del Consulado:
+ Cualquier duda o cuestión deberá contactar con la sección notarial del Consulado:cog.amsterdam.not@maec.es 
 
-cog.amsterdam.not@maec.es
-
- Procedimiento
+Procedimiento
 -------------
 
  una vez presentada enviada la documentación presencialmente o por correo postal o electrónico será necesario el pago de las tasas consulares en efectivo o con tarjeta de un banco local. Para ello recibirá un correo de la sección notarial del Consulado donde se especifica el importe y el horario de pago. Una vez abonadas las tasas la Sección notarial del Consulado se pondrá en contacto con el interesado para concertar una fecha de firma de la escritura.
