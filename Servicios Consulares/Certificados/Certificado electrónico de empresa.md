@@ -20,8 +20,8 @@ En el momento de la comparecencia, el representante deberá aportar la siguiente
 	+ Formulario de solicitud en dos ejemplares. Se indicará en la solicitud una dirección de correo electrónico como dato de contacto obligatorio. Los ejemplares se firmarán ante el funcionario consular.
 	
 	
-		- [Formulario de solicitud para Persona Jurídica](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud_certificado_ESPJ_Consulado.pdf).
-		- [Formulario de solicitud para Entidad sin Personalidad Jurídica](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud_certificado_RPJ_Consulado.pdf).
+		- [Formulario de solicitud para Persona Jurídica](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud_certificado_RPJ_Consulado.pdf).
+		- [Formulario de solicitud para Entidad sin Personalidad Jurídica](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud_certificado_ESPJ_Consulado.pdf).
 	+ Documentación relativa a la entidad y al representante, que depende del tipo específico de empresa u organización y que se puede consultar en la [página web de la FNMT](https://www.sede.fnmt.gob.es/certificados/certificado-de-representante/documentacion)
 * Configuración del navegador desde el ordenador en el que se desee descargar su certificado, siguiendo las indicaciones de la FNMT.
 * Solicitud del certificado a través de la página web de la FNMT, siguiendo las instrucciones de dicha página. La solicitud debe hacerse desde el ordenador en el que se va a instalar el certificado. Al final de este proceso, se obtendrá un código de solicitud.
