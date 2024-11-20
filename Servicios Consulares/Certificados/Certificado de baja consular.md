@@ -5,7 +5,7 @@
  Documentos necesarios
 ---------------------
 
- * Solicitud de certificado de baja indicando la finalidad para la que se solicita. [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Sol.%20Baja.pdf)
+ * Solicitud de certificado de baja indicando la finalidad para la que se solicita. Adjunto se dispone del citado [formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Sol.%20Baja.pdf).
 * Copia del DNI o del pasaporte del solicitante.
 * Si el solicitante es menor de edad, se aportará además, copia del DNI o pasaporte del progenitor que firme la solicitud. Si el progenitor no está inscrito como residente en el Registro de Matrícula consular, se aportará también copia del Libro de Familia o del certificado de nacimiento del menor.
 
@@ -14,7 +14,10 @@
 
  La solicitud se envía por correo electrónico. También se puede presentar acudiendo personalmente a la Oficina Consular.
 
- El certificado de baja Consular podrá solicitarse, por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, Frederiksplein 34, 1017XN Ámsterdam o por correo electrónico: cog. amsterdam@maec.es, enviando el formulario establecido para ello con una copia del DNI o pasaporte.
+ El certificado de baja consular podrá solicitarse:
+
+* por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, Frederiksplein 34, 1017XN Ámsterdam
+* por correo electrónico a través del siguiente [enlace](mailto:cog.amsterdam@maec.es?subject=Solicitud%20Certificado%20Baja%20Consular).
 
  El certificado, firmado digitalmente, se recibirá por correo electrónico. También se podrá retirar personalmente.
 
