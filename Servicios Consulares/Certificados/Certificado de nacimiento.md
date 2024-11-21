@@ -9,9 +9,19 @@
 
  El certificado se puede solicitar por correo postal, por correo electrónico o presencialmente, en la Oficina Consular.
 
- **ATENCION:****En esta Oficina Consular el certificado de nacimiento únicamente puede solicitarse por correo postal.** Si usted reside en los Países Bajos y necesita un certificado de un nacimiento inscrito en el Registro Civil de este Consulado, debe remitir la documentación por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, Frederiksplein 34, 1017XN Ámsterdam.Si usted reside en España, tendrá que solicitar su certificado al Registro Civil Central de Madrid.En el caso de haber nacido en España u otra demarcación consular, deberá dirigir su solicitud directamente al Registro Civil u Oficina Consular donde se registró su nacimiento.Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.amsterdam.rgc@maec.es, para recibir instrucciones para la obtención de este certificado. 
+ ***ATENCION:***
 
-Se presentarán los siguientes documentos:
+***En esta Oficina Consular el certificado de nacimiento únicamente puede solicitarse por correo postal.*** 
+
+Si usted reside en los Países Bajos y necesita un certificado de un nacimiento inscrito en el Registro Civil de este Consulado, debe remitir la documentación por correo postal a la siguiente dirección: Consulado General de España en Ámsterdam, Frederiksplein 34, 1017XN Ámsterdam.
+
+Si usted reside en España, tendrá que solicitar su certificado al Registro Civil Central de Madrid.
+
+En el caso de haber nacido en España u otra demarcación consular, deberá dirigir su solicitud directamente al Registro Civil u Oficina Consular donde se registró su nacimiento.
+
+Si usted reside fuera de los Países Bajos, remita por favor un correo a cog.amsterdam.rgc@maec.es, para recibir instrucciones para la obtención de este certificado.
+
+ Se presentarán los siguientes documentos:
 
 
 	+ [Formulario de solicitud firmado](https://www.mjusticia.gob.es/es/Ciudadano/TramitesGestiones/Documents/1292428235421-Modelo_de_Solicitud_de_Certificado_de_Nacimiento_.PDF).
@@ -19,8 +29,11 @@ Se presentarán los siguientes documentos:
 	+ Siempre que sea posible, se anotará en la solicitud el tomo y página de la inscripción (esta información consta en el Libro de familia).
 	+ En la solicitud se indicará el tipo de certificado solicitado y se anotará también el número de certificados (máximo 3 por solicitud).
 	+ Si se desea recibir el certificado por correo, se adjuntará un sobre franqueado con la dirección del solicitante.
-	+ •Solicitud de certificado cumplimentada y firmada, indicando para qué fin solicita el certificado. Si es para solicitar el DNI por primera vez, incluya por favor la fecha en que viajará a España para realizarlo.[formulario](https://www.exteriores.gob.es/DocumentosAuxiliaresSC/Pa%C3%ADses%20Bajos/AMSTERDAM%20%28C%29/Solicitud%20Cert.%20Nacimiento.pdf)•Copia de la inscripción en el Libro de Familia (si lo posee) del nacimiento que se ha de certificar.•Copia de su pasaporte o DNI.•Sobre A5 suficientemente franqueado (2 sellos), con su nombre y dirección completa.\* En esta Oficina Consular los certificados se solicitan y se envían siempre por correo postal.\* Esta Oficina Consular no interviene en la solicitud de certificados a Oficinas terceras.Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
-  
+	+ Si es para solicitar el DNI por primera vez, incluya por favor la fecha en que viajará a España para realizarlo.
+	+ Copia de la inscripción en el Libro de Familia (si lo posee) del nacimiento que se ha de certificar.***\* IMPORTANTE:**Esta Oficina Consular no interviene en la solicitud de certificados de nacimientos inscritas en otras Oficinas de Registro Civil.*
+Además de los documentos anteriores, la Oficina Consular podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente. A este fin, es aconsejable anotar en la solicitud un teléfono de contacto o dirección de correo electrónico.
+
+   
 * **Personas nacidas en otra demarcación consular** 
 
  El certificado se solicitará directamente a la Oficina Consular correspondiente, de acuerdo con el procedimiento descrito en su página web.
