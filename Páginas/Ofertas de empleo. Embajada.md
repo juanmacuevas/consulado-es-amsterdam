@@ -1,7 +1,7 @@
   Ofertas de empleo
 =================
 
-   jueves, 14 de noviembre de 2024    ​  
+   14 de noviembre de 2024    ​  
 CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAYA (PAÍSES BAJOS), CON LA CATEGORÍA ​​DE CHOFER  
 
 
