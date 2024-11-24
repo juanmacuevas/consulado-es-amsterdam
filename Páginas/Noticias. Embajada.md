@@ -3,18 +3,13 @@ Noticias de la embajada
 =======================
 
 
-* Anuncio de Licitación 
+* RELACIONES CIENTÍFICAS Y CULTURALES
 
-[ANUNCIO DE LICITACIÓN](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/ANUNCIO-DE-LICITACI%C3%93N-.aspx "ANUNCIO DE LICITACIÓN") 
+[Celebración del I Congreso Científico Español\-Neerlandés "La Ciencia como Puente"](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20241120_Congreso_CENL.aspx "Celebración del I Congreso Científico Español-Neerlandés ") 
 
+20 de noviembre de 2024
 
- ​La Embajada de España en la Haya anuncia la licitación del servicio de limpieza en la Cancillería de la Embajada de España. Plazo participación hasta ...
- 
-
-
-7 de agosto de 2024
-
-![ANUNCIO DE LICITACIÓN]()
+![Celebración del I Congreso Científico Español-Neerlandés "La Ciencia como Puente"]()
 * [España formaliza un acuerdo con la CPI para el programa JPO](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20240116_NOT01.aspx "España formaliza un acuerdo con la CPI para el programa JPO") 
 
 
@@ -24,7 +19,7 @@ Noticias de la embajada
 
 16 de enero de 2024
 
-![España formaliza un acuerdo con la CPI para el programa JPO](/Embajadas/lahaya/es/Comunicacion/Noticias/PublishingImages/Paginas/Articulos/20240116_NOT01/Foto%204.jpg?width=424&height=244)
+![España formaliza un acuerdo con la CPI para el programa JPO]()
 * Presidencia Española de la UE
 
 [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya") 
@@ -77,18 +72,6 @@ Noticias de la embajada
 22 de septiembre de 2022
 
 ![Festival de Cine Español de Ámsterdam (ASFF)]()
-* 77ª edición Vuelta ciclista a España
-
-[Vuelta ciclista a España 2022\-La vuelta Países Bajos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/77%C2%AA%20Vuelta%20Ciclista%20a%20Espa%C3%B1a.aspx "Vuelta ciclista a España 2022-La vuelta Países Bajos") 
-
-
- Concluyen con éxito en Países Bajos las tres primeras etapas de la Vuelta cic​lista a España 
- 
-
-
-23 de agosto de 2022
-
-![Vuelta ciclista a España 2022-La vuelta Países Bajos]()
 * Aviso
 
 [Situación de la vivienda en los Países Bajos para estudiantes y trabajadores extranjeros](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20220727Not-2.aspx "Situación de la vivienda en los Países Bajos para estudiantes y trabajadores extranjeros") 
@@ -125,5 +108,17 @@ Noticias de la embajada
 10 de junio de 2022
 
 !["Nosotras también hacemos ciencia"]()
+* Deportes: Vuelta 2022
+
+[La Vuelta Holanda](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20220531NOT1.aspx "La Vuelta Holanda") 
+
+
+ ​Del 19 al 21 de agosto en Utrecht, Den Bosch y Breda 
+ 
+
+
+31 de mayo de 2022
+
+![La Vuelta Holanda]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
