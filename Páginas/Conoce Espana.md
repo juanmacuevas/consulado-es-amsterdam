@@ -1,7 +1,11 @@
-  Conoce España
+ 
+
+Conoce España
 =============
 
-    ​  
+  
+
+​  
 
 
 ​Referente mundial en ámbitos diversos, España es uno de los principales destinos turísticos del mundo. En este sentido, cabe señalar que nuestro país es el segundo del mundo con más ciudades Patrimonio de la Humanidad, el tercero en número de espacios naturales declarados Reservas de la Biosfera o el que más playas azules posee de todo el hemisferio norte.  
@@ -23,7 +27,7 @@ La residencia de larga duración es la situación que autoriza a residir y traba
 Estudiar en España
 ------------------
 
-Los ciudadanos extranjeros que deseen permanecer en España para cursar o ampliar estudios, realizar actividades de investigación o formación, prácticas no remuneradas, participar en intercambios de alumnos o llevar a cabo servicios de voluntariado, deberán obtener el correspondiente visado, que incluirá la autorización inicial de estancia en España. Uno de los requisitos más importantes para conseguir visa de estudios es contar con una carta de admisión de la escuela o universidad donde cursar el programa educativo. 
+Los ciudadanos extranjeros que deseen permanecer en España para cursar o ampliar estudios, realizar actividades de investigación o formación, prácticas no remuneradas, participar en intercambios de alumnos o llevar a cabo servicios de voluntariado, deberán obtener el correspondiente visado, que incluirá la autorización inicial de estancia en España. Uno de los requisitos más importantes para conseguir visa de estudios es contar con una carta de admisión de la escuela o universidad donde cursar el programa educativo.
 
 Cuando la duración de la estancia autorizada supere los seis meses de duración, los ciudadanos extranjeros titulares de un visado para cursar o ampliar estudios, realizar actividades de investigación o formación, prácticas no remuneradas, intercambio de alumnos o servicios de voluntariado deberán solicitar, en el plazo de un mes desde su entrada en España, la tarjeta de estudiante extranjero ante la Oficina de Extranjeros o Comisaría de Policía correspondiente.
 
@@ -45,7 +49,7 @@ Viajar con animales de compañía a España​​
 El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con un apartado con información actualizada sobre “Viajar con animales de compañía". La información está disponible en castellano, inglés y francés en el siguiente enlace:  
 
 
-[Ministerio de Agricultura, Pesca y Alimentación \- Viajar con animales de compañía](https://www.mapa.gob.es/es/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx)  
+[Ministerio de Agricultura, Pesca y Alimentación - Viajar con animales de compañía](https://www.mapa.gob.es/es/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx)  
 
 
 ​En la citada página web se detallan los aeropuertos/puertos autorizados para la introducción de animales de compañía en España procedentes de países que no forman parte de la Unión Europea, así como los datos de contacto del Servicio de Sanidad Animal de los aeropuertos y puertos autorizados.  
@@ -54,4 +58,4 @@ El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con
 Tambiém dispone de información sobre la introducción de mascotas en el territorio de la Unión Europea y sobre el control veterinario en frontera.​  
 
 
-   [Enlace a la página original](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx)
+  [Enlace a la página original](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx)
