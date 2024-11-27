@@ -1,5 +1,7 @@
- Recursos en materia de Registro Civil
 
-  Contra la resolución o decisión de la persona Encargada del Registro Civil de la Oficina Consular cabe recurso ante la Dirección General de Seguridad Jurídica y Fe Pública (DGSJFP), dependiente del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. El plazo para la interposición del recurso se indicará en la resolución o decisión correspondiente y puede presentarse tanto en la Oficina Consular correspondiente, como en el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, ya sea presencialmente o a través de [la sede electrónica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=interposicion-recurso-sede-resoluciones-encargados-registros-civiles)
 
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Recursos%20en%20materia%20de%20Registro%20Civil&scs=Recursos%20en%20materia%20de%20Registro%20Civil)
+Recursos en materia de Registro Civil
+
+Contra la resolución o decisión de la persona Encargada del Registro Civil de la Oficina Consular cabe recurso ante la Dirección General de Seguridad Jurídica y Fe Pública (DGSJFP), dependiente del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. El plazo para la interposición del recurso se indicará en la resolución o decisión correspondiente y puede presentarse tanto en la Oficina Consular correspondiente, como en el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, ya sea presencialmente o a través de [la sede electrónica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=interposicion-recurso-sede-resoluciones-encargados-registros-civiles)
+
+ [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Recursos%20en%20materia%20de%20Registro%20Civil&scs=Recursos%20en%20materia%20de%20Registro%20Civil)
