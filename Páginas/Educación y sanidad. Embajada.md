@@ -1,7 +1,11 @@
-  Educación y Sanidad
+ 
+
+Educación y Sanidad
 ===================
 
-    ​
+  
+
+​
 
 #### ​Educación
 
@@ -18,8 +22,8 @@ Si la estancia en el país se prolongara, deberá contratar un seguro médico. E
 
 Se recomienda que se asesoren a través de amigos o compañeros de trabajo. La contratación de un seguro médico es necesaria para inscribirse en el ayuntamiento de la localidad donde se establezca el domicilio.
 
-Quienes dispongan de la obligatoria cobertura médica deben tener en cuenta que en los Países Bajos, toda consulta médica o tratamiento pasa a través del médico de cabecera o de familia, al que se acude para cualquier dolencia o enfermedad. El médico de cabecera determinará si prescribe él mismo tratamiento o remite al paciente a un especialista o al hospital. 
+Quienes dispongan de la obligatoria cobertura médica deben tener en cuenta que en los Países Bajos, toda consulta médica o tratamiento pasa a través del médico de cabecera o de familia, al que se acude para cualquier dolencia o enfermedad. El médico de cabecera determinará si prescribe él mismo tratamiento o remite al paciente a un especialista o al hospital.
 
-Número de teléfono para llamar a una AMBULANCIA: 112\.
+Número de teléfono para llamar a una AMBULANCIA: 112.
 
    [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx)

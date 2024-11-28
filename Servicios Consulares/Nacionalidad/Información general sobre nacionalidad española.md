@@ -1,45 +1,49 @@
- Información general sobre nacionalidad española
 
-  La nacionalidad es el vínculo político y jurídico que une a una persona con su Estado. La nacionalidad permite a una persona reclamar una serie de derechos y, a su vez, le impone una serie de obligaciones.
 
- La nacionalidad española es la característica común que une a las personas que forman parte de la comunidad nacional española, a la Nación española, de acuerdo con el artículo 2 de la Constitución Española de 1978\.
+Información general sobre nacionalidad española
 
- El artículo 11 de la Constitución señala que “la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley”. La nacionalidad está regulada principalmente en el Código Civil (artículos 17 al 26\) y en la Ley de Registro Civil, dado que la nacionalidad española debe constar inscrita oficialmente en el Registro Civil.
+La nacionalidad es el vínculo político y jurídico que une a una persona con su Estado. La nacionalidad permite a una persona reclamar una serie de derechos y, a su vez, le impone una serie de obligaciones.
 
- Nacionalidad de origen
+La nacionalidad española es la característica común que une a las personas que forman parte de la comunidad nacional española, a la Nación española, de acuerdo con el artículo 2 de la Constitución Española de 1978.
+
+El artículo 11 de la Constitución señala que “la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley”. La nacionalidad está regulada principalmente en el Código Civil (artículos 17 al 26) y en la Ley de Registro Civil, dado que la nacionalidad española debe constar inscrita oficialmente en el Registro Civil.
+
+Nacionalidad de origen
 ----------------------
 
- La nacionalidad de origen se atribuye por ley sin que intervenga la voluntad de la persona. Normalmente, la nacionalidad de origen se adquiere:
+La nacionalidad de origen se atribuye por ley sin que intervenga la voluntad de la persona. Normalmente, la nacionalidad de origen se adquiere:
 
- * Por ser hijo biológico o adoptivo de padre o madre de nacionalidad española, con independencia del lugar de nacimiento.
+* Por ser hijo biológico o adoptivo de padre o madre de nacionalidad española, con independencia del lugar de nacimiento.
 * Excepcionalmente, por haber nacido en España en determinados casos: Cuando alguno de los progenitores extranjeros también haya nacido en España; cuando los progenitores carezcan de nacionalidad; cuando las leyes de ninguno de los progenitores extranjeros le atribuya al hijo la nacionalidad del país y cuando los progenitores sean desconocidos.
 
- [Ver apartado “Nacimientos”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Familia&scs=Nacimientos)
+[Ver apartado “Nacimientos”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Familia&scs=Nacimientos)
 
- Nacionalidad derivativa
+Nacionalidad derivativa
 -----------------------
 
- La nacionalidad derivativa la concede el Estado a las personas que la solicitan siempre que cumplan determinados requisitos legales. Éstas son las diferentes vías para adquirirla:
+La nacionalidad derivativa la concede el Estado a las personas que la solicitan siempre que cumplan determinados requisitos legales. Éstas son las diferentes vías para adquirirla:
 
- * **Nacionalidad por opción** 
-
- La opción es un beneficio que nuestra legislación ofrece a extranjeros que se encuentran en determinadas condiciones para que adquieran la nacionalidad española. Tendrán derecho a adquirir la nacionalidad española por esta vía:
-
-
-	+ Las personas que estén o hayan estado sujetos a la patria potestad de un español.
-	+ Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.[Ver apartado “Opción”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Opci%C3%B3n)
+* **Nacionalidad por opción**
   
-* **Nacionalidad por residencia** 
-
- Esta forma de adquisición de la nacionalidad exige la residencia de la persona en España de forma legal, continuada e inmediatamente anterior a la solicitud. Dependiendo de la nacionalidad previa y de las circunstancias personales, varía el número de años de residencia necesarios para adquirir la nacionalidad. Las Oficinas Consulares españolas no realizan trámites de nacionalidad por residencia.
-
-   
- [Ver apartado “Nacionalidad por residencia”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20por%20residencia)
+  La opción es un beneficio que nuestra legislación ofrece a extranjeros que se encuentran en determinadas condiciones para que adquieran la nacionalidad española. Tendrán derecho a adquirir la nacionalidad española por esta vía:
   
-* **Nacionalidad por carta de naturaleza** 
+  + Las personas que estén o hayan estado sujetos a la patria potestad de un español.
+  + Las personas cuyo padre o madre hubiera sido español y hubiera nacido en España.
+  
+  [Ver apartado “Opción”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20-%20Opci%C3%B3n)
+  
+* **Nacionalidad por residencia**
+  
+  Esta forma de adquisición de la nacionalidad exige la residencia de la persona en España de forma legal, continuada e inmediatamente anterior a la solicitud. Dependiendo de la nacionalidad previa y de las circunstancias personales, varía el número de años de residencia necesarios para adquirir la nacionalidad. Las Oficinas Consulares españolas no realizan trámites de nacionalidad por residencia.
+  
+    
+  
+  [Ver apartado “Nacionalidad por residencia”.](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses%20Bajos&scd=9&scca=Nacionalidad&scs=Nacionalidad%20espa%C3%B1ola%20por%20residencia)
+  
+* **Nacionalidad por carta de naturaleza**
+  
+  Es una forma extraordinaria de adquisición de la nacionalidad que no se sujeta a las normas generales del procedimiento administrativo. Es otorgada o no discrecionalmente por el Gobierno tras valorar la concurrencia de circunstancias excepcionales. Las Oficinas Consulares se limitan a remitir este tipo de solicitudes de nacionalidad al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, sin intervenir más en el procedimiento.
 
- Es una forma extraordinaria de adquisición de la nacionalidad que no se sujeta a las normas generales del procedimiento administrativo. Es otorgada o no discrecionalmente por el Gobierno tras valorar la concurrencia de circunstancias excepcionales. Las Oficinas Consulares se limitan a remitir este tipo de solicitudes de nacionalidad al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, sin intervenir más en el procedimiento.
+Todos los trámites en el Registro Civil son gratuitos.
 
- Todos los trámites en el Registro Civil son gratuitos.
-
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Informaci%C3%B3n%20general%20sobre%20nacionalidad%20espa%C3%B1ola)
+ [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Nacionalidad&scs=Informaci%C3%B3n%20general%20sobre%20nacionalidad%20espa%C3%B1ola)

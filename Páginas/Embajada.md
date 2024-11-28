@@ -1,15 +1,19 @@
-  Embajada: funciones e historia
+ 
+
+Embajada: funciones e historia
 ==============================
 
-    La Embajada de España en La Haya tiene las siguientes funciones:  
+  
+
+La Embajada de España en La Haya tiene las siguientes funciones:  
    
  **A) Ámbito Bilateral: aspectos generales**  
- 
+
 
 * Representación de España.
 * Protección de los intereses españoles y relación con la colectividad española residente en los Países Bajos.
 * Fomento de las relaciones bilaterales entre España y los Países Bajos e interlocución con sus autoridades.   
-Explicación y defensa de las posiciones y puntos de vista españoles en casos concretos ante las autoridades de los Países Bajos.
+  Explicación y defensa de las posiciones y puntos de vista españoles en casos concretos ante las autoridades de los Países Bajos.
 * Seguimiento de los asuntos políticos, económicos, sociales, culturales, de defensa y de cualquier otro tema de interés para España.
 * Información a las autoridades de España de los asuntos relevantes en todos los ámbitos.
 * Organización de visitas de autoridades españolas a los Países Bajos y apoyo para el desarrollo de las mismas.
@@ -21,7 +25,7 @@ Explicación y defensa de las posiciones y puntos de vista españoles en casos c
 Consejería de Información:  
 
 
- * Establecer relaciones con los medios de comunicación de este país e informar a los mismos sobre cuestiones que interesan a España.
+* Establecer relaciones con los medios de comunicación de este país e informar a los mismos sobre cuestiones que interesan a España.
 * Promoción y divulgación sobre España y, en especial, de las actividades del Gobierno y de su Presidente.
 * Organización de la cobertura informativa de las visitas de las Altas Autoridades españolas.
 * Apoyo a la prensa española acreditada en los Países Bajos, especialmente en las reuniones de Alto Nivel u otros acontecimientos de importancia.
@@ -30,14 +34,14 @@ Consejería de Información:
 Agregaduría de Interior:  
 
 
- * Relaciones con las autoridades de seguridad e interior de Países Bajos.
+* Relaciones con las autoridades de seguridad e interior de Países Bajos.
 * Información a los órganos superiores y directivos del Ministerio del Interior y al Centro Nacional de Coordinación Antiterrorista de España sobre las actividades en materia de lucha contra el terrorismo, el tráfico de drogas y demás expresiones de la criminalidad organizada.
 * Relaciones con EUROPOL: comisiones rogatorias internacionales, órdenes de detención, procedimientos de extradición y otras.
 
 Consejería de Asuntos Económicos y Comerciales:         
 
 
- * Análisis e informes globales y por sectores de la economía holandesa.
+* Análisis e informes globales y por sectores de la economía holandesa.
 * Información económica y comercial, a las autoridades y a las empresas de España.
 * Promoción comercial y de inversiones, y apoyo a las actividades empresariales, representando al ICEX.
 * Relaciones con las autoridades holandesas en esta materia.
@@ -45,7 +49,7 @@ Consejería de Asuntos Económicos y Comerciales:      
 Consejería de Educación:         
 
 
- * Asesoramiento y asistencia técnica en materia educativa.
+* Asesoramiento y asistencia técnica en materia educativa.
 * Promoción y gestión de las actividades en materia educativa que se desarrollen en el ámbito de la cooperación con los Países Bajos.
 * Promoción de las relaciones entre la comunidad educativa española y la del país.
 * Formación de profesorado.
@@ -53,17 +57,16 @@ Consejería de Educación:      
 Sección de Empleo y Seguridad Social:         
 
 
- * Atención a los españoles residentes en los Países Bajos y retornados: información sobre la legislación laboral, ayuda en la búsqueda de empleo, pensiones, protección de trabajadores, etc.
+* Atención a los españoles residentes en los Países Bajos y retornados: información sobre la legislación laboral, ayuda en la búsqueda de empleo, pensiones, protección de trabajadores, etc.
 * Atención a los extranjeros interesados en emigrar a España.
 
 Consejería de Turismo:         
 
 
- * Análisis e informes en materia de turismo.
+* Análisis e informes en materia de turismo.
 * Información a las autoridades y a las empresas de España sobre la política turística de los Países Bajos y de los intereses y preferencias de esta sociedad en esa materia.
 * Ejecución de actividades de promoción y de apoyo a la comercialización de los productos turísticos españoles, apoyando a las empresas españolas en sus relaciones y proyección con las empresas y consumidores holandeses.
 * Difusión y promoción de los productos turísticos españoles entre las empresas y consumidores holandeses.
-
 
 > **B) Unión Europea:**  
 >    
@@ -73,7 +76,7 @@ Consejería de Turismo:      
 >    
 > En La Haya tienen sede varias instituciones internacionales. La Embajada de España mantiene relaciones de distinto carácter con las mismas.  
 >    
-> 1\. Esta Embajada es la Representación Permanente de España ante la Organización para la Prohibición de las Armas Químicas (OPAQ), y tiene las siguientes funciones: 
+> 1. Esta Embajada es la Representación Permanente de España ante la Organización para la Prohibición de las Armas Químicas (OPAQ), y tiene las siguientes funciones:
 > 
 > * Defensa de la posición española en el Consejo Ejecutivo y la Conferencia de los Estados Parte.
 > * Contribución a la formación de las políticas de la Organización.
@@ -81,8 +84,8 @@ Consejería de Turismo:      
 > * Seguimiento de sus políticas y decisiones y preparación de informes al respecto que se envían a las autoridades competentes en España.
 > * Organización de las visitas oficiales a España de altos cargos de la Organización y de la participación de las autoridades españolas en las reuniones de la misma.
 > 
-> 2\. En La Haya tienen su sede asimismo diversos Tribunales internacionales:  
->  
+> 2. En La Haya tienen su sede asimismo diversos Tribunales internacionales:  
+> 
 > 
 > * El Tribunal Internacional de Justicia
 > * La Corte Penal Internacional,
@@ -91,15 +94,15 @@ Consejería de Turismo:      
 > * El Tribunal Permanente de Arbitraje.
 > 
 > Las funciones de esta Embajada en relación con los Tribunales son:  
->  
+> 
 > 
 > * Defensa de candidaturas españolas para cubrir vacantes de Jueces en los períodos de renovación y otros puestos de relevancia para España.
 > * Seguimiento de los casos que se dirimen ante estas jurisdicciones e información a las autoridades española que correspondan.
 > * Promoción de la presencia española en puestos clave en los Tribunales.
 > * Tramitación de documentos para garantizar que los Tribunales otorguen la debida protección a testigos (Tribunal Especial para el Líbano).
 > 
-> 3\. Otras Instituciones Internacionales con las que la Embajada mantiene contacto, no solo por los importantes temas de que se ocupan sino también por el gran número de funcionarios españoles que en ellas trabajan, son:  
->  
+> 3. Otras Instituciones Internacionales con las que la Embajada mantiene contacto, no solo por los importantes temas de que se ocupan sino también por el gran número de funcionarios españoles que en ellas trabajan, son:  
+> 
 > 
 > * Conferencia de Derecho Internacional Privado.
 > * Oficina Europea de Patentes.
@@ -107,4 +110,4 @@ Consejería de Turismo:      
 > * EUROPOL.
 > * EUROJUST.​
 
-   [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx)
+  [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx)
