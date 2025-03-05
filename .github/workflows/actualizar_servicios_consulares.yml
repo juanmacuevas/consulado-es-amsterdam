@@ -2,58 +2,57 @@ name: Actualizar Servicios Consulares
 
 on:
   schedule:
-    # Cron job para ejecutarse antes de las 2:00 cada lunes. La hora está en UTC.
-    # - cron: '43 1 * * 1'
-    # - cron: '10 8 * * *'
-  workflow_dispatch: # Permite la ejecución manual del workflow
+    # Runs Monday, Wednesday, and Friday evenings at 21:XX UTC (with randomness)
+    - cron: '17 21 * * 1'  # Monday at 21:17 UTC
+    - cron: '43 21 * * 3'  # Wednesday at 21:43 UTC
+    - cron: '29 21 * * 5'  # Friday at 21:29 UTC
+  workflow_dispatch: # Allows manual execution of the workflow
 
 jobs:
   actualizar-contenidos:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout del repositorio
+    - name: Checkout repository
       uses: actions/checkout@v3
       with:
         ref: develop 
 
-    - name: Configurar Git
+    - name: Configure Git
       run: |
         git config --local user.email "jumacuca@gmail.com"
         git config --local user.name "JuanMa Cuevas"
 
-    - name: Cache Python virtual environment
-      uses: actions/cache@v2
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10' 
+
+    - name: Cache dependencies
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip 
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.8' 
-
-    - name: Instalar dependencias
+    - name: Install dependencies
       run: |
-        python -m venv venv # Crea un entorno virtual
-        source venv/bin/activate # Activa el entorno virtual
-        pip install -r requirements.txt
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests beautifulsoup4 markdownify fake-useragent; fi
 
-    - name: Ejecutar script de scraping
-      run: |
-        source venv/bin/activate # Activa el entorno virtual
-        python consulate_content_scraper.py
+    - name: Run scraping script
+      run: python optimized_scraper.py
       
-      # python download-servicios-consulares.py
-
-    - name: Añadir cambios al staging
-      run: git add .
-
-    - name: Commit cambios
+    - name: Check for changes
+      id: git-check
       run: |
-        git commit -m "Cambio en contenidos" || echo "No changes to commit."
+        git status --porcelain
+        echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
 
-    - name: Push al origen
-      run: git push origin develop
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changes > 0
+      run: |
+        git add .
+        git commit -m "Auto-update: Servicios Consulares $(date +'%Y-%m-%d')"
+        git push origin develop
