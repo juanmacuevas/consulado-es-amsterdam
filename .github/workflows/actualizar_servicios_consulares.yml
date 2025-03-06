@@ -42,7 +42,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests beautifulsoup4 markdownify fake-useragent; fi
 
     - name: Run scraping script
-      run: python optimized_scraper.py
+      run: python download-servicios-consulares.py
       
     - name: Check for changes
       id: git-check
