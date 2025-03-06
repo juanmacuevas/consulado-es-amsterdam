@@ -1,0 +1,94 @@
+2025-03-06 00:13:45,305 - INFO - === Starting web scraper ===
+2025-03-06 00:13:45,305 - INFO - Testing with first page: Consul
+2025-03-06 00:13:45,305 - INFO - Processing: Páginas/Consul
+2025-03-06 00:13:49,094 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+2025-03-06 00:13:50,722 - INFO - Success: 39962 bytes received
+2025-03-06 00:13:50,743 - INFO - Found 1 'main' elements
+2025-03-06 00:13:50,750 - INFO - Saved: Páginas/Consul.md
+2025-03-06 00:13:50,750 - INFO - Processing page 2/2
+2025-03-06 00:13:50,750 - INFO - Processing: Páginas/Consulado
+2025-03-06 00:13:54,423 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+2025-03-06 00:13:56,114 - INFO - Success: 43591 bytes received
+2025-03-06 00:13:56,161 - INFO - Found 1 'main' elements
+2025-03-06 00:13:56,171 - INFO - Saved: Páginas/Consulado.md
+2025-03-06 00:14:00,023 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1
+2025-03-06 00:14:00,053 - INFO - Success: 90683 bytes received
+2025-03-06 00:14:00,080 - INFO - Found 91 service pages
+2025-03-06 00:14:00,080 - INFO - Processing service page 1/5
+2025-03-06 00:14:00,080 - INFO - Processing: Servicios Consulares/Certificados/Certificado de antecedentes penales
+2025-03-06 00:14:04,836 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+2025-03-06 00:14:04,867 - INFO - Success: 99499 bytes received
+2025-03-06 00:14:04,897 - INFO - Found 2 'main' elements
+2025-03-06 00:14:04,911 - INFO - Saved: Servicios Consulares/Certificados/Certificado de antecedentes penales.md
+2025-03-06 00:14:04,911 - INFO - Processing service page 2/5
+2025-03-06 00:14:04,911 - INFO - Processing: Servicios Consulares/Certificados/Certificado de baja consular
+2025-03-06 00:14:09,300 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+2025-03-06 00:14:11,070 - INFO - Success: 91066 bytes received
+2025-03-06 00:14:11,098 - INFO - Found 2 'main' elements
+2025-03-06 00:14:11,106 - INFO - Saved: Servicios Consulares/Certificados/Certificado de baja consular.md
+2025-03-06 00:14:11,106 - INFO - Processing service page 3/5
+2025-03-06 00:14:11,106 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial
+2025-03-06 00:14:15,237 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/343.0.695551749 Mobile/15E148 Safari/604.1
+2025-03-06 00:14:18,185 - INFO - Success: 91169 bytes received
+2025-03-06 00:14:18,212 - INFO - Found 2 'main' elements
+2025-03-06 00:14:18,220 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial.md
+2025-03-06 00:14:18,220 - INFO - Processing service page 4/5
+2025-03-06 00:14:18,220 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired
+2025-03-06 00:14:22,480 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial-Digired with User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+2025-03-06 00:14:24,241 - INFO - Success: 91494 bytes received
+2025-03-06 00:14:24,268 - INFO - Found 2 'main' elements
+2025-03-06 00:14:24,276 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired.md
+2025-03-06 00:14:24,276 - INFO - Processing service page 5/5
+2025-03-06 00:14:24,276 - INFO - Processing: Servicios Consulares/Certificados/Certificado de defunción
+2025-03-06 00:14:29,312 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial-Digired?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20defunci%C3%B3n with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/343.0.695551749 Mobile/15E148 Safari/604.1
+2025-03-06 00:14:31,254 - INFO - Success: 91583 bytes received
+2025-03-06 00:14:31,282 - INFO - Found 2 'main' elements
+2025-03-06 00:14:31,289 - INFO - Saved: Servicios Consulares/Certificados/Certificado de defunción.md
+2025-03-06 00:14:31,289 - INFO - === Web scraper completed ===
+2025-03-06 00:26:42,494 - INFO - === Starting web scraper ===
+2025-03-06 00:26:42,494 - INFO - Testing with first page: Consul
+2025-03-06 00:26:42,494 - INFO - Processing: Páginas/Consul
+2025-03-06 00:26:47,101 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2025-03-06 00:26:48,816 - INFO - Success: 39962 bytes received
+2025-03-06 00:26:48,836 - INFO - Found 1 'main' elements
+2025-03-06 00:26:48,843 - INFO - Saved: Páginas/Consul.md
+2025-03-06 00:26:48,843 - INFO - Processing page 2/2
+2025-03-06 00:26:48,843 - INFO - Processing: Páginas/Consulado
+2025-03-06 00:26:53,739 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/27.0 Chrome/125.0.0.0 Mobile Safari/537.36
+2025-03-06 00:26:55,425 - INFO - Success: 43591 bytes received
+2025-03-06 00:26:55,483 - INFO - Found 1 'main' elements
+2025-03-06 00:26:55,492 - INFO - Saved: Páginas/Consulado.md
+2025-03-06 00:27:00,500 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15
+2025-03-06 00:27:00,687 - INFO - Success: 90683 bytes received
+2025-03-06 00:27:00,714 - INFO - Found 91 service pages
+2025-03-06 00:27:00,714 - INFO - Processing service page 1/5
+2025-03-06 00:27:00,714 - INFO - Processing: Servicios Consulares/Certificados/Certificado de antecedentes penales
+2025-03-06 00:27:05,612 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+2025-03-06 00:27:05,640 - INFO - Success: 99499 bytes received
+2025-03-06 00:27:05,670 - INFO - Found 2 'main' elements
+2025-03-06 00:27:05,683 - INFO - Saved: Servicios Consulares/Certificados/Certificado de antecedentes penales.md
+2025-03-06 00:27:05,683 - INFO - Processing service page 2/5
+2025-03-06 00:27:05,683 - INFO - Processing: Servicios Consulares/Certificados/Certificado de baja consular
+2025-03-06 00:27:09,762 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+2025-03-06 00:27:09,790 - INFO - Success: 91066 bytes received
+2025-03-06 00:27:09,817 - INFO - Found 2 'main' elements
+2025-03-06 00:27:09,825 - INFO - Saved: Servicios Consulares/Certificados/Certificado de baja consular.md
+2025-03-06 00:27:09,825 - INFO - Processing service page 3/5
+2025-03-06 00:27:09,825 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial
+2025-03-06 00:27:13,653 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+2025-03-06 00:27:13,677 - INFO - Success: 91169 bytes received
+2025-03-06 00:27:13,704 - INFO - Found 2 'main' elements
+2025-03-06 00:27:13,712 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial.md
+2025-03-06 00:27:13,712 - INFO - Processing service page 4/5
+2025-03-06 00:27:13,712 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired
+2025-03-06 00:27:18,338 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial-Digired with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/343.0.695551749 Mobile/15E148 Safari/604.1
+2025-03-06 00:27:18,365 - INFO - Success: 91494 bytes received
+2025-03-06 00:27:18,393 - INFO - Found 2 'main' elements
+2025-03-06 00:27:18,400 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired.md
+2025-03-06 00:27:18,400 - INFO - Processing service page 5/5
+2025-03-06 00:27:18,400 - INFO - Processing: Servicios Consulares/Certificados/Certificado de defunción
+2025-03-06 00:27:22,404 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial-Digired?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20defunci%C3%B3n with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+2025-03-06 00:27:22,433 - INFO - Success: 91583 bytes received
+2025-03-06 00:27:22,460 - INFO - Found 2 'main' elements
+2025-03-06 00:27:22,468 - INFO - Saved: Servicios Consulares/Certificados/Certificado de defunción.md
+2025-03-06 00:27:22,468 - INFO - === Web scraper completed ===
