@@ -1,9 +1,5 @@
- 
-
 Educación y sanidad
 ===================
-
-  
 
 ​
 
@@ -25,4 +21,5 @@ Quienes dispongan de la obligatoria cobertura médica deben tener en cuenta que 
 * Número de teléfono para llamar a una AMBULACIA:  112
 * [Tarjeta Sanitaria Europea](http://www.seg-social.es/Internet_1/Trabajadores/PrestacionesPension10935/Asistenciasanitaria/DesplazamientosporE11566/TSE2/index.htm#128573)
 * [Prestaciones de la Seguridad Social en los Países Bajos](http://www.empleo.gob.es/es/mundo/consejerias/paisesBajos/pensiones/prestaciones.htm)
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx)
+
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx)

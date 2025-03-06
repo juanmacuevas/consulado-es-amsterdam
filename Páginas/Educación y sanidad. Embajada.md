@@ -1,9 +1,5 @@
- 
-
 Educación y Sanidad
 ===================
-
-  
 
 ​
 
@@ -26,4 +22,4 @@ Quienes dispongan de la obligatoria cobertura médica deben tener en cuenta que 
 
 Número de teléfono para llamar a una AMBULANCIA: 112.
 
-   [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx)
+[Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx)

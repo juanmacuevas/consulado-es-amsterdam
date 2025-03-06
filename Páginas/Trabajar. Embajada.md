@@ -1,9 +1,5 @@
- 
-
 Trabajar
 ========
-
-  
 
 ​
 
@@ -20,4 +16,5 @@ El Ministerio de Trabajo y Seguridad Social de los Países Bajos informa a los 
 * [Web Empleo Países Bajos](http://www.mitramiss.gob.es/es/mundo/consejerias/paisesBajos/webempleo/es/) (Ministerio de Trabajo, Asuntos Sociales y Migraciones y Seguridad Social de España)
 * [Portal de los jóvenes españoles en el exterior](http://www.cext.es/) (CEXT - Ciudadanía exterior)
 * [Oficina Comercial ICEX](https://www.icex.es/icex/es/navegacion-principal/todos-nuestros-servicios/informacion-de-mercados/paises/navegacion-superior/nuestras-oficinas/ofecomeslahaya.html?idPais=NL)
-  [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx)
+
+[Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx)

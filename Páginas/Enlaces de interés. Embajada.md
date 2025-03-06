@@ -1,9 +1,5 @@
- 
-
 Enlaces de interés
 ==================
-
-  
 
 ​
 
@@ -45,4 +41,5 @@ Enlaces de interés
 * [Boletín Oficial del Estado](http://www.boe.es/)
 * [Instituto Nacional de Estadísticas](http://www.ine.es/)
 * [Información turística sobre España](http://www.spain.info/es/)
-  [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx)
+
+[Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx)

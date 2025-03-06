@@ -1,12 +1,8 @@
-
-
 Direcciones y teléfonos
 =======================
 
 Embajada
 --------
-
- 
 
 ​Lange Voorhout, 50
 
@@ -18,28 +14,20 @@ Desde el extranjero: ​​0031 70 302 49 99​
 
 Fax: 070 361 79 59
 
-Correo electrónico: [emb.lahaya@maec.es](mailto:emb.lahaya@maec.es)   
-  
-
+Correo electrónico: [emb.lahaya@maec.es](mailto:emb.lahaya@maec.es)
 
 **Directorio**
 
-Embajadora: Dña. Consuelo Femenía Guardiola    
+Embajadora: Dña. Consuelo Femenía Guardiola  
 
-
-Ministro Consejero: D. Jorge Ávila Liceranzu​  
-
+Ministro Consejero: D. Jorge Ávila Liceranzu​
 
 Consejero: D. Joaquín Durán Garach
 
 Secretario de Embajada: D. Juan Almazán Fuentes​
 
- 
-
 Consejería de Educación. Sede Central
 -------------------------------------
-
- 
 
 ​Bld. Bisschoffsheim 39
 
@@ -55,12 +43,8 @@ Web: [Consejería de Educación en Bélgica, Países Bajos y Luxemburgo​](http
 
 Consejero de Educación: D. Pedro Martínez Ruano​
 
- 
-
 Consejería de Educación. ​Sede en Países Bajos
 ----------------------------------------------
-
- 
 
 **Asesoría​ Técnica**
 
@@ -84,8 +68,7 @@ Frederiksplein 34
 
 1017 XN Ámsterdam
 
-Tel: 0031 (0) 206 260 743  
-
+Tel: 0031 (0) 206 260 743
 
 Fax: 0031 (0) 206 260 739
 
@@ -93,12 +76,8 @@ Correo Electrónico: [alce.holanda@educacion.gob.es](mailto:alce.holanda@educaci
 
 Director: D. Javier Herreros Gil​
 
- 
-
 Consejería de Trabajo, Migraciones y Seguridad Social
 -----------------------------------------------------
-
- 
 
 ​**​Oficina en La Haya**
 
@@ -110,9 +89,7 @@ Tel: 0031 (0) 703 503 811
 
 Fax: 0031 (0) 703 268 440
 
-Correo electrónico: [paisesbajos.atpublico@mites.gob.es](mailto:paisesbajos.atpublico@mites.gob.es)   
-   
-
+Correo electrónico: [paisesbajos.atpublico@mites.gob.es](mailto:paisesbajos.atpublico@mites.gob.es)
 
 **Oficina en Ámsterdam**
 
@@ -120,27 +97,19 @@ Frederiksplein 34
 
 1017 XN Ámsterdam
 
-Tel: 0031(0) 206 207 126  
-
+Tel: 0031(0) 206 207 126
 
 Fax: 0031 (0) 703 268 440
 
-Correo Electrónico: [amsterdam@mites.gob.es](mailto:amsterdam@mites.gob.es) ​  
-   
-  
+Correo Electrónico: [amsterdam@mites.gob.es](mailto:amsterdam@mites.gob.es) ​
 
-
-**Enlaces web**  
-
+**Enlaces web**
 
 * [Oficina en Países Bajos de la Consejería de Trabajo, Migraciones y Seguridad Social en Bélgica](https://www.mites.gob.es/es/mundo/consejerias/paisesbajos/)
 * [Web Empleo Países Bajos](https://www.mites.gob.es/es/mundo/consejerias/paisesbajos/webempleo/es/)
- 
 
 Oficina de Comunicación
 -----------------------
-
- 
 
 ​Lange Voorhout, 50
 
@@ -152,15 +121,10 @@ Fax: 0031 (0) 703 106 124
 
 Correo electrónico: [lahaya@comunicacion.presidencia.gob.es](mailto:lahaya@comunicacion.presidencia.gob.es)
 
-Consejera​: Dª. Isabel Sánchez Miguel​  
-
-
- 
+Consejera​: Dª. Isabel Sánchez Miguel​
 
 Instituto Cervantes
 -------------------
-
- 
 
 ​Domplein 3
 
@@ -176,12 +140,8 @@ Web: [Instituto Cervantes Utrecht](https://utrecht.cervantes.es/nl/default.shtm)
 
 Directora: D. Alberto Gascón​
 
- 
-
 Oficina Económica y Comercial
 -----------------------------
-
- 
 
 ​Burgemeester Patijnlaan 67
 
@@ -199,12 +159,8 @@ Web: [Oficinas Comerciales en Países Bajos](https://www.icex.es/icex/es/navega
 
 [Vinos de España](http://www.vinos-de-espana.nl/)
 
- 
-
 Consejería de Turismo
 ---------------------
-
- 
 
 ​Laan van Meerdervoort 8ª
 
@@ -213,7 +169,7 @@ Consejería de Turismo
 Tel:
 
 > 0031 (0) 703 465 900
-> 
+>
 > 0031 (0) 703 465​ 901
 
 Fax: 0031 (0) 703 649 859
@@ -224,4 +180,4 @@ Web: [Consejería de Turismo](https://www.spain.info/es/)
 
 Consejera: D. Ignacio Valle Muñoz
 
-  [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx)
+[Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx)

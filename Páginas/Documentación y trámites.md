@@ -1,9 +1,5 @@
- 
-
 Documentación y trámites
 ========================
-
-  
 
 ​
 
@@ -12,4 +8,5 @@ Documentación y trámites
 Se recomienda que se consulte la publicación "Nuevo en Holanda" del Ministerio de Asuntos Sociales y Empleo, del Gobierno de los Países Bajos:
 
 * [Nuevo en Holanda](http://www.government.nl/documents-and-publications/publications/2014/03/07/brochure-new-in-the-netherlands-spaans.html)
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx)
+
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx)

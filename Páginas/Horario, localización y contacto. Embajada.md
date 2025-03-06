@@ -1,13 +1,10 @@
- 
-
 Horario, localización y contacto
 ================================
 
-  
 #### ​Teléfono de emergencia consular​
 
 > Uso exclusivo para emergencias cons​ulares:  
-> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, notariales, ni consultas sobre restricciones de viaje o información sobre la crisis de COVID-19.
+> Desde este teléfono no se atenderán llamadas relacionadas con trámites consulares o administrativos, visados, registro civil, o notariales​.
 
 > > Desde los Países Bajos: ​0 652 66 50 78  
 > > Desde el extranjero: 0031 652 66 50 78
@@ -33,8 +30,10 @@ Horario, localización y contacto
 
 #### ​Web y re​​des sociales
 
+> Bluesky: [@EmbPaises​Bajos.bsky.social](https://bsky.app/profile/embpaisesbajos.bsky.social)  
 > Twitter: [@EmbPaisesBajos](https://twitter.com/embpaisesbajos?lang=es)  
-> Youtube: [https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA​](https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA)
+> Youtube: [https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA​](https://youtube.com/channel/UCM5tRB59UYWMoEitGXOJqMA)  
+> Instagram (sección cultural y científica): [@spainculturenl](https://www.instagram.com/spainculturenl)
 
 #### ​Teléfono
 
@@ -42,21 +41,18 @@ Horario, localización y contacto
 > Desde el extranjero: 0031 70 302 49 99  
 > Fax: 070 361 79 59
 
-#### ​Calendario de festivos 2024
-
-
+#### ​Calendario de festivos 2025
 
 + 01 de enero / Año Nuevo​
-+ 02 de enero / Día siguiente a Año Nuevo
-+ 28 de marzo / Jueves Santo
-+ 29 de marzo / Viernes Santo
-+ 01 de abril / Lunes de Pascua
-+ 27 de abri​l / Día del Rey
++ 06 de enero / Epifanía
++ 17 de abril / Jueves Santo
++ 18 de abril/ Viernes Santo
++ 21 de abril / Lunes de Pascua
 + 01 de mayo / Día del Trabajo
-+ 09 de mayo /  Día de la Ascensión
-+ 20 de mayo / Lunes de Pentecostés
-+ 15 de agosto / Día de la Asunción
-+ 12 de octubre / Día Nacional de España
++ 05 de mayo / Día de la Liberación
++ 29 de mayo /  Día de la Ascensión
++ 09 de junio / Lunes de Pentecostés
++ 13 de octubre / Lunes siguiente a la Fiesta Nacional de España
 + 01de noviembre /Día de todos los Santos
 + 06 de diciembre / Día de la Constitución española
 + 25 de diciembre / Navidad
@@ -66,16 +62,12 @@ Horario, localización y contacto
 
 > ​​Tranvías y autobuses en la zona:  1, 15, 1​6, 22, 24, 28
 
-Desde la Estación Central:   
-
-
+Desde la Estación Central: 
 
 + A pie: menos de 15 minutos
 + Tranvías: 15 / 16
 
-Transportes en La Haya:   
-
-
+Transportes en La Haya: 
 
 + HTM [https://www.htm.nl/​](https://www.htm.nl/)
 + [Movilidad La Haya​](https://www.denhaag.nl/en/in-the-city/getting-there-and-around.htm) (Información sobre apps para transporte público, Park&Ride, bicicletas y otros servicios de interés)
@@ -85,19 +77,15 @@ Transportes en La Haya: 
 > Parking in the city: <https://www.denhaag.nl/en/parking.htm>  
 > Webs de aparcamientos más cercanos (Permite consultar precios, hacer reservas, etc.):
 
-
-
-
-
 - [Museumkwartier](https://www.interparking.nl/nl-NL/find-parking/Museumkwartier/)
 - [Noordeinde](https://www.q-park.nl/en-gb/parking/den-haag/noordeinde/)
 - [Plein​](https://www.pleindenhaag.nl/parkeren/)
 - [Malieveld​](https://www.q-park.nl/en-gb/parking/den-haag/malieveld/)
+
 #### ​ Mapa de localización
 
 Goo​gle maps: <https://goo.gl/maps/myUd1zTcj6ujNh6y6>[​](https://goo.gl/maps/myUd1zTcj6ujNh6y6)​
 
-[​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/20191111_Mapa_La_Haya_Embajada_red.png)​  
+[​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/20191111_Mapa_La_Haya_Embajada_red.png)​
 
-
-   [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx)
+[Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx)

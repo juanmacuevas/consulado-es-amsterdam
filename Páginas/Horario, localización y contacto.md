@@ -1,10 +1,7 @@
- 
-
 Horario, localización y contacto
 ================================
 
-  26 de abril de 2023    
-> 
+26 de abril de 2023
 
 ### **Horario de atención al público​:**
 
@@ -25,7 +22,7 @@ Horario, localización y contacto
 ### Teléfono​
 
 > ​DESDE PAISES BAJOS: 020 6203811
-> 
+>
 > DESDE ESPAÑA Y OTROS PAISES DEL EXTRANJERO: 0031 20 6203811
 
 ### Correos electrónicos institucionales:
@@ -45,13 +42,11 @@ Horario, localización y contacto
 * Desde Países Bajos: 0652 6​65078
 * Desde España y otros países del extranjero: 0031 652 665078
 
-**El teléfono de emergencias se destina exclusivamente para asuntos graves que afecten a españoles: accidentes, desapariciones y situaciones de necesidad** (estar en peligro de muerte, enfermedad grave, incapacidad física sobrevenida o atentado grave a las libertades). Nunca para consultas que puedan atenderse en las horas habituales de oficina. Para consultas deberá usted contactar con el numero general del Consulado 0031 020 620 3811 de lunes a viernes de 09.00 a 14.00h.  
-  
+**El teléfono de emergencias se destina exclusivamente para asuntos graves que afecten a españoles: accidentes, desapariciones y situaciones de necesidad** (estar en peligro de muerte, enfermedad grave, incapacidad física sobrevenida o atentado grave a las libertades). Nunca para consultas que puedan atenderse en las horas habituales de oficina. Para consultas deberá usted contactar con el numero general del Consulado 0031 020 620 3811 de lunes a viernes de 09.00 a 14.00h.
 
-​  
+​
 
-
-### Dentro del edificio del Consulado General se encuentran las siguientes Oficinas:​
+### Dentro del edificio del Consulado General se encuentran las siguientes Oficinas: ​
 
 > ### *Oficina de la Consejería de Trabajo, Migraciones y Seguridad Social en Amsterdam*​
 
@@ -66,6 +61,7 @@ Horario, localización y contacto
 **​​**
 > ### *Consejería de Educación*
 
+
 > > ​​​​Frederiksplein 34, 4ª planta, 1017XN Ámsterdam, Países Bajos
 
 > > ​​E-mail: [asesoriaholanda.nl@educacion.gob.e](mailto:asesoriaholanda.nl@educacion.gob.es)s
@@ -74,4 +70,4 @@ Horario, localización y contacto
 
 > #### ​
 
-   [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx)
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx)

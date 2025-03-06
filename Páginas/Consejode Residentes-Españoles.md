@@ -1,9 +1,7 @@
- 
-
 Consejo de Residentes Españoles
 ===============================
 
-  3 de octubre de 2022   
+3 de octubre de 2022
 
 ​
 
@@ -21,4 +19,5 @@ Lo componen los siguientes consejeros:
 * E-mail CRE en los Países Bajos: [info@crepaisesbajos.org](mailto:info@crepaisesbajos.org); crepaisesbajos@gmail.com
 * [Página web del CRE de Países Bajos](https://www.crepaisesbajos.org/)
 * [Portal de la Ciudadanía Española en el Exterior](http://www.ciudadaniaexterior.empleo.gob.es/es/index.htm)
-  [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx)
+
+[Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx)

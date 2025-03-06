@@ -1,15 +1,9 @@
- 
-
 Conoce España
 =============
 
-  
+​
 
-​  
-
-
-​Referente mundial en ámbitos diversos, España es uno de los principales destinos turísticos del mundo. En este sentido, cabe señalar que nuestro país es el segundo del mundo con más ciudades Patrimonio de la Humanidad, el tercero en número de espacios naturales declarados Reservas de la Biosfera o el que más playas azules posee de todo el hemisferio norte.  
-
+​Referente mundial en ámbitos diversos, España es uno de los principales destinos turísticos del mundo. En este sentido, cabe señalar que nuestro país es el segundo del mundo con más ciudades Patrimonio de la Humanidad, el tercero en número de espacios naturales declarados Reservas de la Biosfera o el que más playas azules posee de todo el hemisferio norte.
 
 España cuenta también con una excelente oferta académica, mediante una amplia red de universidades y algunas de las escuelas de negocios más prestigiosas del mundo. Además, nuestro país es el mayor receptor de estudiantes de intercambio dentro del programa Erasmus. Si tenemos también en cuenta que el español es la segunda lengua más hablada del mundo, España es un destino clave en cuanto a oferta educativa.
 
@@ -40,22 +34,17 @@ Los ciudadanos extranjeros que tengan la intención de realizar en España cualq
 * obtener la correspondiente autorización previa para residir y trabajar en España (autorización que deberá ser solicitada por el empleador que ofrezca el contrato de trabajo);
 * y obtener el visado una vez haya sido emitida la autorización de residencia y trabajo.
 
-Tras su llegada a España, los trabajadores extranjeros deberán causar alta en el Régimen de Seguridad Social correspondiente y solicitar la tarjeta de identidad de extranjero. Los ciudadanos de la Unión Europea y sus familiares, siempre que estos últimos viajen o se reúnan con dichos ciudadanos, están sometidos a un régimen jurídico específico en base a los derechos reconocidos por los Tratados.​  
-
+Tras su llegada a España, los trabajadores extranjeros deberán causar alta en el Régimen de Seguridad Social correspondiente y solicitar la tarjeta de identidad de extranjero. Los ciudadanos de la Unión Europea y sus familiares, siempre que estos últimos viajen o se reúnan con dichos ciudadanos, están sometidos a un régimen jurídico específico en base a los derechos reconocidos por los Tratados.​
 
 Viajar con animales de compañía a España​​
 ------------------------------------------
 
-El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con un apartado con información actualizada sobre “Viajar con animales de compañía". La información está disponible en castellano, inglés y francés en el siguiente enlace:  
+El Ministerio de Agricultura, Pesca y Alimentación cuenta en su página web con un apartado con información actualizada sobre “Viajar con animales de compañía". La información está disponible en castellano, inglés y francés en el siguiente enlace:
 
+[Ministerio de Agricultura, Pesca y Alimentación - Viajar con animales de compañía](https://www.mapa.gob.es/es/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx)
 
-[Ministerio de Agricultura, Pesca y Alimentación - Viajar con animales de compañía](https://www.mapa.gob.es/es/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx)  
+​En la citada página web se detallan los aeropuertos/puertos autorizados para la introducción de animales de compañía en España procedentes de países que no forman parte de la Unión Europea, así como los datos de contacto del Servicio de Sanidad Animal de los aeropuertos y puertos autorizados.
 
+También​ dispone de información sobre la introducción de mascotas en el territorio de la Unión Europea y sobre el control veterinario en frontera.​
 
-​En la citada página web se detallan los aeropuertos/puertos autorizados para la introducción de animales de compañía en España procedentes de países que no forman parte de la Unión Europea, así como los datos de contacto del Servicio de Sanidad Animal de los aeropuertos y puertos autorizados.  
-
-
-Tambiém dispone de información sobre la introducción de mascotas en el territorio de la Unión Europea y sobre el control veterinario en frontera.​  
-
-
-  [Enlace a la página original](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx)
+[Enlace a la página original](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx)
