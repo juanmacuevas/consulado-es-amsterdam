@@ -12,7 +12,7 @@ La [Consejería de Educación](http://www.mecd.gob.es/belgica/) de la Embajada d
 
 #### Sanidad
 
-Quienes se trasladen a los Países Bajos, por razón de turismo, viaje de negocios, asuntos particulares, o de búsqueda de empleo, es conveniente que lleven consigo la [Tarjeta Sanitaria Europea (TSE)](http://www.exteriores.gob.es/Embajadas/LAHAYA/es/COVID19/Paginas/20200415-InfoTSE.aspx), que expide la Seguridad Social de España. Con dicha tarjeta podrán ser atendidos en consultas médicas y hospitales, pagando las facturas correspondientes, que les serán reintegradas a su regreso a España. En caso de hospitalizaciones por enfermedades sobrevenidas durante el viaje, los titulares de la TSE pueden gestionar que la Seguridad Social de España se haga cargo del pago de los gastos de hospitalización de forma directa.
+Quienes se trasladen a los Países Bajos, por razón de turismo, viaje de negocios, asuntos particulares, o de búsqueda de empleo, es conveniente que lleven consigo la Tarjeta Sanitaria Euro​pea (TSE), que expide la Seguridad Social de España. Con dicha tarjeta podrán ser atendidos en consultas médicas y hospitales, pagando las facturas correspondientes, que les serán reintegradas a su regreso a España. En caso de hospitalizaciones por enfermedades sobrevenidas durante el viaje, los titulares de la TSE pueden gestionar que la Seguridad Social de España se haga cargo del pago de los gastos de hospitalización de forma directa.
 
 Si la estancia en el país se prolongara, deberá contratar un seguro médico. Existen diferentes mutuas de asistencia sanitaria. En la siguiente página web en holandés podrá comparar las diferentes ofertas: [http://www.kiesbeter.nl](http://www.kiesbeter.nl/)
 

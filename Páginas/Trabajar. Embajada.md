@@ -5,7 +5,7 @@ Trabajar
 
 #### Información relevante facilitada por el gobierno neerlandés
 
-El Ministerio de Trabajo y Seguridad Social de los Países Bajos informa a los ciudadanos de la UE sobre asuntos de relevancia a tener en cuenta para establecerse y trabajar en el país. ([Información en español](https://www.government.nl/documents/publications/2014/03/07/brochure-new-in-the-netherlands-spaans))
+El Gobierno de los Países Bajos informa a los ciudadanos que quieran vivir o trabajar en su país a través de la web [netherlandsworldwide.nl](https://www.netherlandsworldwide.nl/) sobre aspectos esenciales a la hora de instalarse en el país. ​
 
 ​
 
