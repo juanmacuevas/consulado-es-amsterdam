@@ -105,8 +105,7 @@ Correo Electrónico: [amsterdam@mites.gob.es](mailto:amsterdam@mites.gob.es) ​
 
 **Enlaces web**
 
-* [Oficina en Países Bajos de la Consejería de Trabajo, Migraciones y Seguridad Social en Bélgica](https://www.mites.gob.es/es/mundo/consejerias/paisesbajos/)
-* [Web Empleo Países Bajos](https://www.mites.gob.es/es/mundo/consejerias/paisesbajos/webempleo/es/)
+* ​[Oficina en Países Bajos de la Consejería de Trabajo, Migraciones y Seguridad Social en Bélgica, Países Bajos y Luxemburgo​](https://www.mites.gob.es/mundo/consejerias/belgica/PaisesBajos/es/index.html)
 
 Oficina de Comunicación
 -----------------------
