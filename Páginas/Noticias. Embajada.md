@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* CORTE INTERNACIONAL DE JUSTICIA
+
+  [España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250502_Not01_opinion_consultiva_obligacines_israel.aspx "España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos")
+
+  ​España interviene en la audiencia pública para la solicitud de opinión consultiva sobre el caso de las “Obligaciones de Israel en relación con la presencia ...
+
+  Hoy
+
+  ![España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos]()
 * REDES SOCIALES
 
   [La Embajada de España en los Países Bajos estrena cuenta en Bluesky](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250213_Not01_bluesky.aspx "La Embajada de España en los Países Bajos estrena cuenta en Bluesky")
@@ -82,14 +91,5 @@ Noticias de la embajada
   24 de octubre de 2022
 
   ![IV Mesa redonda Institutos Elcano y Clingendael]()
-* FIESTA NACIONAL
-
-  [Recepción por la Fiesta Nacional en la Residencia de la Embajada de España en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20221013Not01.aspx "Recepción por la Fiesta Nacional en la Residencia de la Embajada de España en La Haya")
-
-  ​​La Embajadora se refirió, en su discurso, al Duque de Baena, quien fuese embajador de España de 1957 a 1963 y que escribió en 1972 “El rompecabezas ...
-
-  14 de octubre de 2022
-
-  ![Recepción por la Fiesta Nacional en la Residencia de la Embajada de España en La Haya]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
