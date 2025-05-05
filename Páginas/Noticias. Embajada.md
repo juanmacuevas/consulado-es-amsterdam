@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​España interviene en la audiencia pública para la solicitud de opinión consultiva sobre el caso de las “Obligaciones de Israel en relación con la presencia ...
 
-  Hoy
+  2 de mayo de 2025
 
   ![España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos]()
 * REDES SOCIALES
