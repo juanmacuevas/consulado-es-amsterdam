@@ -37,9 +37,9 @@ Enlaces de interés
 * [Congreso de los Diputados](http://www.congreso.es/)
 * [Senado](http://www.senado.es/)
 * [Gobierno y Administración Central](http://www.lamoncloa.gob.es/)
-* [Embajada de los Países Bajos en España](http://espana.nlembajada.org/)
+* [Embajada de los Países Bajos en España](https://www.netherlandsandyou.nl/web/espana)
 * [Boletín Oficial del Estado](http://www.boe.es/)
 * [Instituto Nacional de Estadísticas](http://www.ine.es/)
-* [Información turística sobre España](http://www.spain.info/es/)
+* [Infor​mación turística sobre España](http://www.spain.info/)
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx)

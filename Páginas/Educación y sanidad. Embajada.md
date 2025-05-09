@@ -5,7 +5,7 @@ Educación y Sanidad
 
 #### ​Educación
 
-La [Consejería de Educación](http://www.mecd.gob.es/belgica/) de la Embajada de España en La Haya informa, entre otras cuestiones, de:
+La [Consejería de Educación](https://www.educacionfpydeportes.gob.es/paisesbajos/portada.html) de la Embajada de España en La Haya informa, entre otras cuestiones, de:
 
 * Estudiar en los Países Bajos y en España
 * Reconocimiento de títulos españoles en los Países Bajos y extranjeros en España
