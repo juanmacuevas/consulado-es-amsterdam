@@ -1,6 +1,24 @@
 Noticias de la embajada
 =======================
 
+* Equal Rights Coalition - IDAHOBIT 2025
+
+  [Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not02_Declaracion-conjunta-ERC.aspx "Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya")
+
+  10 Jefes de Misiones Diplomáticas en La Haya apoyan el Día Internacional contra la Homofobia, la Transfobia y la Bifobia el 17 de mayo, y reafirman su ...
+
+  17 de mayo de 2025
+
+  ![Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya]()
+* IDAHOBIT 2025
+
+  [Declaración institucional Día Internacional contra la LGTBIfobia](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not01_declaracion_institucional_dia_internacional_contra_LGTBIfobia.aspx "Declaración institucional Día Internacional contra la LGTBIfobia")
+
+  ​Desde el año 2004, el 17 de mayo se celebra el Día Internacional contra la LGTBIfobia, con el fin de visibilizar y poner de manifiesto las violaciones ...
+
+  17 de mayo de 2025
+
+  ![Declaración institucional Día Internacional contra la LGTBIfobia]()
 * CORTE INTERNACIONAL DE JUSTICIA
 
   [España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250502_Not01_opinion_consultiva_obligacines_israel.aspx "España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos")
@@ -77,19 +95,5 @@ Noticias de la embajada
   27 de febrero de 2023
 
   ![España formaliza contribuciones para el Fondo Fiduciario de la OPAQ]()
-* Visita Ministro
-
-  [Visita del ministro de Asuntos Exteriores, Unión Europea y Cooperación a Países Bajos.](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20221024_Not01.aspx "Visita del ministro de Asuntos Exteriores, Unión Europea y Cooperación a Países Bajos.")
-
-  25 de octubre de 2022
-
-  ![Visita del ministro de Asuntos Exteriores, Unión Europea y Cooperación a Países Bajos.]()
-* Encuentro Think Tanks
-
-  [IV Mesa redonda Institutos Elcano y Clingendael](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20221024_not02.aspx "IV Mesa redonda Institutos Elcano y Clingendael")
-
-  24 de octubre de 2022
-
-  ![IV Mesa redonda Institutos Elcano y Clingendael]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
