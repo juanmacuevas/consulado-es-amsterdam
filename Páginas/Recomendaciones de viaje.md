@@ -22,7 +22,7 @@ Recomendaciones vigentes
 
   
 
-Última actualización el 18 de enero de 2023
+Última actualización el 19 de mayo de 2025
 
 ### Notas importantes
 
