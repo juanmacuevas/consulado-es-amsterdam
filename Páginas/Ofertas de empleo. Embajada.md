@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-miércoles, 14 de mayo de 2025
+14 de mayo de 2025
 
 ### ​ CONVOCATORIA PARA EL INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAYA (PAÍSES BAJOS), CON LA CATEGORÍA ​​DE CHÓFER
 
