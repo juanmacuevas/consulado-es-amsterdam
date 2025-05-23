@@ -1,15 +1,24 @@
 Noticias de la embajada
 =======================
 
+* BIENAL DE ESCULTURA
+
+  [Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250521_Not01_Artzuid.aspx "Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025")
+
+  ​​ El espacio urbano de Ámsterdam se convierte en escenario de obras de más de 70 artistas que, junto a los trabajos de Plensa y Gabarrón, quieren ...
+
+  Ayer
+
+  ![Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025]()
 * Equal Rights Coalition - IDAHOBIT 2025
 
-  [Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not02_Declaracion-conjunta-ERC.aspx "Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya")
+  [Declaración conjunta de Diplomáticos por la Igualdad en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not02_Declaracion-conjunta-ERC.aspx "Declaración conjunta de Diplomáticos por la Igualdad en La Haya")
 
   10 Jefes de Misiones Diplomáticas en La Haya apoyan el Día Internacional contra la Homofobia, la Transfobia y la Bifobia el 17 de mayo, y reafirman su ...
 
   17 de mayo de 2025
 
-  ![Declaración Conjunta de los Diplomáticos por la Igualdad en La Haya]()
+  ![Declaración conjunta de Diplomáticos por la Igualdad en La Haya]()
 * IDAHOBIT 2025
 
   [Declaración institucional Día Internacional contra la LGTBIfobia](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not01_declaracion_institucional_dia_internacional_contra_LGTBIfobia.aspx "Declaración institucional Día Internacional contra la LGTBIfobia")
@@ -88,12 +97,5 @@ Noticias de la embajada
   6 de julio de 2023
 
   ![Acto inaugural de la presidencia española del Consejo de la UE en La Haya]()
-* OPAQ
-
-  [España formaliza contribuciones para el Fondo Fiduciario de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230227_Not01.aspx "España formaliza contribuciones para el Fondo Fiduciario de la OPAQ")
-
-  27 de febrero de 2023
-
-  ![España formaliza contribuciones para el Fondo Fiduciario de la OPAQ]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
