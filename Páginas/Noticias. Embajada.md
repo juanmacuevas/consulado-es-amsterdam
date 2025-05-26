@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​​ El espacio urbano de Ámsterdam se convierte en escenario de obras de más de 70 artistas que, junto a los trabajos de Plensa y Gabarrón, quieren ...
 
-  Ayer
+  22 de mayo de 2025
 
   ![Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025]()
 * Equal Rights Coalition - IDAHOBIT 2025
