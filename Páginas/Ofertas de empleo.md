@@ -1,13 +1,15 @@
 Ofertas de empleo
 =================
 
-14 de mayo de 2025
+Ayer
 
 #### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO COMO PERSONAL LABORAL FIJO EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
 ​
 
-> [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/BASE%20CONVOCATORIA.pdf)​
+> [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/BASE%20CONVOCATORIA.pdf)
+>
+> [RELACION PROVISIONAL ADMITIDOS Y EXCLUIDOS​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20250603_Relacion%20Provisional%20Admitidos%20Excluidos.pdf)​
 
 
 
