@@ -11,9 +11,11 @@ Ofertas de empleo
 
 ​​[![]()2025 05 ​15 Relación provisional de\_admitidos y excluidos para la participación en el proceso selectivo](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250515_Resolucion_admitidos_excluidos_convocatoria_chofer.pdf)
 
-[![]()2025 06 05 Resolucion definitiva de\_admitidos y excluidos para la participación en el proceso selectivo​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250605_Resolucion_definitiva_admitidos_proceso_chofer.pdf)
+[![]()2025 06 05 Resolución definitiva de\_admitidos y excluidos para la participación en el proceso selectivo​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250605_Resolucion_definitiva_admitidos_proceso_chofer.pdf)
 
-[![]()**2025 06 11 Resolucion calificaciones 1ª y 2ª prueba​**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250611_Resolucion_calificaciones_pruebas_chofer.pdf)  
+[![]()2025 06 11 Resolución calificaciones 1ª y 2ª prueba​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250611_Resolucion_calificaciones_pruebas_chofer.pdf)
+
+[![]()**2025 06 12 Resolución calificaciones 3ª prueba​**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250612_Resolucion_calificaciones_pruebas3_chofer.pdf)  
 
 ### CONVOCATORIA  PARA EL INGRESO COMO PERSONAL LABORAL FIJO EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM, CON LA CATEGORÍA DE AUXILIAR
 
