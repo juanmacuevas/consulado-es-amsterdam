@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-19 de junio de 2025
+Hoy
 
 #### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO COMO PERSONAL LABORAL FIJO EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
@@ -20,6 +20,10 @@ Ofertas de empleo
 > [RELACION APROBADOS TERCER EJERCICIO Y FASE OPOSICIÓN​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%203_Calificaci%C3%B3n.pdf)
 >
 > [CALIFICACIONES FINALES PROVISIONALES PROCESO SELECTIVO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones%20%20Provisional.pdf)
+>
+> [CALIFICACIONES FINALES DEFINITIVAS PROCESO SELECTIVO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones%20%20Provisional.pdf)
+>
+> [CALIFICACIONES FINALES DEFINITIVAS PROCESO SELECTIVO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones%20Definitiva.pdf)
 
 #### ​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE DOS PLAZAS PERSONAL LABORAL FIJO CON CATEGORÍA DE AUXILIAR EN LA OFICINA COMERCIAL Y ECONÓMICA DE ESPAÑA EN LA HAYA
 
