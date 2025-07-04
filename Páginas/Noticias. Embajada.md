@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* El español en organismos internacionales
+
+  [Se constituye en La Haya el Grupo de Amigos del Español](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250704_Not01_AEH.aspx "Se constituye en La Haya el Grupo de Amigos del Español")
+
+  ​Los embajadores de Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, República Dominicana, Ecuador, El Salvador, España, Guatemala, México, Panamá, ...
+
+  Hoy
+
+  ![Se constituye en La Haya el Grupo de Amigos del Español]()
 * BIENAL DE ESCULTURA
 
   [Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250521_Not01_Artzuid.aspx "Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025")
@@ -90,12 +99,5 @@ Noticias de la embajada
   16 de enero de 2024
 
   ![España formaliza un acuerdo con la CPI para el programa JPO]()
-* Presidencia Española de la UE
-
-  [Acto inaugural de la presidencia española del Consejo de la UE en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20230706_not01_presidenciaUEKloosterkerk.aspx "Acto inaugural de la presidencia española del Consejo de la UE en La Haya")
-
-  6 de julio de 2023
-
-  ![Acto inaugural de la presidencia española del Consejo de la UE en La Haya]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
