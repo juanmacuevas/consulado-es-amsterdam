@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​Los embajadores de Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, República Dominicana, Ecuador, El Salvador, España, Guatemala, México, Panamá, ...
 
-  Hoy
+  4 de julio de 2025
 
   ![Se constituye en La Haya el Grupo de Amigos del Español]()
 * BIENAL DE ESCULTURA
