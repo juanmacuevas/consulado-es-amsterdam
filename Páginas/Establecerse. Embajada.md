@@ -8,14 +8,16 @@ El Gobierno de los Países Bajos informa a los ciudadanos que quieran vivir o t
 
 El portal web informa sobre los pasos a seguir tras la llegada, como registro en el municipio, obtención de BSN y DigiD​ o escolarización, así como información variada sobre el sistema sanitario, importación de bienes, declaración de impuestos, o validación del permiso de conducción.
 
+Pasos a seguir al instalarse en los Países Bajos: [Checklist: moving to the Netherlands​](https://www.netherlandsworldwide.nl/checklist-relocating-netherlands-immigration)
+
 Establecerse: documentación y trámites (Servicios Consulares)
 -------------------------------------------------------------
 
 La Embajada de España en La Haya carece de sección consular.
 
-​​Para trámites consulares como​ Pasaportes y Visados, Registro de Matrícula Consular (inscripción como residente temporal o permanente en los Paí​ses Bajos), Certificados, Legalización de documentos o Notaría, entre otros, se deberá contactar con el **Consulado General en Ámsterdam**​.
+​​Para trámites consulares como Registro de Matrícula Consular (inscripción como residente temporal o permanente en los Paí​ses Bajos)​,​ Pasaportes y Visados, Certificados, Legalización de documentos o Notaría, entre otros, se deberá contactar con el Consulado General en Ámsterdam​.
 
-Más información sobre trámites e inscripción​ como residente en la web del Consulado General​:​ [**Servicios Consulares​**](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares)
+Más información sobre trámites, inscripción​ como residente y cita previa en la web del Consulado General​:​ [**Servicios Consulares**​](https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares) 
 
 **Situación de la vivienda en Países Bajos para estudiantes y trabajadores extranjeros​**
 
