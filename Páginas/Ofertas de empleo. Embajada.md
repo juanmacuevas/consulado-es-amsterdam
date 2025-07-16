@@ -1,9 +1,17 @@
 Ofertas de empleo
 =================
 
-20 de junio de 2025
+Hoy
 
-### ​ CONVOCATORIA PARA EL INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAYA (PAÍSES BAJOS), CON LA CATEGORÍA ​​DE CHÓFER
+### ​
+
+### CONVOCATORIA DE PROCESO SELECTIVO PARA LA ELABORACION DE UNA RELACION DE CANDIDATOS PARA LA CONTRATACION COMO PERSONAL LABORAL TEMPORAL EN REGIMEN DE INTERINIDAD POR SUSTITUCION CON LA CATEGORIA DE EMPLEADO/A DE SERVICIO.
+
+[![]()**Bases de la convocatoria**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Convocatoria%20temporal%20personal%20de%20servicio.pdf)
+
+> > > * [![]()**Anexo\_III: Formulario\_de\_Solicitud\_de\_participacion\_en\_la\_convocatoria**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Anexo_III_Formulario_Solicitud_Participacion_CONVOCATORIA.docx)
+
+### CONVOCATORIA PARA EL INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAYA (PAÍSES BAJOS), CON LA CATEGORÍA ​​DE CHÓFER
 
 ​[![]()2025 04 07 Bases de la Convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250407%20Convocatoria%20Personal%20Laboral%20-%20Ch%C3%B3fer.pdf)
 
@@ -15,12 +23,8 @@ Ofertas de empleo
 
 [![]()2025 06 12 Resolución calificaciones 3ª prueba​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250612_Resolucion_calificaciones_pruebas3_chofer.pdf)
 
-[![]()**2025 06 20 Valoración de méritos y puntuación total​**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250620_Valoracion_meritos_convocatoria_chofer.pdf)
+[![]()2025 06 20 Valoración de méritos y puntuación total​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250620_Valoracion_meritos_convocatoria_chofer.pdf)
 
-### CONVOCATORIA PARA CUBRIR UN PUESTO ICEX DE AUXILIAR ADMINISTRATIVO EN LA OFICINA ECONÓMICA Y COMERCIAL DE ESPAÑA EN LA HAYA
-
-[![]()Bases de la convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Bases_AA_LaHaya_OFC_02-2025.pdf)
-
-> > > > > * [![]()Anexo: Formulario de Solicitud](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Anexo_Solicitud_%20AA_La%20Haya_OFC_02-2025.docx)
+[![]()**2025 07 16 Valoración definitiva**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/VALORACI%C3%93N%20DEFINITIVA%20PROCESO%20SELECTIVO%20CONVOCATORIA%20PLAZA%20DE%20CHOFER.pdf)
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx)
