@@ -1,11 +1,13 @@
 Ofertas de empleo
 =================
 
-Hoy
+miércoles, 16 de julio de 2025
 
 ### ​
 
-### CONVOCATORIA DE PROCESO SELECTIVO PARA LA ELABORACION DE UNA RELACION DE CANDIDATOS PARA LA CONTRATACION COMO PERSONAL LABORAL TEMPORAL EN REGIMEN DE INTERINIDAD POR SUSTITUCION CON LA CATEGORIA DE EMPLEADO/A DE SERVICIO.
+### CONVOCATORIA DE PROCESO SELECTIVO PARA LA ELABORACIÓN DE UNA RELACIÓN DE CANDIDATOS PARA LA CONTRATACIÓN COMO PERSONAL LABORAL TEMPORAL EN RÉGIMEN DE INTERINIDAD POR SUSTITUCIÓN, CON LA CATEGORIA DE EMPLEADO/A DE SERVICIO.
+
+Convocatoria para seleccionar candidatos para contratos temporales como empleados de servicio, para cubrir sustituciones.
 
 [![]()**Bases de la convocatoria**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Convocatoria%20temporal%20personal%20de%20servicio.pdf)
 
