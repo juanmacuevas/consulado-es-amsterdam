@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-miércoles, 16 de julio de 2025
+16 de julio de 2025
 
 ### ​
 
