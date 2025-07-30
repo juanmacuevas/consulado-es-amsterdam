@@ -1,6 +1,17 @@
 Noticias de la embajada
 =======================
 
+* JUSTICIA INTERNACIONAL
+
+  [España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250730_Not01_Contribucion_Fondo_Fiduciario_Victimas_ICC_CPI.aspx "España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas")
+
+  ​ ​La contribución será destinada por el FFBV a apoyar
+  las reparaciones a ex niños y niñas soldados, víctimas en los casos
+  Lubanga y Ntaganda, condenados ...
+
+  Hoy
+
+  ![España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas]()
 * El español en organismos internacionales
 
   [Se constituye en La Haya el Grupo de Amigos del Español](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250704_Not01_AEH.aspx "Se constituye en La Haya el Grupo de Amigos del Español")
@@ -92,12 +103,5 @@ Noticias de la embajada
   20 de noviembre de 2024
 
   ![Celebración del I Congreso Científico Español-Neerlandés "La Ciencia como Puente"]()
-* [España formaliza un acuerdo con la CPI para el programa JPO](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20240116_NOT01.aspx "España formaliza un acuerdo con la CPI para el programa JPO")
-
-  ​
-
-  16 de enero de 2024
-
-  ![España formaliza un acuerdo con la CPI para el programa JPO]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
