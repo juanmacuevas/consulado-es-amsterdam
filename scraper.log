@@ -13700,3 +13700,13 @@
 2025-07-30 21:53:54,766 - INFO - Found 2 'main' elements
 2025-07-30 21:53:54,773 - INFO - Saved: Servicios Consulares/Certificados/Certificado de defunción.md
 2025-07-30 21:53:54,773 - INFO - === Web scraper completed ===
+2025-08-01 21:40:46,085 - INFO - === Starting web scraper ===
+2025-08-01 21:40:46,086 - INFO - Testing with first page: Consul
+2025-08-01 21:40:46,086 - INFO - Processing: Páginas/Consul
+2025-08-01 21:40:50,836 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15
+2025-08-01 21:40:51,521 - WARNING - HTTP 403: Retrying in 7.3s
+2025-08-01 21:41:03,031 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1
+2025-08-01 21:41:03,344 - WARNING - HTTP 403: Retrying in 5.8s
+2025-08-01 21:41:12,854 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1
+2025-08-01 21:41:13,295 - ERROR - Test page failed, aborting
+2025-08-01 21:41:13,295 - INFO - === Web scraper completed ===
