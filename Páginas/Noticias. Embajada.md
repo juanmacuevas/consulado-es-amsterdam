@@ -9,7 +9,7 @@ Noticias de la embajada
   las reparaciones a ex niños y niñas soldados, víctimas en los casos
   Lubanga y Ntaganda, condenados ...
 
-  Hoy
+  30 de julio de 2025
 
   ![España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas]()
 * El español en organismos internacionales
