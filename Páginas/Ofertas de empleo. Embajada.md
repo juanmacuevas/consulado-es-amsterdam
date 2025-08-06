@@ -11,7 +11,9 @@ Convocatoria para seleccionar candidatos para contratos temporales como empleado
 
 [![]()**Bases de la convocatoria**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Convocatoria%20temporal%20personal%20de%20servicio.pdf)
 
-> > > * [![]()**Anexo\_III: Formulario\_de\_Solicitud\_de\_participacion\_en\_la\_convocatoria**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Anexo_III_Formulario_Solicitud_Participacion_CONVOCATORIA.docx)
+> > > [![]()Anexo\_III: Formulario\_de\_Solicitud\_de\_participacion\_en\_la\_convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Anexo_III_Formulario_Solicitud_Participacion_CONVOCATORIA.docx)
+> > >
+> > > [![]()2025 08 06 Lista de aspirantes admitidos /excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/PublishingImages/Paginas/Ofertas-de-empleo/Lista%20de%20aspirantes%20admitidos%20_excluidos.pdf) 
 
 ### CONVOCATORIA PARA EL INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LA HAYA (PAÍSES BAJOS), CON LA CATEGORÍA ​​DE CHÓFER
 
@@ -27,6 +29,6 @@ Convocatoria para seleccionar candidatos para contratos temporales como empleado
 
 [![]()2025 06 20 Valoración de méritos y puntuación total​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250620_Valoracion_meritos_convocatoria_chofer.pdf)
 
-[![]()**2025 07 16 Valoración definitiva**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/VALORACI%C3%93N%20DEFINITIVA%20PROCESO%20SELECTIVO%20CONVOCATORIA%20PLAZA%20DE%20CHOFER.pdf)
+[![]()2025 07 16 Valoración definitiva](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/VALORACI%C3%93N%20DEFINITIVA%20PROCESO%20SELECTIVO%20CONVOCATORIA%20PLAZA%20DE%20CHOFER.pdf)
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx)
