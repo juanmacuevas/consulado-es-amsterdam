@@ -29,6 +29,8 @@ La comparecencia personal del interesado es obligatoria. Los documentos necesari
 
      El pago se acreditará en este caso a través del justificante de pago que proporcionará la entidad bancaria.
 
+**Para la tramitación de este procedimiento, es necesario concertar cita mediante la remisión del siguiente [correo electrónico](mailto:cog.amsterdam@maec.es?Subject=SOLICITUD CERTIFICADO ANTECEDENTES PENALES&Body=Por la presente, se solicita cita previa para solicitud de certificado de antecedentes penales en esa Oficina Consular.%0A %0APara ello, se adjunta copia de documento identificativo (NIF, NIE o pasaporte).%0A%0ASaludos cordiales,)**
+
 Una vez emitido el certificado por parte del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, la persona interesada recibirá un mensaje por SMS o por correo electrónico para que pueda descargar el certificado con Código Seguro de Verificación (CSV), cuya autenticidad podrá validarse a través de la sede electrónica del citado Ministerio. Se recomienda verificar la bandeja de correo no deseado o Spam.
 
 Solicitud del certificado a través de representante en España
@@ -39,7 +41,7 @@ La persona interesada podrá designar a un representante, que deberá acreditar 
 * Solicitud debidamente cumplimentada y firmada. En ella constarán tanto sus datos como los del representante, en quien delega la facultad de solicitar y obtener el certificado de antecedentes penales, además de la Gerencia Territorial elegida.  [Enlace solicitud pdf.](https://www.exteriores.gob.es/Documents/DocumentosSC/Certificados/Solicitud%20CAP.pdf)
 * DNI o pasaporte original, en vigor, de la persona interesada.
 
-En este caso, la fotocopia del DNI o pasaporte deberá ser compulsada pudiendo realizarse directamente en este Consulado General . La tasa Consular por la realización de una compulsa es de 3,20 €.
+**Para la tramitación de este procedimiento, es necesario concertar cita mediante la remisión del siguiente [correo electrónico](mailto:cog.amsterdam@maec.es?Subject=SOLICITUD CERTIFICADO ANTECEDENTES PENALES MEDIANTE REPRESENTANTE&Body=Por la presente, se solicita cita previa para solicitud de certificado de antecedentes penales en esa Oficina Consular.%0A %0APara ello, se adjunta copia de documento identificativo tanto del representante como del representado (NIF, NIE o pasaporte).%0A%0ASaludos cordiales,)**
 
 La persona autorizada deberá acreditar su identidad y presentar en la oficina elegida por la persona interesada el [Modelo 790-006](https://sede.mjusticia.gob.es/servidorformularios/formularios?idFormulario=790&lang=es_es&idtramite=1288774398320&idpagina=1215197884559), “Ejemplar para la Administración”, debidamente cumplimentado y firmado, junto al justificante de abono de la tasa. El certificado se entregará preferentemente en papel, salvo petición expresa de que se haga de otra forma.
 
