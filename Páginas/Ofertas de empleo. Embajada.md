@@ -17,6 +17,8 @@ Convocatoria para seleccionar candidatos para contratos temporales como empleado
 > > >
 > > > [![]()2025 09 02 Comunicación cambio composición Órgano de Selección](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250902_comunicacion_cambio_tribunal.pdf)  
 > > >   
-> > > [![]()**2025 09 05 Calificaciones prueba práctica**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250905_CALIFICACIONES_PRUEBA_PRACTICA.pdf)
+> > > [![]()2025 09 05 Calificaciones prueba práctica](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250905_CALIFICACIONES_PRUEBA_PRACTICA.pdf)  
+> > >   
+> > > [![]()**2025 09 09 Puntuación proceso selectivo**](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20250909_puntuaciones_proceso_selectivo_residencia.pdf)
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx)
