@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-martes, 2 de septiembre de 2025
+2 de septiembre de 2025
 
 ### ​
 
