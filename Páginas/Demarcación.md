@@ -1,7 +1,7 @@
 Demarcación
 ===========
 
-Hoy
+viernes, 12 de septiembre de 2025
 
 ​Además del Consulado General de España en Amsterdam, se dipone de Viceconsulados honorarios en las siguientes demarcaciones geográficas:
 

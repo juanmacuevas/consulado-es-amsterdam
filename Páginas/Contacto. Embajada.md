@@ -150,7 +150,7 @@ Tel: 0031 (0) 703 643 166
 
 Correo electrónico: [lahaya@comercio.mineco.es](mailto:lahaya@comercio.mineco.es)
 
-Consejero: D. Oscar Via Ozalla
+Consejero: D. Juan Antonio Varela Donoso​
 
 Web: [Oficinas Comerciales en Países Bajos](https://www.icex.es/icex/es/navegacion-principal/todos-nuestros-servicios/informacion-de-mercados/paises/navegacion-principal/portada/index.html?idPais=NL)
 
@@ -177,6 +177,6 @@ Correo electrónico: [lahaya@tourspain.es](mailto:lahaya@tourspain.es)
 
 Web: [Consejería de Turismo](https://www.spain.info/es/)
 
-Consejera: D. Ignacio Valle Muñoz
+Consejero: D. Félix de Paz García​
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx)
