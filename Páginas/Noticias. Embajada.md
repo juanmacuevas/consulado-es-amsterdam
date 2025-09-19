@@ -1,13 +1,20 @@
 Noticias de la embajada
 =======================
 
+* COOPERACIÓN Y DESARME
+
+  [España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/202509018_NOT01.aspx "España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas")
+
+  ​Hoy se ha firmado en la Sede de la OPAQ el acuerdo por el que se han transferido 75.000 euros al proyecto, que fortalecerá la colaboración y la preparación ...
+
+  Ayer
+
+  ![España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas]()
 * JUSTICIA INTERNACIONAL
 
   [España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250730_Not01_Contribucion_Fondo_Fiduciario_Victimas_ICC_CPI.aspx "España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas")
 
-  ​ ​La contribución será destinada por el FFBV a apoyar
-  las reparaciones a ex niños y niñas soldados, víctimas en los casos
-  Lubanga y Ntaganda, condenados ...
+  ​ ​La contribución será destinada por el FFBV a apoyar las reparaciones a ex niños y niñas soldados, víctimas en los casos Lubanga y Ntaganda, condenados ...
 
   30 de julio de 2025
 
@@ -96,12 +103,5 @@ Noticias de la embajada
   25 de noviembre de 2024
 
   ![Cuenta bancaria estatal para recibir donaciones para reconstrucción de los daños causados por la DANA]()
-* RELACIONES CIENTÍFICAS Y CULTURALES
-
-  [Celebración del I Congreso Científico Español-Neerlandés "La Ciencia como Puente"](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20241120_Congreso_CENL.aspx "Celebración del I Congreso Científico Español-Neerlandés ")
-
-  20 de noviembre de 2024
-
-  ![Celebración del I Congreso Científico Español-Neerlandés "La Ciencia como Puente"]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
