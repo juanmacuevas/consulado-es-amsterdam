@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​Hoy se ha firmado en la Sede de la OPAQ el acuerdo por el que se han transferido 75.000 euros al proyecto, que fortalecerá la colaboración y la preparación ...
 
-  Ayer
+  18 de septiembre de 2025
 
   ![España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas]()
 * JUSTICIA INTERNACIONAL
