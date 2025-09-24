@@ -1,9 +1,15 @@
 Ofertas de empleo
 =================
 
-miércoles, 17 de septiembre de 2025
+Hoy
 
-### ​CONVOCATORIA DE DOS PLAZAS PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN ÁMSTERDAM, CON LA CATEGORÍA DE AUXILIAR
+### ​CONVOCATORIA DE UNA PLAZA PARA INGRESO COMO PERSONAL LABORAL EN EL INSTITUTO CERVANTES DE UTRECHT CON LA CATEGORÍA DE AUXILIAR
+
+[Bases de la convocatoria](https://cervantes.sede.gob.es/procedimiento/portada?idProc=132071)
+
+### 
+
+### CONVOCATORIA DE DOS PLAZAS PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN ÁMSTERDAM, CON LA CATEGORÍA DE AUXILIAR
 
 [Bases de la convocatoria](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx)
 
