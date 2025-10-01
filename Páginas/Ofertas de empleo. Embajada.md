@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-miércoles, 24 de septiembre de 2025
+24 de septiembre de 2025
 
 ### ​CONVOCATORIA DE UNA PLAZA PARA INGRESO COMO PERSONAL LABORAL EN EL INSTITUTO CERVANTES DE UTRECHT CON LA CATEGORÍA DE AUXILIAR
 
