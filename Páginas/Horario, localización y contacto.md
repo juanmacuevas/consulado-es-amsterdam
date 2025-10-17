@@ -6,17 +6,19 @@ Horario, localización y contacto
 H​orario de atención al público​
 --------------------------------
 
-Lunes a viernes de 9:00 a 14​:00 horas.​
+​Lunes a viernes de 9:00 a 14​:00 horas.​
 
 Calendario Laboral 2025
 -----------------------
 
 ![]()
 
+> ​**Se informa que este Consulado General también permanecerá cerrado el 31 de diciembre del 202****5.​**
+
 Localización​​
 --------------
 
-Frederiksplein, 34. 1017 XN Ámsterdam. ​Puede consular su ubicación en el siguiente [enlace.](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609939243c57b:0x9840dc1cc72a3595?sa=X&ved=1t:8290&hl=es&ictx=111)
+Frederiksplein, 34. 1017 XN Ámsterdam. ​Puede consular su ubicación en el siguiente [enlace.](https://www.google.com/maps/place//data=%214m2%213m1%211s0x47c609939243c57b:0x9840dc1cc72a3595?sa=X&ved=1t:8290&hl=es&ictx=111)
 
 El Consulado General de España en Ámsterdam se encuentra situado en un extremo del parque denominado Frederiksplein, al lado del Banco Nacional de Países Bajos. 
 
@@ -57,7 +59,7 @@ Desde España y otros países del extranjero: 0031 652 66507
 
 > > > Tel:  020-262 04 83
 
-> > > Correo Electrónico: [amsterdam@mites.gob.es​](mailto:%20amsterdam@mites.gob.es%e2%80%8b)
+> > > Correo Electrónico: [amsterdam@mites.gob.es​](mailto:%20amsterdam@mites.gob.es%E2%80%8B)
 
 > > > ​Enlace web: ​<http://www.mites.gob.es/es/mundo/consejerias/paisesBajos/index.htm>
 
