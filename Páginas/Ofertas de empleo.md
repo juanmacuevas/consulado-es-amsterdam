@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-martes, 14 de octubre de 2025
+Ayer
 
 #### ​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE DOS PLAZAS DE PERSONAL LABORAL TEMPORAL EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
@@ -14,6 +14,8 @@ martes, 14 de octubre de 2025
 > [RELACION PROVISIONAL DE ADMITIDOS Y EXCLUIDOS ​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/RELACION%20PROVISIONAL%20ADMITIDOS%20EXCLUIDOS.pdf)​
 >
 > [RELACION DEFINITIVA DE ADMITIDOS Y EXCLUIDOS​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/RELACION%20DEFINITIVA%20ADMITIDOS%20EXCLUIDOS.pdf)
+>
+> [RELACION CANDIDATOS APROBADOS FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/RELACION%20APROBADOS%20OPOSICION.pdf)
 
 ​
 
@@ -27,7 +29,9 @@ martes, 14 de octubre de 2025
 >
 > [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/c36-auxi-pubp-01-25-bases.pdf)​​
 
-​​
+> [RELACION PROVISIONAL DE ADMITIDOS Y EXCLUIDOS](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/c36-auxi-pubp-01-25-rp-requisitos.pdf)
+
+​​​
 
 
 
