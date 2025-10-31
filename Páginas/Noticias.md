@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251029_NOT01.aspx "ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025")
+
+  29 de octubre de 2025
+
+  ![ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025]()
 * [Sistema de Registro Civil electrónico DICIREG](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20241202_NOT1.aspx "Sistema de Registro Civil electrónico DICIREG")
 
   2 de diciembre de 2024
@@ -80,10 +85,5 @@ Noticias del consulado
   11 de abril de 2022
 
   ![AVISO VIAJES REINO UNIDO]()
-* [AVISO EMPRESAS DE TRABAJO TEMPORAL](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20220411_NOT01-AVISO-EMPRESAS-DE-TRABAJO-TEMPORAL.aspx "AVISO EMPRESAS DE TRABAJO TEMPORAL")
-
-  8 de abril de 2022
-
-  ![AVISO EMPRESAS DE TRABAJO TEMPORAL]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
