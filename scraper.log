@@ -21478,3 +21478,13 @@
 2025-11-03 21:29:41,023 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 2025-11-03 21:29:41,306 - ERROR - Test page failed, aborting
 2025-11-03 21:29:41,306 - INFO - === Web scraper completed ===
+2025-11-05 21:46:46,433 - INFO - === Starting web scraper ===
+2025-11-05 21:46:46,433 - INFO - Testing with first page: Consul
+2025-11-05 21:46:46,433 - INFO - Processing: Páginas/Consul
+2025-11-05 21:46:50,211 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.1639.1109 Mobile Safari/537.36
+2025-11-05 21:46:50,628 - WARNING - HTTP 403: Retrying in 6.1s
+2025-11-05 21:47:00,827 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2025-11-05 21:47:01,134 - WARNING - HTTP 403: Retrying in 9.2s
+2025-11-05 21:47:15,265 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+2025-11-05 21:47:15,578 - ERROR - Test page failed, aborting
+2025-11-05 21:47:15,579 - INFO - === Web scraper completed ===
