@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* 50 Aniversario de la Transición Española
+
+  [Conferencia 50 Años de la Transición Española](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251113_Not01_Conferencia_Transicion_Clingendael.aspx "Conferencia 50 Años de la Transición Española")
+
+  ​ ​Con motivo de los 50 años del inicio de la Transición Española hacia la democracia, tuvo lugar en el Instituto de Relaciones internacionales Clingendael ...
+
+  13 de noviembre de 2025
+
+  ![Conferencia 50 Años de la Transición Española]()
 * COOPERACIÓN Y DESARME
 
   [España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/202509018_NOT01.aspx "España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas")
@@ -94,14 +103,5 @@ Noticias de la embajada
   13 de diciembre de 2024
 
   ![La Embajada de España en los Países Bajos celebra Sinterklaas con una obra de danza contemporánea]()
-* Cuenta del Tesoro Público
-
-  [Cuenta bancaria estatal para recibir donaciones para reconstrucción de los daños causados por la DANA](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20241126_Cuenta_tesorop%C3%BAblico_DANA.aspx "Cuenta bancaria estatal para recibir donaciones para reconstrucción de los daños causados por la DANA")
-
-  ​ En relación con la Disposición adicional del Real decreto Ley 7/2024 por el que se adoptan medidas de apoyo para la DANA, se crea una cuenta bancaria ...
-
-  25 de noviembre de 2024
-
-  ![Cuenta bancaria estatal para recibir donaciones para reconstrucción de los daños causados por la DANA]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
