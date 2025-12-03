@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* 50 aniversario Transición Española
+
+  [El EYE Filmmuseum de Ámsterdam, junto con la Embajada de España en los Países Bajos y con el apoyo del Ministerio de Política Territorial y Memoria Democrática de España, celebra el 50º aniversario de la Transición Española con un programa cinematográfico](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251201_Not1_EYE_Transicion.aspx "El EYE Filmmuseum de Ámsterdam, junto con la Embajada de España en los Países Bajos y con el apoyo del Ministerio de Política Territorial y Memoria Democrática de España, celebra el 50º aniversario de la Transición Española con un programa cinematográfico")
+
+  ​El EYE Filmmuseum de Ámsterdam conmemora el 50º aniversario de la Transición Española con una serie de cine organizada para coincidir con la visita de ...
+
+  1 de diciembre de 2025
+
+  ![El EYE Filmmuseum de Ámsterdam, junto con la Embajada de España en los Países Bajos y con el apoyo del Ministerio de Política Territorial y Memoria Democrática de España, celebra el 50º aniversario de la Transición Española con un programa cinematográfico]()
 * 50 Aniversario de la Transición Española
 
   [Conferencia 50 Años de la Transición Española](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251113_Not01_Conferencia_Transicion_Clingendael.aspx "Conferencia 50 Años de la Transición Española")
@@ -96,12 +105,5 @@ Noticias de la embajada
   5 de febrero de 2025
 
   ![España reafirma su compromiso con el fortalecimiento de la justicia internacional a través de contribuciones a los fondos de la Corte Penal Internacional]()
-* [La Embajada de España en los Países Bajos celebra Sinterklaas con una obra de danza contemporánea](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20241213_sinterklas_danza_embajada.aspx "La Embajada de España en los Países Bajos celebra Sinterklaas con una obra de danza contemporánea")
-
-  ​Las ganadoras del Premio del Público en el Concurso de Duetos de Rotterdam presentaron la pieza SOMOS.
-
-  13 de diciembre de 2024
-
-  ![La Embajada de España en los Países Bajos celebra Sinterklaas con una obra de danza contemporánea]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
