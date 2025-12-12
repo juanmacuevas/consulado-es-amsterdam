@@ -1,6 +1,13 @@
 Noticias de la embajada
 =======================
 
+* [España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251212_Not_01_Contribucion_voluntaria_OPAQ.aspx "España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ")
+
+  ​La Embajadora de España, Consuelo Femenía, ha formalizado hoy, mediante intercambio de cartas con el Director General de la OPAQ, Fernando Arias, la ...
+
+  Hoy
+
+  ![España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ]()
 * 50 aniversario Transición Española
 
   [El EYE Filmmuseum de Ámsterdam, junto con la Embajada de España en los Países Bajos y con el apoyo del Ministerio de Política Territorial y Memoria Democrática de España, celebra el 50º aniversario de la Transición Española con un programa cinematográfico](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251201_Not1_EYE_Transicion.aspx "El EYE Filmmuseum de Ámsterdam, junto con la Embajada de España en los Países Bajos y con el apoyo del Ministerio de Política Territorial y Memoria Democrática de España, celebra el 50º aniversario de la Transición Española con un programa cinematográfico")
@@ -96,14 +103,5 @@ Noticias de la embajada
   6 de febrero de 2025
 
   ![Contribuciones del Gobierno de España a Organismos Internacionales en La Haya para la Promoción del Español]()
-* Corte Penal Internacional
-
-  [España reafirma su compromiso con el fortalecimiento de la justicia internacional a través de contribuciones a los fondos de la Corte Penal Internacional](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250205_contribuciones_fondo_CPI.aspx "España reafirma su compromiso con el fortalecimiento de la justicia internacional a través de contribuciones a los fondos de la Corte Penal Internacional")
-
-  ​España mantiene un compromiso firme y continuo con la Corte Penal Internacional (CPI) desde su creación en 2002. Como uno de los países fundadores del ...
-
-  5 de febrero de 2025
-
-  ![España reafirma su compromiso con el fortalecimiento de la justicia internacional a través de contribuciones a los fondos de la Corte Penal Internacional]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
