@@ -5,7 +5,7 @@ Noticias de la embajada
 
   ​La Embajadora de España, Consuelo Femenía, ha formalizado hoy, mediante intercambio de cartas con el Director General de la OPAQ, Fernando Arias, la ...
 
-  Hoy
+  12 de diciembre de 2025
 
   ![España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ]()
 * 50 aniversario Transición Española
