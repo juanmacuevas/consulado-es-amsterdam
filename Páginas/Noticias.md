@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251218_NOT01.aspx "ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026")
+
+  Ayer
+
+  ![ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026]()
 * [ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251029_NOT01.aspx "ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025")
 
   29 de octubre de 2025
@@ -78,12 +83,5 @@ Noticias del consulado
   24 de agosto de 2022
 
   ![SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS]()
-* AVISO VIAJES REINO UNIDO
-
-  [AVISO VIAJES REINO UNIDO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20220411_-NOT-02AVISO-VIAJES-REINO-UNIDO.aspx "AVISO VIAJES REINO UNIDO")
-
-  11 de abril de 2022
-
-  ![AVISO VIAJES REINO UNIDO]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
