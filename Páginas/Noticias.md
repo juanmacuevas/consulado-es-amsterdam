@@ -3,7 +3,7 @@ Noticias del consulado
 
 * [ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251218_NOT01.aspx "ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026")
 
-  Ayer
+  18 de diciembre de 2025
 
   ![ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026]()
 * [ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251029_NOT01.aspx "ELECCIONES A LA ASAMBLEA DE EXTREMADURA DEL 21 DE DICIEMBRE DEL 2025")
