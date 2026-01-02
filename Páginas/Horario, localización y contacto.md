@@ -1,7 +1,7 @@
 Horario, localización y contacto
 ================================
 
-Hoy
+miércoles, 31 de diciembre de 2025
 
 H​orario de atención al público​
 --------------------------------
