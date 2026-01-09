@@ -41,22 +41,22 @@ Horario, localización y contacto
 > Desde el extranjero: 0031 70 302 49 99  
 > Fax: 070 361 79 59
 
-#### ​Calendario de festivos 2025
+#### ​Calendario de festivos 2026
 
 + 01 de enero / Año Nuevo​
 + 06 de enero / Epifanía
-+ 17 de abril / Jueves Santo
-+ 18 de abril/ Viernes Santo
-+ 21 de abril / Lunes de Pascua
++ 02 de abril / Jueves Santo
++ 03 de abril/ Viernes Santo
++ 06 de abril / Lunes de Pascua
++ 27 de abril / Día del Rey (Países Bajos)
 + 01 de mayo / Día del Trabajo
 + 05 de mayo / Día de la Liberación
-+ 29 de mayo /  Día de la Ascensión
-+ 09 de junio / Lunes de Pentecostés
-+ 13 de octubre / Lunes siguiente a la Fiesta Nacional de España
-+ 01de noviembre /Día de todos los Santos
-+ 06 de diciembre / Día de la Constitución española
++ 14 de mayo /  Día de la Ascensión
++ 25 de mayo / Lunes de Pentecostés
++ 12 de octubre / Fiesta Nacional de España
++ 02 de noviembre / Lunes siguiente al Día de todos los santos
++ 07 de diciembre / Lunes siguiente al Día de la Constitución española
 + 25 de diciembre / Navidad
-+ 26 de diciembre / Segundo día de Navidad
 
 #### ​Información transporte público
 
