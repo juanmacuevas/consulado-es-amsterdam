@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260115_NOT01.aspx "CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)")
+
+  Ayer
+
+  ![CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)]()
 * [ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251218_NOT01.aspx "ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026")
 
   18 de diciembre de 2025
@@ -76,12 +81,5 @@ Noticias del consulado
   7 de octubre de 2022
 
   ![REFORMA DEL VOTO DESDE EL EXTERIOR]()
-* VIVIENDAS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS
-
-  [SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/SITUACION-DE-LA-VIVIENDA-EN-PAISES-BAJOS-PARA-ESTUDIANTES-Y-TRABAJADORES-EXTRANJEROS0824-6416.aspx "SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS")
-
-  24 de agosto de 2022
-
-  ![SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)

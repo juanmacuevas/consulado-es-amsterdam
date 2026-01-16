@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* España en la OTAN
+
+  [La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260115-Not01.aspx "La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder")
+
+  ​​El relevo oficial del mando, que se asume por 4 meses, ha tenido lugar hoy en el puerto neerlandés de Den Helder. A bordo de la fragata española la ...
+
+  Ayer
+
+  ![La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder]()
 * [España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251212_Not_01_Contribucion_voluntaria_OPAQ.aspx "España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ")
 
   ​La Embajadora de España, Consuelo Femenía, ha formalizado hoy, mediante intercambio de cartas con el Director General de la OPAQ, Fernando Arias, la ...
@@ -96,12 +105,5 @@ Noticias de la embajada
   13 de febrero de 2025
 
   ![La Embajada de España en los Países Bajos estrena cuenta en Bluesky]()
-* Lengua española en Organizaciones Internacionales
-
-  [Contribuciones del Gobierno de España a Organismos Internacionales en La Haya para la Promoción del Español](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250205_contribuciones_promocion_espa%C3%B1ol.aspx "Contribuciones del Gobierno de España a Organismos Internacionales en La Haya para la Promoción del Español")
-
-  6 de febrero de 2025
-
-  ![Contribuciones del Gobierno de España a Organismos Internacionales en La Haya para la Promoción del Español]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
