@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​​El relevo oficial del mando, que se asume por 4 meses, ha tenido lugar hoy en el puerto neerlandés de Den Helder. A bordo de la fragata española la ...
 
-  Ayer
+  15 de enero de 2026
 
   ![La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder]()
 * [España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251212_Not_01_Contribucion_voluntaria_OPAQ.aspx "España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ")

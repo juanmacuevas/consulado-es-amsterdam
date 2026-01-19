@@ -3,7 +3,7 @@ Noticias del consulado
 
 * [CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260115_NOT01.aspx "CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)")
 
-  Ayer
+  15 de enero de 2026
 
   ![CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)]()
 * [ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20251218_NOT01.aspx "ELECCIONES A LAS CORTES DE ARAGÓN DEL 8 DE FEBRERO DE 2026")
