@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260122_NOT01.aspx "ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026")
+
+  Ayer
+
+  ![ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026]()
 * [CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260115_NOT01.aspx "CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)")
 
   15 de enero de 2026
@@ -74,12 +79,5 @@ Noticias del consulado
   7 de noviembre de 2022
 
   ![AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR]()
-* VOTO EXTERIOR
-
-  [REFORMA DEL VOTO DESDE EL EXTERIOR](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/REFORMA-DEL-VOTO-DESDE-EL-EXTERIOR.aspx "REFORMA DEL VOTO DESDE EL EXTERIOR")
-
-  7 de octubre de 2022
-
-  ![REFORMA DEL VOTO DESDE EL EXTERIOR]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
