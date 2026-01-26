@@ -3,7 +3,7 @@ Noticias del consulado
 
 * [ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260122_NOT01.aspx "ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026")
 
-  Ayer
+  22 de enero de 2026
 
   ![ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026]()
 * [CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260115_NOT01.aspx "CONVOCATORIA DE ELECCIONES AL CONSEJO DE RESIDENTES ESPAÑOLES (CRE)")
