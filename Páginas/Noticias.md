@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260326_NOT01.aspx "ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026")
+
+  25 de marzo de 2026
+
+  ![ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026]()
 * [ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260122_NOT01.aspx "ELECCIONES A LAS CORTES DE CASTILLA Y LEON DE 15 DE MARZO DE 2026")
 
   22 de enero de 2026
@@ -78,10 +83,5 @@ Noticias del consulado
   11 de abril de 2022
 
   ![AVISO VIAJES REINO UNIDO]()
-* [AVISO EMPRESAS DE TRABAJO TEMPORAL](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20220411_NOT01-AVISO-EMPRESAS-DE-TRABAJO-TEMPORAL.aspx "AVISO EMPRESAS DE TRABAJO TEMPORAL")
-
-  8 de abril de 2022
-
-  ![AVISO EMPRESAS DE TRABAJO TEMPORAL]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
