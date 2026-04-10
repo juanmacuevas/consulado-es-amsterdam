@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* EL ESPAÑOL EN LOS PAÍSES BAJOS
+
+  [Presentación de la Plataforma Spaans en la Embajada](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260409_Not01_plataforma_SPAANS.aspx "Presentación de la Plataforma Spaans en la Embajada")
+
+  ​Ayer tuvo lugar la presentación de Platform Spaans en la Embajada de España, en un encuentro que reunió a embajadores y representantes diplomáticos del ...
+
+  9 de abril de 2026
+
+  ![Presentación de la Plataforma Spaans en la Embajada]()
 * España en la OTAN
 
   [La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260115-Not01.aspx "La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder")
@@ -98,12 +107,5 @@ Noticias de la embajada
   2 de mayo de 2025
 
   ![España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos]()
-* REDES SOCIALES
-
-  [La Embajada de España en los Países Bajos estrena cuenta en Bluesky](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250213_Not01_bluesky.aspx "La Embajada de España en los Países Bajos estrena cuenta en Bluesky")
-
-  13 de febrero de 2025
-
-  ![La Embajada de España en los Países Bajos estrena cuenta en Bluesky]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
