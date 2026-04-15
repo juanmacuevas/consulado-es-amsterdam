@@ -1,6 +1,13 @@
 Noticias del consulado
 ======================
 
+* [ELECCIONES CRE 2026 - Actualización Proceso Electoral](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260415_NOT01.aspx "ELECCIONES CRE 2026 - Actualización Proceso Electoral")
+
+  ​
+
+  Hoy
+
+  ![ELECCIONES CRE 2026 - Actualización Proceso Electoral]()
 * [ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260326_NOT01.aspx "ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026")
 
   25 de marzo de 2026
@@ -76,12 +83,5 @@ Noticias del consulado
   24 de agosto de 2022
 
   ![SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS]()
-* AVISO VIAJES REINO UNIDO
-
-  [AVISO VIAJES REINO UNIDO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20220411_-NOT-02AVISO-VIAJES-REINO-UNIDO.aspx "AVISO VIAJES REINO UNIDO")
-
-  11 de abril de 2022
-
-  ![AVISO VIAJES REINO UNIDO]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
