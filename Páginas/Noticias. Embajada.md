@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* PAISES BAJOS Y LATINOAMÉRICA
+
+  [La embajadora acompaña el 40º aniversario del Programa de Estudios Latinoamericanos en la Universidad de Leiden](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260421_NOT01_40_aniversario_LAS.aspx "La embajadora acompaña el 40º aniversario del Programa de Estudios Latinoamericanos en la Universidad de Leiden")
+
+  Desde su fundación, el programa se ha consolidado como un centro multidisciplinar de referencia que aglutina tres institutos de investigación de la Universidad ...
+
+  21 de abril de 2026
+
+  ![La embajadora acompaña el 40º aniversario del Programa de Estudios Latinoamericanos en la Universidad de Leiden]()
 * EL ESPAÑOL EN LOS PAÍSES BAJOS
 
   [Presentación de la Plataforma Spaans en la Embajada](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260409_Not01_plataforma_SPAANS.aspx "Presentación de la Plataforma Spaans en la Embajada")
@@ -19,7 +28,9 @@ Noticias de la embajada
   15 de enero de 2026
 
   ![La fragata Almirante Juan de Borbón inicia hoy su despliegue como buque de mando de la Agrupación Naval Permanente Nº1 de la OTAN, SNMG-1, desde el puerto neerlandés de Den Helder]()
-* [España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251212_Not_01_Contribucion_voluntaria_OPAQ.aspx "España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ")
+* OPAQ
+
+  [España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20251212_Not_01_Contribucion_voluntaria_OPAQ.aspx "España formaliza una contribución de 350.000 euros al Fondo Fiduciario para Siria de la OPAQ")
 
   ​La Embajadora de España, Consuelo Femenía, ha formalizado hoy, mediante intercambio de cartas con el Director General de la OPAQ, Fernando Arias, la ...
 
@@ -98,14 +109,5 @@ Noticias de la embajada
   17 de mayo de 2025
 
   ![Declaración institucional Día Internacional contra la LGTBIfobia]()
-* CORTE INTERNACIONAL DE JUSTICIA
-
-  [España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250502_Not01_opinion_consultiva_obligacines_israel.aspx "España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos")
-
-  ​España interviene en la audiencia pública para la solicitud de opinión consultiva sobre el caso de las “Obligaciones de Israel en relación con la presencia ...
-
-  2 de mayo de 2025
-
-  ![España reafirma el derecho internacional humanitario aplicable en el caso de las obligaciones del estado de Israel en los territorios ocupados palestinos]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
