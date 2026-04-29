@@ -26,9 +26,7 @@ Recomendaciones vigentes
 
 ### Notas importantes
 
-**NO HAY RESTRICCIONES ESPECÍFICAS RELATIVAS A VIAJES A ESTE PAÍS**. Excepcionalmente, las personas procedentes de China y otros países están sujeto a algunas limitaciones relacionadas con la Covid-19. Se sugiere leer con atención el resto de estas recomendaciones de viaje.
-
-Normativa COVID consultar el apartado de Sanidad.
+**NO HAY RESTRICCIONES ESPECÍFICAS RELATIVAS A VIAJES A ESTE PAÍS**. Se sugiere leer con atención el resto de estas recomendaciones de viaje.
 
 ### Documentación y visados
 
@@ -86,22 +84,6 @@ Se debe tener en cuenta que la temporada de huracanes en la zona se extiende de 
 El nivel de criminalidad no es alto. Conviene, sin embargo, ser precavidos ante el peligro de pequeños hurtos y ante los delitos ligados al tráfico de drogas.
 
 ### Sanidad
-
-**COVID-19**
-
-**Situación covid y requisitos de entrada**
-
-Los Países Bajos sitúan todo el territorio español (Península, Canarias, Baleares, Ceuta y Melilla) en código verde.
-
-Desde  marzo de 2022 se ha cancelado el requisito del Certificado Digital Covid (DCC) para los viajeros procedentes tanto de países de la UE/Schengen como de países de fuera de la UE/Schengen que tengan las mismas medidas que la UE: no se pide ninguno de los certificados (resultado negativo de una prueba, certificado de superación de la enfermedad o certificado de vacunación).
-
-Algunos nacionales de terceros países siguen estando sujetos a limitaciones para la entrada en la UE, como es el caso de los viajeros procedentes de China, que deberán contar con un test pcr negativo.
-
-La [web del Gobierno de los Países Bajos](https://www.government.nl/topics/coronavirus-covid-19/visiting-the-netherlands-from-abroad) ofrece información exhaustiva sobre los requisitos de viaje. 
-
-Para más información sobre el nivel de alerta vigente para España, debe consultarse la web de información consular del [Ministerio de Asuntos Exteriores de los Países Bajos](https://www.nederlandwereldwijd.nl/landen/spanje/reizen/reisadvies).
-
-En el siguiente [enlace](https://coronadashboard.government.nl/) puede consultar la información oficial sobre la situación de la Covid-19 en Países Bajos.
 
 **Situación sanitaria**
 
