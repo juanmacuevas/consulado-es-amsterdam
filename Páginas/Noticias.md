@@ -5,7 +5,7 @@ Noticias del consulado
 
   ​
 
-  15 de abril de 2026
+  11 de mayo de 2026
 
   ![ELECCIONES CRE 2026 - Actualización Proceso Electoral]()
 * [ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260326_NOT01.aspx "ELECCIONES AL PARLAMENTO DE ANDALUCIA DE 17 DE MAYO DE 2026")

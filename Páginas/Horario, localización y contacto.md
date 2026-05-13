@@ -18,7 +18,7 @@ Calendario Laboral 2026
 Localización​​
 --------------
 
-> Frederiksplein, 34. 1017 XN Ámsterdam. ​Puede consular su ubicación en el siguiente [enlace.](https://www.google.com/maps/place//data=%214m2%213m1%211s0x47c609939243c57b:0x9840dc1cc72a3595?sa=X&ved=1t:8290&hl=es&ictx=111)
+> Frederiksplein, 34. 1017 XN Ámsterdam. ​Puede consular su ubicación en el siguiente [enlace.](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609939243c57b:0x9840dc1cc72a3595?sa=X&ved=1t:8290&hl=es&ictx=111)
 >
 > ​Se puede llegar en transporte público, con los tranvías números 1, 4, 7 y 19, en todos los casos con parada "Frederiksplein".
 >
@@ -56,7 +56,7 @@ Telé​​fono de emergencia Consular​
 
 > > > Tel:  020-262 04 83
 
-> > > Correo Electrónico: [amsterdam@mites.gob.es​](mailto:%20amsterdam@mites.gob.es%E2%80%8B)
+> > > Correo Electrónico: [amsterdam@mites.gob.es​](mailto:%20amsterdam@mites.gob.es%e2%80%8b)
 
 > > > ​Enlace web: ​<http://www.mites.gob.es/es/mundo/consejerias/paisesBajos/index.htm>
 
