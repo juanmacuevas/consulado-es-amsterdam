@@ -89,7 +89,7 @@ El nivel de criminalidad no es alto. Conviene, sin embargo, ser precavidos ante 
 
 En general, la situación sanitaria en Países Bajos es comparable a la de España. Las condiciones sanitarias del país son buenas. No obstante, debe tenerse en cuenta que el acceso a médicos especialistas y la prescripción de antibióticos están mucho más restringidos que en España. Se recomienda viajar con un seguro válido de atención médica.
 
-Para más información, se puede consultar la [página web de Sanidad Exterior](https://www.sanidad.gob.es/areas/sanidadExterior/laSaludTambienViaja/consejosSanitarios/home.htm)y la ficha país que aparece en la página [web de la Organización Mundial de la Salud](http://www.who.int/es).
+Para más información, se puede consultar la página web de [S​anidad Exterior​](https://www.sanidad.gob.es/areas/sanidadExterior/) y la ficha país que aparece en la página [web de la Organización Mundial de la Salud](http://www.who.int/es).
 
 Se recomienda a quienes se trasladen a los Países Bajos por razones turísticas, viaje de negocios, asuntos particulares o de búsqueda de empleo, que lleven consigo la Tarjeta Sanitaria Europea (TSE), que expide la Seguridad Social de España. Con dicha tarjeta podrán ser atendidos en consultas médicas y hospitales, pagando las facturas correspondientes, que les serán reintegradas a su regreso a España. En caso de hospitalizaciones por enfermedades sobrevenidas durante el viaje, el titular de una TSE puede gestionar que la Seguridad Social de España se haga cargo del pago de los gastos de hospitalización de forma directa.
 

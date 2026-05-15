@@ -18,15 +18,8 @@ Demarcación
 
 > **2. Viceconsulado Honorario en Maastricht  ​**
 
-> > ​​Vicecónsul Honorario: Sr. D. David Agüeria Corral
-> >
-> > Dirección: De Valkenberg 3a, 6301 PM Valkenburg
+> > ​​​
 
-> > Email: [ESconsul.limburg@agueria.nl](mailto:ESconsul.limburg@agueria.nl)
-
-> > Tel. 0031-628040915
-
-> > De lunes-viernes  : 10.00h-15.00h
 
 > **3. Viceconsulado Honorario de España en Eindhoven**
 
