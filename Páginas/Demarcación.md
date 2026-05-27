@@ -31,13 +31,13 @@ Demarcación
 
 > **4. ​Viceconsulado Honorario en Aruba**
 
-> > Vicecónsul Honoraria: Sra. Elizabeth Baarh​
+> > Vicecónsul Honoraria: Sr. Vladimir Solovey Gómez
 
-> > Cancillería: Italiëstraat 36 - Oranjestad – Aruba
+> > Cancillería: Fortheuvelstraat 45, Lago Height-S. Nicolas, Aruba
 
-> > Tfnos.:00297 523 33 24
+> > Tfnos.: 002975935434
 
-> > E-mail: [consuladoespana.aruba@hotmail.com](mailto:consuladoespana.aruba@hotmail.com)
+> > E-mail:  [viceco​nsul.h.es.aruba@gmail.com](mailto:viceconsul.h.es.aruba@gmail.com)​​
 
 > **5. ​Viceconsulado Honorario en Bonaire**
 
@@ -47,7 +47,7 @@ Demarcación
 
 > **6. Viceconsulado Honorario en Curaçao (Willemstad)**
 
-> > ​Vicecónsul Honorario: Sr. Omar van der Dijs
+> > ​Vicecónsul Honorario: Sr. Omar van der Dijs ​
 
 > > Cancillería: Dokweg Z/N, Curaçao
 
@@ -55,7 +55,8 @@ Demarcación
 >
 > > Fax: 5999 7371327
 >
-> > Correo Electrónico: [viceconsul-h-spain@licoresmaduro.com](mailto:viceconsul-h-spain@licoresmaduro.com)
+> > Correo Electrónico: [viceconsul-h-spain@licoresmaduro.com](mailto:viceconsul-h-spain@licoresmaduro.com)  
+> > ​
 
 > **7. Viceconsulado Honorario en Philipsburg (con jurisdicción en zona neerlandesa de San Martín, isla de Saba e Isla de San Eustaquio.**
 

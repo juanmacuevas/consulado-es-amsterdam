@@ -16,7 +16,7 @@ Horario, localización y contacto
 
 #### ​Horario de oficina
 
-> Cancillería: 09:00 a 17:00, de lunes a viernes
+> Cancillería: 09:00 a 16:30 (viernes hasta las 14:00)​
 
 #### ​Dirección
 
