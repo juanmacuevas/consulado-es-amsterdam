@@ -18,7 +18,7 @@ Correo electrónico: [emb.lahaya@maec.es](mailto:emb.lahaya@maec.es)
 
 **Directorio**
 
-Embajadora: Dña. Consuelo Femenía Guardiola  
+Embajadora: Dña. Cecilia Robles Cartes
 
 Ministro Consejero: D. Jorge Ávila Liceranzu​
 
