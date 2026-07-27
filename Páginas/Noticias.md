@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [NUEVA SEDE ELECTRONICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260727_NOT01.aspx "NUEVA SEDE ELECTRONICA")
+
+  Ayer
+
+  ![NUEVA SEDE ELECTRONICA]()
 * [ELECCIONES CRE 2026 - Actualización Proceso Electoral](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260415_NOT01.aspx "ELECCIONES CRE 2026 - Actualización Proceso Electoral")
 
   ​
@@ -76,12 +81,5 @@ Noticias del consulado
   7 de octubre de 2022
 
   ![REFORMA DEL VOTO DESDE EL EXTERIOR]()
-* VIVIENDAS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS
-
-  [SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/SITUACION-DE-LA-VIVIENDA-EN-PAISES-BAJOS-PARA-ESTUDIANTES-Y-TRABAJADORES-EXTRANJEROS0824-6416.aspx "SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS")
-
-  24 de agosto de 2022
-
-  ![SITUACION DE LA VIVIENDA EN PAISES BAJOS PARA ESTUDIANTES Y TRABAJADORES EXTRANJEROS]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
