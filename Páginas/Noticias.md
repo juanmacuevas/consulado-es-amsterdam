@@ -3,7 +3,7 @@ Noticias del consulado
 
 * [NUEVA SEDE ELECTRONICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260727_NOT01.aspx "NUEVA SEDE ELECTRONICA")
 
-  Ayer
+  27 de julio de 2026
 
   ![NUEVA SEDE ELECTRONICA]()
 * [ELECCIONES CRE 2026 - Actualización Proceso Electoral](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260415_NOT01.aspx "ELECCIONES CRE 2026 - Actualización Proceso Electoral")
