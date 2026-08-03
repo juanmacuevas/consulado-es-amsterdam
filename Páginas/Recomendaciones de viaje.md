@@ -299,7 +299,7 @@ Correo electrónico: [cog.amsterdam@maec.es](mailto:cog.amsterdam@maec.es)
 
 [Página web](https://www.exteriores.gob.es/Consulados/amsterdam/es/Paginas/index.aspx)
 
-**Consejería de Trabajo, Migraciones y Seguridad Social**
+**Trabajo, Migraciones y Seguridad Social**
 
 Oficina en La Haya:
 
@@ -335,9 +335,9 @@ Tel: 0031 (0)20 4236919
 
 Fax: 0031 (0)20 6277159
 
-Correo Electrónico: [asesoriaholanda.nl​@educacion.gob.es](mailto:asesoriaholanda.nl@educacion.gob.es)
+Correo Electrónico: [asesoriaholanda.nl​@educacion.gob.es](mailto:asesoriaholanda.nl@educacion.gob.es) 
 
-<https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx>
+[Página web](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx)
 
 **Oficina Económica y Comercial**
 
@@ -361,7 +361,7 @@ Prinses Beatrixplantsoen 28
 
 Tel: 0031 (0) 104 611 461
 
-Correo electrónico: ch@fambosch.com
+Correo electrónico: [ch@fambosch.com](mailto:ch@fambosch.com)
 
 **Viceconsulado Honorario en Maastricht**
 
@@ -373,7 +373,7 @@ De Valkenberg 3a
 
 Tel. 0031 (0) 628 040 915
 
-Correo electrónico:[esconsul.limburg@agueria.nl](mailto:esconsul.limburg@agueria.nl)
+Correo electrónico: [esconsul.limburg@agueria.nl](mailto:esconsul.limburg@agueria.nl)
 
 **Viceconsulado Honorario en Eindhoven**
 
@@ -393,7 +393,7 @@ Teléfonos: (+297) 523 3324 y (+297) 523 3100
 
 Fax: (+297) 583 0944
 
-Correo electrónico: [consuladoespana.aruba@hotmail.com](file://lahaya-em-s0/Publico/1.%20MAEC%20Y%20SERVICIO%20EXTERIOR/1.6.%20INFORMES%20PERI%C3%93DICOS%20A%20REMITIR%20AL%20MAEC/1.6.9.%20RECOMENDACIONES%20DE%20VIAJE/2022/08%20Agosto/consuladoespana.aruba@hotmail.com)
+Correo electrónico: [consuladoespana.aruba@hotmail.com](mailto:consuladoespana.aruba@hotmail.com)
 
 **Viceconsulado Honorario en Bonaire**
 
@@ -405,7 +405,7 @@ Teléfono: (+599) 717 5614
 
 Fax: (+599) 717 0169
 
-Correo electrónico: [conchitarends@gmail.com](file://lahaya-em-s0/Publico/1.%20MAEC%20Y%20SERVICIO%20EXTERIOR/1.6.%20INFORMES%20PERI%C3%93DICOS%20A%20REMITIR%20AL%20MAEC/1.6.9.%20RECOMENDACIONES%20DE%20VIAJE/2022/08%20Agosto/conchitarends@gmail.com)
+Correo electrónico: [conchitarends@gmail.com](mailto:conchitarends@gmail.com)
 
 **Consulado Honorario en Curaçao**
 
@@ -417,7 +417,7 @@ Teléfono: (+599) 973 76 255
 
 Fax: (+599) 973 71 327
 
-Correo electrónico: [viceconsul-h-spain@licoresmaduro.com](file://lahaya-em-s0/Publico/1.%20MAEC%20Y%20SERVICIO%20EXTERIOR/1.6.%20INFORMES%20PERI%C3%93DICOS%20A%20REMITIR%20AL%20MAEC/1.6.9.%20RECOMENDACIONES%20DE%20VIAJE/2022/08%20Agosto/viceconsul-h-spain@licoresmaduro.com)
+Correo electrónico: [viceconsul-h-spain@licoresmaduro.com​](mailto:viceconsul-h-spain@licoresmaduro.com)
 
 **Prefijo de las principales ciudades de los Países Bajos:**
 
