@@ -12,6 +12,12 @@ Hoy
 > [RELACION PROVISIONAL ADMITIDOS Y EXCLUIDOS ​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260813_Relacion%20Provisional%20Admitidos%20Excluidos.pdf)
 >
 > [RELACION DEFINITIVA ADM​ITIDOS Y EXCLUIDOS](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260821_RELACION_DEFINITIVA.pdf)
+>
+> [CALIFICACION EJERCICIO 1 FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_1_CALIFICACION_DEFINITIVA.pdf)
+>
+> [CALIFICACION EJERCICIO 2 FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_2_CALIFICACION.pdf)
+>
+> [CALIFICACION FASE OPOSICION Y PROVISIONAL CONCURSO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones_Provisionales_.pdf)
 
 ​
 
