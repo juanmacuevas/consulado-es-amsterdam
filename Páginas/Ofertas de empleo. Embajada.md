@@ -1,9 +1,15 @@
 Ofertas de empleo
 =================
 
-viernes, 28 de agosto de 2026
+Ayer
 
 ### 
+
+### 
+
+### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LOS PAISES BAJOS CON LA CATEGORIA DE EMPLEADO/A DE SERVICIO
+
+* ​02.09.2026 [​Bases de convocatoria​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/OfertasEmpleo/2026_Vacante%20empleado%20servicio%20residencia.pdf)​
 
 ### 
 

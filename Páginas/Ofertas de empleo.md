@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-viernes, 28 de agosto de 2026
+martes, 1 de septiembre de 2026
 
 #### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE ORDENANZA CHOFER
 
@@ -17,7 +17,9 @@ viernes, 28 de agosto de 2026
 >
 > [CALIFICACION EJERCICIO 2 FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_2_CALIFICACION.pdf)
 >
-> [CALIFICACION FASE OPOSICION Y PROVISIONAL CONCURSO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones_Provisionales_.pdf)
+> [CALIFICACION FASE OPOSICION Y PROVISIONAL CONCURSO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificaciones_Provisionales_.pdf)​​
+>
+> [CALIFICACION DEFINITIVA PROCESO SELECTIVO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260901_RELACION%20DEFINITIVA.pdf)​
 
 #### CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
