@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-miércoles, 2 de septiembre de 2026
+2 de septiembre de 2026
 
 ### 
 
