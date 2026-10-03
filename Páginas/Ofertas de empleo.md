@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-17 de septiembre de 2026
+miércoles, 30 de septiembre de 2026
 
 #### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
@@ -12,6 +12,8 @@ Ofertas de empleo
 > [ANEXO 3](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/ANEXO%203.pdf)
 >
 > [RELACION ADMITIDOS EXC​LUIDOS PROVISIONAL​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260917_Provisional_Admitidos_Excluidos_.pdf)
+>
+> [RELACION ADMITIDOS EXCLUIDOS DEFINITIVA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260929_RELACION_DEFINITIVA_ADMITIDO_EXCLUIDOS.pdf)
 >
 > ​
 
