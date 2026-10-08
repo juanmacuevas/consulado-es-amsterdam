@@ -1,6 +1,15 @@
 Noticias del consulado
 ======================
 
+* VOTO EXTERIOR
+
+  [Elecciones a las Cortes Generales de 29 de noviembre de 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx "Elecciones a las Cortes Generales de 29 de noviembre de 2026")
+
+  ​​El 29 de noviembre de 2026 se celebrarán elecciones al Congreso de los Diputados y al Senado.
+
+  6 de octubre de 2026
+
+  ![Elecciones a las Cortes Generales de 29 de noviembre de 2026]()
 * [NUEVA SEDE ELECTRONICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20260727_NOT01.aspx "NUEVA SEDE ELECTRONICA")
 
   27 de julio de 2026
@@ -74,12 +83,5 @@ Noticias del consulado
   7 de noviembre de 2022
 
   ![AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR]()
-* VOTO EXTERIOR
-
-  [REFORMA DEL VOTO DESDE EL EXTERIOR](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/REFORMA-DEL-VOTO-DESDE-EL-EXTERIOR.aspx "REFORMA DEL VOTO DESDE EL EXTERIOR")
-
-  7 de octubre de 2022
-
-  ![REFORMA DEL VOTO DESDE EL EXTERIOR]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
