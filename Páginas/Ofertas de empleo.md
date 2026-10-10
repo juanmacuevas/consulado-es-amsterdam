@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-Ayer
+jueves, 8 de octubre de 2026
 
 #### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
 
@@ -18,6 +18,12 @@ Ayer
 > [CALIFICACION FASE OPOSICION EJERCICIO 1](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%201_Calificaci%C3%B3n.pdf)
 >
 > [CALIFICACION FASE OPOSICION EJERCICIO 2​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%202_Calificaci%C3%B3n.pdf)
+>
+> [CALIFICACION FASE OPOSICION EJERCICIO 3​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_3_Calificaci%C3%B3n.pdf)
+>
+> [CALIFICACION PROVISIONAL FASE CONCURSO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Provisional_.pdf)
+>
+> ​
 >
 > ​
 
