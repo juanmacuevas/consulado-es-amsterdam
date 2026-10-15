@@ -19,12 +19,9 @@ Ofertas de empleo
 * 23-09-2026 [![]()Relación definitiva de candidatos admitidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/S2026235_Relacion_definitiva_candidatos_admitidos_excluidos_empleado_servicio.pdf)
 * 30-09-2026 [![]()Resultado pruebas primera fase](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20260930_resultado_parcial_pruebas_selectivas_empleado_servicio.pdf)
 * 02-10-2026 [![]()Resultado pruebas ​segunda fase](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261001%20Resultado%20parcial%20pruebas%20selectivas%20empleado%20de%20servicio.pdf)
-* 02-10-2026 [![]()Acta final provisional del Tribunal de selección para la cobertura de una plaza de personal contratado laboral con la categoría de empleado/a de servicio](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002%20Acta%20final%20provisional%20empleado%20de%20servicio.pdf)​
+* 02-10-2026 [![]()Acta final provisional del Tribunal de selección para la cobertura de una plaza de personal contratado laboral con la categoría de empleado/a de servicio](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002%20Acta%20final%20provisional%20empleado%20de%20servicio.pdf)
+* 14-10-2026 [![]()Acta final ​de la convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Acta%20final%20empleado%20de%20servicio.pdf)
 
-### 
-
-### CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR​
-
-[![]()Bases de la co​nvocatoria](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx)
+### ​
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx)

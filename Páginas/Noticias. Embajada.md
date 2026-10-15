@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* EXPOSICIÓN
+
+  [Maestros neerlandeses del siglo XVII en Madrid](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261014_not1_Thysen-Madrid.aspx "Maestros neerlandeses del siglo XVII en Madrid")
+
+  ​El pasado 8 de octubre tuvo lugar la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en el Museo Nacional Thyssen-Bornemisza de Madrid. ...
+
+  Ayer
+
+  ![Maestros neerlandeses del siglo XVII en Madrid]()
 * PAISES BAJOS Y LATINOAMÉRICA
 
   [La embajadora acompaña el 40º aniversario del Programa de Estudios Latinoamericanos en la Universidad de Leiden](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20260421_NOT01_40_aniversario_LAS.aspx "La embajadora acompaña el 40º aniversario del Programa de Estudios Latinoamericanos en la Universidad de Leiden")
@@ -100,14 +109,5 @@ Noticias de la embajada
   17 de mayo de 2025
 
   ![Declaración conjunta de Diplomáticos por la Igualdad en La Haya]()
-* IDAHOBIT 2025
-
-  [Declaración institucional Día Internacional contra la LGTBIfobia](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not01_declaracion_institucional_dia_internacional_contra_LGTBIfobia.aspx "Declaración institucional Día Internacional contra la LGTBIfobia")
-
-  ​Desde el año 2004, el 17 de mayo se celebra el Día Internacional contra la LGTBIfobia, con el fin de visibilizar y poner de manifiesto las violaciones ...
-
-  17 de mayo de 2025
-
-  ![Declaración institucional Día Internacional contra la LGTBIfobia]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)

@@ -49961,3 +49961,219 @@
 2026-10-13 02:38:15,491 - INFO - Found 2 'main' elements
 2026-10-13 02:38:15,496 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired.md
 2026-10-13 02:38:15,496 - INFO - === Web scraper completed ===
+2026-10-15 00:05:07,994 - INFO - === Starting web scraper ===
+2026-10-15 00:05:07,994 - INFO - Testing with first page: Consul
+2026-10-15 00:05:07,994 - INFO - Processing: Páginas/Consul
+2026-10-15 00:05:12,183 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2026-10-15 00:05:14,324 - INFO - Success: 39958 bytes received
+2026-10-15 00:05:14,340 - INFO - Found 1 'main' elements
+2026-10-15 00:05:14,345 - INFO - Saved: Páginas/Consul.md
+2026-10-15 00:05:14,345 - INFO - Processing page 2/29
+2026-10-15 00:05:14,345 - INFO - Processing: Páginas/Consulado
+2026-10-15 00:05:18,848 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consulado.aspx with User-Agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.4580.1463 Mobile Safari/537.36
+2026-10-15 00:05:20,965 - INFO - Success: 43597 bytes received
+2026-10-15 00:05:20,978 - INFO - Found 1 'main' elements
+2026-10-15 00:05:20,983 - INFO - Saved: Páginas/Consulado.md
+2026-10-15 00:05:20,983 - INFO - Processing page 3/29
+2026-10-15 00:05:20,983 - INFO - Processing: Páginas/Demarcación
+2026-10-15 00:05:25,736 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Demarcaci%c3%b3n.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2026-10-15 00:05:27,257 - INFO - Success: 43491 bytes received
+2026-10-15 00:05:27,271 - INFO - Found 1 'main' elements
+2026-10-15 00:05:27,280 - INFO - Saved: Páginas/Demarcación.md
+2026-10-15 00:05:27,280 - INFO - Processing page 4/29
+2026-10-15 00:05:27,280 - INFO - Processing: Páginas/Horario, localización y contacto
+2026-10-15 00:05:31,030 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/129.0.6668.69 Mobile/15E148 Safari/604.1
+2026-10-15 00:05:32,524 - INFO - Success: 46482 bytes received
+2026-10-15 00:05:32,561 - INFO - Found 1 'main' elements
+2026-10-15 00:05:32,573 - INFO - Saved: Páginas/Horario, localización y contacto.md
+2026-10-15 00:05:32,573 - INFO - Processing page 5/29
+2026-10-15 00:05:32,573 - INFO - Processing: Páginas/Ofertas de empleo
+2026-10-15 00:05:37,552 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36
+2026-10-15 00:05:37,574 - WARNING - Request error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 10.0s
+2026-10-15 00:05:52,326 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Ofertas-de-empleo.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:05:54,570 - INFO - Success: 42864 bytes received
+2026-10-15 00:05:54,583 - INFO - Found 1 'main' elements
+2026-10-15 00:05:54,590 - INFO - Saved: Páginas/Ofertas de empleo.md
+2026-10-15 00:05:54,590 - INFO - Processing page 6/29
+2026-10-15 00:05:54,590 - INFO - Processing: Páginas/Tasas consulares 2023
+2026-10-15 00:05:58,745 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:05:59,033 - ERROR - Page not found: https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/TASAS-CONSULARES-2023.aspx
+2026-10-15 00:05:59,033 - INFO - Processing page 7/29
+2026-10-15 00:05:59,033 - INFO - Processing: Páginas/Establecerse
+2026-10-15 00:06:03,050 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Establecerse.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1
+2026-10-15 00:06:04,685 - INFO - Success: 41802 bytes received
+2026-10-15 00:06:04,697 - INFO - Found 1 'main' elements
+2026-10-15 00:06:04,702 - INFO - Saved: Páginas/Establecerse.md
+2026-10-15 00:06:04,702 - INFO - Processing page 8/29
+2026-10-15 00:06:04,702 - INFO - Processing: Páginas/Trabajar
+2026-10-15 00:06:09,491 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Trabajar.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+2026-10-15 00:06:10,516 - INFO - Success: 41154 bytes received
+2026-10-15 00:06:10,528 - INFO - Found 1 'main' elements
+2026-10-15 00:06:10,533 - INFO - Saved: Páginas/Trabajar.md
+2026-10-15 00:06:10,533 - INFO - Processing page 9/29
+2026-10-15 00:06:10,533 - INFO - Processing: Páginas/Educación y sanidad
+2026-10-15 00:06:14,371 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Educaci%c3%b3n-y-sanidad.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+2026-10-15 00:06:15,500 - INFO - Success: 42801 bytes received
+2026-10-15 00:06:15,512 - INFO - Found 1 'main' elements
+2026-10-15 00:06:15,517 - INFO - Saved: Páginas/Educación y sanidad.md
+2026-10-15 00:06:15,517 - INFO - Processing page 10/29
+2026-10-15 00:06:15,517 - INFO - Processing: Páginas/Enlaces de interés
+2026-10-15 00:06:20,121 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2026-10-15 00:06:21,182 - INFO - Success: 42071 bytes received
+2026-10-15 00:06:21,195 - INFO - Found 1 'main' elements
+2026-10-15 00:06:21,199 - INFO - Saved: Páginas/Enlaces de interés.md
+2026-10-15 00:06:21,199 - INFO - Processing page 11/29
+2026-10-15 00:06:21,199 - INFO - Processing: Páginas/Seguridad y otros aspectos
+2026-10-15 00:06:24,957 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Seguridad-y-otros-aspectos.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+2026-10-15 00:06:26,222 - INFO - Success: 42215 bytes received
+2026-10-15 00:06:26,242 - INFO - Found 1 'main' elements
+2026-10-15 00:06:26,247 - INFO - Saved: Páginas/Seguridad y otros aspectos.md
+2026-10-15 00:06:26,247 - INFO - Processing page 12/29
+2026-10-15 00:06:26,247 - INFO - Processing: Páginas/Consejode Residentes-Españoles
+2026-10-15 00:06:29,823 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Consejo-de-Residentes-Espa%c3%b1oles.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+2026-10-15 00:06:30,846 - INFO - Success: 41117 bytes received
+2026-10-15 00:06:30,858 - INFO - Found 1 'main' elements
+2026-10-15 00:06:30,863 - INFO - Saved: Páginas/Consejode Residentes-Españoles.md
+2026-10-15 00:06:30,863 - INFO - Processing page 13/29
+2026-10-15 00:06:30,863 - INFO - Processing: Páginas/Documentación y trámites
+2026-10-15 00:06:35,728 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+2026-10-15 00:06:35,866 - WARNING - Request error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 7.6s
+2026-10-15 00:06:48,099 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+2026-10-15 00:06:49,568 - INFO - Success: 40626 bytes received
+2026-10-15 00:06:49,582 - INFO - Found 1 'main' elements
+2026-10-15 00:06:49,586 - INFO - Saved: Páginas/Documentación y trámites.md
+2026-10-15 00:06:49,587 - INFO - Processing page 14/29
+2026-10-15 00:06:49,587 - INFO - Processing: Páginas/Conoce Espana
+2026-10-15 00:06:53,637 - INFO - Requesting https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Conoce-Espana.aspx with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15
+2026-10-15 00:06:56,029 - INFO - Success: 50911 bytes received
+2026-10-15 00:06:56,044 - INFO - Found 1 'main' elements
+2026-10-15 00:06:56,051 - INFO - Saved: Páginas/Conoce Espana.md
+2026-10-15 00:06:56,051 - INFO - Processing page 15/29
+2026-10-15 00:06:56,051 - INFO - Processing: Páginas/Recomendaciones de viaje
+2026-10-15 00:06:59,746 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:01,599 - INFO - Success: 87611 bytes received
+2026-10-15 00:07:01,628 - INFO - Found 1 'main' elements
+2026-10-15 00:07:01,634 - INFO - Found 1 'travel' elements
+2026-10-15 00:07:01,636 - INFO - Found 1 'accordion' elements
+2026-10-15 00:07:01,674 - INFO - Saved: Páginas/Recomendaciones de viaje.md
+2026-10-15 00:07:01,674 - INFO - Processing page 16/29
+2026-10-15 00:07:01,674 - INFO - Processing: Páginas/Noticias
+2026-10-15 00:07:05,729 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:07,463 - INFO - Success: 52112 bytes received
+2026-10-15 00:07:07,479 - INFO - Found 1 'main' elements
+2026-10-15 00:07:07,480 - INFO - Found 1 'news' elements
+2026-10-15 00:07:07,490 - INFO - Saved: Páginas/Noticias.md
+2026-10-15 00:07:07,490 - INFO - Processing page 17/29
+2026-10-15 00:07:07,490 - INFO - Processing: Páginas/Embajador-a
+2026-10-15 00:07:12,481 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajador.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/135.0.7049.53 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:13,911 - INFO - Success: 42213 bytes received
+2026-10-15 00:07:13,923 - INFO - Found 1 'main' elements
+2026-10-15 00:07:13,928 - INFO - Saved: Páginas/Embajador-a.md
+2026-10-15 00:07:13,928 - INFO - Processing page 18/29
+2026-10-15 00:07:13,928 - INFO - Processing: Páginas/Contacto. Embajada
+2026-10-15 00:07:18,200 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Contacto.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:20,320 - INFO - Success: 48392 bytes received
+2026-10-15 00:07:20,343 - INFO - Found 1 'main' elements
+2026-10-15 00:07:20,347 - INFO - Found 1 'accordion' elements
+2026-10-15 00:07:20,355 - INFO - Saved: Páginas/Contacto. Embajada.md
+2026-10-15 00:07:20,355 - INFO - Processing page 19/29
+2026-10-15 00:07:20,355 - INFO - Processing: Páginas/Embajada
+2026-10-15 00:07:24,693 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Embajada.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/363.0.743255906 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:26,219 - INFO - Success: 47537 bytes received
+2026-10-15 00:07:26,234 - INFO - Found 1 'main' elements
+2026-10-15 00:07:26,243 - INFO - Saved: Páginas/Embajada.md
+2026-10-15 00:07:26,243 - INFO - Processing page 20/29
+2026-10-15 00:07:26,243 - INFO - Processing: Páginas/Consulados
+2026-10-15 00:07:29,930 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Consulados.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:31,452 - INFO - Success: 45052 bytes received
+2026-10-15 00:07:31,465 - INFO - Found 2 'main' elements
+2026-10-15 00:07:31,472 - INFO - Saved: Páginas/Consulados.md
+2026-10-15 00:07:31,472 - INFO - Processing page 21/29
+2026-10-15 00:07:31,472 - INFO - Processing: Páginas/Horario, localización y contacto. Embajada
+2026-10-15 00:07:36,458 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Horario,-localizaci%c3%b3n-y-contacto.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:37,981 - INFO - Success: 47364 bytes received
+2026-10-15 00:07:37,996 - INFO - Found 1 'main' elements
+2026-10-15 00:07:38,006 - INFO - Saved: Páginas/Horario, localización y contacto. Embajada.md
+2026-10-15 00:07:38,006 - INFO - Processing page 22/29
+2026-10-15 00:07:38,006 - INFO - Processing: Páginas/Ofertas de empleo. Embajada
+2026-10-15 00:07:42,396 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Paginas/Ofertas-de-empleo.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:44,426 - INFO - Success: 43583 bytes received
+2026-10-15 00:07:44,438 - INFO - Found 1 'main' elements
+2026-10-15 00:07:44,444 - INFO - Saved: Páginas/Ofertas de empleo. Embajada.md
+2026-10-15 00:07:44,444 - INFO - Processing page 23/29
+2026-10-15 00:07:44,444 - INFO - Processing: Páginas/Documentación y trámites. Embajada
+2026-10-15 00:07:48,220 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:07:48,749 - ERROR - Page not found: https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Documentaci%c3%b3n-y-tr%c3%a1mites.aspx
+2026-10-15 00:07:48,749 - INFO - Processing page 24/29
+2026-10-15 00:07:48,749 - INFO - Processing: Páginas/Establecerse. Embajada
+2026-10-15 00:07:53,020 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Establecerse.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-15 00:07:55,465 - INFO - Success: 53506 bytes received
+2026-10-15 00:07:55,480 - INFO - Found 1 'main' elements
+2026-10-15 00:07:55,489 - INFO - Saved: Páginas/Establecerse. Embajada.md
+2026-10-15 00:07:55,489 - INFO - Processing page 25/29
+2026-10-15 00:07:55,489 - INFO - Processing: Páginas/Educación y sanidad. Embajada
+2026-10-15 00:07:59,025 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Educaci%c3%b3n-y-Sanidad.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:08:00,502 - INFO - Success: 42483 bytes received
+2026-10-15 00:08:00,514 - INFO - Found 1 'main' elements
+2026-10-15 00:08:00,518 - INFO - Saved: Páginas/Educación y sanidad. Embajada.md
+2026-10-15 00:08:00,519 - INFO - Processing page 26/29
+2026-10-15 00:08:00,519 - INFO - Processing: Páginas/Trabajar. Embajada
+2026-10-15 00:08:04,261 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Trabajar.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-15 00:08:06,181 - INFO - Success: 41664 bytes received
+2026-10-15 00:08:06,193 - INFO - Found 1 'main' elements
+2026-10-15 00:08:06,198 - INFO - Saved: Páginas/Trabajar. Embajada.md
+2026-10-15 00:08:06,198 - INFO - Processing page 27/29
+2026-10-15 00:08:06,198 - INFO - Processing: Páginas/Enlaces de interés. Embajada
+2026-10-15 00:08:10,609 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Enlaces-de-inter%c3%a9s.aspx with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+2026-10-15 00:08:12,086 - INFO - Success: 46411 bytes received
+2026-10-15 00:08:12,100 - INFO - Found 1 'main' elements
+2026-10-15 00:08:12,107 - INFO - Saved: Páginas/Enlaces de interés. Embajada.md
+2026-10-15 00:08:12,107 - INFO - Processing page 28/29
+2026-10-15 00:08:12,107 - INFO - Processing: Páginas/Recomendaciones de viaje. Embajada
+2026-10-15 00:08:16,280 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx with User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.8427.1920 Mobile Safari/537.36
+2026-10-15 00:08:18,242 - INFO - Success: 87729 bytes received
+2026-10-15 00:08:18,271 - INFO - Found 1 'main' elements
+2026-10-15 00:08:18,276 - INFO - Found 1 'travel' elements
+2026-10-15 00:08:18,278 - INFO - Found 1 'accordion' elements
+2026-10-15 00:08:18,314 - INFO - Saved: Páginas/Recomendaciones de viaje. Embajada.md
+2026-10-15 00:08:18,314 - INFO - Processing page 29/29
+2026-10-15 00:08:18,314 - INFO - Processing: Páginas/Noticias. Embajada
+2026-10-15 00:08:23,325 - INFO - Requesting https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2026-10-15 00:08:23,587 - INFO - Success: 56824 bytes received
+2026-10-15 00:08:23,603 - INFO - Found 1 'main' elements
+2026-10-15 00:08:23,604 - INFO - Found 1 'news' elements
+2026-10-15 00:08:23,615 - INFO - Saved: Páginas/Noticias. Embajada.md
+2026-10-15 00:08:28,089 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-15 00:08:30,104 - INFO - Success: 128855 bytes received
+2026-10-15 00:08:30,120 - INFO - Found 106 service pages
+2026-10-15 00:08:30,120 - INFO - Processing service page 1/5
+2026-10-15 00:08:30,121 - INFO - Processing: Servicios Consulares/Certificados/Certificado de antecedentes penales
+2026-10-15 00:08:33,915 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales with User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+2026-10-15 00:08:35,954 - INFO - Success: 138510 bytes received
+2026-10-15 00:08:35,973 - INFO - Found 2 'main' elements
+2026-10-15 00:08:35,981 - INFO - Saved: Servicios Consulares/Certificados/Certificado de antecedentes penales.md
+2026-10-15 00:08:35,981 - INFO - Processing service page 2/5
+2026-10-15 00:08:35,981 - INFO - Processing: Servicios Consulares/Certificados/Certificado de baja consular
+2026-10-15 00:08:39,965 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+2026-10-15 00:08:41,727 - INFO - Success: 129238 bytes received
+2026-10-15 00:08:41,745 - INFO - Found 2 'main' elements
+2026-10-15 00:08:41,749 - INFO - Saved: Servicios Consulares/Certificados/Certificado de baja consular.md
+2026-10-15 00:08:41,749 - INFO - Processing service page 3/5
+2026-10-15 00:08:41,749 - INFO - Processing: Servicios Consulares/Certificados/Certificado de baja consular-Digired
+2026-10-15 00:08:46,312 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular-Digired with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-10-15 00:08:48,553 - INFO - Success: 129444 bytes received
+2026-10-15 00:08:48,570 - INFO - Found 2 'main' elements
+2026-10-15 00:08:48,574 - INFO - Saved: Servicios Consulares/Certificados/Certificado de baja consular-Digired.md
+2026-10-15 00:08:48,574 - INFO - Processing service page 4/5
+2026-10-15 00:08:48,574 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial
+2026-10-15 00:08:52,911 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular-Digired?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+2026-10-15 00:08:54,699 - INFO - Success: 129650 bytes received
+2026-10-15 00:08:54,728 - INFO - Found 2 'main' elements
+2026-10-15 00:08:54,733 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial.md
+2026-10-15 00:08:54,733 - INFO - Processing service page 5/5
+2026-10-15 00:08:54,733 - INFO - Processing: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired
+2026-10-15 00:08:59,700 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/ServiciosConsulares/Paginas/index.aspx?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20antecedentes%20penales?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20baja%20consular-Digired?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial?scco=Pa%C3%ADses+Bajos&scd=9&scca=Certificados&scs=Certificado%20de%20capacidad%20matrimonial-Digired with User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+2026-10-15 00:09:01,486 - INFO - Success: 129872 bytes received
+2026-10-15 00:09:01,504 - INFO - Found 2 'main' elements
+2026-10-15 00:09:01,508 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired.md
+2026-10-15 00:09:01,508 - INFO - === Web scraper completed ===
