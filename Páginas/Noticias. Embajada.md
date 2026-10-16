@@ -7,7 +7,7 @@ Noticias de la embajada
 
   ​El pasado 8 de octubre tuvo lugar la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en el Museo Nacional Thyssen-Bornemisza de Madrid. ...
 
-  Ayer
+  14 de octubre de 2026
 
   ![Maestros neerlandeses del siglo XVII en Madrid]()
 * PAISES BAJOS Y LATINOAMÉRICA

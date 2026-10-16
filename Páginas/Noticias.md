@@ -1,6 +1,11 @@
 Noticias del consulado
 ======================
 
+* [Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Parte-dispositiva-del-Auto-de-12-de-octubre-de-2026-de-la-Sala-Tercera-del-Tribunal-Supremo.aspx "Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.")
+
+  Ayer
+
+  ![Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.]()
 * VOTO EXTERIOR
 
   [Elecciones a las Cortes Generales de 29 de noviembre de 2026](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Elecciones-a-las-Cortes-Generales-de-29-de-noviembre-de-2026.aspx "Elecciones a las Cortes Generales de 29 de noviembre de 2026")
@@ -74,14 +79,5 @@ Noticias del consulado
   25 de enero de 2023
 
   ![LEY DE MEMORIA DEMOCRATICA]()
-* AVISO
-
-  [AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/AVISO--ACTUALIZACION-DATOS-EN-REGISTRO-DE-MATRICULA-CONSULAR.aspx "AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR")
-
-  ​ACTUALIZACION DE DATOS EN EL REGISTRO DE MATRICULA CONSULAR
-
-  7 de noviembre de 2022
-
-  ![AVISO. ACTUALIZACION DATOS EN REGISTRO DE MATRICULA CONSULAR]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)
