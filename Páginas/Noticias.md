@@ -3,7 +3,7 @@ Noticias del consulado
 
 * [Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Parte-dispositiva-del-Auto-de-12-de-octubre-de-2026-de-la-Sala-Tercera-del-Tribunal-Supremo.aspx "Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.")
 
-  Ayer
+  16 de octubre de 2026
 
   ![Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.]()
 * VOTO EXTERIOR

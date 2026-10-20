@@ -1,14 +1,14 @@
 Ofertas de empleo
 =================
 
-2 de octubre de 2026
+Ayer
 
 ### 
 
 ### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LOS PAÍSES BAJOS CON LA CATEGORIA DE MAYORDOMO
 
-* ​02-10-2026 [![]()Bases de la convoc​​​​​atoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002_Convocatoria_Mayordomo.pdf)  
-  [![]()Anexo\_III\_Formulario\_Solicitud\_Participacion](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Anexo_III_Formulario_Solicitud_Participacion_CONVOCATORIA.docx)​​​​
+* ​02-10-2026 [![]()Bases de la convoc​​​​​atoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002_Convocatoria_Mayordomo.pdf)
+* ​19-10-2026 [![]()Relación provisional de candidatos admitidos y excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261019_admitidos_y_excluidos_convocatoria_mayordomo.pdf)​​​​
 
 ### 
 
