@@ -3,6 +3,24 @@ Noticias de la embajada
 
 * EXPOSICIÓN
 
+  [Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261021_Not01_InauguraciOn-exposicioOn-Mauritshuis-Thyssen-Bornemisza-La-Haya.aspx "Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya")
+
+  El pasado 15 de octubre, la Embajadora de España en el Reino de los Países Bajos asistió a la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza ...
+
+  Ayer
+
+  ![Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya]()
+* EXPOSICIÓN
+
+  [Art is Not a Crime](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/261026_Not01_art_is_not_a_crime.aspx "Art is Not a Crime")
+
+  ​ La embajadora Cecilia Robles Cartes asistió a la inauguración de la exposición Art is Not a Crime , comisariada por el artista español Suso33. ...
+
+  19 de octubre de 2026
+
+  ![Art is Not a Crime]()
+* EXPOSICIÓN
+
   [Maestros neerlandeses del siglo XVII en Madrid](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261014_not1_Thysen-Madrid.aspx "Maestros neerlandeses del siglo XVII en Madrid")
 
   ​El pasado 8 de octubre tuvo lugar la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en el Museo Nacional Thyssen-Bornemisza de Madrid. ...
@@ -91,23 +109,5 @@ Noticias de la embajada
   4 de julio de 2025
 
   ![Se constituye en La Haya el Grupo de Amigos del Español]()
-* BIENAL DE ESCULTURA
-
-  [Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250521_Not01_Artzuid.aspx "Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025")
-
-  ​​ El espacio urbano de Ámsterdam se convierte en escenario de obras de más de 70 artistas que, junto a los trabajos de Plensa y Gabarrón, quieren ...
-
-  22 de mayo de 2025
-
-  ![Cristóbal Gabarrón y Jaume Plensa en Amsterdam ARTZUID2025]()
-* Equal Rights Coalition - IDAHOBIT 2025
-
-  [Declaración conjunta de Diplomáticos por la Igualdad en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250517_Not02_Declaracion-conjunta-ERC.aspx "Declaración conjunta de Diplomáticos por la Igualdad en La Haya")
-
-  10 Jefes de Misiones Diplomáticas en La Haya apoyan el Día Internacional contra la Homofobia, la Transfobia y la Bifobia el 17 de mayo, y reafirman su ...
-
-  17 de mayo de 2025
-
-  ![Declaración conjunta de Diplomáticos por la Igualdad en La Haya]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)

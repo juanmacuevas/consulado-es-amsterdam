@@ -1,29 +1,15 @@
 Ofertas de empleo
 =================
 
-8 de octubre de 2026
+Ayer
 
-#### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE AUXILIAR
+#### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA CATEGORÍA DE OFICIAL
 
-​
+​​
 
-> [BASE DE LA CONVOCATORIA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260828_BASE%20CONVOCATORIA.pdf)
+> ​[BASES CONVOCATORIA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/202601021_BASES%20CONVOCATORIA.pdf)
 >
-> [ANEXO 3](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/ANEXO%203.pdf)
->
-> [RELACION ADMITIDOS EXC​LUIDOS PROVISIONAL​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260917_Provisional_Admitidos_Excluidos_.pdf)
->
-> [RELACION ADMITIDOS EXCLUIDOS DEFINITIVA​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/20260929_RELACION_DEFINITIVA_ADMITIDO_EXCLUIDOS.pdf)
->
-> [CALIFICACION FASE OPOSICION EJERCICIO 1](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%201_Calificaci%C3%B3n.pdf)
->
-> [CALIFICACION FASE OPOSICION EJERCICIO 2​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%202_Calificaci%C3%B3n.pdf)
->
-> [CALIFICACION FASE OPOSICION EJERCICIO 3​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_3_Calificaci%C3%B3n.pdf)
->
-> [CALIFICACION PROVISIONAL FASE CONCURSO](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Provisional_.pdf)
->
-> ​
+> [ANEXO III](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/ANEXO%20III.pdf)​
 >
 > ​
 
