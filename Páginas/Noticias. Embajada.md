@@ -7,7 +7,7 @@ Noticias de la embajada
 
   El pasado 15 de octubre, la Embajadora de España en el Reino de los Países Bajos asistió a la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza ...
 
-  Ayer
+  21 de octubre de 2026
 
   ![Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya]()
 * EXPOSICIÓN
