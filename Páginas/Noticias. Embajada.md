@@ -5,7 +5,7 @@ Noticias de la embajada
 
   [Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261021_Not01_InauguraciOn-exposicioOn-Mauritshuis-Thyssen-Bornemisza-La-Haya.aspx "Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya")
 
-  El pasado 15 de octubre, la Embajadora de España en el Reino de los Países Bajos asistió a la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza ...
+  El Museo Mauritshuis de La Haya celebró el pasado 15 de octubre la inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza, una colaboración entre ...
 
   21 de octubre de 2026
 
@@ -14,7 +14,7 @@ Noticias de la embajada
 
   [Art is Not a Crime](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/261026_Not01_art_is_not_a_crime.aspx "Art is Not a Crime")
 
-  ​ La embajadora Cecilia Robles Cartes asistió a la inauguración de la exposición Art is Not a Crime , comisariada por el artista español Suso33. ...
+  La exposición Art is Not a Crime, comisariada por el artista español Suso33, presenta el trabajo del fotógrafo y documentalista estadounidense Henry Chalfant, ...
 
   19 de octubre de 2026
 

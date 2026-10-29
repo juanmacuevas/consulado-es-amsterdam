@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-Ayer
+lunes, 26 de octubre de 2026
 
 ### ​​​​​​​​​CONVOCATORIA DEL PROCESO SE​LECTIVO PARA INGRESO DE UNA PLAZA DE PERSONAL LABORAL FIJA EN EL CONSULADO GENERAL DE ESPAÑA EN AMSTERDAM CON LA ​​CATEGORÍA DE OFICIAL
 
@@ -10,7 +10,8 @@ Ayer
 ### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LOS PAÍSES BAJOS CON LA CATEGORIA DE MAYORDOMO
 
 * ​02-10-2026 [![]()Bases de la convoc​​​​​atoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002_Convocatoria_Mayordomo.pdf)
-* ​19-10-2026 [![]()Relación provisional de candidatos admitidos y excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261019_admitidos_y_excluidos_convocatoria_mayordomo.pdf)​​​​
+* ​19-10-2026 [![]()Relación provisional de candidatos admitidos y excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261019_admitidos_y_excluidos_convocatoria_mayordomo.pdf)
+* 28-10-2026 [![]()Relación definitiva de candidatos admitidos y excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261028_relaci%C3%B3n_definitiva_candidatos_admitidos_y_excluidos.pdf)​​​​​
 
 ### 
 
