@@ -41,13 +41,11 @@ Correo electrónico: [ch.brabante@maec.es](mailto:ch.brabante@maec.es)
 Viceconsulado Honorario en Aruba
 --------------------------------
 
-Italiëstraat 36   
-Oranjestad / Aruba   
-Tel: 00297 523 33 24 /31 00  
-Móvil: 00297 592 73 50  
-Fax: 00297 583 09 44  
-Correo electrónico: [consuladoespana.aruba@hotmail.com](mailto:consuladoespana.aruba@hotmail.com)  
-Vicecónsul honorario: Dña. Elisabeth Baarh
+Tel: 002975935434
+
+Correo electrónicol:  [viceconsul.h.es.aruba@gmail.com](mailto:viceco%E2%80%8Bnsul.h.es.aruba@gmail.com)
+
+Vicecónsul Honorario: Sr. Vladimir Solovey Gómez
 
 Viceconsulado Honorario en Bonaire
 ----------------------------------
