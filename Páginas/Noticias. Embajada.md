@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* CONFERENCIA SPINOZA 2026
+
+  [Cristina Rivera Garza imparte la XIX Conferencia Spinoza](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/2026_not01_conferencia_spinoza_2026.aspx "Cristina Rivera Garza imparte la XIX Conferencia Spinoza")
+
+  ​Bajo el título "Migración y autobiografías sin yo", la escritora mexicana discurrió sobre la influencia de la obra de Theresa Hak Kyun Cha en su escritura. ...
+
+  4 de noviembre de 2026
+
+  ![Cristina Rivera Garza imparte la XIX Conferencia Spinoza]()
 * EXPOSICIÓN
 
   [Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261021_Not01_InauguraciOn-exposicioOn-Mauritshuis-Thyssen-Bornemisza-La-Haya.aspx "Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya")
@@ -12,7 +21,7 @@ Noticias de la embajada
   ![Inauguración de la exposición Mauritshuis ♥ Thyssen-Bornemisza en La Haya]()
 * EXPOSICIÓN
 
-  [Art is Not a Crime](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/261026_Not01_art_is_not_a_crime.aspx "Art is Not a Crime")
+  [Art is Not a Crime](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261026_Not01_art_is_not_a_crime.aspx "Art is Not a Crime")
 
   La exposición Art is Not a Crime, comisariada por el artista español Suso33, presenta el trabajo del fotógrafo y documentalista estadounidense Henry Chalfant, ...
 
@@ -100,14 +109,5 @@ Noticias de la embajada
   30 de julio de 2025
 
   ![España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas]()
-* El español en organismos internacionales
-
-  [Se constituye en La Haya el Grupo de Amigos del Español](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250704_Not01_AEH.aspx "Se constituye en La Haya el Grupo de Amigos del Español")
-
-  ​Los embajadores de Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, República Dominicana, Ecuador, El Salvador, España, Guatemala, México, Panamá, ...
-
-  4 de julio de 2025
-
-  ![Se constituye en La Haya el Grupo de Amigos del Español]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
