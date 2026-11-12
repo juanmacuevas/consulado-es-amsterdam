@@ -52545,3 +52545,13 @@
 2026-11-10 03:38:37,542 - INFO - Found 2 'main' elements
 2026-11-10 03:38:37,548 - INFO - Saved: Servicios Consulares/Certificados/Certificado de capacidad matrimonial-Digired.md
 2026-11-10 03:38:37,548 - INFO - === Web scraper completed ===
+2026-11-12 02:30:09,469 - INFO - === Starting web scraper ===
+2026-11-12 02:30:09,469 - INFO - Testing with first page: Consul
+2026-11-12 02:30:09,469 - INFO - Processing: Páginas/Consul
+2026-11-12 02:30:13,017 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+2026-11-12 02:30:13,588 - WARNING - HTTP 403: Retrying in 8.0s
+2026-11-12 02:30:26,623 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/27.0 Chrome/125.0.0.0 Mobile Safari/537.36
+2026-11-12 02:30:26,752 - WARNING - HTTP 403: Retrying in 6.9s
+2026-11-12 02:30:37,618 - INFO - Requesting https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Paginas/Consul.aspx with User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+2026-11-12 02:30:38,153 - ERROR - Test page failed, aborting
+2026-11-12 02:30:38,153 - INFO - === Web scraper completed ===
