@@ -19,6 +19,10 @@ Ayer
 >
 > [CALIFICACION EJERCICIO 2 FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO_2_CALIFICACION_REC.pdf)
 >
+> [CALIFICACION EJERCICIO 3 FASE OPOSICION​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%203_Calificacion.pdf)
+>
+> [CALIFICACIONES FINALES PROVISIONALES PROCESO SELECTIVO​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/CONCURSO_Calificacion_Provisional.pdf)
+>
 > [​](https://www.exteriores.gob.es/Consulados/amsterdam/es/Consulado/Documents/EJERCICIO%201_Calificaci%C3%B3n.pdf)​
 >
 > ​
