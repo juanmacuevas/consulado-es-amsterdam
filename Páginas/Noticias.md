@@ -1,6 +1,13 @@
 Noticias del consulado
 ======================
 
+* [Aviso para electores ERTA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/20261120_NOT01.aspx "Aviso para electores ERTA")
+
+  ​
+
+  20 de noviembre de 2026
+
+  ![Aviso para electores ERTA]()
 * [Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/Parte-dispositiva-del-Auto-de-12-de-octubre-de-2026-de-la-Sala-Tercera-del-Tribunal-Supremo.aspx "Parte dispositiva del Auto de 12 de octubre de 2026 de la Sala Tercera del Tribunal Supremo.")
 
   16 de octubre de 2026
@@ -70,14 +77,5 @@ Noticias del consulado
   25 de enero de 2023
 
   ![INFORMACION SOBRE PASAPORTES]()
-* BOE 20-10-2022
-
-  [LEY DE MEMORIA DEMOCRATICA](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/Articulos/LEY-DE-MEMORIA-DEMOCRATICA.aspx "LEY DE MEMORIA DEMOCRATICA")
-
-  ​
-
-  25 de enero de 2023
-
-  ![LEY DE MEMORIA DEMOCRATICA]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Consulados/amsterdam/es/Comunicacion/Noticias/Paginas/index.aspx)

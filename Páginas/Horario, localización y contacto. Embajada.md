@@ -58,6 +58,23 @@ Horario, localización y contacto
 + 07 de diciembre / Lunes siguiente al Día de la Constitución española
 + 25 de diciembre / Navidad
 
+#### Calendario de festivos 2027
+
++ 01 de enero / Año Nuevo​
++ 06 de enero / Epifanía
++ 25 de marzo / Jueves Santo
++ 26  de marzo / Viernes Santo
++ 29  de marzo / Lunes de Pascua
++ 27 de abril / Día del Rey (Países Bajos)
++ 01 de mayo / Día Internacional del Trabajo
++ 06 de mayo /  Día de la Ascensión
++ 17 de mayo / Lunes de Pentecostés
++ 16 de agosto / Asunción
++ 12 de octubre / Fiesta Nacional de España
++ 01 de noviembre / Día de todos los santos
++ 06 de diciembre / Día de la Constitución española
++ 25 de diciembre / Navidad​
+
 #### ​Información transporte público
 
 > ​​Tranvías y autobuses en la zona:  1, 15, 1​6, 22, 24, 28
