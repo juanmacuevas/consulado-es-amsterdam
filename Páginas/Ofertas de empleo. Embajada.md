@@ -1,7 +1,7 @@
 Ofertas de empleo
 =================
 
-26 de octubre de 2026
+martes, 24 de noviembre de 2026
 
 ### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL TEMPORAL EN LA EMBAJADA DE ESPAÑA EN LA HAYA CON LA CATEGORÍA DE SECRETARIO/A​​
 
@@ -16,19 +16,10 @@ CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA E
 * 28-10-2026 [![]()Relación definitiva de candidatos admitidos y excluidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261028_relaci%C3%B3n_definitiva_candidatos_admitidos_y_excluidos.pdf)
 * 09-11-2026 [![]()Resultado parcial de las pruebas selectivas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261109_RESULTADO_PARCIAL_PRUEBAS_SELECTIVAS_MAYORDOMO.pdf)
 * 10-11-2026 [![]()Resultado del segundo ejercicio](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261110_RESULTADO_SEGUNDO_EJERCICIO_PRUEBAS_SELECTIVAS_MAYORDOMO.pdf)
-* 16-11-2026 [![]()Resultado provisional del ​proceso selectivo](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261116%20Resultado%20provisional%20proceso%20selectivo.pdf)​​
+* 16-11-2026 [![]()Resultado provisional del ​proceso selectivo](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261116%20Resultado%20provisional%20proceso%20selectivo.pdf)
+* 24-11-2026 [![]()Acta final](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261124%20resoluci%C3%B3n%20final%20convocatoria%20mayordomo.pdf)​​​
 
 ### 
-
-### CONVOCATORIA PARA INGRESO COMO PERSONAL LABORAL FIJO EN LA EMBAJADA DE ESPAÑA EN LOS PAÍSES BAJOS CON LA CATEGORIA DE EMPLEADO/A DE SERVICIO
-
-* ​02-09-2026 [​Bases de convocatoria​](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/OfertasEmpleo/2026_Vacante%20empleado%20servicio%20residencia.pdf)
-* 15​-09-2026 [![]()Relación provisional de candidatos admitidos y exclui​​dos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/RELACI%C3%93N%20PROVISIONAL%20DE%20CANDIDATOS%20ADMITIDOS%20-%20EMPLEADO%20SERVICIOS.pdf)
-* 23-09-2026 [![]()Relación definitiva de candidatos admitidos](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/S2026235_Relacion_definitiva_candidatos_admitidos_excluidos_empleado_servicio.pdf)
-* 30-09-2026 [![]()Resultado pruebas primera fase](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20260930_resultado_parcial_pruebas_selectivas_empleado_servicio.pdf)
-* 02-10-2026 [![]()Resultado pruebas ​segunda fase](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261001%20Resultado%20parcial%20pruebas%20selectivas%20empleado%20de%20servicio.pdf)
-* 02-10-2026 [![]()Acta final provisional del Tribunal de selección para la cobertura de una plaza de personal contratado laboral con la categoría de empleado/a de servicio](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/20261002%20Acta%20final%20provisional%20empleado%20de%20servicio.pdf)
-* 14-10-2026 [![]()Acta final ​de la convocatoria](https://www.exteriores.gob.es/Embajadas/lahaya/es/Embajada/Documents/Acta%20final%20empleado%20de%20servicio.pdf)
 
 ### ​
 
