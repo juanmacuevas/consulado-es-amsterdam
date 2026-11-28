@@ -1,6 +1,15 @@
 Noticias de la embajada
 =======================
 
+* JUSTICIA INTERNACIONAL
+
+  [España contribuye con €300.000 al Fondo Fiduciario para las Víctimas de la Corte Penal Internacional](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20261126_Not01_contibucion_tfv.aspx "España contribuye con €300.000 al Fondo Fiduciario para las Víctimas de la Corte Penal Internacional")
+
+  ​El Fondo Fiduciario para las Víctimas garantiza la asistencia a las víctimas de crímenes internacionales en su reparación en los términos dictados por ...
+
+  26 de noviembre de 2026
+
+  ![España contribuye con €300.000 al Fondo Fiduciario para las Víctimas de la Corte Penal Internacional]()
 * CONFERENCIA SPINOZA 2026
 
   [Cristina Rivera Garza imparte la XIX Conferencia Spinoza](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/2026_not01_conferencia_spinoza_2026.aspx "Cristina Rivera Garza imparte la XIX Conferencia Spinoza")
@@ -100,14 +109,5 @@ Noticias de la embajada
   18 de septiembre de 2025
 
   ![España contribuye con donación voluntaria al proyecto CHEMEX-LATAM de la Organización para la Prohibición de las Armas Químicas]()
-* JUSTICIA INTERNACIONAL
-
-  [España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/Articulos/20250730_Not01_Contribucion_Fondo_Fiduciario_Victimas_ICC_CPI.aspx "España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas")
-
-  ​ ​La contribución será destinada por el FFBV a apoyar las reparaciones a ex niños y niñas soldados, víctimas en los casos Lubanga y Ntaganda, condenados ...
-
-  30 de julio de 2025
-
-  ![España contribuye con 40.000 euros al Fondo Fiduciario en Beneficio para las Víctimas]()
 
 [Enlace a la página original](https://www.exteriores.gob.es/Embajadas/lahaya/es/Comunicacion/Noticias/Paginas/index.aspx)
